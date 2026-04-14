@@ -243,7 +243,7 @@ async function animateIcon() {
   context.fill();
 
   var imageData = context.getImageData((boxWidth - iconWidth) / 2, (boxHeight - iconHeight) / 2, iconWidth, iconHeight);
-  chrome.browserAction.setIcon({
+  chrome.action.setIcon({
     imageData: imageData
   });
 
