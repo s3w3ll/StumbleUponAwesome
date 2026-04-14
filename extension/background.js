@@ -420,11 +420,11 @@ function clearCounter() {
 chrome.runtime.onInstalled.addListener(function (details) {
   // For development purposes only, uncomment when needed
   // chrome.storage.local.remove(['visited', 'welcome_seen', 'totalUrls'])
-  
-  // Check for update
-  if (details.reason === chrome.runtime.OnInstalledReason.UPDATE) {
-    chrome.storage.local.set({'show_update': true});
-  }
+
+  // Check for update - disabled
+  // if (details.reason === chrome.runtime.OnInstalledReason.UPDATE) {
+  //   chrome.storage.local.set({'show_update': true});
+  // }
 
   chrome.contextMenus.removeAll(function () {
     chrome.contextMenus.create({
