@@ -377,7 +377,7 @@ function notifyTabUpdate() {
   chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
     var activeTab = tabs[0];
     chrome.tabs.sendMessage(stumbleTabId, { "message": "update" });
-    chrome.storage.local.set('show_update', false);
+    chrome.storage.local.set({'show_update': false});
   });
 }
 
