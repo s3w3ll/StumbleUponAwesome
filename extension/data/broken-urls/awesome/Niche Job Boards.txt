@@ -1,2 +1,16 @@
+https://functionaljobs.dev/,FunctionalJobs.dev,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://pythonjob.xyz,Python Developer Jobs,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://rubyonremote.com,RubyOnRemote,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://okjob.io/,OkJob,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://berlinstartupjobs.com/,BerlinStartupJobs,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://rustjobs.dev,Rust Jobs,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.ecomportal.co/,eComPortal,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://scalajobs.com,Scala Jobs,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://teletravail.guru/,Teletravail.guru,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://ninjajobs.org/,NinjaJobs,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://golangjob.xyz,Golang Developer Jobs,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://creativefuego.com/jobs,CreativeFuego Jobs,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
 https://jobs.drupal.org/,Drupal Jobs,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://angular.work/,Angular Work,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://jobsinblockchain.com,Jobs In Blockchain,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://cloudcareershub.com/,Cloud Careers Hub,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://javascriptjob.xyz/,JavaScript Developer Board,https://github.com/tramcar/awesome-job-boards#readme,Niche Job Boards error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

@@ -1,0 +1,14 @@
+https://codepoints.net/U+FE0E,U+FE0E,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+00A0,U+00A0,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+FDFA,U+FDFA,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+00AD,U+00AD,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+FE0F,U+FE0F,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+5146,U+5146,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+16B61,U+16B61,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+200B,U+200B,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+0F33,U+0F33,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+200D,U+200D,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+0080,U+0080,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+2060,U+2060,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+0081,U+0081,https://github.com/Codepoints/awesome-codepoints#readme,Code Points
+https://codepoints.net/U+0099,U+0099,https://github.com/Codepoints/awesome-codepoints#readme,Code Points

@@ -1,1 +1,2 @@
-https://ionicons.com/,Ionicons,https://github.com/busterc/awesome-cordova#readme,Cordova error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.npmjs.com/search?q=cordova-plugin,NPM,https://github.com/busterc/awesome-cordova#readme,Cordova error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://material.io/resources/icons/,Material Icons,https://github.com/busterc/awesome-cordova#readme,Cordova error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,3 @@
+http://css-weekly.com/,CSS Weekly,https://github.com/afonsopacifer/awesome-flexbox#readme,Flexbox
+http://responsivedesignweekly.com/,Responsive Design Weekly,https://github.com/afonsopacifer/awesome-flexbox#readme,Flexbox
+http://desenvolvimentoparaweb.com/css/flexbox/,flexbox (pt-br),https://github.com/afonsopacifer/awesome-flexbox#readme,Flexbox

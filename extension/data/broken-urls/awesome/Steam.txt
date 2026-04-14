@@ -1,3 +1,0 @@
-https://steamanalyst.com/,steamanalyst.com,https://github.com/scholtzm/awesome-steam#readme,Steam error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/,Creating a Steam Trade Bot with Node.js,https://github.com/scholtzm/awesome-steam#readme,Steam error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bitbucket.org/AzuiSleet/pysteamkit,PySteamKit,https://github.com/scholtzm/awesome-steam#readme,Steam error: <HTTPError 404: 'Not Found'> | reason: Not Found

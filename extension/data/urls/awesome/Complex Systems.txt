@@ -1,0 +1,69 @@
+https://sellisd.github.io/awesome-complexity/,Awesome Complexity,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Attractor,Attractor,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Autopoiesis,Autopoiesis,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Chaos_theory,Chaos,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Complexity,Complexity,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Developmental_systems_theory,Developmental Systems Theory,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Dissipative_system,Dissipative System,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Distributed_control_system,Distributed Control,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Edge_of_chaos,Edge of Chaos,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Emergence,Emergence,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Fractal,Fractal,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Hysteresis,Hysteresis,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Holon_(philosophy),Holon,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Complex_network,Network/Graph,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Phase_transition,Phase Transition,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Robustness,Robustness,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Self-organization,Self-Organization,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Simulation,Simulation,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://www.hindawi.com/journals/complexity/,Complexity,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://thesystemsthinker.com/,The Systems Thinker,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://comdig.unam.mx/,Complexity Digest,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://fractalforums.org/,Fractal forums,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://cssociety.org/home,Complex Systems Society,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://complexityresearch.slack.com/,Complexity research,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://www.complexityadventures.com/,Complexity Adventures,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+http://www.necsi.edu/,New England Complex Systems Institute (NECSI),https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+http://vermontcomplexsystems.org/,The Vermont Complex Systems Center,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://www.santafe.edu/,Santa Fe Institute,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+http://www.ixxi.fr/,Institut rhônalpin des systèmes complexes - IXXI,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://uwaterloo.ca/complexity-innovation,Waterloo Institute for Complexity & Innovation (WICI),https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://iscpif.fr/,Institut des Systèmes Complexes - Paris Ile-de-France (ISC-PIF),https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Boids,Boids,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://www.red3d.com/cwr/boids/,Craig Reynolds' Boids page,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Cellular_automaton,Cellular automata,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Elementary_cellular_automaton,Elementary cellular automaton,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+http://www.conwaylife.com/,ConwayLife,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+http://golly.sourceforge.net/,golly,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Lenia,Lenia,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Double_pendulum,Double pendulum,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Kuramoto_model,Kuramoto model,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model,Barabási–Albert (BA) model,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Schelling%27s_model_of_segregation,Schelling's model,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Ising_model,Ising model,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system,Reaction-diffusion,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://en.wikipedia.org/wiki/Abelian_sandpile_model,Abelian sandpile model,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://ccl.northwestern.edu/netlogo/,NetLogo,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://simulus.readthedocs.io/en/latest/,Simulus,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+http://www.swarm.org/wiki/Swarm_main_page,Swarm,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://repast.github.io/,Repast,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://cs.gmu.edu/~eclab/projects/mason/,MASON,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://hash.ai/,HASH,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://www.iseesystems.com/store/products/stella-architect.aspx,Stella,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+http://www.ventanasystems.com/software/,Ventity/Vensim,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://cosmotech.com,Cosmo Tech platform,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://www.complexityexplorer.org/,Complexity Explorer,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+http://www.art-sciencefactory.com/complexity-map_feb09.html,Map of Complex systems History,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://www.youtube.com/user/StanfordComplexity/videos,Stanford Complexity Group,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/1155181636,Wiener, N. (2016). Cybernetics or control and communication in the animal and the machine.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/1229162077,Scheffer, M. (2009). Critical transitions in nature and society. Princeton, N.J: Princeton University Press.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/891718596,Nicolis, G., Basios, V., & (Firm), W. S. (2015). Chaos, information processing and paradoxical games: the legacy of John S. Nicolis. Singapore; Hackensack, N.J.: World Scientific Pub. Co.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/923343299,Newman, M. E. J. (2010). Networks: an introduction. Oxford; New York: Oxford University Press.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/855547314,Mitchell, S. D. (2013). Unsimple truths: science, complexity, and policy. Chicago: Univ. of Chicago Press.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/316152876,Maturana, H. R., & Varela, F. J. (2008). The tree of knowledge: the biological roots of human understanding. Boston: Shambhala.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/1286107107,Mandelbrot, B. (2006). The fractal geometry of nature. New York: W.H. Freeman and Company.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/36889961,Kauffman, S. (2014). At Home in the Universe The Search for the Laws of Self-Organization and Complexity. Cary: Oxford University Press, USA.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/906708597,Gros, C. (2015). Complex and adaptive dynamical systems: a primer. Cham: Springer.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/1043913738,Downey, A. (2012). Think complexity. Needham, Massachusetts: Green Tea Press.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/934989650,Boccara, N. (2014). Modeling complex systems. Springer-Verlag New York.,https://github.com/sellisd/awesome-complexity#readme,Complex Systems
+https://worldcat.org/en/title/849822968,Barrat, A., Barthelemy, M., & Vespignani, A. (2013). Dynamical processes on complex networks. Cambridge: Cambridge University Press,https://github.com/sellisd/awesome-complexity#readme,Complex Systems

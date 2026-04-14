@@ -1,1 +1,3 @@
-https://grow.static.land,Grow,https://github.com/choojs/awesome-choo#readme,choo error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://grow.static.land,Grow,https://github.com/choojs/awesome-choo#readme,choo error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://chootbot.herokuapp.com,Chatbot,https://github.com/choojs/awesome-choo#readme,choo error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://yoshuawuyts.gitbooks.io/choo/content/02_your_first_app.html,Your first choo app,https://github.com/choojs/awesome-choo#readme,choo error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized

@@ -1,0 +1,4 @@
+https://code.visualstudio.com/docs/copilot/customization/overview,VS Code documentation,https://github.com/Code-and-Sorts/awesome-copilot-agents#readme,Copilot Agents
+https://code.visualstudio.com/docs/copilot/customization/custom-agents,Custom agents,https://github.com/Code-and-Sorts/awesome-copilot-agents#readme,Copilot Agents
+https://agentskills.io/home,open standard,https://github.com/Code-and-Sorts/awesome-copilot-agents#readme,Copilot Agents
+https://code.visualstudio.com/docs/copilot/setup,VS Code Copilot,https://github.com/Code-and-Sorts/awesome-copilot-agents#readme,Copilot Agents

@@ -1,0 +1,8 @@
+https://invent.kde.org/,KDE Invent,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://invent.kde.org/plasma/latte-dock,Latte-Dock,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://invent.kde.org/plasma/wacomtablet/,kcm-wacomtablet,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://bugs.kde.org/,KDE Bugtracker,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://invent.kde.org/plasma/kde-gtk-config,kde-gtk-config,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://invent.kde.org/multimedia/haruna,Haruna,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://invent.kde.org/utilities/kwalletmanager/,KDE Wallet Manager,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://build.opensuse.org/package/show/mozilla:Factory/MozillaFirefox,Firefox KDE,https://github.com/francoism90/awesome-kde#readme,KDE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

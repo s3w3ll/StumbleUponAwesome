@@ -1,0 +1,4 @@
+https://vemel.github.io/types_aiobotocore_docs/,types-aiobotocore,https://github.com/typeddjango/awesome-python-typing#readme,Typing error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://rednafi.github.io/reflections/static-typing-python-decorators.html,Static Typing Python Decorators,https://github.com/typeddjango/awesome-python-typing#readme,Typing error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://gitter.im/mypy-django/Lobby?source=title,,https://github.com/typeddjango/awesome-python-typing#readme,Typing error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://vemel.github.io/boto3_stubs_docs/,boto3-stubs,https://github.com/typeddjango/awesome-python-typing#readme,Typing error: <HTTPError 404: 'Not Found'> | reason: Not Found

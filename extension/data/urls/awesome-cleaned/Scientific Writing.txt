@@ -1,0 +1,23 @@
+https://plantuml.com/,PlantUML,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://jupyter.org/,Jupyter notebooks,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://rmarkdown.rstudio.com/,R Markdown,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://languagetool.org/,LanguageTool,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://sylvainhalle.github.io/textidote/,textidote,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://cicero.xyz/,Cicero,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://www.zettlr.com/,Zettlr,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://jupyterbook.org/en/stable/,Jupyter Book,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://editor.citationstyles.org/,Citation Style Language (CSL) styles,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://blog.devgenius.io/write-your-whole-paper-in-r-it-is-better-77e1843f0c09,3 frameworks into one — Write your next paper with R Studio!,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://myst-parser.readthedocs.io/en/latest/,MyST,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://nbconvert.readthedocs.io/en/latest/,nbconvert,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown,Dennis Tenen and Grant Wythoff,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://www.jabref.org/,JabRef,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+http://scorreia.com/software/panflute/,Panflute,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://blog.devgenius.io/heads-up-quarto-is-here-to-stay-aa861ef87491,Heads up! Quarto is here to stay. Immediately combine R & Python in your next document,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://retorque.re/zotero-better-bibtex/,Better BibTeX for Zotero,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/,Write your dissertation in RMarkdown,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+http://aspell.net/,GNU Aspell,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://zbib.org/,ZoteroBib,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+http://hunspell.github.io/,Hunspell,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://mermaid-js.github.io/mermaid-live-editor/,Mermaid Live Editor,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing
+https://vega.github.io/vega-lite/examples/,Vega Lite,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing

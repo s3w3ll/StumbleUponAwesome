@@ -1,0 +1,79 @@
+https://hono.dev/,Hono,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://projects.spring.io/spring-boot/,Spring Boot,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://gleam.run/,Gleam,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://camel.apache.org/,Camel,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://istio.io/,Istio,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://www.http4k.org/,Http4k,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://www.graalvm.org/,GraalVM,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://capnproto.org/cxxrpc.html,Cap’n Proto RPC,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://twisted.org/,Twisted,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://spiral.dev/,Spiral,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://jolie-lang.org,Jolie,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://koajs.com/,Koa,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://helidon.io/,Helidon,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://ktor.io/,Ktor,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://tengine.taobao.org/,Tengine,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://roadrunner.dev/,RoadRunner,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://twitter.github.io/finatra/,Finatra,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://www.sinatrarb.com/,Sinatra,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://temporal.io/,Temporal,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://pulumi.io/,Pulumi,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://loopback.io/,Loopback,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://pocoproject.org/,Poco,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://centrifugal.dev/,Centrifugo,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://www.arewewebyet.org/,Are we web yet?,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://akka.io/,Akka,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://http4s.org/,Http4s,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://micronaut.io/,Micronaut,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://www.keepalived.org/,Keepalived,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://actix.rs/,Actix,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://tokio.rs,Tokio,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://docs.nestjs.com/,NestJS,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://www.playframework.com/,Play,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://symfony.com/,Symfony,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://krakend.io/,KrakenD,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://moleculer.services/,Moleculer,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://micro-frontends.org,Micro Frontends,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://www.actionherojs.com/,Actionhero,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://vibed.org/,Vibe.d,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://axoniq.io/,Axon (c),https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://openliberty.io/,Open Liberty,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://w3c.github.io/miniapp/white-paper/,MiniApp White Paper,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://expressjs.com/,Express,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://ballerina.io,Ballerina,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://smallrye.io/,SmallRye,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://bun.sh/,Bun,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://kuma.io/,Kuma,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://www.fastify.io/,Fastify,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://linkerd.io/,Linkerd,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://feathersjs.com/,FeathersJS,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://www.phoenixframework.org/,Phoenix,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://vertx.io/,Vert.X,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://www.getambassador.io,Ambassador (c),https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://dapr.io,Dapr,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://cro.services/,Cro,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://echo.labstack.com/,Echo,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://openresty.org/,OpenResty,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://caddyserver.com/,Caddy,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://mojolicious.org/,Mojolicious,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://www.gorillatoolkit.org/,Gorilla,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://duct-framework.org/,Duct,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://www.grpc.io/,GRPC,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://deno.land/,Deno,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://bottlepy.org,Bottle,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://openservicemesh.io/,Open Service Mesh,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://falconframework.org/,Falcon,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://api-platform.com/,API Platform,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://fastapi.tiangolo.com/,FastAPI,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://microprofile.io/,Eclipse Microprofile,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://line.github.io/armeria/,Armeria,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://quarkus.io/,Quarkus,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://twitter.github.io/finagle,Finagle,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://www.otoroshi.io/,Otoroshi,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://docs.ecotone.tech/,Ecotone,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://flask.pocoo.org/,Flask,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://cloud.spring.io/spring-cloud-gateway/,Spring Cloud Gateway,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://ratpack.io/,Ratpack,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://www.tornadoweb.org/,Tornado,https://github.com/mfornos/awesome-microservices#readme,Microservices
+https://lumen.laravel.com/,Lumen,https://github.com/mfornos/awesome-microservices#readme,Microservices
+http://www.slimframework.com/,Slim,https://github.com/mfornos/awesome-microservices#readme,Microservices

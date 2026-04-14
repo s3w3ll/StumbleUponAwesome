@@ -1,2 +1,6 @@
-https://www.linkedin.com/in/jdayo/,Joseph Emmanuel Dayo,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 999: 'Request denied'> | reason: Request denied
+https://gitter.im/red-data-tools/,Red Data Gitter,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.cookieshq.co.uk/posts/how-to-use-trained-keras-and-tensorflow-machine-learning-models-within-ruby-on-rails,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://www.leanpanda.com/blog/2015-08-24-machine-learning-automatic-classification/,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.linkedin.com/in/jdayo/,Joseph Emmanuel Dayo,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 999: '<none>'> | reason: <none>
+https://www.imagemagick.org/script/index.php,ImageMagick,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://neovintage.org/2011/11/14/text-classification-using-support/,post,https://github.com/arbox/machine-learning-with-ruby#readme,ML with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found

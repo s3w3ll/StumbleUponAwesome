@@ -1,0 +1,38 @@
+https://wagtail.org/,,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://x.com/wagtailcms,Twitter account,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=3UC1MNFOjEI,PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.coderedcorp.com/cms/,Learn more,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://saashammer.com/blog/python-cms-framework-review-wagtail-vs-django-cms/,Python CMS Framework Review: Wagtail vs Django-CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s,watch the lightning talk,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://wagtail.org/roadmap/,Roadmap,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://pypi.org/pypi?%3Aaction=list_classifiers,PyPI classifiers for Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://puput.readthedocs.io/en/latest/,Puput,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://wagtail.org/blog/getting-started-wagtail-newcomers-perspective/,Getting started in Wagtail, a newcomer's perspective,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://x.com/kiwimind,@kiwimind,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://gitlab.com/thelabnyc/wagtail_blog,wagtail_blog,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://editorjs.io/,EditorJS,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://gitlab.com/alexgleason/wagtailfontawesome,Wagtail FontAwesome,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://docs.wagtail.org/en/stable/reference/contrib/forms/,Wagtail's built in Form Builder,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://makina-corpus.com/django/presentation-de-wagtail-le-dernier-cms-django,Présentation de Wagtail, le dernier CMS Django,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://gitlab.com/alexgleason/wagtailerrorpages,Wagtail Error Pages,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://enzedonline.com/en/tech-blog/upgrading-to-wagtail-3-0/,Upgrading to Wagtail 3.0,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://cynthiakiser.com/blog/2022/06/01/wagtail-3-upgrade-part-1.html,Upgrading to Wagtail 3.0 Part 1,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://cynthiakiser.com/blog/2022/06/02/wagtail-3-upgrade-part-2.html,Upgrading to Wagtail 3.0 Part 2,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://cynthiakiser.com/blog/2023/11/01/multitenancy-with-wagtail.html,Multi-tenancy with Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=glIIF-kBXf0,An Introduction to Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=6j0NVq6g4FE,DjangoCon US 2015 - Wagtail - Yet Another Django CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015,Slide deck,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit,Wellington Wagtail CMS Meetup - Meet Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.youtube.com/watch?v=kqAKiouk1lY,DjangoCon US 2016 - Atomic Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://vix.digital/insights/setting-foundation-sass-wagtail/,Setting Up Foundation Sass With Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://wagtail.org/blog/upgrading-to-wagtail-2/,Upgrading to Wagtail 2.0,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://thib.me/getting-started-with-draftail-extensions,Getting started with Draftail extensions,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://parbhatpuri.com/amplify-wagtail-django-site-urls-part-1.html,Amplify a Wagtail/Django site,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://lb.ee/posts/dev-wagtail-extending-the-functionality-of-email-forms-232c8469ac97/,Extending The Functionality of Email Forms in Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://www.caktusgroup.com/blog/2016/02/15/wagtail-2-steps-adding-pages-outside-cms/,Wagtail: 2 Steps for Adding Pages Outside of the CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://filepreviews.io/blog/2017/04/20/adding-document-previews-to-wagtail/,Adding document previews to Wagtail CMS,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://saashammer.com/blog/wagtail-tutorials/,Wagtail Tutorials: Build Blog Step by Step,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://web.archive.org/web/20240929021314/https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8,Migrating your Drupal content to Wagtail,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://timonweb.com/wagtail/how-to-add-buttons-to-modeladmin-index-view-in-wagtail-cms/,How to Add Buttons to ModelAdmin Index View,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://timonweb.com/wagtail/how-to-prevent-users-from-creating-certain-page-types-in-wagtail-cms/,How to Prevent Users from Creating Pages by Type,https://github.com/springload/awesome-wagtail#readme,Wagtail
+https://saashammer.com/blog/how-to-create-and-manage-menus-in-wagtail/,How to Create and Manage Menus of Wagtail application,https://github.com/springload/awesome-wagtail#readme,Wagtail

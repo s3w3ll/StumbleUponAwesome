@@ -1,0 +1,82 @@
+https://www.debugbear.com/blog/nextjs-performance,A Guide to Performance Optimization with Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=JEBkh_vleTs&t,React Server Side Rendering with NextJS,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=g_LA1quUIi8,Data Management With Next.js and GraphQL,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://njt.now.sh,njt.now.sh,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://ogimg.xyz,ogimg.xyz,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://youtu.be/OHEMPreO09Q,Next js 13 project - IMBb Clone - next js tailwind css project - nextjs project,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=oQ60Grn4RYQ,Next.js Register User,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=DLGJfa3Xv-0,Guillermo Rauch - Next.js by Example,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://vercel.community/,Vercel Community,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://buttercms.com/blog/next-js-cms-tutorial,How to Build a Serverless Next.js Blog with ButterCMS,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=IkOVe40Sy0U,Next.js Crash Course - Server Side React,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://nextjs.org/blog,Blog,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://pusher.com/tutorials/chat-sentiment-analysis-nextjs,Build a chat app with sentiment analysis using Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=evaMpdSiZKk,Guillermo Rauch - Next.js: Universal React Made Easy and Simple,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://youtu.be/h9zlVmoUV5I,Next js 13 project - Google clone (next.js 13, tailwind css 3, google search api, app router,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://nextjs.org/learn,Learn,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://fastutil.app,FastUtil,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://auth0.com/blog/building-universal-apps-with-nextjs,Build a Universal JavaScript App with Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://masteringnextjs.com/,Mastering Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=Fnw3lNeH-XI,Introduction to Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://kaminari.vercel.app/,Kaminari Template,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5?source=activity---post_recommended,Accept payments on your site with nextjs, stripe, and micro,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://vercel.com/tv,Vercel TV,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://gitlab.com/kachkaev/website-frontend/,Alexander Kachkaev’s website,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://youtu.be/PnvDPSg5bQM,next js project - Twitter clone,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40,Next.js Tutorial,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.cosmicjs.com/apps/nextjs-static-blog,Next.js Static Blog,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=h6rETZH6Ym0,Next.js in production,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://medium.com/frontend-digest/using-feature-flags-in-next-js-c5c8d0795a2?source=friends_link&sk=d846a29f376acf9cfa41e926883923ab,Using Feature Flags in Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD,Next.js Conf 2020,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://vr.mozilla.org/,Mozilla VR Home,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/playlist?list=PLTRTpHrUcSB8elpwJKDIQNfNlqpPTNHGG,Full-stack food ordering app with Hasura, Next.js, and Vercel,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://leanpub.com/hands-on-nextjs,Hands On Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://arefaslani.github.io/next-boilerplate,Next Boilerplate,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://pusher.com/tutorials/realtime-tables-nextjs,Build a realtime table with Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=2cJya4h5ync,Parameterized Routing with Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://youtu.be/ytkG7RT6SvU,Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023),https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://echobind.com/post/instant-site-updates-with-on-demand-revalidation-and-directus,Instant Site Updates with On-Demand Revalidation and Directus,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=lLNJsuXB4CI,JSHeroes 2017 | Guillermo Rauch - Static and Dynamic Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.eltonjohn.com,Elton John's website,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://statichunt.com/themes/nextjs-hydrogen,Hydrogen,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://flaviocopes.com/page/nextjs-handbook/,The Next.js Handbook,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://youtu.be/Hiabp1GY8fA,NextJS 13 Tutorial: Create a Static Blog from Markdown Files,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://youtu.be/fqXC2V-MSV4,How to use Credentials Authentication in Next.js with NextAuth?,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://data.iota.org/,IOTA's Data Market Place,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.garymeehan.ie/blog/server-side-rendered-blog-with-nextjs-and-prismic,SSR blog with Next.js and Prismic.io,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.amazon.com/dp/B0BHRPMF74,Serverless Web Applications with React and Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.magicleap.com/,magicleap.com,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://echobind.com/post/dynamic-cms-driven-redirects,Dynamic CMS-driven Redirects with Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.svix.com/blog/vercel-on-demand-isr-and-svix/,Building a Guestbook Using Next.js On-Demand ISR,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=w9Or7B4kTRY,Programming the Universal Future with Next.js - Guillermo Rauch · JSConf China 2017,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.npmjs.com/search,NPM.js Search Page,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://a11y-starter-kit.vercel.app/,https://a11y-starter-kit.vercel.app/,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.garymeehan.ie/blog/handling-seo-with-nextjs-and-prismic,SEO in Next.js and Prismic,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=c_-b_isI4vg&t=11529s,Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.tiktok.com/,TikTok's HomePage,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.permit.io/blog/how-to-add-rbac-in-nextjs,Implementing RBAC Authorization in Next.js - Step-by-Step Guide,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=4cfozXTyjWQ,BPJS: Special - Introduction to Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.garymeehan.ie/blog/seo-in-nextjs-with-next-seo,SEO in Next.js with next-seo,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://youtu.be/mqUN4N2q4qY,Full Stack Netflix Clone in React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel (2023),https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=PGPGcKBpAk8&t=1922s,Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023),https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=ms2aOV06_qk,Next for Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.cutintothejamstack.com/,Cut Into The Jamstack: Build a SaaS with React and Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://echobind.com/post/getting-started-with-nextjs-graphl-and-react-query,Getting Started with Next.js, GraphQL and React Query,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.amazon.com/Real-World-Next-js-high-performance-applications-production-ebook/dp/B08XY1MCV1?Adv-Srch-Books-Submit.x=0&Adv-Srch-Books-Submit.y=0&qid=1652828645&refinements=p_66:9781801079877&s=books&sr=1-1&unfiltered=1&linkCode=sl1&tag=misko0a-20&linkId=1039970a67ec37bfcaa25cf6c77a5591&language=en_US&ref_=as_li_ss_tl,Real World Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.purgecss.com/,Purgecss,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://youtu.be/ugCN_gynFYw,Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://nextjs.org/blog/next-7,Next.js 7,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://youtube.com/watch?v=2aeMRB8LL4o&t=4402s,Full Stack Spotify Clone: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind (2023),https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://snipcart.com/blog/nextjs-faunadb,Using Next.js with FaunaDB: How to Query the Database from Your App,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=-7Ft5LxPeWs,Create your first ReactJS application with NextJS [Spanish],https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.youtube.com/watch?v=5miHyP6lExg&t=1908s,Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://www.npmjs.com/package/@cuww/runtime-env,Runtime Environment Variables for Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://blog.hasura.io/create-next-js-sites-using-graphql-on-postgres-199224ad1a39,Create SSR Next.js websites using GraphQL with Postgres,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://tailwind-elements.com/docs/standard/integrations/next-integration/,Integrate Next app with Tailwind,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://snipcart.com/blog/next-js-ecommerce-tutorial,Next.js E-commerce Tutorial: Quick Shopping Cart Integration,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://ghost.org/docs/api/nextjs/,Working with Ghost and Next.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://blog.codedthemes.com/nextjs-admin-dashboard-templates/,Top Next.js Admin & Dashboard Templates,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://habrahabr.ru/post/323588/,Build a Universal JavaScript App with Next.js and Redux [Russian],https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://nextjs.org/blog/next-5,Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://pusher.com/tutorials/realtime-data-visualization-nextjs,Realtime data visualization using Next.js and Chart.js,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js
+https://blog.codedthemes.com/nextjs-cheatsheet/,Next.js Cheatsheet,https://github.com/unicodeveloper/awesome-nextjs#readme,Next.js

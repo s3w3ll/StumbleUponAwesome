@@ -1,0 +1,5 @@
+https://atproto.com/guides/applications,Quick start guide to building applications on AT Protocol,https://github.com/atblueprints/awesome-atproto#readme,ATProto error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://pdsls.dev/,PDSls,https://github.com/atblueprints/awesome-atproto#readme,ATProto error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+https://atproto-browser.vercel.app/,ATProto Browser,https://github.com/atblueprints/awesome-atproto#readme,ATProto error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://place.blue/,Blue Place,https://github.com/atblueprints/awesome-atproto#readme,ATProto error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://pastesphere.link/,Pastesphere,https://github.com/atblueprints/awesome-atproto#readme,ATProto error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed

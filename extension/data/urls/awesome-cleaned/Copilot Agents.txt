@@ -1,0 +1,1 @@
+https://agentskills.io/home,open standard,https://github.com/Code-and-Sorts/awesome-copilot-agents#readme,Copilot Agents

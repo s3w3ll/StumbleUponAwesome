@@ -1,0 +1,64 @@
+https://www.zenity.io,,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://flow.microsoft.com/,Power Automate (Microsoft),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.salesforce.com/products/platform/einstein-automate/,Einstein Automate (Salesforce),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.atlassian.com/software/jira/features/automation,Jira Automation (Atlassian),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://trello.com/power-ups/category/automation,Trello Power-Ups (Atlassian),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.zoho.com/flow/,Flow (Zoho),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://formnx.com,FormNX,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://tabidoo.cloud/,Tabidoo,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://powerapps.com/,Power Apps (Microsoft),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://powerbi.microsoft.com/,Power BI,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://appian.com/,Appian,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://mendix.com/,Mendix,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.servicenow.com/now-platform.html,Now Platform (ServiceNow),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.zoho.com/creator/low-code-platform/,Creator (Zoho),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.bettyblocks.com/,BettyBlocks,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://apex.oracle.com/en/platform/low-code/,APEX (Oracle),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.salesforce.com/products/platform,Salesforce Platform, prev. Force.com (Salesforce),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.kaiflow.io/,KAI-Flow,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.dronahq.com/?ref=github-gs,DronaHQ,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.illacloud.com/,ILLA Cloud,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.loopple.com,Loopple,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://about.appsheet.com/home/,Appsheet (Google),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://rei3.de/en/home,REI3,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://iotellect.com,Iotellect,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://pdftemplateapi.com/,TemplateFox,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://rierino.com/,Rierino,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.pega.com/,PegaSystems,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://agilepoint.com/,AgilePoint,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.quickbase.com/,QuickBase,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.creatio.com/,Creatio,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.auraquantic.com/,AuraQuantic,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.kintone.com/,Kintone,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.prontoforms.com/,ProntoForms,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://trackvia.com/,TrackVia,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://newgensoft.com/,NewGen,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://naologic.com/,Naologic,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://powerautomate.microsoft.com/en-us/robotic-process-automation/,Power Automate Desktop (Microsoft),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.servicetrace.com/,Servicetrace RPA (Salesforce),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://appian.com/platform/complete-automation/robotic-process-automation-rpa.html,Appian RPA,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.workato.com/modern-rpa,Workato RPA,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.uipath.com/,UiPath,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.automationanywhere.com/,AutomationAnywhere,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.blueprism.com/,BluePrism,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://powervirtualagents.microsoft.com/,Power Virtual Agents (Microsoft),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://docs.workato.com/workbot/overview.html,Workato Workbot,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://anvevoice.app,AnveVoice,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://azure.microsoft.com/en-us/services/logic-apps/,Azure Logic Apps (Microsoft),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://mulesoft.com/,MuleSoft (Salesforce),https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.workato.com,Workato,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.mulesoft.com/platform/api-management,MuleSoft,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://docs.workato.com/api-management.html,Workato API Management,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.workato.com/solutions,Solution Marketplace,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://support.workato.com/en/support/solutions,Support History,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1,Microsoft Power Apps Official Community,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity,Microsoft Power Automate Official Community,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity,Microsoft Power Virtual Agents Official Community,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://community.powerbi.com/,Microsoft Power BI Official Community,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://powp.co/,PowP.Co Discord Community,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://community.workato.com/,Workato Communities,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://systematic.workato.com/,Systematic,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://zenity.io/blog,Zenity,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.darkreading.com/edge-articles/addressing-the-low-code-security-elephant-in-the-room,Addressing the Low Code Security Elephant in the Room,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://blog.powp.co/,PowPco,https://github.com/zenitysec/awesome-low-code#readme,Low Code
+https://www.workato.com/the-connector/,The Connector,https://github.com/zenitysec/awesome-low-code#readme,Low Code

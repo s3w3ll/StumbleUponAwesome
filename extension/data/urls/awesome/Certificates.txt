@@ -1,0 +1,37 @@
+https://genbounty.com?utm_source=toolseekr&utm_medium=sponsor&utm_campaign=q1_2025&utm_content=awesome_certificates,GenBounty
+  AI product safety testing platform with native EU AI Act compliance.,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://promoat.ai?utm_source=saas_directory&utm_medium=listing&utm_campaign=beta_launch_q1&utm_content=awesome_certificates,ProMoat
+  Generate AI clone videos of yourself in 3 mins.,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://toolseekr.com/sponsor,Become a sponsor,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://discord.com/invite/3kSS9dvnPz,,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.elementsofai.com/,Elements of AI,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.kaggle.com/learn/intro-to-ai-ethics,Intro to AI Ethics,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning,Intro to Game AI and Reinforcement Learning,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.cloudskillsboost.google/course_templates/536,Introduction to Generative AI,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering,Foundations of Prompt Engineering,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers,Generative AI for Decision Makers,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.databricks.com/resources/learn/training/generative-ai-fundamentals,Generative AI Fundamentals,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin,Career Essentials in Generative AI,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/,Prompt Engineering for Vision Models,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.life-global.org/course/423-ai-for-business-professionals,AI for Business Professionals,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.life-global.org/course/391-ai-for-beginners,AI for Beginners,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.freecodecamp.org/learn/back-end-development-and-apis/,Back End Development and APIs Certification,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://academy.postman.com/path/postman-api-fundamentals-student-expert/,Postman API Fundamentals Student Expert,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://learn.saylor.org/course/view.php?id=93,CS403: Introduction to Modern Database Systems,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.hackerrank.com/skills-verification/rest_api_intermediate,REST API,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M001/about,MongoDB Basics,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M100/about,MongoDB for SQL Pros,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M103/about,MongoDB Cluster Adminstration,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M121/about,MongoDB Aggregation Framework,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/T101/about,Crafting Conference Abstracts,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/A300/about,Atlas Security,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M201/about,MongoDB Performance,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M220J/about,MongoDB for Java Developers,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M220JS/about,MongoDB for JavaScript Developers,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M220N/about,MongoDB for .NET Developers,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M220P/about,MongoDB for Python Developers,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M312/about,Diagnostics and Debugging for MongoDB,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://university.mongodb.com/courses/M320/about,MongoDB Data Modeling,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.kaggle.com/learn/intro-to-sql,Intro to SQL,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://www.kaggle.com/learn/advanced-sql,Advanced SQL,https://github.com/PanXProject/awesome-certificates#readme,Certificates
+https://cognitiveclass.ai/courses/what-is-big-data,Big Data Foundations - Level 1,https://github.com/PanXProject/awesome-certificates#readme,Certificates

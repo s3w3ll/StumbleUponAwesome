@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/Theravada,,https://github.com/johnjago/awesome-theravada#readme,Theravada
+https://www.thoughtco.com/buddhism-4133165,ThoughtCo,https://github.com/johnjago/awesome-theravada#readme,Theravada
+https://www.accesstoinsight.org/tipitaka/index.html,Tipitaka,https://github.com/johnjago/awesome-theravada#readme,Theravada
+https://suttacentral.net/,Early Buddhist texts, translations, and parallels,https://github.com/johnjago/awesome-theravada#readme,Theravada
+https://en.wikipedia.org/wiki/Bhante_Sujato,Bhante Sujato,https://github.com/johnjago/awesome-theravada#readme,Theravada
+http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html,A Systematic Study of the Majjhima Nikaya,https://github.com/johnjago/awesome-theravada#readme,Theravada
+http://www.aimwell.org/buddhism.html,An Introduction to Buddhism,https://github.com/johnjago/awesome-theravada#readme,Theravada
+https://www.buddhismuskunde.uni-hamburg.de/en/personen/analayo.html,Universität Hamburg: Prof. Bhikkhu Analayo,https://github.com/johnjago/awesome-theravada#readme,Theravada

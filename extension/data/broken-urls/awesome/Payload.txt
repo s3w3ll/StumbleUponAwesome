@@ -1,0 +1,4 @@
+https://payloadcms.com/blog,Blog,https://github.com/DanailMinchev/awesome-payload#readme,Payload error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://payloadcms.com/posts/guides,Payload Guides & Tutorials,https://github.com/DanailMinchev/awesome-payload#readme,Payload error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.youtube.com/@nlv_codes,NLV Codes,https://github.com/DanailMinchev/awesome-payload#readme,Payload error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://zarif.dev/blogs/payload-cms-2fa-implementation,Payload: 2FA Implementation,https://github.com/DanailMinchev/awesome-payload#readme,Payload error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests

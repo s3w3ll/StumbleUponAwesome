@@ -1,0 +1,81 @@
+https://csound.com/,Csound,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://en.wikipedia.org/wiki/Creative_coding,creative coding,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://classroom.udacity.com/courses/cs291,Interactive 3D Graphics,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://100r.co/site/orca.html,Orca,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://graphicscodex.com/projects/projects/index.html,Graphics Programming Projects,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://frontendmasters.com/courses/canvas-webgl/,Creative Coding with Canvas & WebGL,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://handel-pl.github.io/,handel,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.manning.com/books/generative-art,Generative Art: A Practical Guide,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://overtone.github.io/,Overtone,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://troikatronix.com,Isadora,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://inconvergent.net/generative/,On Generative Algorithms,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.coursera.org/learn/interactive-computer-graphics,Interactive Computer Graphics,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://frontendmasters.com/courses/webgl-shaders/,Advanced Creative Coding with WebGL & Shaders,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://try.kadenze.com/creative-coder/,Kadenze Creative Coding,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://libcinder.org/,Cinder,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+http://www.generative-gestaltung.de/,Generative Design,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://link.springer.com/book/10.1007/978-1-4302-3666-5,Foundation HTML5 Animation with JavaScript,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.d-booker.fr/opengl/78-synthese-d-images.html,Synthèse d'images avec OpenGL (ES),https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://visualprogramming.net/,vvvv,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://natureofcode.com/,The Nature of Code,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html,Computer Graphics from Scratch,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.nodebox.net/node/,NodeBox,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.coursera.org/learn/digitalmedia,Creative Programming for Digital Media & Mobile Apps,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://openframeworks.cc/,openFrameworks,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://pomax.github.io/bezierinfo/,A Primer on Bézier Curves,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://threejs-journey.com/,Three.js Journey,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/,Hands-On Music Generation with Magenta,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://cables.gl,cables,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://programmingdesignsystems.com/,Programming Design Systems,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://paroj.github.io/gltut/,Learning Modern 3D Graphics Programming,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://lettier.github.io/3d-game-shaders-for-beginners,3D Game Shaders For Beginners,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://nap-framework.tech/,NAP,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://imaginary-institute.com/,Imaginary Institute,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.notch.one,Notch Builder,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://xem.github.io/articles/webgl-guide.html,XEM WebGL Guide,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.khanacademy.org/computing/computer-programming/programming,Intro to JS: Drawing & Animation,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://learnopengl.com/,Learn OpenGL,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://diegoinacio.github.io/creative-coding-notebooks-page/,Creative Coding Notebooks,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.oreilly.com/library/view/programming-interactivity/9780596800598/,Programming Interactivity,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations,Advanced JS: Natural Simulations,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://ncase.me/joy/,JOY.JS,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.playingwithchaos.net/,Playing with chaos,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://pikuma.com/courses/learn-3d-computer-graphics-programming,3D Computer Graphics Programming,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485,Algorithms for Visual Design Using the Processing Language,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html,Quartz Composer,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.webglacademy.com/,WebGL Academy,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://processing.org,Processing,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://tic80.com/,TIC-80,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/,Ray Tracing in One Weekend,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://supercollider.github.io/,SuperCollider,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.amazon.com/dp/1472578309/,Data-driven Graphic Design,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://py5coding.org,py5,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl,Create 3D Graphics in JS Using WebGL,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://vuo.org/,Vuo,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240,Real-Time Rendering,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://openframeworks.cc/ofBook/chapters/foreword.html,ofBook,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/,Graphics Shaders: Theory and Practice,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://egghead.io/courses/learn-html5-graphics-and-animation,Learn HTML5 Graphics and Animation,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.amazon.com/gp/product/B00LAMQYF2/,Anton's OpenGL 4 Tutorials,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://ogldev.org/,OGLdev,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://cycling74.com/products/max/,Max,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.opengl-tutorial.org/,OpenGL Tutorial,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://chuck.cs.princeton.edu/,ChucK,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://link.springer.com/book/10.1007/978-1-4302-6338-8,Physics for JavaScript Games, Animation, and Simulations,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://open.gl/,Open.gl,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://tidalcycles.org/,TidalCycles,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://puredata.info/,Pure Data,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://ossia.io,ossia score,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+http://pixelshaders.com/,Pixel Shaders,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.manning.com/books/math-for-programmers,Math for Programmers,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://openglbook.com/,OpenGLBook,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://sonic-pi.net/,Sonic Pi,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://tooll.io/,tooll,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://xod.io/,XOD,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://www.c4ios.com,C4,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://unity3d.com/,Unity,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://godotengine.org,Godot,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://mercury.sexy/hg_sdf/,hg_sdf,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://nannou.cc/,nannou,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://thi.ng/,thi.ng,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding
+https://openrndr.org/,OPENRNDR,https://github.com/terkelg/awesome-creative-coding#readme,Creative Coding

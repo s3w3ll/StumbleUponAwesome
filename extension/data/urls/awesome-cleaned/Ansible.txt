@@ -1,0 +1,53 @@
+https://www.openstack.org/,OpenStack,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.ansible.com/,,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://mitogen.networkgenomics.com/ansible_detailed.html,Mitogen for Ansible,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://hackr.io/tutorials/learn-ansible,Programming Community Curated Resources for learning Ansible,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://robertdebock.nl,Robert de Bock,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://docs.ansible.com/ansible/devel/community/ecosystem_project_resources.html,Ansible ecosystem project development resources,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook,How To Manage Remote Servers with Ansible eBook,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://docs.ansible.com/ansible/latest/user_guide/index.html,Latest Ansible Documentation,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://docs.debops.org/en/master/,DebOps,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.amazon.co.uk/Tao-Ansible-Mastering-Automation-Simplicity/dp/B0DTTTM3XG,The Tao of Ansible: Mastering Automation with Simplicity and Grace,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://galaxy.ansible.com/,Ansible Galaxy Website,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.toptechskills.com/ansible-tutorials-courses/,Ansible TopTechSkills.com Tutorial Series on Ansible,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ,Ansible YouTube Channel,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.ansible.com/blog,Ansible Blog,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/,lsp-mode,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://ansible.github.io/workshops/exercises/ansible_rhel/,Official Ansible labs by Red Hat,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.jetbrains.com/pycharm/,PyCharm,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.packer.io/plugins/provisioners/ansible/ansible-local,Packer Ansible Provisioner,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://forum.ansible.com/c/help/6,Get Help,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://youtu.be/iVWmbStE1MM,Introduction to Ansible,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://reinteractive.com/posts/167-ansible-real-life-good-practices,Ansible (Real Life) Good Practices,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://plugins.jetbrains.com/plugin/20905-ansible-lint,Ansible Lint,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://hewlettpackard.github.io/squest/,squest,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://hodgkins.io/testing-ansible-roles-windows-test-kitchen,Testing Ansible Roles Against Windows with Test-Kitchen,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series,Ansible 101 by Jeff Geerling,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://ansible-community.github.io/ansible-bender/build/html/index.html,ansible-bender,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://forum.ansible.com/c/chat/4,Social Spaces,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.digitalocean.com/community/tags/ansible?subtype=tutorial,Ansible Tutorials on DigitalOcean,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6,Ansible TopTechSkills.com Tutorial Series on YouTube,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://ansible-builder.readthedocs.io/en/latest/,ansible-builder,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://plugins.jetbrains.com/plugin/14353-ansible-vault-integration,Ansible Vault Integration,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview,Ansible Essentials - Course,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://forum.ansible.com/c/news/5,News & Announcements,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://andidog.de/blog/2017-04-24-ansible-best-practices,Ansible Best Practices by AndiDog,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.youtube.com/watch?v=KuiAiUyuDY4&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u&index=1,Complete Ansible Course 2020 by DevOps Journey,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://docs.ansible.com/ansible/devel/community/communication.html,Ansible communication guide,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://steampunk.si/spotter/,Steampunk Spotter,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70,Getting started with Ansible,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.ansible.com/products/controller,Automation Controller,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://steampunk.si/blog/getting-started-with-ansible/,Getting started with Ansible,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://gitlab.com/jlecomte/ansible/ansible-roster,ansible-roster,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.digitalocean.com/community/tutorial_series/how-to-manage-remote-servers-with-ansible,How To Manage Remote Servers with Ansible,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://hewlettpackard.github.io/monkeyble/,Monkeyble,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://spacelift.io/blog/ansible-tutorial,Ansible Tutorial for Beginners: Playbook & Examples,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://steampunk.si/blog/taking-ansible-apart/,Taking Ansible apart,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://ansible.puzzle.ch/,Ansible Tutorials for Beginners and Advanced,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://kksat.github.io/talks/2025/functional-ansible/,Functional programming design patterns in Ansible code,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://tech-playground.com/playgrounds/ansible-template/,Ansible Template Playground,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.ansiblefordevops.com/,Ansible for DevOps,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.my-it-brain.de/wordpress/ansible-was-ich-am-ad-hoc-modus-schaetze/,Ansible – Was ich am Ad-hoc-Modus schätze,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://blog.stephane-robert.info/post/introduction-ansible/,Apprendre et Maitriser Ansible l'outil de gestion de configuration,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://www.ansibleforkubernetes.com/,Ansible for Kubernetes,https://github.com/ansible-community/awesome-ansible#readme,Ansible
+https://dev-sec.io/,DevSec Hardening Framework,https://github.com/ansible-community/awesome-ansible#readme,Ansible

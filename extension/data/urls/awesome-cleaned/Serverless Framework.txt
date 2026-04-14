@@ -1,0 +1,17 @@
+http://www.serverlessops.io,ServerlessOps,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+http://serverless.com,Serverless.com,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+https://serverlesscode.com,Serverless Code,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+https://thenewstack.io/serverless-roadmaps-platforms/,Hosted vs. installable serverless platforms,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+http://docs.serverless.com,Documentation,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+http://forum.serverless.com,Forum,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+https://blog.cloudflare.com/cloud-computing-without-containers/,Serverless without containers,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+http://serverlessmeetups.com,Meetups,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+http://stackoverflow.com/questions/tagged/serverless-framework,Stack Overflow,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+http://serverlessconf.io,ServerlessConf,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+https://www.jeremydaly.com/takeaways-from-serverlessnyc-2018/,Takeaways from ServerlessNYC 2018,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+http://blog.serverless.com,Serverless Blog,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+https://medium.com/serverless-stories,Serverless Stories,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+http://www.goingserverless.com,Going Serverless,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+http://www.serverlessguy.com/,Serverless Guy,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+https://openevents.io,OpenEvents,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework
+https://faaslane.wordpress.com,FaaS Forward,https://github.com/pmuens/awesome-serverless#readme,Serverless Framework

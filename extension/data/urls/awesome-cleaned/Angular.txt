@@ -1,0 +1,470 @@
+https://www.radix-ui.com/,Radix UI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/jeffdelaney23,Jeff Delaney,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://zero.rocicorp.dev/,Zero,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/hashtag/angular,Angular Hashtag,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/christianweyer,Christian Weyer,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/marsibarsi,@marsibarsi,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/twerske,Emma Twersky,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/elecash/,Raúl Jiménez,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/laforge_toma,Thomas Laforge,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/mgechev,Minko Gechev,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.kinde.com/developer-tools/sdks/backend/typescript-sdk/,SDK,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@JoshuaMorony,Joshua Morony,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://lucide.dev/guide/packages/lucide-angular,official Angular package,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@nivekDev,NivekDev,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@briantreese,Brian Treese,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://chromewebstore.google.com/detail/playwright-chrome-recorde/bfnbgoehgplaehdceponclakmhlgjlpd,Playwright Chrome Recorder,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://rxdb.info/articles/angular-indexeddb.html,IndexedDB,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.luzmo.com/,Luzmo,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ng.nicacoder.com/,nicacoder-ng,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://cesium.com,Cesium,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://christianlydemann.com/angular-mastery-book/,Angular Mastery,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://moonrepo.dev/docs/guides/examples/angular,Moon,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://headlessui.com,Headless UI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/TheNishuGoel,Nishu Goel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/toddmotto,Todd Motto,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/maciejtreder,@maciejtreder,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/webmaxru,Maxim Salnikov,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/marktechson,Mark Thompson,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/AlanAgius4,Alan Agius,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vestjs.dev/,Vest.js,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://cyrilletuzi.gumroad.com/l/schematicspro,Angular Schematics Pro,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://patrickjs.com,,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@NihiraTechiees,Nihira Techiees,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/timruffles,Tim Ruffles,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/waterplea,Alex Inkin,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@WebTechTalk,WebTechTalk,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/maartentibau,@maartentibau,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://filesizejs.com/,filesize.js,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@jsgigs4909,JSgigs,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://rust-lang.github.io/mdBook/index.html,mdbook,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/deborahkurata,Deborah Kurata,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blogs.halodoc.io/tag/angular-2-2/,halodoc,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/pkozlowski_os,Pawel Kozlowski,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/jean__meche,Matthieu Riegler,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev,Site,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://catbee.in/docs/@ng-catbee/,Catbee,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://firebase.google.com/docs/genkit,GenKit,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular-university.io/,Angular University,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://material.angular.io/cdk/drag-drop/overview,Angular Material CDK,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/tools/cli,Official website,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://sst.dev/,SST,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://go.nx.dev/angular-patterns-ebook,Enterprise Monorepo Angular Patterns,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://formkit.com,FormKit,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://testing-library.com/docs/angular-testing-library/intro/,Angular Testing Library,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/SantoshYadavDev,Santosh Yadav,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://hashbrown.dev/,Hashbrown,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.lymestack.com/,LymeStack,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://rumbletalk.com/,Rumbletalk,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/jack_franklin,Jack Franklin,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/manekinekko,Wassim Chegham,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://primeblocks.org/,PrimeBlocks,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/shai_reznik,Shai Reznik,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/dylhunn,Dylan Hunn,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://flow.foblex.com/,Foblex,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.mojoauth.com/guides/angular,integrate,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/synalx,Alex Rickabaugh,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@AngularUniversity,Angular University,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.facebook.com/business/tools/meta-pixel,Meta Pixel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://grapesjs.com,GrapesJS,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://gofeatureflag.org/,GO Feature Flag,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@babatundelmd,Babatunde Lamidi,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@kobihari,Kobi Hari,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/ankitsharma_007,Ankit,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://useflagpole.dev/,Flagpole,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/manfredsteyer,Manfred Steyer,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.katsuba.dev/,Igor Katsuba,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/ThierryChatel,Thierry Chatel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/js_dev,Aaron Frost,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/PatrickJS__,@PatrickJS__,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://tabulator.info/,Tabulator,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/_crisbeto,Kristiyan Kostadinov,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.webdatarocks.com/,WebDataRocks,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.tradingview.com/lightweight-charts/,Trading View Lightweight Charts,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://schemaform.io/examples/bootstrap-example.html,Angular Schema Form,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://template.giacomobellazzi.com/,Vortex,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angularexperts.io/blog,Angular Experts,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.schule/,Angular.Schule (in Germany),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://rxjs.dev/,Official website,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.meticulous.ai/,Meticulous AI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vega.hlprd.com/,Vega,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/angular,HackTricks,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/SiddAjmera,Siddharth Ajmera,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.dolmen.tools/en/angular/good-first-issues/explorer,Good First Issues,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@RainerHahnekamp,Rainer Hahnekamp,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ionicframework.com/docs/intro/vscode-extension,Ionic VS Code Extension,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@techstacknation,TechStackNation,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://gofeatureflag.org/docs/sdk/client_providers/openfeature_angular,connect,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://analogjs.org/,analogjs,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/urishaked,Uri Shaked,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/willmendesneto,Wilson Mendes,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://yaml.org/,YAML,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://plausible.io/docs/spa-support,SPA support,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/juristr,Juri Strumpflohner,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@programmingpracticals,Programming Practicals,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://elementarui.com/,Elementar UI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/eggheadio,@eggheadio,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/devversion,Paul Gschwendtner,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://rive.app/,Rive,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.sentry.io/platforms/javascript/guides/angular/configuration/integrations/,Sentry,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://zitadel.com/docs/examples/login/angular,zitadel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://safedep.io/,SafeDep,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.movingicons.dev/,moving icons,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.descope.com,Descope,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/codewith_ahsan,Muhammad Ahsan Ayaz,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia,matchMedia API,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ulion.github.io/jsonform/playground/,JSON Form,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/willgmbr,William Grasel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/gruizdevilla,Gonzalo Ruiz de Villa Suárez,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/jaredwilli,Jared Williams,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://playfulprogramming.com/collections/framework-field-guide,Framework Field Guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/hirez_io,@hirez_io,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://recharts.org/,Recharts,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://cloud.google.com/vertex-ai,Vertex AI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://jasmine.github.io/,Jasmine,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.ngserve.io/,ng serve,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/devjoost,Joost Koehoorn,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://support.phrase.com/hc/articles/5784095916188-In-Context-Editor-Strings,Phrase Strings In-Context Editor,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@CodeShotsWithProfanis,Code Shots With Profanis,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://js.devexpress.com/Overview/Angular/,Dev Extreme,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@angularlove,Angular Love,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.angular-university.io/,angular-university,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blueprintui.dev/,Blueprint UI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.flagsmith.com/,Flagsmith,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.bloomreach.com/en/products/content,Bloomreach Content,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@daniilrabizo,Daniil Rabizo,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://purecode.ai/components/angular/application-ui,PureCode AI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/DecodedFrontend,Dmytro Mezhenskyi,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://tutorial.neoline.io/,NeoLine,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angularaddicts.com/,Angular Addicts,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://panda-css.com/docs/docs/installation/angular,integration,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/AlyssaNicoll,Alyssa Nicoll,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://jestjs.io/,Jest,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/cedric_exbrayat,@cedric_exbrayat,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/gerardsans,Gerard Sans,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/sharondio,Sharon DiOrio,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://codeberg.org/tomaszatoo/ngx-md-editable,ngx-md-editable,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/simona_cotin,Simona Cotin,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://certificates.dev/angular,Certificates.dev,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.ninja-squad.com/,ninja-squad,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/llms.txt,Official llms.txt file,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://heroicons.com,Heroicons,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://runonflux.com/,Flux Network,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.angular.dev/,Blog,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/Michael_Hladky,Michael Hladky,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.keycloakify.dev/,Keycloakify 11,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@deborah_kurata,Deborah Kurata,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://cookbook.marmicode.io/,Marmicode Cookbook,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://material.angular.io/,Angular Material,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://start.nodeinit.dev/,Node Initializr,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.statsig.com/,Statsig,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://developer.mescius.com/activereportsjs/angular-reporting-tool,activereportsjs/angular-reporting-tool,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/nirkaufman,Nir kaufman,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@ng-news,NG NEWS,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://getquikturn.io/,Quikturn Logos API,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/victorsavkin,@victorsavkin,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/John_Papa,John Papa,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/PascalPrecht,Pascal Precht,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://zed.dev/,Zed,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html,ckeditor,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://auto-animate.formkit.com,Auto Animate,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.seats.io/,Seats.io,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@StartupAngular,StartupAngular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://books.ninja-squad.com/angular,Become a ninja with Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/biondifabio,Fabio Biondi,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://v2.tauri.app/,tauri,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.de/schulungen/angular-intensiv/,Angular.DE (Germany),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled,Promise.allSettled(),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://stackoverflow.com/questions/tagged/angular,Angular Stack Overflow,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://fomantic-ui.com/,Fomantic UI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/valorkin,Dmitriy Shekhovtsov,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/jeffbcross,@jeffbcross,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://toggly.io/,Toggly,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.microsoft.com/azure/active-directory/develop/v2-overview,Azure AD,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/danwahlin,Dan Wahlin,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/jeffwhelpley/,Jeff Whelpley,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.ag-grid.com/,ag-grid,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://mastodon.social/@jessicajaniuk,Jessica Janiuk,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@BrandonRobertsDev,BrandonRobertsDev,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ducin.dev/blog,Tomasz Ducin,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.datadoghq.com/integrations/rum_angular/,DataDog,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@LearningPartnerDigital,Learning Partner,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vitest.dev/,Vitest,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@codewithkeys,Code with Keys,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://tailkit.com/,Tailkit UI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/guide/aria/overview,Official Angular ARIA,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://x.com/angular,@Angular on X,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular-buch.com/,Angular-Buch (German),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://justangular.com/,Just Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.agilicus.com/,Agilicus,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://icons8.com/line-awesome,Line Awesome,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.reddit.com/r/Angular/,/r/Angular Subreddit,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.byteark.com/,ByteArk,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.rybbit.io/docs/guides/angular,guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://geromegrignon.substack.com/,Angular Digest,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.typescriptlang.org/play/,Official TypeScript REPL,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vulert.com,Vulert,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://radixweb.com/starter-kits/enterprise-microservices-boilerplate,radixweb,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.love/,Angular Love,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://wails.io/docs/guides/angular/,Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@DecodedFrontend,Decoded Frontend,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@codedeck,Code Deck,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://marmicode.io/learn/everything,marmicode,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ui2code.ai/,UI2CODE,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/overview,Documentation,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular-challenges.vercel.app/,Angular Challenges,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://developer.mescius.com/activereportsjs,ActiveReportsJS,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://openwebui.com/,Open WebUI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.startearly.ai/,Early AI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://transform.tools/json-to-typescript,transform.tools,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.jqwidgets.com/angular/,angular-jqwidgets,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/assets/context/llms-full.txt,Official llms-full.txt file,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angularacademy.ca/angular-certification,Angular Academy CA,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ng.gridatek.com/,ng new command generator,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.sinequa.com/,Sinequa's,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.learnbydo.ing/,learnbydo.ing,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://documentation.onesignal.com/docs/angular-setup,OneSignal,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@ZoaibKhan,Zoaib Khan,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.syncfusion.com/angular-components,Syncfusion,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angularbuddies.slack.com/,Angular Buddies Slack Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://digital.gov/guides/accessibility-for-teams/,digital.gov,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ngrx.io/,Official website,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@theigorsedov,Igor Sedov,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.fusio-project.org/,Fusio,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.vidstack.io/docs/player/getting-started/installation/angular?styling=default-layout&provider=video,installation guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://mastodon.social/@develwithoutacause@techhub.social,Doug Parker,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://coolshap.es/,coolshapes,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://tiptap.dev/,tiptap v2,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://retejs.org/,Rete.js,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://workik.com/angular-code-generator,Workik,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://firestitch.com/,Firestitch,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://app.takeshape.io/docs/get-started/client/angular,guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.microsoft.com/enterprise,Microsoft Cloud,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.amplify.aws/angular/,AWS Amplify,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.hackerrank.com/skills-verification/angular_basic,Hackerrank,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid,ignite-ui-angular's grid,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/update-guide,Official website,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://openfeature.dev/docs/reference/technologies/client/web/angular,OpenFeature Angular SDK,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://introjs.com/,Intro.js,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@AyyazTech,AyyazTech,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@TheCodeAngle,The Code Angle,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/tutorials/learn-angular,Getting Started Tutorial,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angularspace.com/,Angular Space,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://codelabs.developers.google.com/?text=angular,Codelabs,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular-enterprise.com/en/ngcategory/resources/,Angular Enterprise,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.sheetjs.com/docs/demos/frontend/angular,sheetjs,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://stenciljs.com/docs/angular,Stencil,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.quixconsulting.com/,Quix Srl,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://hexaflexa.com/,HexaFlexa,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://testronaut.github.io/testronaut/,Testronaut,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.statsig.com/client/javascript-sdk/Angular/,Statsig docs,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://dev.to/this-is-angular,This is Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://timdeschryver.dev/,Tim Deschryver,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://playfulprogramming.com/,Playful Programming,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://developers.cloudflare.com/turnstile/,Cloudflare turnstile,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://self.xyz/,Self.xyz,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://bit.dev/docs/angular-introduction/,Bit,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://webaim.org/,webaim,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://configcat.com/,ConfigCat,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://appwrite.io/docs/quick-starts/angular,Angular app,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://cloudinary.com/documentation/angular_integration,cloudinary,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://material.angular.dev/cdk/testing/overview,Angular Material CDK Testing,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.devcycle.com/sdk/client-side-sdks/angular/,DevCycle,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://v17.angular.io/docs,Past Documentation Site,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://ace.c9.io/,Ace,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://hcaptcha.com/,hCaptcha,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular-university.io/my-ebooks,Angular University Ebooks,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://zapui.togethercreative.co.uk/,zap:ui,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://app.daily.dev/tags/angular,daily.dev,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://aitools.fyi/technology/angular,aitools.fyi,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://spreadsheet.witqq.dev/,website,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://connectrpc.com/,Connect,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://swetrix.com/docs/angular-integration,Integrate Swetrix with your Angular application,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://keploy.io/docs/quickstart/openhospital/,Keploy,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/cli/update,Official update reference,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://webpack.js.org,Webpack,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://foresightjs.com/,ForesightJS,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ionicframework.com,Official website,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://annotorious.dev/,Annotorious V3,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://colorlib.com/wp/free-angular-templates/,Colorlib,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://graph.microsoft.io,Microsoft Graph,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://handsontable.com/docs/javascript-data-grid/angular-installation/,handsontable,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.elastic.co/guide/en/apm/agent/rum-js/current/angular-integration.html,Elastic,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.locatorjs.com/,LocatorJS,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://trends.builtwith.com/framework/Angular,builtwith trends,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular-material.dev/home,Angular Material Dev,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.framework.dev/,framework.dev,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://material.angular.io/cdk/a11y/overview,Angular Material CDK - a11y,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://unlayer.com/embed,Unlayer,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://esbuild.github.io/,esbuild,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://date-fns.org/,Date-fns,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://vercel.com/solutions/angular,Vercel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angularacademy.ca/,Angular Academy,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://tanstack.com/query/latest/docs/framework/angular/overview,Angular Query,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://nartc.me/,Chau Tran,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://promptgenius.net/cursorrules/frameworks/frontend/angular,Angular code editor rules,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angularexperts.io/products/ebook-signals,Angular Signals Masterclass,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://richtexteditor.com/,RichTextEditor,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://studiohyperdrive.be/,Studio Hyperdrive,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angularminds.com/blog,Angular Minds,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://forge.deejayy.hu/angular-packages/runtime-localizer,runtime-localizer,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://wijmo.com/products/wijmo-5/,Wijmo 5,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.npmjs.com/package/@dytesdk/web-core,@dytesdk/web-core,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://pocketbase.io/docs,PocketBase API,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ionicacademy.com/,Ionic Academy,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/reference/migrations,Official migrations reference,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angularbootcamp.com,Angular Boot Camp,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://primeng.org/guides/accessibility,PrimeNG,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://liveloveapp.com/,liveloveapp,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/watch?v=cRC9DlH45lA,Angular: The Documentary | An origin story,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular,Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.shipui.com,official website,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://developers.livechat.com/,LiveChat,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ui.angular-material.dev/home,Angular Material Dev UI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.augmentcode.com/,augment code,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://uppy.io/docs/angular/,integrates seamlessly with Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.amazon.com/dp/B0FF9LSHJN/,Mastering Angular Signals: A Practical Guide to Modern Reactivity, Performance, and Migration,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://supabase.com/docs/guides/getting-started/tutorials/with-angular,Supabase,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://socket.io/,Socket.IO,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://firebase.google.com/docs/app-hosting/get-started,Firebase Hosting,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://blog.mgechev.com/,Minko Gechev,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://stateless.co/hal_specification.html,HAL-formatted,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://nx.dev/nx-api/angular,nx,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.simplilearn.com/angular-certification-training-course,Simplilearn,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.dyte.io/guides/livestream/client-setup/angular,quickstart,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://surrealdb.com/,SurrealDB,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://featurit.com/,FeaturIT,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://authon.dev/,Authon,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ngtips.com/,Angular Tips,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.npmjs.com/package/@transifex/angular,Transifex library extension,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://unpic.pics/img/angular/,unpic,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://supertokens.com,SuperTokens,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://taiga-ui.dev/,Taiga UI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://v17.angular.io/guide/cheatsheet,Past Angular Cheatsheet,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.cometchat.com/,CometChat,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.dropzone.dev/,Dropzone,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://sharp.pixelplumbing.com/,Sharp,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://skulljs.github.io/,skulljs,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.ngxs.io/,Official website,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://developers.transifex.com/docs/javascript-sdk,Transifex Native JavaScript SDK,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angulartalents.com/,Angular Talents,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API,Speculation Rules API,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://offering.solutions/blog/,Offering Solutions,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://practical-angular.donaldmurillo.com/,Practical Angular Guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://refactoring.guru/design-patterns/mediator,mediator,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angulararchitects.io/en/blog/,Angular Architects,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.npmjs.com/package/ngx-simple-countdown,ngx-simple-countdown,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://design.youzan.com/,Zan Design System,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/ai,Official AI docs,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://infinum.com/,Infinum,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://floating-ui.com/,Floating UI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://eliteionic.com/,Elite Ionic,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://viz-js.com/,viz.js,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://testing-angular.com,Testing Angular – A Guide to Robust Angular Applications,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ui-router.github.io,UI-Router for Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angular.courses/caniuse/features,Angular Caniuse,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://roadmap.sh/angular,Angular Developer Roadmap,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085,Marmicode,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://gojs.net/latest/index.html,GoJS,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://testcafe.io/,testcafe,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.netlify.com/frameworks/angular/,Netlify,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://yaagoub.org/,yaagoub,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://design-system.alpha.canada.ca/,GC Design System,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.corbado.com/corbado-complete/frontend-integration/angular,Integrate,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://riegler.fr/,Matthieu Riegler,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://bugfender.com/platforms/angular-logging/,Bugfender,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://gui.expert/getstarted/angular/,Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://pptr.dev/guides/ng-schematics,Puppeteer Angular Schematic,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://danielk.tech/,Daniel Kreider,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ionicstart.com/,Ionic Start,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://supertokens.com/docs/quickstart/frontend-setup,Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://bneuhausz.dev/blog,Bálint Neuhausz,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ng-bootstrap.github.io,ng-bootstrap,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://codeberg.org/tomaszatoo/ngx-user-camera,ngx-user-camera,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://builderkit.dev/,BuilderKit,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://zerotomastery.io/cheatsheets/angular-cheat-sheet/,ZeroToMastery Angular Cheatsheet,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://codingfleet.com/code-generator/angular/,CodingFleet,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://graphviz.org/doc/info/lang.html,DOT graphs,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://esbuild.github.io/analyze/,esbuild Bundle Size Analyzer,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://bootify.io,Bootify.io,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ng.guide/,ng.guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/ai/mcp,Official Angular CLI MCP Server Setup,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.amadousall.com/,Amadou Sall,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.iter-idea.com/,IDEA's,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://forge.deejayy.hu/angular-packages/api-caller,api-caller,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://zerops.io/,Zerops,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://depfixer.com/sample-report/angular,Depfixer,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.filestack.com/,Filestack,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://flowbite.com/docs/getting-started/angular/,Flowbite,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.jhipster.tech,JHipster,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ultimatecourses.com/courses/angular,Ultimate Courses,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ngx-meta.dev,@davidlj95/ngx-meta,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.builder.io/blog/figma-to-angular,Figma to Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/tools/devtools,Angular Dev Tools,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.cy2pw.com/,Cypress to Playwright,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://medium.com/@thomas.laforge,Thomas Laforge,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://gumroad.com/software-development/web-development/javascript?tags=angular,GumRoad,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angulararchitects.io/en/ebooks/modern-angular/?book,Modern Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ngxui.com/docs,ngx-ui,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://ng.jchpro.pl/,example page,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://dev.fingerprint.com/docs/angular,fingerprint,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://houseofangular.io/blog/,House of Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://discord.com/invite/angular,Angular Discord Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://store.crowdin.com/search?query=angular,integrations,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://workshops.de/seminare-schulungen-kurse/angular-typescript/,Workshops.DE (Germany),https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://houseofangular.io/the-ultimate-guide-to-angular-evolution/,Ultimate Guide to Angular Evolution,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.thisdot.co/blog?tags=angular,thisdot labs,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://gitlab.com/rxap/packages,rxap,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://interop.io/,IO Connect,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://flyonui.com/framework-integrations/angular/,Integrate,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://developers.frontegg.com/ciam/sdks/frontend/angular/hosted-login,quickstart,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://bryntum.com/,bryntum,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://doloc.io/,doloc,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.manning.com/,Manning,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://doloc.io/getting-started/frameworks/angular/,Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/style-guide,Official Angular style guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+http://fabricjs.com/,Fabric,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/,Micro Frontends and Moduliths with Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular,Metronic,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.yeschat.ai/gpts-ZxX35UdX-Angular-Ninja-%F0%9F%A5%B7,Yes Chat AI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://fusionauth.io/docs/sdks/angular-sdk,FusionAuth Angular SDK,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.trustcaptcha.com/en,Trustcaptcha,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.zipy.ai/online-tools/ai-angular-code-generator,Zipy,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.spotflow.one/,Spotflow,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.hanko.io/quickstarts/frontend/angular,quickstart guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://infinum.com/handbook/frontend/angular/introduction,Infinum,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://mkosir.github.io/typescript-style-guide/,TypeScript style guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://help.heap.io/hc/en-us/articles/37271957075345-Using-Heap-With-Popular-Web-Frameworks-Libraries,Heap,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@Angular,Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@ngconfonline,NG CONF,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.hyperpay.com/,HyperPay,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@procademy,Procademy,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://yandex.cloud/en/services/smartcaptcha,Yandex SmartCaptcha,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/@MonsterlessonsAcademy,Monsterlessons Academy,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.mercadopago.com.ar/,Mercado Pago,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://naver.github.io/egjs-flicking/docs/quick-start,egjs-flicking,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://cozydevkit.com/,CozyDevKit,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://stripe.com/docs/js,StripeJS,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.devkitly.io/,devkitly,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://stripe.com/docs/stripe-js,Stripe Elements,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://fslightbox.com/,Fullscreen Lightbox,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://community.pega.com/marketplace/component/angular-sdk,Pega,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.nblocks.dev/,nblocks,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.gooddata.com/blog/frontend-integration-series-angular/,GoodData,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-in-angular,Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.nativescript.org,NativeScript,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular,integrate,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.aikido.dev/,Aikido,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://nzoni.app/,Nzoni,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://docs.strich.io/angular-integration-guide.html,Strich,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular.dev/best-practices/security,Angular Security,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.amcharts.com/docs/v5/getting-started/integrations/angular/,Angular integration guide,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angularstart.com/,Angular Start,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.angulartraining.com/,Angular Training,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angular-ui.com/,Angular UI,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://prodigious-knitter-4508.kit.com/subscribe,Weekly Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://angularair.com/,Angular Air,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://www.youtube.com/playlist?list=PLYJFRoKhU5SNcu5GBjIn4X3oVpy4fP1wV,Angular Master Podcast,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://open.spotify.com/show/1PrLErQHBqBhZsRV1KHhGM,Angular Plus Show,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://podcasts.apple.com/us/podcast/angularidades/id1702444448,Angularidades,https://github.com/PatrickJS/awesome-angular#readme,Angular
+https://bsky.app/starter-pack/brandonroberts.dev/3l7lzgkwkqu2n,Angular Starter Pack by @brandonroberts.dev,https://github.com/PatrickJS/awesome-angular#readme,Angular

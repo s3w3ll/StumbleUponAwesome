@@ -1,0 +1,111 @@
+https://www.w3.org/TR/webgpu/,,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.w3.org/,W3C,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://gpuweb.github.io/gpuweb/explainer/,Official WebGPU Explainer,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.w3.org/standards/history/webgpu/,History,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://gpuweb.github.io/gpuweb/,Editor's Draft,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.w3.org/TR/WGSL/,Working Draft,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://gpuweb.github.io/gpuweb/wgsl/,Editor's Draft,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://webgpu.rocks/,API quick reference and documentation,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API,MDN,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://developer.chrome.com/docs/web-platform/webgpu,Google Developers Site,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://awesomeopensource.com/projects/webgpu,107 WebGPU Projects on GitHub,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.reddit.com/r/webgpu/,r/WebGPU - Reddit,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://compute.toys/,compute.toys,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://shadeup.dev/,Shadeup,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://google.github.io/tour-of-wgsl/,Tour of WGSL,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.webgpuexperts.com/blog,WebGPU Experts Blog,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://caniuse.com/webgpu,WebGPU browser support overview,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.google.com/chrome/,Desktop,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://developer.chrome.com/blog/new-in-webgpu-121,Android,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.microsoft.com/edge/,Edge,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://nightly.mozilla.org/,Firefox Nightly,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://developer.apple.com/safari/resources/,macOS Safari TP,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html,iOS/iPadOS Safari,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://en.wikipedia.org/wiki/WebGPU,WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/,A Taste of WebGPU in Firefox,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://kvark.github.io/web/gpu/native/2020/05/03/point-of-webgpu-native,Point of WebGPU native,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://dmnsgn.medium.com/13c4ba049039,Graphics on the web and beyond with WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://dmnsgn.medium.com/,Damien Seguin,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://kvark.github.io/web/gpu/gecko/2019/12/10/gecko-webgpu,Implementing WebGPU in Gecko,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.construct.net/en/blogs/ashleys-blog-2/webgl-webgpu-construct-1519,From WebGL to WebGPU in Construct,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.construct.net/en/blogs/ashleys-blog-2/brief-history-graphics-web-1517,A brief history of graphics on the web and WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://toji.github.io/webgpu-best-practices/img-textures.html,WebGPU texture best practices,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://toji.github.io/webgpu-best-practices/buffer-uploads.html,WebGPU Buffer upload best practices,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://gfx-rs.github.io/2020/04/21/wgpu-web,wgpu-rs on the web,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://tvm.apache.org/2020/05/14/compiling-machine-learning-to-webassembly-and-webgpu,Compiling Machine Learning to WASM and WebGPU with Apache TVM,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://paulbutler.org/2020/the-webassembly-app-gap/,The WebAssembly App Gap,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/,Next-generation 3D Graphics on the web,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://toji.github.io/webgpu-gltf-case-study/,Efficently rendering glTF models - A WebGPU Case Study,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://surma.dev/things/webgpu/index.html,WebGPU - All of the cores, none of the canvas,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://webgpufundamentals.org/,WebGPU Fundamentals,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://tchayen.com/pbr-in-webgpu-implementation-details,PBR in WebGPU: implementation details,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu,I want to talk about WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://mastodon.social/@mcc,Andi,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://developer.chrome.com/blog/from-webgl-to-webgpu/,From WebGL to WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://amirsojoodi.github.io/posts/WebGPU-for-Dummies/,WebGPU for Dummies,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://amirsojoodi.github.io/posts/WebGPU-Timestamp/,WebGPU Timestamps,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://developer.chrome.com/blog/io24-webassembly-webgpu-2,WebAssembly and WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://alain.xyz/blog/raw-webgpu,Raw WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://dev.to/ndesmic/basic-webgpu-rendering-2kob,Basic WebGPU Rendering,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://web.dev/gpu-compute/,Get started with GPU Compute on the Web,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://metalbyexample.com/webgpu-part-one/,WebGPU for Metal Developers Part 1,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://metalbyexample.com/webgpu-part-two/,Part 2,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.willusher.io/graphics/2023/04/10/0-to-gltf-triangle/,From 0 to glTF with WebGPU: Series,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://sotrh.github.io/learn-wgpu/,Learn wgpu,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/,Real-Time Ray-Tracing in WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://arche.graphics/docs/intro,WebGPU Engine Development (Chinese/English),https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://eliemichel.github.io/LearnWebGPU,Learn WebGPU for native C++ development,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://books.google.com/books?id=tPQyEAAAQBAJ&printsec=frontcover,Practical WebGPU Graphics,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://doc.babylonjs.com/setup/support/webGPU,Babylon.js,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://usegpu.live,Use.GPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://typegpu.com/,TypeGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://ludicon.com/sparkjs/,spark.js,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://zephyr3d.org/,zephyr3d,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://crates.io/crates/wgpu-profiler,webgpu-profiler,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://webgpu.github.io/webgpu-samples/,WebGPU Samples,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://toji.github.io/webgpu-test/,WebGPU first-person exploration of the Sponza Palace,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://toji.github.io/webgpu-clustered-shading/,WebGPU Clustered Shading,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://toji.github.io/webgpu-metaballs/,WebGPU Metaballs,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://toji.github.io/webgpu-external-test/,WebGPU External Texture Test,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://takahirox.github.io/online-wgsl-editor/,Online WGSL Editor,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://threejs.org/examples/?q=webgpu,Three.js WebGPU examples,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://spookyball.com,Spookyball,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://playcanvas.vercel.app/,PlayCanvas WebGPU Demos,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://play.projectprismatic.com,Project Prismatic,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://hsimpson.github.io/webgpu-particles/,WebGPU Particles,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://laskin.live,An online WebGPU calculator,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://tsherif.github.io/webgpu-examples/,WebGPU Examples,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://wgpu.rs/examples/,wgpu examples,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://wgpu.rs,wgpu,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.babylonjs.com/Demos/WebGPU/forestWebGPU.html,Forest WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://06wj.github.io/WebGPU-Playground/,WebGPU-Playground,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://hello-webgpu-compute.glitch.me,WebGPU Compute 101 Demo,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://kishimisu.github.io/WebGPU-Fluid-Simulation/,WebGPU 2D Fluid Simulation,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://s-macke.github.io/WebGPU-Lab/,WebGPU-Lab,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.wgsl.dev/editor,WebGPU Live Demo Editor,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://thimbleberry.dev,Thimbleberry Image Transform Demo,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://vis.social/@mighdoll,mighdoll,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://shadowray.gl,Shadowray Playground,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://mlc.ai/web-llm/,WebLLM,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://deepkolos.github.io/shader-graph-wgsl/,Shader Graph WGSL,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://gpuharbor.ucsc.edu/webgpu-mem-testing/,WebGPU Memory Model Testing,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://conorpo.github.io/marching-cubes-webgpu/,Marching Cubes WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://iamferm.in/webgpu-path-tracing/,WebGPU Path Tracing,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://ludicon.com/sparkjs/gltf-demo/,Real-Time GPU Texture Compression Demo,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.youtube.com/watch?v=A2FxeEl4nWw,From WebGL to WebGPU: A perspective from Babylon js by David Catuhe,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.youtube.com/playlist?list=PLMinhigDWz6f5Nm_GYGREYnaf9mzoNdjX,WebGL to WebGPU (playlist),https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.youtube.com/c/SketchpunkLabs,SketchpunkLabs,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.youtube.com/playlist?list=PLnTPVrg9-a1Ou2KXUniDr1HC7qgL2JD2x,WebGPU (playlist),https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.youtube.com/channel/UCBTwKzJg-BR56tKWO5CT7XA,Genka,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.youtube.com/playlist?list=PL_UrKDEhALdKh0118flOjuAnVIGKFUJXN,WebGPU Graphics Programming Step-by-Step (playlist),https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.youtube.com/channel/UCg14XfqXim0vpgabU3T7tRg,Practical Programming with Dr. Xu,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.youtube.com/watch?v=m6T-Mq1BPXg,Introducing WebGPU: Unlocking modern GPU access for JavaScript,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.youtube.com/watch?v=DdMl4E7xQEY,A proper look at WebGPU for native games,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.madrigalgames.com/,Madrigal,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://fosdem.org/2020/schedule/event/rust_webgpu/,Building WebGPU with Rust,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://www.w3.org/community/gpu/,GPU for the web community group,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://lists.w3.org/Archives/Public/public-gpu/,Public GPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://news.ycombinator.com/item?id=23079200,YC Point of WebGPU on native,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&component=WebGPU,Webkit,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Graphics%3A%20WebGPU,Firefox,https://github.com/mikbry/awesome-webgpu#readme,WebGPU
+https://bugs.chromium.org/p/chromium/issues/list?q=component:Blink%3EWebGPU,Chromium,https://github.com/mikbry/awesome-webgpu#readme,WebGPU

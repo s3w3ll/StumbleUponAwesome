@@ -1,0 +1,47 @@
+https://www.oracle.com/java/technologies/javameoverview.html,,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition,(J2ME),https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://hstsethi.vercel.app/posts/programming/awesome-j2me,this blog post,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://retrospect.hackclub.com/j2me,Hackclub,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://discord.gg/8TgbHAG,Kahvibreak Discord,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://keitaiwiki.com/wiki/KeitaiWiki,Ketai Wiki,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://reddit.com/r/j2megaming,r/J2MEGaming,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://j2megamescript.sourceforge.net/,J2ME Game Script Engine,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://gitea.bedohswe.eu.org/pixtaded/j2me-hello-gradle,J2ME Gradle template,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://en.wikipedia.org/wiki/Lightweight_User_Interface_Toolkit,Lightweight User Interface Toolkit(LWUIT),https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://archive.eclipse.org/eclipse/downloads,Eclipse,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://archive.org/download/netbeans-olds/6.1,NetBeans 6.1,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+http://web.archive.org/web/20070210202710/http://www.extransit.com,Extra Transit Mobile Interaction Suite,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.hecl.org,Hecl,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://web.archive.org/web/20070314004015/http://innaworks.com/mBooster.html,MBooster,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://web.archive.org/web/20061225061546/http://j2me-device-db.sourceforge.net/pmwiki/index.php?n=Main.HomePage,Micro Code,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6,Sony Ericsson,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://dl.acm.org/doi/abs/10.1145/1462802.1462805,Soap ME,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html,Sun Java Me SDK,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://archive.org/details/sun_java_me_sdk-3_0-win,mirror,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://sourceforge.net/projects/pspkvm/,PSPKvm,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.npci.org.in/what-we-do/upi-123pay/product-overview,UPI 123PAY,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://mobilephonemuseum.com/about,Mobile Phone Museum,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://archive.org/details/j2me-emuSoftware,J2ME Emu Software,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+http://arktos.se/meboy,MeBoy,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://ftp.opera.com/pub/opera,Opera FTP Archive,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://bluemaxima.org/kahvibreak,Kahvibreak,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.mobygames.com/platform/j2me,Moby Games,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://archive.org/details/96x65pixels_j2me,The "New" J2ME software archive,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.myabandonware.com/browse/platform/j2me,J2ME Games at MyAbandonware,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.speedrun.com/games?platform=nzel5r6q,J2ME Games Speedruns,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://cellphonegamespreservation.miraheze.org/wiki/Main_Page,Cell Phone Game Preservation Wiki,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://j2me.fandom.com/wiki,J2ME Fandom,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://lpcwiki.miraheze.org,Legacy Portable Computing Wiki,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://java-decompiler.github.io,Jd Decompiler,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.javadecompilers.com,Javadecompilers.com,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.oreilly.com/library/view/j2me-in-a/059600253X,J2ME In Nutshell,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://nikita36078.github.io/J2ME_Docs,J2ME Docs,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/html/toc.htm,Java ME 3.4 Developer's Guide for NetBeans on Windows,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.slideshare.net/nokia-developer,Nokia/Microsoft Mobile Developer Slideshare,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://doi.org/10.1109/EmbeddedCom-ScalCom.2009.21,A Testing Method for Java ME Software,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://ieeexplore.ieee.org/abstract/document/5341641,Automated GUI Testing for J2ME Software Based on FSM,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://dl.acm.org/doi/abs/10.5555/507165,Developing Jini applications using J2ME technology,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.cs.sjsu.edu/faculty/pollett/masters/Semesters/Fall03/Rekha/CS297Report.pdf,Distributed Gaming using J2ME and XML,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://ieeexplore.ieee.org/abstract/document/4446557,Experiences of Implementing BitTorrent on Java ME Platform,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://www.mooreds.com/midp/midp.htm,Networked J2ME Applications,https://github.com/hstsethi/awesome-j2me#readme,J2ME
+https://jcp.org/en/jsr/detail?id=184,JSR 184: M3G Specification,https://github.com/hstsethi/awesome-j2me#readme,J2ME

@@ -1,0 +1,2 @@
+https://doi.org/10.1186/s12911-024-02459-6,Assessing the research landscape and clinical utility of large language models: a scoping review,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction
+https://doi.org/10.1016/s2589-7500(24)00061-x,Ethical and regulatory challenges of large language models in medicine,https://github.com/caufieldjh/awesome-bioie#readme,Biomedical Information Extraction

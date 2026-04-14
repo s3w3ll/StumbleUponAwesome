@@ -1,1 +1,2 @@
-https://juliaobserver.com,julia-observer,https://github.com/svaksha/Julia.jl#readme,Julia error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
+http://www.gnu.org/licenses/agpl-3.0.html,AGPLv3,https://github.com/svaksha/Julia.jl#readme,Julia error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://juliaobserver.com,julia-observer,https://github.com/svaksha/Julia.jl#readme,Julia error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

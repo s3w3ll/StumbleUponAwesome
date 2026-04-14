@@ -1,0 +1,46 @@
+https://chat.openai.com,ChatGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://nitric.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=sindresorhus&utm_source=github,Effortless backends with infrastructure from code
+			
+				An open-source framework that supports any programming language, cloud provider, or deployment automation tool.,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://openai.com/blog/chatgpt,Introduction,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://sindresorhus.gumroad.com/l/quickgpt,QuickGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://www.macgpt.com,MacGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://manuelkehl.gumroad.com/l/chatterbox,Chatterbox,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://writemage.com,WriteMage,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://palettebrain.com,PaletteBrain,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://untimelyunicorn.gumroad.com/l/machato,Machato,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://wondergpt.co,wonderGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://apps.apple.com/app/id6446047813,Petey,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://intellibar.app,IntelliBar,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://sindresorhus.com/ask-ai,Ask AI,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://apps.apple.com/app/id1638522784,Short Circuit,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://play.google.com/store/apps/details?id=studio.muggle.chatboost,ChatBoost,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://apps.apple.com/app/id1662283032,Developer Duck,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://hellohistory.ai,Hello History,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://easychat-ai.app,EasyChat AI,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://pgmagic.app,pgMagic,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://atua.app,Atua,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://prompt.16x.engineer,16x Prompt,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://www.chatbar.top,AI Chat,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://screensnap.ai,ScreenSnapAI,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://www.typingmind.com,TypingMind,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://chatkit.app,ChatKit,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://www.humata.ai,Humata.ai,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://epicmusicquiz.com,Epic Music Quiz,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://flexgpt.io,FlexGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://learngpt.art,LearnGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://wielded.com,Wielded,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://pricepertoken.com,Price Per Token,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://taskade.com,Taskade,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://chatgpt4google.com,ChatGPT for Google,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc,Superpower ChatGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://chrome.google.com/webstore/detail/fancygpt/meonalmakdjaojaoipfhahcfccoecegk,FancyGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://chrome.google.com/webstore/detail/writingmateai-1-chatgpt-a/iihamopomflffiecicbgelncanmfionp,WritingMate.ai,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://chrome.google.com/webstore/detail/chatgpt-for-chrome-youtub/cdjifpfganmhoojfclednjdnnpooaojb,ChatGPT for Chrome & YouTube Summary,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://chromewebstore.google.com/detail/tubesum/hkhihfjmjgledkdhmlohldmpnolcoabm,YouTube Summary by TubeSum,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://www.googlegpt.io,GoogleGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://workspace.google.com/u/0/marketplace/app/docgpt_ai_writer_for_docs/466607203252,DocGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://www.plusdocs.com/plus-ai-for-google-slides,Plus AI for Google Slides,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://genez.io/blog/create-your-first-app-using-chatgpt/,Create your first app using ChatGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://umaar.com/dev-tips/269-web-streams-openai/,Stream data from ChatGPT with JavaScript,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT
+https://www.reddit.com/r/ChatGPT/,Reddit,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT

@@ -1,0 +1,5 @@
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/,Firefox,https://github.com/slevithan/awesome-regex#readme,Regex error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://regex.rip/,regex.rip,https://github.com/slevithan/awesome-regex#readme,Regex error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.hyperscan.io/,Introduction,https://github.com/slevithan/awesome-regex#readme,Regex error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://regexr-cn.com/,fork,https://github.com/slevithan/awesome-regex#readme,Regex error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1018)
+https://dev.mysql.com/doc/refman/en/regexp.html,Regular Expressions,https://github.com/slevithan/awesome-regex#readme,Regex error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

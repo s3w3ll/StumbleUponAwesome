@@ -1,0 +1,16 @@
+https://plone.org,,https://github.com/collective/awesome-plone#readme,Plone
+https://pypi.org/search/?q=&o=&c=Framework+%3A%3A+Plone,Plone on PyPi,https://github.com/collective/awesome-plone#readme,Plone
+https://pag.derico.tech,https://pag.derico.tech,https://github.com/collective/awesome-plone#readme,Plone
+https://appyframe.work/,https://appyframe.work/,https://github.com/collective/awesome-plone#readme,Plone
+https://fullcalendar.io,https://fullcalendar.io,https://github.com/collective/awesome-plone#readme,Plone
+https://wavesurfer-js.org,https://wavesurfer-js.org,https://github.com/collective/awesome-plone#readme,Plone
+https://pypi.org/project/dm.zope.saml2/,dm.zope.saml2,https://github.com/collective/awesome-plone#readme,Plone
+https://pypi.org/project/dm.historical,dm.historical,https://github.com/collective/awesome-plone#readme,Plone
+https://pypi.org/search/?c=Framework+%3A%3A+Plone,PyPi,https://github.com/collective/awesome-plone#readme,Plone
+https://community.plone.org,community.plone.org,https://github.com/collective/awesome-plone#readme,Plone
+https://discord.gg/zFY3EBbjaj,Discord chat,https://github.com/collective/awesome-plone#readme,Plone
+https://plone.org/support,Plone support,https://github.com/collective/awesome-plone#readme,Plone
+https://docs.plone.org,docs.plone.org,https://github.com/collective/awesome-plone#readme,Plone
+https://6.dev-docs.plone.org,Plone 6 Documentation,https://github.com/collective/awesome-plone#readme,Plone
+https://training.plone.org,training.plone.org,https://github.com/collective/awesome-plone#readme,Plone
+https://6.dev-docs.plone.org/plone.api/index.html,plone.api,https://github.com/collective/awesome-plone#readme,Plone

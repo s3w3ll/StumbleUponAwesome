@@ -1,0 +1,15 @@
+https://npmtrends.com/preact-vs-hyperapp-vs-redom,500x less popular than preact.,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://npmtrends.com/@arrow-js/core-vs-fre-vs-hyperapp-vs-redom-vs-superfine-vs-vanjs-core,openly experimental,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://developer.mozilla.org/en-US/docs/Web/API/URL,URL API,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://bundlephobia.com/package/date-fns,most functions,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat,Intl.DateTimeFormat,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://bundlephobia.com/package/remeda,(list).,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://bundlephobia.com/package/rambda,(list).,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://anguscroll.com/just/,(list).,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://developer.mozilla.org/en-US/docs/Web/API/Crypto/randomUUID,native crypto.randomUUID,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://caniuse.com/mdn-api_crypto_randomuuid,OK support.,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://kmwllc.com/index.php/2020/03/20/understanding-tf-idf-and-bm-25/,ranking,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://leeoniya.github.io/uFuzzy/demos/compare.html?libs=js-search,ndx,Wade&search=twilight%20sag,(compare),https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://leeoniya.github.io/uFuzzy/demos/compare.html?libs=js-search,Wade,ndx&search=twilight%20sag,(compare),https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://vijinimallawaarachchi.com/2017/05/09/porter-stemming-algorithm/,Porter stemmers,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS
+https://blog.thoughtspile.tech,Vladimir Klepov,https://github.com/thoughtspile/awesome-tiny-js#readme,Tiny JS

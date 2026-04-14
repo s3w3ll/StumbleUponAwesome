@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=8hly31xKli0,5 hours,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://www.topcoder.com/,TopCoder,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm,MIT - 6-00sc,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://youtu.be/xwI5OBEnsZU?si=W3CduIEmUehJERHk,49 hours,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://www.amazon.com/Introduction-Design-Analysis-Algorithms-3rd/dp/0132316811,Levitin. Introduction to Algorithms,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://www.algorithmsilluminated.org/,Tim Roughgarden. Algorithms Illuminated,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+http://visualgo.net,VisuAlgo,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/,Performance Engineering of Software Systems. MIT OCW,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://see-algorithms.com/,See Algorithms,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://uva.onlinejudge.org/,UVA,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://www.wileyindia.com/cloud-and-distributed-computing-algorithms-and-systems.html,Cloud and Distributed Computing: Algorithms and Systems by Misra & Patel,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://cp-algorithms.com/,CP-Algorithms,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://cpbook.net/,Steven Halim. Competitive Programming book,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://codeforces.com/blog/entry/23054,An awesome list for competitive programming!,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://www.oreilly.com/library/view/postgresql-query-optimization/9781484268858/,PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://www.codechef.com/contests,Code Chef,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://www.manning.com/books/fabulous-adventures-in-data-structures-and-algorithms,Fabulous Adventures in Data Structures and Algorithms,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+http://codeforces.com/,Codeforces,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://algs4.cs.princeton.edu/cheatsheet/,Princeton DS Cheat Sheet,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://petr-mitrichev.blogspot.com/,Algorithms Weekly,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://tanujkhattar.wordpress.com/,Algorithm Tutorials by Tanuj Khattar,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+http://www-cs-faculty.stanford.edu/~uno/taocp.html,The Art of Computer Programming,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+http://www.algorist.com/,The Algorithm Design Manual,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/,MIT - 6-006,https://github.com/tayllan/awesome-algorithms#readme,Algorithms
+https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video_galleries/video-lectures/,MIT - 6-046j,https://github.com/tayllan/awesome-algorithms#readme,Algorithms

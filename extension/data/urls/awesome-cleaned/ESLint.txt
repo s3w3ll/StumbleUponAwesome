@@ -1,0 +1,13 @@
+http://eslint.org,,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://editorconfig.org/,.editorconfig,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript,Wikimedia's style guide,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://typescript-eslint.io/packages/parser,TypeScript,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://www.mediawiki.org/,MediaWiki,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://gitlab.com/remcohaszing/eslint-formatter-gitlab,gitlab,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://docs.astro.build/en/core-concepts/astro-components/,Astro components,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://typescript-eslint.io,TypeScript,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://makenowjust-labs.github.io/recheck/docs/usage/as-eslint-plugin/,ReDoS,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://eslint.style/,ESLint Stylistic,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://eslint.org/blog/2023/10/deprecating-formatting-rules/,Formatting and stylistic ESLint core rules moved to this project and are maintained by the community.,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/,Writing a rule to spot undeclared props hiding in plain sight,https://github.com/dustinspecker/awesome-eslint#readme,ESLint
+https://adropincalm.com/blog/dear-old-eslint/,Dear Old ESLint,https://github.com/dustinspecker/awesome-eslint#readme,ESLint

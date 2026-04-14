@@ -1,3 +1,10 @@
-http://www.cdnplanet.com/,CDNPlanet,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 404: 'OK'> | reason: OK
-http://jsperf.com/,JSPerf,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-http://spriteme.org/,Spriteme,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.w3.org/TR/resource-hints/,Resource Hints,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang,Akamai mPulse Boomerang,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://optipng.sourceforge.net/,OptiPNG,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.w3.org/webperf/,Web Performance Working Group,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.w3.org/TR/resource-timing/,Resource Timing,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.w3.org/TR/performance-timeline/,Performance Timeline,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://yandex.ru/dev/jslibs/,Yandex CDN,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+http://www.cdnplanet.com/,CDNPlanet,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/grunt-sprite-css-replace,Grunt-sprite-css-replace,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://zerosprites.com/,ZeroSprites,https://github.com/davidsonfellipe/awesome-wpo#readme,Web Performance Optimization error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

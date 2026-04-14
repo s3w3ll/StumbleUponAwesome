@@ -1,1 +1,5 @@
-https://crossdart.info,Crossdart,https://github.com/yissachar/awesome-dart#readme,Dart error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://mdl.mikemitterer.at//,MDL/Dart,https://github.com/yissachar/awesome-dart#readme,Dart error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://crossdart.info,Crossdart,https://github.com/yissachar/awesome-dart#readme,Dart error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://gitter.im/dart-lang/home,Gitter Chat Channel,https://github.com/yissachar/awesome-dart#readme,Dart error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://cloudsmith.io/l/dart-repository/,Cloudsmith,https://github.com/yissachar/awesome-dart#readme,Dart error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/,Getting Started with Dart & React,https://github.com/yissachar/awesome-dart#readme,Dart error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed

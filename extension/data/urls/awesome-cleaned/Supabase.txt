@@ -1,0 +1,34 @@
+https://supastarter.dev,Supastarter,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://dshukertjr.dev/,Tyler Shukert,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://usebasejump.com,Basejump,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://supabase.com/blog/postgres-wasm,PostgreSQL WebAssembly by Snaplet and Supabase,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://www.youtube.com/watch?v=QAm1x7KaLq4&list=PL5S4mPUpp4OuzQN-a_FY3OZQuYo4NmXvb,Supabase Developer Stories,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://www.supanext.com/,Supanext,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://www.youtube.com/watch?v=UiANV3uqT04&t=6841s,CityJS 2022 Talk on Building Billy with Supabase,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://supabase-schema.vercel.app/,Supabase Schema,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://pgflow.dev,Edge Worker,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://supabase.com/docs/guides/migrations/heroku,a guide,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase,How to market to developers on Twitter: Learnings from 4 months of Supabase feed,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224,Build a Full-Stack App with Next.js, Supabase & Prisma,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://esteetey.dev/,Estee Tey,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://retool.com/api-generator,Retool REST API data generator,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://supabase.com/docs/reference/cli,Supabase CLI,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959,Cache Supabase data at the Edge with Cloudflare Workers and KV Storage,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://www.youtube.com/watch?v=8tfdY0Sf2rA,Build An Image Gallery With Supabase Storage and React,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/,How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase),https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://t.co/sqmDQahsA4,Cloudflare x Supabase Developer Meetup,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://usebasejump.com/blog/testing-on-supabase-with-pgtap,Ultimate guide to testing on Supabase using pgTAP,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://database.dev/,Supabase SQL,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://www.youtube.com/watch?v=W-D6h7Jne18,Vue JS Essentials: A Beginners Series on Pinia, Vitest, and Supabase,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://emergence-engineering.com/blog/firestore-supabase-migration,Migrating from Firebase to Supabase: Lessons Learned,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://www.madewithsupabase.com/,MadeWithSupabase,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://www.jakeprins.com/blog/supabase-vs-firebase-2024,Supabase vs Firebase: Choosing the Right Backend for Your Project,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://podcast.bitreach.io/episodes/product-market-fit-is-one-pivot-away-with-ant-wilson-founder-of-supabase,PMF is one pivot away with Ant Wilson from Supabase,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://youtu.be/WiwfiVdfRIc,Is Supabase Legit? Firebase Alternative Breakdown,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://www.youtube.com/watch?v=IJoc6dKy03c&list=PL5S4mPUpp4Ouyw8bMupHgxC3VL9BLZzvV,Supabase Happy Hours,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://directus.io/guides/directus-plus-supabase/,How to Manage Your Supabase Database with Directus,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://thorweb.dev/,Thor Schaeff,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://jonmeyers.io/,Jon Meyers,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://retool.com/blog/supabase-tutorial-admin-panel/,Supabase admin panel tutorial with Retool,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://philipp.steinroetter.com/posts/supabase-turborepo,Set up a monorepo with Supabase and Turborepo,https://github.com/lyqht/awesome-supabase#readme,Supabase
+https://www.permit.io/blog/how-to-implement-rbac-in-supabase,How to Implement RBAC (Role-Based Access Control) in Supabase,https://github.com/lyqht/awesome-supabase#readme,Supabase

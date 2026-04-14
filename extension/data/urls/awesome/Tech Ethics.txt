@@ -1,0 +1,38 @@
+https://www.tech-transformed.com/product-development/,Consequence Scanning,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://5rightsfoundation.com/resource/children-ai-design-code/,Children & AI Design Code,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://5rightsfoundation.com/resource/tick-to-agree-age-appropriate-presentation-of-published-terms/,Tick to Agree – Age appropriate presentation of published terms,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://page.ideo.com/download-ai-ethics-cards,IDEO's AI ethics cards,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://permacomputing.net/Principles/,Permacomputing design principles,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://humanewebmanifesto.com/,Manifesto for a Humane Web,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://responsibletech.work,The ResponsibleTech.Work framework,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://spotify.design/article/investigating-consequences-with-our-ethics-assessment,Spotify Ethics Guild's ethics assessment,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://summerchild.dev/,Sweet summer child score,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://tethix.co/paper-sparks/,Tethix Elemental Sparks,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://en.wikipedia.org/wiki/Paper_fortune_teller,chatterboxes,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://tarotcardsoftech.artefactgroup.com/,The Tarot Cards of Tech,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.techwontsave.us,Tech Won't Save Us podcast,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://revolution.social,Revolution.Social podcast,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.oreilly.com/library/view/ethics-and-data/9781492043898/,Ethics and Data Science report,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://resources.oreilly.com/examples/0636920203964/,read online for free,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.machine-ethics.net,Machine Ethics Podcast,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://online.stanford.edu/courses/soe-xetech0001-ethics-technology-public-policy-practitioners,Ethics, Technology + Public Policy for Practitioners,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.sigcas.org,ACM SIGCAS,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.adalovelaceinstitute.org,The Ada Lovelace Institute,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.ajl.org,The Algorithmic Justice League,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://alltechishuman.org/,All Tech Is Human,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.humanetech.com/,Center for Humane Technology,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://designjustice.org/,The Design Justice Network,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://designjustice.org/principles,Design Justice Network Principles,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.dair-institute.org/,The Distributed AI Research Institute,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.foxglove.org.uk,Foxglove,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.mctd.ac.uk,The Minderoo Centre for Technology and Democracy,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+http://omidyar.com/responsible-technology-2/,Omidyar Network: Responsible Technology,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://ethicalsource.dev,Organization for Ethical Source,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://tethix.co,Tethix,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.amazonclimatejustice.org,Amazon Employees for Climate Justice,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.notechforapartheid.com,No Tech For Apartheid,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://noazureforapartheid.com,No Azure for Apartheid,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://notechforice.com,No Tech for ICE,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.deceptive.design,Deceptive Patterns,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://www.zotero.org/groups/4399301/green-web-syllabus/collections/TFLY9RC3/items/YXMPV7WI/collection,"Digital Rights & Ethics" section of the Green Web Syllabus,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics
+https://organize.fyi/,Organize.fyi,https://github.com/sampart/awesome-tech-ethics#readme,Tech Ethics

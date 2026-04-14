@@ -122,7 +122,7 @@ def valid_url(url):
 
 
 if __name__ == "__main__":
-    print("♽ Cleaning up URLs...\n\n")
+    print("Cleaning up URLs...\n\n")
 
     # loop through all the URL files
     path = '../extension/data/urls/awesome'
@@ -143,4 +143,4 @@ if __name__ == "__main__":
             [t.join() for t in threads]
             write_result(cleaned_path, broken_path, files[filename])
 
-    print("\n\n✔️ Done!\n")
+    print("\n\nDone!\n")

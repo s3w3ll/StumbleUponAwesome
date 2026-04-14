@@ -1,1 +1,3 @@
-https://resumehub.org,Resumehub,https://github.com/lodthe/awesome-internships#readme,Internships error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://zety.com/cv-templates,Zety CV Templates,https://github.com/lodthe/awesome-internships#readme,Internships error: TimeoutError('The read operation timed out') | reason: 
+https://leetcode.com,LeetCode,https://github.com/lodthe/awesome-internships#readme,Internships error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://zety.com/blog/computer-science-resume,Article on Zety,https://github.com/lodthe/awesome-internships#readme,Internships error: TimeoutError('The read operation timed out') | reason: 

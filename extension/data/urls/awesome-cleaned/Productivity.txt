@@ -1,0 +1,46 @@
+https://lastpass.com,LastPass,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009,12+ Tips and Tricks to Work Faster in Microsoft Outlook,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://nordpass.com/,NordPass,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.inkdrop.info/,Inkdrop,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.vivifyscrum.com,VivifyScrum,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://scribehow.com/,Scribe,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://yana.js.org,Yana,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.omnigroup.com/omnifocus,OmniFocus,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.calnewport.com/books/deep-work/,Deep Work: Rules for Focused Success in a Distracted World,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk,Advanced GTD with Remember The Milk,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://bordio.com/,Bordio,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://logseq.com/,Logseq,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://simplenote.com/,Simplenote,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://cleanshot.com/,CleanShot,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.openproject.org/,OpenProject,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://lifehacker.com/,Lifehacker,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://workflowy.com/,WorkFlowy,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.habitbull.com/,HabitBull,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.amazingmarvin.com/,Amazing Marvin,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+http://pomodorotechnique.com/,Pomodoro Technique,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.reddit.com/r/productivity/,r/Productivity,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.simonandschuster.com/books/The-5-Choices/Kory-Kogon/9781476711829,The 5 Choices,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.autoitscript.com/,AutoIt,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.box.com,Box,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://n8n.io,n8n,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.dropbox.com,Dropbox,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://parabola.io,Parabola,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.google.ca/drive/,Google Drive,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://bitwarden.com,Bitwarden,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons,Rid Your Desktop of Clutter with This Simple Trio of Icons,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://hitask.com,Hitask,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://nextcloud.com,Nextcloud,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://shortlib.netlify.app/,ShortLib,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://keepass.info/,KeePass,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://getclipboard.app,Clipboard,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://bulletjournal.com/,The Bullet Journal,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://kanbanflow.com,KanbanFlow,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.google.com/keep/,Google Keep,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://productive.fish/,Productive Fish,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://www.rememberthemilk.com,Remember the Milk,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://taskwarrior.org/,Taskwarrior,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://memory.ai/timely,Timely,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://tinido.com/,Tinido,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+http://todotxt.com/,Todo.txt,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://trello.com,Trello,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity
+https://tweek.so,Tweek,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity

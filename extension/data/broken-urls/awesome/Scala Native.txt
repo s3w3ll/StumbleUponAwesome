@@ -1,1 +1,7 @@
+https://www.gnu.org/software/readline/,GNU Readline Library,https://github.com/tindzk/awesome-scala-native#readme,Scala Native error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://first.wpi.edu/FRC/roborio/release/docs/java/,FIRST Robotics WPILib libraries,https://github.com/tindzk/awesome-scala-native#readme,Scala Native error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://tiswww.cwru.edu/php/chet/libsndfile/rltop.html,Libsndfile,https://github.com/tindzk/awesome-scala-native#readme,Scala Native error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.bazel.build/,Bazel,https://github.com/tindzk/awesome-scala-native#readme,Scala Native error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.gnu.org/software/gsl,GNU Scientific Library (GSL),https://github.com/tindzk/awesome-scala-native#readme,Scala Native error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

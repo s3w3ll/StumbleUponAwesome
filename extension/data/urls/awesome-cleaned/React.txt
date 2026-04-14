@@ -1,0 +1,9 @@
+https://react.dev/,React Official Website,https://github.com/enaqx/awesome-react#readme,React
+http://www.reactiflux.com/,Reactiflux Discord Channel,https://github.com/enaqx/awesome-react#readme,React
+https://react.dev/community,React Community,https://github.com/enaqx/awesome-react#readme,React
+https://react.dev/community/conferences,React Conferences,https://github.com/enaqx/awesome-react#readme,React
+https://codesandbox.io/s/new,React CodeSandbox Playground,https://github.com/enaqx/awesome-react#readme,React
+https://react.dev/learn,React Official Tutorial,https://github.com/enaqx/awesome-react#readme,React
+https://www.patterns.dev/,Design patterns and Component patterns for building powerful Web Apps,https://github.com/enaqx/awesome-react#readme,React
+https://reactnative.dev/community/overview,React Native Community,https://github.com/enaqx/awesome-react#readme,React
+https://expo.dev/,Expo,https://github.com/enaqx/awesome-react#readme,React

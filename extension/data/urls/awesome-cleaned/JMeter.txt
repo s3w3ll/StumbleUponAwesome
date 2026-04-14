@@ -1,0 +1,146 @@
+https://ekremkurt1907.medium.com/jmeter-performance-and-load-testing-beginners-guide-part-ii-7edb98b0d2c3,part 2,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeterusers.slack.com/,#jmeter on Slack,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.reddit.com/r/jmeter/,r/jmeter on Reddit,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://qaautomation.expert/2023/12/07/jmeter-tutorials/,JMeter Tutorials,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://gitlab.com/testload-group/jmeter-clickhouse-listener,jmeter-clickhouse-listener,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://loadium.com/,Loadium,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.blazemeter.com/blog/mobile-app-load-testing,Load Testing Mobile Apps Made Easy,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://blog.vinsguru.com/category/influxdb/,Using JMeter with InfluxDB & Grafana,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter.apache.org/,Apache JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://books.google.com/books?id=6ditCAAAQBAJ,Performance Testing with JMeter, 2nd Edition,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://plugins.jenkins.io/performance/,Jenkins Performance Plugin,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://gitlab.com/testload/jmeter-listener,jmeter-listener,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/,Training courses on Load Testing with Apache JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://blog.octoperf.com/rest-api-testing-with-jmeter-step-by-step-guide/,REST API Testing with JMeter. Step by Step Guide,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/,part 2,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://dzone.com/articles/running-load-test-web-app-using-maven-plugins,Web App Load Testing Using Maven Plugins for Apache JMeter, and Analyzing the Results,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://sqa.stackexchange.com/a/2552/1842,an occasional answer,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://dzone.com/articles/implement-custom-jmeter-samplers,Implement Custom JMeter Samplers,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://web.archive.org/web/20250809025316/https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/,part 2,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://books.google.com/books?id=D_amDwAAQBAJ,Master Apache JMeter: From load testing to DevOps,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.metaltoad.com/blog/plotting-your-load-test-jmeter,Using Matplotlib & Python,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html,Distributed JMeter testing using Docker,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://artoftesting.com/jmeter-tutorial,JMeter Tutorial,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://shantonusarker.blogspot.com/p/jmeter.html,JMeter Blog,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://books.google.com/books?id=BedDDwAAQBAJ,Performance Testing with JMeter 3, 3rd Edition,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://plugins.jetbrains.com/plugin/7013-jmeter-plugin,IntelliJ IDEA IDE Plugin,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://rubenlaguna.com/post/2007-01-02-better-jmeter-graphs/,Statistical Aggregate Report,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter-plugins.org/,JMeter Plugins,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter.apache.org/usermanual/best-practices.html,JMeter Official Best Practices,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://qainsights.com/apache-jmeter-training/,Apache JMeter Training,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul,How to Use Grafana to Monitor JMeter Non-GUI Results,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://blog.octoperf.com/categories/jmeter/,OctoPerf Blog,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://dzone.com/articles/continuous-integration-101-how-to-run-jmeter-with,Continuous Integration 101: How to Run JMeter with Jenkins,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f,A Docker solution to JMeter + InfluxDB + Grafana performance testing,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://leanpub.com/master-jmeter-from-load-test-to-devops,Leanpub,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://cwiki.apache.org/confluence/display/jmeter,JMeter Wiki,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo,Bamboo JMeter Aggregator Plugin,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://books.google.com/books?id=gJUeBQAAQBAJ,JMeter Cookbook,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://hub.docker.com/extensions/qainsights/jmeter-docker-extension,JMeter Docker Extension,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo,JMeter + Eclipse HOWTO,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://web.archive.org/web/20250719013947/https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-3-of-3/,part 3,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://blog.octoperf.com/optimize-jmeter-for-large-scale-tests/,Optimize JMeter for Large Scale Tests,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.pluralsight.com/courses/jmeter-getting-started,JMeter Getting Started Course (Apr 2019),https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://abstracta.us/blog/tag/jmeter/,Abstracta JMeter Archives,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter.apache.org/issues.html,Issue Tracking,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://grafana.com/grafana/dashboards/1152-jmeter-load-test/,JMeter Load Test Dashboard,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://deliverymind.github.io/lightning/,Lightning,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://lincolnloop.com/blog/load-testing-jmeter-part-1-getting-started/,part 1,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://dzone.com/articles/how-to-run-jmeter-in-a-continuous-integration-envi,How to Run JMeter in a Continuous Integration Environment with Bamboo,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter,JMeter Tutorials,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter.apache.org/mail2.html,Mailing Lists,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://ubikloadpack.com/,Ubik Load Pack,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://seangkuan.blogspot.com/2015/06/jmeter-dashboard-realtime-monitoring-of.html,howto,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_,Learn Apache JMeter Series,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://leanpub.com/advanced_jmeter_testing,Advanced JMeter Testing,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://howtojboss.wordpress.com/2012/07/31/concurrent-high-throughput-performance-testing-with-jmeter/,Concurrent, High Throughput Performance Testing with JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://netbeans.apache.org/tutorial/main/kb/docs/java/profile-loadgenerator/,Using a Load Generator in NetBeans IDE,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://grafana.com/grafana/dashboards/5496-apache-jmeter-dashboard-by-ubikloadpack/,JMeter Dashboard using Core InfluxdbBackendListenerClient,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://cwiki.apache.org/confluence/display/jmeter/JMeterPerformance,JMeter Performance,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://gettaurus.org/docs/JMeter/,Taurus JMeter Executor,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://groups.google.com/g/jmeter-plugins,JMeterPlugins Google Group,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.youtube.com/c/xavki-linux/search?query=jmeter,JMeter / Devops/ CI-CD / Cloud,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-jmeter,Beanshell vs JSR223 vs Java JMeter Scripting,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://x.com/apachejmeter,@ApacheJMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.blazemeter.com/blog,BlazeMeter Blog,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws,Performance Testing in the Cloud with JMeter & AWS,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.linkedin.com/learning/jmeter-performance-and-load-testing,JMeter: Performance and Load Testing (Feb 2019),https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter.apache.org/download_jmeter.cgi,Download Apache JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://x.com/jmeter_plugins,@jmeter_plugins,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://lincolnloop.com/blog/load-testing-jmeter-part-2-headless-testing-and-je/,part 2,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/,ULP Auto-correlator Plugin,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf,Testing with Groovy,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter-plugins.org/editor/,BlocklyJMX Editor,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://grafana.com/grafana/dashboards/3351-jmeter-3-3/,JMeter Dashboard (3.2 and up),https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://books.google.com/books?id=iWeJDAEACAAJ,JMeter by Example,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://x.com/BlazeMeter,@BlazeMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://abstracta.github.io/jmeter-java-dsl/,jmeter-java-dsl,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.linkedin.com/learning/advanced-jmeter,Advanced JMeter (Jul 2020),https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://x.com/masterjmeter,@masterjmeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/,JMeter Performance and Tuning Tips,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://web.archive.org/web/20211204112944/https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/,How to Run JMeter Tests with TeamCity for Continuous Integration,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://performancewebautoamtionother.blogspot.com/2015/12/jmeter-create-graphs-with-cmdrunner.html,Using CMDRunner & Powershell,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://x.com/ubikloadpack,@ubikloadpack,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://leanpub.com/jmeterbyexample,Leanpub,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://abstracta.github.io/jmeter-dotnet-dsl/,jmeter-dotnet-dsl,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://grafana.com/grafana/dashboards/2492-jmeter/,JMeter (via prometheus exporter),https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://ubik-ingenierie.com/blog/category/jmeter/,Ubik Load Pack Blog,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://dzone.com/refcardz/getting-started-with-apache-jmeter,Getting Started with Apache JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/,JMeter distributed testing with Amazon EC2,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://stackoverflow.com/questions/tagged/jmeter,jmeter on Stack Overflow,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual,JMeter Developer Manual,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://lincolnloop.com/blog/load-testing-jmeter-part-3-replaying-apache-logs/,part 3,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.blazemeter.com/blog/circleci-jmeter,How to integrate JMeter into CircleCI,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://gettaurus.org/,Taurus,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.nobleprog.co.uk/cc/apachejmetertesting,JMeter Training Courses,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter.apache.org/usermanual/jmeter_tutorial.html,How to write a plugin for JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/,Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://pflb.us/blog/how-to-speed-up-jmeter-part-1/,part 1,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta,Continuous automated web tests using Jenkins and JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.jmxenhancer.com/,JMX Enhancer,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://books.google.com/books?id=YJ4xDwAAQBAJ,Pro Apache JMeter: Web Application Performance Testing,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.blazemeter.com/university,BlazeMeter University,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://ecmarchitect.com/archives/2014/09/09/3932,Using ELK,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.testautomationguru.com/category/jmeter/,TestAutomationGuru Blog,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/,Lightweight JMeter Cloud,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.vinodkd.org/jmx.js/,jmx.js,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://pflb.us/blog/how-to-speed-up-jmeter-part-2/,part 2,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://grafana.com/grafana/dashboards/9561-jmeter-results-from-clickhouse-eng/,JMeter Results from ClickHouse,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.codecentric.de/en/knowledge-hub/blog/automating-jmeter-tests-maven-jenkins,Automating JMeter tests with Maven and Jenkins,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html,JMeter with Sonar,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.tutorialspoint.com/jmeter/,JMeter Tutorial,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter-plugins.org/wiki/PerfMon/,Servers Performance Monitoring Plugin,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.redline13.com/blog/tag/jmeter/,RedLine13 Blog,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.udemy.com/topic/jmeter/,JMeter Courses collection,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://gitlab.com/testload/jmeter-listener/-/wikis/3.3-ClickHouse-usage,JMeter Listener pack,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://octoperf.com/,OctoPerf,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html,JMeter Tutorial for Load Testing: The Ultimate Guide,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://web.archive.org/web/20210918113142/https://www.realeyes.com/blog/wowza-streaming/,Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://web.archive.org/web/20221126233834/https://www.webwob.com/html/jmeter_tips.html,JMeter tips,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://web.archive.org/web/20180225144718/http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy,How to build a JMeter plugin utilizing Groovy,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://link.springer.com/book/10.1007/978-1-4842-2961-3,Apress,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter.apache.org/usermanual/jmeter_distributed_testing_step_by_step.pdf,JMeter Distributed Testing Step-by-step,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/,Web Applications (and Mobile Apps) Performance Testing with JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter,How to create a plugin in JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.blazemeter.com/blog/video-streaming-testing,How to Test Video Streaming with JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://azure.microsoft.com/en-us/products/app-testing/,Azure Microsoft,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/app-synthetic-monitor/SaaS/using/use-jmeter-scripts-to-test-web-servers.html,DX App Synthetic Monitor,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://books.google.com/books?id=nX8oKIEvUcYC,Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter.apache.org/usermanual/generating-dashboard.html,JMeter Report Dashboard,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://redline13.com/,RedLine13,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://jmeter.apache.org/usermanual/remote-test.html,JMeter Remote Testing,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.testautomationguru.com/jmeter-record-ios-application-http-requests/,Record iOS application HTTP requests,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://books.google.com/books?id=fpWmv3wPT64C,Performance Testing with JMeter 2.9,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://latencylingo.com,Latency Lingo,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements,Custom JMeter Samplers and Config Elements,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://datacadamia.com/jmeter/lifecycle,JMeter: Load Development Lifecycle,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://cwiki.apache.org/confluence/display/jmeter/LogAnalysis,JMeter Log Analysis,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.digitalocean.com/community/tutorial-series/load-testing-with-apache-jmeter,Load Testing with Apache JMeter,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results,Analyzing JMeter Results,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.guru99.com/jmeter-tutorials.html,JMeter Tutorial for Beginners,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://blog.octoperf.com/jmeter-result-analysis-the-ultimate-guide/,JMeter Result Analysis: The Ultimate Guide,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin,JMeter MySQLCollector Plugin,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://web.archive.org/web/20250811141928/https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/,part 1,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0,JMeter Docker Images,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/,part 2,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter
+https://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/,part 1,https://github.com/aliesbelik/awesome-jmeter#readme,JMeter

@@ -1,2 +1,14 @@
-https://2016.cssconf.com/,transcript,https://github.com/awesome-css-group/awesome-css#readme,CSS error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
-https://dev.ghost.org/css-at-ghost/,How we do CSS at Ghost,https://github.com/awesome-css-group/awesome-css#readme,CSS error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://5by5.tv/webahead/,The Web Ahead,https://github.com/awesome-css-group/awesome-css#readme,CSS error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.w3.org/Style/CSS/,CSS Working Group Page,https://github.com/awesome-css-group/awesome-css#readme,CSS error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://gralig.com/,Gralig,https://github.com/awesome-css-group/awesome-css#readme,CSS error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://rizzo.lonelyplanet.com/styleguide/design-elements/colours,Design Elements,https://github.com/awesome-css-group/awesome-css#readme,CSS error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.bonsaicss.com/,Bonsai,https://github.com/awesome-css-group/awesome-css#readme,CSS error: <HTTPError 436: 'status code 436'> | reason: status code 436
+http://goodstuff.fm/nbsp,Non Breaking Space Show,https://github.com/awesome-css-group/awesome-css#readme,CSS error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://numl.design,Numl,https://github.com/awesome-css-group/awesome-css#readme,CSS error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://ux.mailchimp.com/patterns,Patterns,https://github.com/awesome-css-group/awesome-css#readme,CSS error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://blog.bugsnag.com/bugsnags-css-architecture,Bugsnag's CSS Architecture,https://github.com/awesome-css-group/awesome-css#readme,CSS error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66,CSS at BBC Sport,https://github.com/awesome-css-group/awesome-css#readme,CSS error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.starbucks.com/static/reference/styleguide/,Style Guide,https://github.com/awesome-css-group/awesome-css#readme,CSS error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://code.hootsuite.com/css-at-hootsuite/,CSS AT HOOTSUITE,https://github.com/awesome-css-group/awesome-css#readme,CSS error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://dev.ghost.org/css-at-ghost/,How we do CSS at Ghost,https://github.com/awesome-css-group/awesome-css#readme,CSS error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.atozcss.com,http://www.atozcss.com,https://github.com/awesome-css-group/awesome-css#readme,CSS error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions

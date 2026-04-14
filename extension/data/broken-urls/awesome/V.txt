@@ -1,1 +1,2 @@
-https://v-wasm.now.sh/,V Playground,https://github.com/vlang/awesome-v#readme,V error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://play.vosca.dev,VOSCA V Playground,https://github.com/vlang/awesome-v#readme,V error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://blog.vosca.dev/categories/tutorials/,VOSCA Blog Tutorials,https://github.com/vlang/awesome-v#readme,V error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

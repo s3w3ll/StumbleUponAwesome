@@ -68,8 +68,8 @@ function showStumbleInfo(request) {
     rabbitHoleBubble.id = 'sax-rabbit-hole-bubble';
     rabbitHoleBubble.classList.add('sax-hide');
     rabbitHoleBubble.innerHTML = `
-        <img id="sax-rabbit-hole-exit-button" src=${chrome.extension.getURL('images/close.svg')} />
-        <img id="sax-rabbit-hole-spiral" src=${chrome.extension.getURL('images/spiral.png')} />
+        <img id="sax-rabbit-hole-exit-button" src=${chrome.runtime.getURL('images/close.svg')} />
+        <img id="sax-rabbit-hole-spiral" src=${chrome.runtime.getURL('images/spiral.png')} />
         <div id="sax-rabbit-hole-text">
             <p id="sax-rabbit-hole-text-top">In rabbit hole:</p>
             <p id="sax-rabbit-hole-text-bottom">${request.stumbleUrl.listTitle}</p>
@@ -91,7 +91,7 @@ function showStumbleInfo(request) {
     text.append(title);
 
     var icon = document.createElement('img');
-    icon.src = chrome.extension.getURL('images/icon_32.png')
+    icon.src = chrome.runtime.getURL('images/icon_32.png')
     icon.id = 'sax-info-box-icon'
 
     stumbleCounterContent.appendChild(icon);
@@ -128,7 +128,7 @@ function showStumbleInfo(request) {
             </a>
         </span>
         <div id="sax-rabbit-hole">
-            <img id="sax-rabbit-hole-image" src=${chrome.extension.getURL('images/rabbithole.png')} />
+            <img id="sax-rabbit-hole-image" src=${chrome.runtime.getURL('images/rabbithole.png')} />
         </div>
     `;
     bottom.append(content);
@@ -180,13 +180,13 @@ function showStumbleInfo(request) {
     // On hover change to GIF for rabbit hole
     var rabbitHole = document.getElementById('sax-rabbit-hole-image');
     rabbitHole.addEventListener('mouseenter', () => {
-        rabbitHole.setAttribute('src', chrome.extension.getURL('images/rabbithole.gif'));
+        rabbitHole.setAttribute('src', chrome.runtime.getURL('images/rabbithole.gif'));
         // Show new feature popup
         showAndFadeIn(newFeaturePopup, 0.1, 0.1, () => {});
     });
 
     rabbitHole.addEventListener('mouseleave', () => {
-        rabbitHole.setAttribute('src', chrome.extension.getURL('images/rabbithole.png'));
+        rabbitHole.setAttribute('src', chrome.runtime.getURL('images/rabbithole.png'));
         // Hide new feature popup
         if (!request.isRabbitHoleEnabled) {
             fadeOutAndHide(newFeaturePopup, 3, 0.5, () => {});
@@ -272,7 +272,7 @@ function showWelcomeInfo(request) {
     icon = document.createElement('img');
 
     icon.id = 'sax-info-icon';
-    icon.src = chrome.extension.getURL('images/icon_128.png');
+    icon.src = chrome.runtime.getURL('images/icon_128.png');
 
     text = div('sax-info-text');
     text.innerHTML = `<p id="sax-info-text-title">
@@ -286,13 +286,13 @@ function showWelcomeInfo(request) {
     </span>
     </br></br>
     <div id="sax-info-new-feature">
-        <img id="sax-rabbit-hole-spiral-2" src=${chrome.extension.getURL('images/spiral.png')} />
+        <img id="sax-rabbit-hole-spiral-2" src=${chrome.runtime.getURL('images/spiral.png')} />
         <span id='sax-info-text-body-small-accent'>NEW!</span>
         </br>
         <span id='sax-info-text-body-small'>
             <span id='sax-info-text-body-small-white'>Rabbit hole: </span>You can now stay stumblin' on the same topic. On your next stumble, follow the rabbit...
         </span>
-        <img id="sax-rabbit-hole-image-2" src=${chrome.extension.getURL('images/rabbithole_small.png')} />
+        <img id="sax-rabbit-hole-image-2" src=${chrome.runtime.getURL('images/rabbithole_small.png')} />
     </div>
     </br></br>
     <p id="sax-info-text-body-smaller-white">
@@ -324,7 +324,7 @@ function showUpdateInfo() {
     icon = document.createElement('img');
 
     icon.id = 'sax-info-icon';
-    icon.src = chrome.extension.getURL('images/icon_128.png');
+    icon.src = chrome.runtime.getURL('images/icon_128.png');
 
     text = div('sax-info-text');
     text.innerHTML = `<p id="sax-info-text-title">StumbleUponAwesome updated to 1.2.2!

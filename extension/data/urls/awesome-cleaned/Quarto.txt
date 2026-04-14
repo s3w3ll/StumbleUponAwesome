@@ -1,0 +1,123 @@
+https://rstudio-conf-2022.github.io/get-started-quarto/,Workshop: Getting started with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg,Quarto YouTube Playlist,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://aeturrell.github.io/skimpy/,Skimpy documentation,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://forbo7.github.io/forblog/posts/7_blog_subscriptions.html,Adding Subscriptions to a Quarto Site,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://tarleb.com/posts/quarto-with-gh-pages/,Quarto Website with GitHub Actions,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org/docs/blog/posts/2025-11-24-conf-talk-videos/,posit::conf(2025) Quarto talks,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org,,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/,We don't talk about Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://warwickcim.github.io/quarto-workshop/slides/slides.html,Workshop: Quarto, a library to run them all?,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://containers.dev/,Development Containers,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://bsky.app/profile/cscheid.net,@cscheid.net,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org/,Documentation: Quarto documentation,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.jumpingrivers.com/blog/quarto-rmarkdown-comparison/,I'm an R user: Quarto or R Markdown?,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://jc-castillo.com/blog/posts/quarto-migration/,Migrating my Academic (Hugo Wowchemy) website to Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/,Quarto tip a day,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=xtSFXtDf4cM,Create your Data Science Portfolio with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org/docs/blog/posts/2025-10-27-conf-workshops-materials/,posit::conf(2025) Quarto workshop materials,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://juan-torresmunguia.netlify.app/,https://juan-torresmunguia.netlify.app/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://rsecon2022.society-rse.org/,RSECon'22,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://apreshill.github.io/palmerpenguins-useR-2022/,See slides,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org/docs/get-started/hello/,Tutorial: Hello, Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=arzBRW5XIkg,Publish a Quarto project in 6 minutes,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.jumpingrivers.com/,Jumping Rivers,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://bsky.app/profile/gordonwoodhull.bsky.social,@gordonwoodhull.bsky.social,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://jadeyryan.quarto.pub/rladies-dc-quarto-params/,Workshop: Parameterized Reports with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=6p4vOKS6Xls,Reproducible authoring with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://r4ds.hadley.nz/,https://r4ds.hadley.nz/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://jthomasmock.github.io/arrow-dplyr/,See slides,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://ucsb-meds.github.io/creating-quarto-websites/,Tutorial: Creating your personal website using Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://youtube.com/playlist?list=PLabWm-zCaD1axcMGvf7wFxJz8FZmyHSJ7,A Coffee with Quarto and Neovim,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org/docs/get-started/computations/,Tutorial: Computations,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.jumpingrivers.com/blog/quarto-for-python-users/,Quarto for the Python User,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/,https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://emilhvitfeldt.github.io/talk-useR2022-textrecipes/,See slides,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://ucsb-meds.github.io/customizing-quarto-websites/,Tutorial: Customizing Quarto Websites - Make your website stand out using SASS & CSS,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://r-pkgs.org/,https://r-pkgs.org/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org/docs/get-started/authoring/,Tutorial: Authoring,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://neovim.io/,Neovim,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://youtube.com/playlist?list=PLEzw67WWDg80-fT1hq2IZf7D62tRmKy8f&si=ECVfFIH1bg6_JfjS,Tutorials: Quarto Visual Editor and RStudio,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://jmbuhr.de/,Jannik Buhr,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://bsky.app/profile/mickael.canouil.fr,@mickael.canouil.fr,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=Y1uKNO32H_I,Reproducible Publications with Julia and Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://mlr3.mlr-org.com/,mlr3,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=EbAAmrB0luA,Quarto for Academics,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://drmowinckels.github.io/quartaki/,Workshop: Quartaki — 6 hour introduction to Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://mickael.canouil.fr/posts/2023-05-07-quarto-docker/,How to publish your Quarto document/book/website as a Docker container?,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://mickael.canouil.fr/posts/2024-12-30-quarto-github-pages/,Publishing to GitHub Pages,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://nmfs-opensci.github.io/quarto-amsmath,Quarto for amsmath LaTeX users,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://jjallaire.github.io/quarto-juliacon-2022,https://jjallaire.github.io/quarto-juliacon-2022,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://perezp44.github.io/taller.primer.blog/,Workshop: Mi primer blog con Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://nrennie.rbind.io/blog/pdf-quarto/making-pretty-pdf-quarto/,Making Pretty PDFs with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quartopub.com/,Service: Quarto Pub,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://mlr3book.mlr-org.com/,https://mlr3book.mlr-org.com/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org/docs/extensions/,Quarto.org Extensions Listing,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=_VGJIPRGTy4,Quarto Dashboards,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://runapp2022.talks.jamesgoldie.dev/,See slides,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://jmbuhr.de/dataintro/,Introduction to Data Analysis with R,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://christophertkenny.com/posts/2023-07-01-creating-quarto-journal-articles/,Tutorial: Creating Quarto Journal Article Templates,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.sublimetext.com/,Sublime Text,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://wesmckinney.com/book/,https://wesmckinney.com/book/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=azVAl343CIU,A Conversation about Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://adtarie.net/posts/007-quarto-python-tutorial/,Tutorial: Personal Website using Jupyter Notebook and Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://network-science-notes.github.io/,https://network-science-notes.github.io/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=lbE5uOqfT70,Parameterized Quarto reports improve understanding of soil health,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html,Tutorial: The ultimate guide to starting a Quarto blog,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://rfortherestofus.com/2024/06/parameterized-reporting-quarto,Tutorial: A step-by-step guide to parameterized reporting in R using Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.brodrigues.co/blog/2023-06-29-book_quarto/,How to self-publish a technical book on Leanpub and Amazon using Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://jadeynryan.github.io/2023_posit-parameterized-quarto/,https://jadeynryan.github.io/2023_posit-parameterized-quarto/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.vim.org/,Vim,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://bsky.app/profile/cderv.bsky.social,@cderv.bsky.social,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://m.canouil.dev/quarto-extensions/,Quarto Extensions Listing,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.openscapes.org/,Openscapes,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/,Tutorial: Creating a blog with Quarto in 10 steps,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://shandiya.quarto.pub/vicbiocon2023/,See slides,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://silviacanelon.com/blog/2023-09-29-hello-quarto/,Hello Quarto: Porting my Website from Hugo Apéro,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://slidecrafting-book.com/,Slidecrafting,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://openscapes.github.io/quarto-website-tutorial/,Tutorial: Making shareable docs with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org/docs/blog/posts/2024-11-06-conf-talks/,posit::conf(2024) Quarto talks,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://realworlddatascience.net/,Real World Data Science,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://remlapmot.github.io/post/2025/quarto-revealjs-tips/,Seven Tips for Creating Quarto Reveal.js Presentations,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://jadeyryan.com/blog/publish-quarto-website/,Tutorial: Publish a Quarto website with Netlify,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=ErRX8plZpQE,Tutorial: How to style your Quarto blog without knowing a lot of HTML/CSS,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://posit-conf-2025.github.io/quarto-brand/,Workshop: Branded Websites, Presentations, Dashboards, and PDFs with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://rstudio-conf-2022.github.io/rmd-to-quarto/,Workshop: From R Markdown to Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://m.canouil.dev/radvanced/,Advanced Introduction to R (French),https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://remlapmot.github.io/post/2025/multi-engine-quarto/,Creating effectively multi-engine Quarto documents using Quarto's embed shortcode,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org/docs/blog/posts/2024-10-15-conf-workshops-materials/index.html,posit::conf(2024) Quarto workshop materials,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://posit-conf-2025.github.io/quarto-extend/,Workshop: Extending Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://silviacanelon.com,Silvia Canelón's website,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=yvi5uXQMvu4,Workshop: Welcome to Quarto 2-hour Workshop,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://quarto.org/docs/blog/posts/2025-05-19-quarto-codespaces/,Tutorial: Using GitHub Codespaces to teach with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://nascent-peru.github.io/,NASCENT-PERU website,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://forum.literatureandlatte.com/t/scrivener-quarto-a-technical-academic-publishing-workflow/129769,Scrivener,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://jthomasmock.github.io/quarto-2hr-webinar/,https://jthomasmock.github.io/quarto-2hr-webinar/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://meghan.rbind.io/slides/neair/neair.html,See slides,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://mine-cetinkaya-rundel.github.io/tidyperspective/talks/dagstat-2022.html,See slides,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://eliottkalfon.com/posts/quarto-blog-tutorial/,Tutorial: How to Get a Blog Up from Scratch in 1 Day Using Quarto and Netlify,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://rainbowr.org,rainbowR website,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://emitanaka.org/slides/toronto2022/,See slides,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://blog.stephenturner.us/p/quarto-books,Tutorial: Writing a book with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.literatureandlatte.com/,Scrivener,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://martenw.com/,Marten Walk's website,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://positron.posit.co/,Positron,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.r-project.org/,R,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://rstudio.github.io/rstudioaddins/,RStudio Addin,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.valencekjell.com/posts/2022-08-13-interactive/,Interactive Molecular Content,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://docs.ropensci.org/babelquarto/,babelquarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://docs.ropensci.org/babeldown/articles/quarto.html,babeldown,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/,Slidecraft 101: Colors and Fonts,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://meghan.rbind.io/blog/quarto-slides/,Making Slides in Quarto with Reveal.js,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://surveydown.org/,surveydown,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.python.org/,Python,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html,A beginner's guide to using Observable JavaScript, R, and Python with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://observablehq.com/,ObservableHQ,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://matrix.org/,matrix-network,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://thomasmock.quarto.pub/quarto-curious/,https://thomasmock.quarto.pub/quarto-curious/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.ddanieltan.com/posts/blogtips/,How to add some personality to your Quarto Blog,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://themockup.blog/posts/2022-11-08-use-r-to-generate-a-quarto-blogpost/,Use R to Generate a Quarto Blogpost,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.rstudio.com/conference/2022/talks/literate-programming-quarto/,Literate Programming With Jupyter Notebooks and Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=CVcvXfRyfE0,Building a Blog with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://ivelasq.quarto.pub/building-a-blog-with-quarto/,https://ivelasq.quarto.pub/building-a-blog-with-quarto/,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=hbf7Ai3jnxY,Beautiful Reports and Presentations with Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto
+https://www.youtube.com/watch?v=y6_xMIBKuP4,Introduction to Quarto,https://github.com/mcanouil/awesome-quarto#readme,Quarto

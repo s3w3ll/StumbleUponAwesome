@@ -1,0 +1,33 @@
+https://icons.getbootstrap.com/,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://saeedalipoor.github.io/icono,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://teenyicons.com,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://boxicons.com/,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://heroicons.dev,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://nucleoapp.com/premium-icons,Nucelo Icons,https://github.com/notlmn/awesome-icons#readme,Icons
+https://danklammer.com/bytesize-icons,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://css.gg,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://tilda.cc/free-icons,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://iconpark.bytedance.com,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://akveo.github.io/eva-icons,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+http://www.zondicons.com,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+http://iconbuddy.com,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://iconsvg.xyz,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://iconify.design,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://ionicons.com,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://react-icons.github.io/react-icons/,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://fonts.google.com/icons,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+http://vorillaz.github.io/devicons,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://yne.fr/picon,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://devicons.github.io/devicon,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://simpleicons.org/,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://www.radix-ui.com/icons/,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://www.vectorlogo.zone/,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+http://evil-icons.io,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://cssicon.space,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://unicon.webrenew.com,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://remixicon.com,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://feathericons.com,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://shape.so,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://tabler-icons.io,Website,https://github.com/notlmn/awesome-icons#readme,Icons
+https://flowbite.com/icons/,Flowbite Icons,https://github.com/notlmn/awesome-icons#readme,Icons
+https://fontawesome.com,Website,https://github.com/notlmn/awesome-icons#readme,Icons

@@ -1,0 +1,3 @@
+https://wezfurlong.org/wezterm/,WezTerm,https://github.com/michaelbrusegard/awesome-wezterm#readme,WezTerm
+https://www.rust-lang.org,Rust,https://github.com/michaelbrusegard/awesome-wezterm#readme,WezTerm
+https://gitlab.com/lilaqua/tunicodes,lilaqua/tunicodes,https://github.com/michaelbrusegard/awesome-wezterm#readme,WezTerm

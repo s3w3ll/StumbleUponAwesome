@@ -1,0 +1,1 @@
+https://medium.com/nick-tune-tech-strategy-blog/tech-strategy-you-need-it-but-what-is-it-af292421e422,Tech Strategy: You Need it, But What is it?,https://github.com/aleixmorgadas/awesome-engineering-strategy#readme,Engineering Strategy error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

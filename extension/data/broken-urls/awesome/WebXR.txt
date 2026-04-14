@@ -1,3 +1,6 @@
-https://www.helicon.live/,Helicon,https://github.com/msub2/awesome-webxr#readme,WebXR error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
-https://webaverse.com/,Webaverse,https://github.com/msub2/awesome-webxr#readme,WebXR error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://zesty.market,Zesty Market,https://github.com/msub2/awesome-webxr#readme,WebXR error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://vroid.com/en,VRoid,https://github.com/msub2/awesome-webxr#readme,WebXR error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://doc.babylonjs.com/,Official Documentation,https://github.com/msub2/awesome-webxr#readme,WebXR error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://doc.babylonjs.com/guidedLearning,babylon.js Guided Learning,https://github.com/msub2/awesome-webxr#readme,WebXR error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://castle.needle.tools/,Castle Builder,https://github.com/msub2/awesome-webxr#readme,WebXR error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://www.webxr.community/,WebXR Community Forum,https://github.com/msub2/awesome-webxr#readme,WebXR error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://rogueengine.io/docs/manual/getting-started/installation/,Official Documentation,https://github.com/msub2/awesome-webxr#readme,WebXR error: <HTTPError 404: 'Not Found'> | reason: Not Found

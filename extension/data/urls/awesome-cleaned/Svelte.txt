@@ -1,0 +1,53 @@
+https://svelte.dev/tutorial,Official Guide,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.youtube.com/@JoyofCodeDev,Joy of Code,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://svelteui.dev/,SvelteUI,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://svelte.dev/docs,API Reference,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://inlang.com/m/dxnzrydw/library-inlang-paraglideJsAdapterSvelteKit,ParaglideJS,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://svelte.dev/docs/kit/introduction,SvelteKit,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://flowbite-svelte.com/,Flowbite Svelte,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://retroui-svelte.netlify.app,retroui-svelte,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://routify.dev/,Routify,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://bsky.app/profile/svelte.dev,Bluesky,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://superforms.rocks,Superforms,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.formsnap.dev/,Formsnap,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.junglejs.org/,JungleJS,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.yesvelte.com/,YeSvelte,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://felte.dev/,felte,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://svelte-audio-ui.vercel.app,svelte-audio-ui,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://rv-grid.com,revogrid,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://svelte.dev/chat,Discord,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://stdf.design,STDF,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.reddit.com/r/sveltejs/,Reddit,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://packagecontrol.io/packages/Svelte,Svelte,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://svelte-form-builder.vercel.app,Svelte Form Builder,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://plugins.jetbrains.com/plugin/12375-svelte,Svelte,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://discord.com/invite/YTXq3ZtBbx,Japan Discord,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://amadeusitgroup.github.io/AgnosUI/latest/,AgnosUI,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://daisyui.com/,daisyUI,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://svelteflow.dev,svelte-flow,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://animation-svelte.vercel.app,Svelte Animations,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://sveltesummit.com/,Svelte Summit,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.edistys.dev/blog/getting-started-with-svelte-5-a-guide-for-react-developers,Getting Started with Svelte 5: A Guide for React Developers,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://kitschpatrol.com/svelte-tweakpane-ui,Svelte Tweakpane UI,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://sv-blocks.vercel.app,Svelte Marketing Blocks,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.youtube.com/watch?v=8DQailPy3q8,Svelte 5 Basics - Complete Svelte 5 Course for Beginners,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://tweakpane.github.io/docs/,Tweakpane,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.svelteradio.com/,Svelte Radio,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://svelte-scaling.acmion.com/,SvelteScaling,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw,Svelte Society,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA,Svelte Mastery,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://svelte-native.technology/,Svelte Native,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.embedpdf.com/docs/svelte/introduction,EmbedPDF,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://framework7.io/svelte/,Framework7,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://edra.tsuzat.com,Edra,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://formisch.dev/svelte/guides/introduction/,Formisch,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://capacitorjs.com/solution/svelte,Capacitor,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://sveltequery.vercel.app/,svelte-query,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://tanstack.com/store/latest/docs/framework/svelte/quick-start,tanstack-store,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://www.shadcn-svelte.com/,shadcn-svelte,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://tanstack.com/query/latest/docs/svelte/overview,tanstack-svelte-query,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://threlte.xyz,threlte,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://streamdown.ai/,streamdown,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://projectfluent.org/,Fluent,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://auto-animate.formkit.com/,AutoAnimate,https://github.com/TheComputerM/awesome-svelte#readme,Svelte
+https://zhangfisher.github.io/voerka-i18n/,VoerkaI18n,https://github.com/TheComputerM/awesome-svelte#readme,Svelte

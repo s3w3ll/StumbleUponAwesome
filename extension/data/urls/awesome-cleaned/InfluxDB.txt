@@ -1,0 +1,25 @@
+https://kubernetes.io/,Kubernetes,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://www.fluentd.org/,fluentd,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://forge.puppet.com/datacentred/telegraf/readme,puppet-telegraf,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://docs.influxdata.com/influxdb/latest/,Official documentation,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+http://www.iobroker.net/,ioBroker,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://jenkins.io/index.html,Jenkins,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://jmeter.apache.org/usermanual/realtime-results.html,Apache JMeter,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://kafka.apache.org/,Kafka,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://aiven.io/influxdb,Aiven,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://sematext.com/blog/now-open-source-sematext-monitoring-agent/,Open source monitoring agent,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://scalingo.com/databases/influxdb,Scalingo,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://sematext.com/cloud/,Sematext Cloud,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://hostedmetrics.com/product/influxdb/,HostedMetrics,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://docs.datadoghq.com/guides/dogstatsd/,dogstatsD,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://mesos.apache.org/,mesos,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://sematext.com/docs/logagent/input-plugin-influxdb-http/,influxdb input plugin,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://traffic-control-cdn.readthedocs.io/en/latest/overview/traffic_stats.html,traffic_stats,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://trafficcontrol.apache.org/,Apache Traffic Control,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://sensu.io/,Sensu,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://www.domoticz.com,Domoticz,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://sidekiq.org/,Sidekiq,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://sematext.com/docs/logagent/output-plugin-influxdb/,influxdb output plugin,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://sematext.com/docs/logagent/plugins/,integrations,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://openresty.org/en/,OpenResty,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB
+https://www.vmware.com/products/vsphere.html,vSphere,https://github.com/mark-rushakoff/awesome-influxdb#readme,InfluxDB

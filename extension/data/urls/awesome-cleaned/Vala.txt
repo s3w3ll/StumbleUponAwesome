@@ -1,0 +1,15 @@
+https://vala.dev,,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://vala.dev/,Vala,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://gitlab.com/posidon_software/paper/,Paper,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://gitlab.com/vinarisoftware/integrity-check-gtk,Integrity Check,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://gitlab.com/bitseater/meteo,Meteo,https://github.com/desiderantes/awesome-vala#readme,Vala
+http://gegl.org/babl/,Babl,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://gitlab.com/XavierEduardo99/vamm-vinari-software,VAMM (Vinari OS Apache & MariaDB Manager),https://github.com/desiderantes/awesome-vala#readme,Vala
+https://cairographics.org/,Cairo,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://atom.io/packages/language-vala-modern,language-vala-modern,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://launchpad.net/valasyntax4sublimetext,Vala Syntax 4 Sublime Text,https://github.com/desiderantes/awesome-vala#readme,Vala
+http://gegl.org/,GEGL,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://www.gnutls.org/,GnuTLS,https://github.com/desiderantes/awesome-vala#readme,Vala
+https://gitlab.com/gsvg/gsvg,GSVG (GObject SVG Library),https://github.com/desiderantes/awesome-vala#readme,Vala
+https://www.gtk.org/,GTK,https://github.com/desiderantes/awesome-vala#readme,Vala
+http://gstreamer.freedesktop.org/,GStreamer,https://github.com/desiderantes/awesome-vala#readme,Vala

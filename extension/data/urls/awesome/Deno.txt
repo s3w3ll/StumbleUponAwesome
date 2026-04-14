@@ -1,80 +1,60 @@
-https://www.youtube.com/watch?v=9tJ_LkI6_qw,Deno intro in Hebrew (slides in English),https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=RAmqgbv247s,Ryan Dahl: A secure runtime for JavaScript and TypeScript | js.la April 2019,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=puXyo1jGQys,Bert Belder - Deno - dotJS 2019,https://github.com/denolib/awesome-deno#readme,Deno
-https://t.me/denoland_ru,Telegram channel,https://github.com/denolib/awesome-deno#readme,Deno
-https://43081j.com/2019/01/first-look-at-deno,First thoughts on Deno, the JavaScript/TypeScript run-time,https://github.com/denolib/awesome-deno#readme,Deno
 https://deno.land,,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=2eRyZpX4qvI,Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020,https://github.com/denolib/awesome-deno#readme,Deno
-https://t.me/denoland,Telegram chat,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=N0BRE-0n2cU,Matías Insaurralde - Deno: an experimental approach on V8 interoperability [EN subtitles] - NodeConf Argentina 2019,https://github.com/denolib/awesome-deno#readme,Deno
-https://repl.it/languages/deno,Repl.it,https://github.com/denolib/awesome-deno#readme,Deno
-https://docs.google.com/presentation/d/1CSQVTeH5tFzE4AZVXIpx9Xwew5YS-gxJZ03eRFtNeIc/edit,Slides,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.robinwieruch.de/deno-oak,1,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=HjdJzNoT_qg,Ryan Dahl: Deno, a new way to JavaScript - HolyJS 2019 Piter,https://github.com/denolib/awesome-deno#readme,Deno
-https://speakerdeck.com/matiasinsaurralde/deno-an-experimental-approach-on-v8-interoperability,Slides,https://github.com/denolib/awesome-deno#readme,Deno
-https://doc.deno.land/builtin/stable,Deno API Reference,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.robinwieruch.de/deno-oak-rest-api,2,https://github.com/denolib/awesome-deno#readme,Deno
-https://doc.deno.land/builtin/unstable,Deno Unstable API Reference,https://github.com/denolib/awesome-deno#readme,Deno
-https://deno.land/manual,Deno Manual,https://github.com/denolib/awesome-deno#readme,Deno
-https://nextjs.org,Next.js,https://github.com/denolib/awesome-deno#readme,Deno
-https://docs.google.com/presentation/d/1BjvZx5S8noVfFINptH4jfKfqh9jB9nXlFC0I3oIDtg4/edit,Slides,https://github.com/denolib/awesome-deno#readme,Deno
-https://fettblog.eu/dissecting-deno/,Dissecting Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=aI5A9zvYSjk,Rafał Pocztarski - What is Deno? A new runtime for modern JavaScript and TypeScript backends for 2020s - Deno Warsaw,https://github.com/denolib/awesome-deno#readme,Deno
+https://deno.com,Official Site,https://github.com/denolib/awesome-deno#readme,Deno
+https://docs.deno.com,Deno Manual,https://github.com/denolib/awesome-deno#readme,Deno
+https://docs.deno.com/api,Deno API Reference,https://github.com/denolib/awesome-deno#readme,Deno
+https://jsr.io/@std,Deno Standard Library,https://github.com/denolib/awesome-deno#readme,Deno
 https://denolib.github.io/v8-docs/,V8 Docs for Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e,Berkenalan dengan Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=LAtjnKLbPpw,Michał Sabiniarz - How to contribute to Deno? - Deno Warsaw,https://github.com/denolib/awesome-deno#readme,Deno
-https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84,Hola Deno! . 🦕,https://github.com/denolib/awesome-deno#readme,Deno
-https://youtu.be/V_kpUTJSd9c,Perkenalan Deno dan Instalasi,https://github.com/denolib/awesome-deno#readme,Deno
-https://dev.to/wuz/getting-started-with-deno-e1m,Getting started with Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://crux.land/,crux.land,https://github.com/denolib/awesome-deno#readme,Deno
-https://docs.google.com/presentation/d/1rETgslJS1ks4EihzLpUI3sS_zI46YxAOuQ5B1Z_k1mY/edit?usp=sharing,Slides,https://github.com/denolib/awesome-deno#readme,Deno
-https://DenoBeginner.com,DenoBeginner.com,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=qt7fbmypAFk,Bartek Iwańczuk - Deno internals, how modern runtime is built - Deno Warsaw,https://github.com/denolib/awesome-deno#readme,Deno
-https://sabe.io/tutorials/getting-started-with-deno,Getting Started with Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://deno.town,deno.town,https://github.com/denolib/awesome-deno#readme,Deno
-https://dev.to/bnevilleoneill/what-s-deno-and-how-is-it-different-from-node-js-366g,What's Deno, and how is it different from Node.js?,https://github.com/denolib/awesome-deno#readme,Deno
-https://sabe.io/tutorials/how-to-deploy-deno-app-docker,How to deploy a Deno app using Docker,https://github.com/denolib/awesome-deno#readme,Deno
-https://t.me/deno_id,Deno Land Indonesia Telegram group,https://github.com/denolib/awesome-deno#readme,Deno
-https://tinyclouds.org/jsconf2018.pdf,Slides,https://github.com/denolib/awesome-deno#readme,Deno
-https://juejin.im/post/5b14a390e51d4506c1300bbc,Deno 并不是下一代 Node.js,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=FlTG0UXRAkE,JSDC 2018#A01 - Deno, A New Server-Side Runtime By Ryan Dahl,https://github.com/denolib/awesome-deno#readme,Deno
-https://docs.google.com/presentation/d/1LYNGpyjx9PemL-P__7hVC8mSqkX-jL8VQLMhCRehy00/edit?usp=sharing,Slides,https://github.com/denolib/awesome-deno#readme,Deno
-https://playground.denobr.com/,DenoBR Playground,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=z6JRlx5NC9E,Ryan Dahl. Deno, a new way to JavaScript. JS Fest 2019 Spring,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=1gIiZfSbEAE,Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019,https://github.com/denolib/awesome-deno#readme,Deno
+https://codesandbox.io/s/y56n2,Deno Starter in Codesandbox,https://github.com/denolib/awesome-deno#readme,Deno
 https://www.mycompiler.io/new/deno,myCompiler.io,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.slideshare.net/FrancescoSciuti/deno-lanagramma-di-node,Deno - L'anagramma di Node,https://github.com/denolib/awesome-deno#readme,Deno
-https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2,Así puedes crear tu primera API REST con Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.slideshare.net/JSFestUA/js-fest-2019-ryan-dahl-deno-a-new-way-to-javascript,Slides,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.youtube.com/watch?v=Aib1OZLy0_c,Rafał Pocztarski — From Node.js to Deno - JavaScript/TypeScript runtime built with V8 and Rust [EN],https://github.com/denolib/awesome-deno#readme,Deno
-https://dev.to/kryz/write-a-small-api-using-deno-1cl0,Write a small API using Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://juejin.im/post/5b1245b3f265da6e4c6cf249,玩 Deno 遇到问题的解决方案,https://github.com/denolib/awesome-deno#readme,Deno
-https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7,Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript,https://github.com/denolib/awesome-deno#readme,Deno
-https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335,Node.js における設計ミス By Ryan Dahl,https://github.com/denolib/awesome-deno#readme,Deno
-https://speakerdeck.com/masashi/deno,Design Mistakes in Node & Deno #kng5 / deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627,Create your first News CLI app using Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://dev.to/buttercubz/first-look-with-deno-spanish-30dh,Primer vistazo con deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://blog.leko.jp/post/code-reading-of-deno-boot-process/,Dive into Deno：プロセス起動からTypeScriptが実行されるまで,https://github.com/denolib/awesome-deno#readme,Deno
-https://t.me/denolanduz,Telegram,https://github.com/denolib/awesome-deno#readme,Deno
-https://segmentfault.com/a/1190000015151287,让我们一起来学习别人学不动的 Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://semaphoreci.com/blog/continuous-integration-with-deno,Continuous Integration with Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://zhuanlan.zhihu.com/p/37637923,Design Mistakes in Node zh-CN,https://github.com/denolib/awesome-deno#readme,Deno
-https://denoland.kr/,denoland.kr/,https://github.com/denolib/awesome-deno#readme,Deno
-https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d,Deno on Cloud Run,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.loginradius.com/engineering/blog/jwt-authentication-with-deno/,How to create and validate JSON Web Tokens in Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://aralroca.com/blog/learn-deno-chat-app,Learn Deno: Chat app,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.loginradius.com/engineering/blog/build-a-cli-tool-using-deno/,Build A Simple Covid19 CLI Tool using Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://dev.to/aralroca/from-node-to-deno-5gpn,From Node to Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw,Node之父ry：Node中的设计错误,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.loginradius.com/engineering/blog/a-webapp-in-deno/,Creating a Web Application using Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g,Create a simple Note-taking app with Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://deno.js.cn,Deno 中文开发者社区,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.loginradius.com/engineering/blog/read-and-write-in-a-local-file-with-deno/,Read and Write in a local file with Deno,https://github.com/denolib/awesome-deno#readme,Deno
-https://dev.to/fhsinchy/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-170e,Develop and Dockerize a Blogging API With Deno, Oak, and MySQL,https://github.com/denolib/awesome-deno#readme,Deno
-https://stefanbuck.com/blog/hidden-superpower-deno-xeval,The Hidden Superpower of Deno: xeval,https://github.com/denolib/awesome-deno#readme,Deno
-https://codeforgeek.com/building-api-server-using-deno-and-mysql/,Building API's using Deno, Oak and MYSQL,https://github.com/denolib/awesome-deno#readme,Deno
-https://v1rtl.site/blog/coverage-in-deno,Test coverage in Deno with Codecov and GitHub Actions,https://github.com/denolib/awesome-deno#readme,Deno
+https://repl.it/languages/deno,Repl.it,https://github.com/denolib/awesome-deno#readme,Deno
+https://aws-api.deno.dev/,aws-api,https://github.com/denolib/awesome-deno#readme,Deno
+https://googleapis.deno.dev/,googleapis,https://github.com/denolib/awesome-deno#readme,Deno
+https://jsr.io/@iuioiua/redis,@iuioiua/redis,https://github.com/denolib/awesome-deno#readme,Deno
+https://nextjs.org,Next.js,https://github.com/denolib/awesome-deno#readme,Deno
+https://discordeno.mod.land/,discordeno,https://github.com/denolib/awesome-deno#readme,Deno
+https://deno.land/x/tepi,tepi,https://github.com/denolib/awesome-deno#readme,Deno
+https://deno.land/x/dinoenv,dinoenv,https://github.com/denolib/awesome-deno#readme,Deno
+https://deno.land/x/localekit,locale-kit,https://github.com/denolib/awesome-deno#readme,Deno
+https://nestjs.com,Nest.js,https://github.com/denolib/awesome-deno#readme,Deno
+https://primatejs.com,primate,https://github.com/denolib/awesome-deno#readme,Deno
+https://docs.yelix.dev/,Yelix,https://github.com/denolib/awesome-deno#readme,Deno
+https://nats.io/,NATS messaging system,https://github.com/denolib/awesome-deno#readme,Deno
+https://react-icons.deno.dev/,react-icons,https://github.com/denolib/awesome-deno#readme,Deno
+https://crux.land/,crux.land,https://github.com/denolib/awesome-deno#readme,Deno
+https://denopkg.com/,Deno PKG,https://github.com/denolib/awesome-deno#readme,Deno
+https://deno.land/x/,deno.land/x/,https://github.com/denolib/awesome-deno#readme,Deno
 https://nest.land,nest.land,https://github.com/denolib/awesome-deno#readme,Deno
-https://www.robinwieruch.de/deno-tutorial,0,https://github.com/denolib/awesome-deno#readme,Deno
+https://fresh.deno.dev/showcase,Fresh Showcase,https://github.com/denolib/awesome-deno#readme,Deno
+https://deno.land/showcase,The Official Showcase,https://github.com/denolib/awesome-deno#readme,Deno
 https://usingdeno.com,UsingDeno,https://github.com/denolib/awesome-deno#readme,Deno
+https://asdf-vm.com/,asdf,https://github.com/denolib/awesome-deno#readme,Deno
+https://docs.netlify.com/edge-functions/overview/,Netlify Edge Functions,https://github.com/denolib/awesome-deno#readme,Deno
+https://api.slack.com/future/functions/custom,Slack Custom Functions,https://github.com/denolib/awesome-deno#readme,Deno
+https://www.smallweb.run/,Smallweb,https://github.com/denolib/awesome-deno#readme,Deno
+https://supabase.com/docs/guides/functions,Supabase Edge Functions,https://github.com/denolib/awesome-deno#readme,Deno
+https://docs.astro.build/en/guides/deploy/deno/,Astro,https://github.com/denolib/awesome-deno#readme,Deno
+https://deno-blog.com,Craig's Deno Diary,https://github.com/denolib/awesome-deno#readme,Deno
+https://deno.com/blog,Deno Blog,https://github.com/denolib/awesome-deno#readme,Deno
+https://deno.news,Deno News,https://github.com/denolib/awesome-deno#readme,Deno
 https://medium.com/@kitsonk/develop-with-deno-and-visual-studio-code-225ce7c5b1ba,Develop with Deno and Visual Studio Code,https://github.com/denolib/awesome-deno#readme,Deno
+https://43081j.com/2019/01/first-look-at-deno,First thoughts on Deno, the JavaScript/TypeScript run-time,https://github.com/denolib/awesome-deno#readme,Deno
+https://dev.to/wuz/getting-started-with-deno-e1m,Getting started with Deno,https://github.com/denolib/awesome-deno#readme,Deno
+https://dev.to/bnevilleoneill/what-s-deno-and-how-is-it-different-from-node-js-366g,What's Deno, and how is it different from Node.js?,https://github.com/denolib/awesome-deno#readme,Deno
+https://dev.to/kryz/write-a-small-api-using-deno-1cl0,Write a small API using Deno,https://github.com/denolib/awesome-deno#readme,Deno
+https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d,Deno on Cloud Run,https://github.com/denolib/awesome-deno#readme,Deno
+https://aralroca.com/blog/learn-deno-chat-app,Learn Deno: Chat app,https://github.com/denolib/awesome-deno#readme,Deno
+https://dev.to/aralroca/from-node-to-deno-5gpn,From Node to Deno,https://github.com/denolib/awesome-deno#readme,Deno
+https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g,Create a simple Note-taking app with Deno,https://github.com/denolib/awesome-deno#readme,Deno
+https://codeforgeek.com/building-api-server-using-deno-and-mysql/,Building API's using Deno, Oak and MYSQL,https://github.com/denolib/awesome-deno#readme,Deno
+https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627,Create your first News CLI app using Deno,https://github.com/denolib/awesome-deno#readme,Deno
+https://semaphoreci.com/blog/continuous-integration-with-deno,Continuous Integration with Deno,https://github.com/denolib/awesome-deno#readme,Deno
+https://stefanbuck.com/blog/hidden-superpower-deno-xeval,The Hidden Superpower of Deno: xeval,https://github.com/denolib/awesome-deno#readme,Deno
+https://www.robinwieruch.de/deno-tutorial,0,https://github.com/denolib/awesome-deno#readme,Deno
+https://www.robinwieruch.de/deno-oak,1,https://github.com/denolib/awesome-deno#readme,Deno
+https://www.robinwieruch.de/deno-oak-rest-api,2,https://github.com/denolib/awesome-deno#readme,Deno
+https://sabe.io/tutorials/getting-started-with-deno,Getting Started with Deno,https://github.com/denolib/awesome-deno#readme,Deno
+https://sabe.io/tutorials/how-to-deploy-deno-app-docker,How to deploy a Deno app using Docker,https://github.com/denolib/awesome-deno#readme,Deno
+https://tinyclouds.org/jsconf2018.pdf,Slides,https://github.com/denolib/awesome-deno#readme,Deno
+https://www.youtube.com/watch?v=FlTG0UXRAkE,JSDC 2018#A01 - Deno, A New Server-Side Runtime By Ryan Dahl,https://github.com/denolib/awesome-deno#readme,Deno
+https://www.youtube.com/watch?v=z6JRlx5NC9E,Ryan Dahl. Deno, a new way to JavaScript. JS Fest 2019 Spring,https://github.com/denolib/awesome-deno#readme,Deno
+https://www.slideshare.net/JSFestUA/js-fest-2019-ryan-dahl-deno-a-new-way-to-javascript,Slides,https://github.com/denolib/awesome-deno#readme,Deno

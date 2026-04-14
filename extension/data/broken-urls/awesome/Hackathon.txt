@@ -1,0 +1,9 @@
+https://tulu.la/hackathons-and-challenges,Tulula,https://github.com/dribdat/awesome-hackathon#readme,Hackathon error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://guides.data.gouv.fr/autres-ressources-utiles/guide-du-participant-au-hackathon-meteo/ressources-du-hackathon,Guides et documentation data.gouv.fr,https://github.com/dribdat/awesome-hackathon#readme,Hackathon error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://blog.hack2skill.com/what-is-a-hackathon-a-complete-guide-about-hackathon,shares resources,https://github.com/dribdat/awesome-hackathon#readme,Hackathon error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://rhokjr.org/,RHOK, Jr.,https://github.com/dribdat/awesome-hackathon#readme,Hackathon error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://www.rhok-cph.org/,RHOK CPH,https://github.com/dribdat/awesome-hackathon#readme,Hackathon error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://help.hackworks.com/knowledge,docs,https://github.com/dribdat/awesome-hackathon#readme,Hackathon error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/demystifying-the-hackathon,McKinsey: Demystifying the hackathon,https://github.com/dribdat/awesome-hackathon#readme,Hackathon error: TimeoutError('The read operation timed out') | reason: 
+https://www.uiin.org/wp-content/uploads/2021/03/SB_Participant-handbook.pdf,Participant,https://github.com/dribdat/awesome-hackathon#readme,Hackathon error: <HTTPError 520: '<none>'> | reason: <none>
+https://uiin.org/wp-content/uploads/2021/04/Hackathon-Handbook-010720.pdf,Organizer,https://github.com/dribdat/awesome-hackathon#readme,Hackathon error: <HTTPError 520: '<none>'> | reason: <none>

@@ -1,0 +1,7 @@
+https://wpgql-slack.herokuapp.com/,Slack Chat,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://docs.wpgraphql.com/,Documentation,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby error: <HTTPError 525: '<none>'> | reason: <none>
+https://spectrum.chat/wpgraphql,Spectrum Chat,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://gatsby.dev/discord,Discord Chat,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby,Building a Headless WordPress Site with Gatsby,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://justinwhall.com/live-previews-with-wordpress-gatsby/,Live Previews with WordPress and Gatsby,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://justinwhall.com/headless-wordpress-gatsby-netlify-continous-deployment/,Headless WordPress + Gatsby + Netlify continuous deployment,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,27 @@
+https://molily.de/robust-javascript/,Robust Client-Side JavaScript,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+http://eloquentjavascript.net,Eloquent JavaScript,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://developer.mozilla.org/docs/Web/JavaScript/Reference,MDN,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide,other guides,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+http://addyosmani.com/resources/essentialjsdesignpatterns/book/,JavaScript Design Patterns,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+http://devdocs.io/javascript,DevDocs,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://www.sitepoint.com/javascript-closures-demystified/,JavaScript Closures Demystified,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://mostly-adequate.gitbooks.io/mostly-adequate-guide/,Mostly Adequate Guide to Functional Programming,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://wesbos.com/javascript,JavaScript Notes & Reference,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+http://jargon.js.org,Simplified JavaScript Jargon,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://scotch.io/tutorials/understanding-hoisting-in-javascript,Understanding Hoisting,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+http://shop.oreilly.com/product/9780596517748.do,JavaScript: The Good Parts,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter,Array operations,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://www.nostarch.com/oojs,The Principles of Object-Oriented JavaScript,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/,Promises,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9,Async/Await,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976,Pure functions,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+http://shop.oreilly.com/product/0636920027713.do,JavaScript Enlightenment,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://functional.works-hub.com/blog/Functional-Programming-Jargon,Functional Programming Jargon,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://www.manning.com/books/the-joy-of-javascript,The Joy of JavaScript,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch,Using Fetch,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://developers.google.com/web/tools/chrome-devtools/,Chrome DevTools,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+http://ecma-international.org/publications/standards/Ecma-262.htm,ECMAScript® Language Specification,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript,A re-introduction to JavaScript*,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+http://javascript.info,JavaScript.info,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://auth0.com/blog/glossary-of-modern-javascript-concepts/,Glossary of Modern JavaScript Concepts: Part 1,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning
+https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/,Glossary of Modern JavaScript Concepts: Part 2,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning

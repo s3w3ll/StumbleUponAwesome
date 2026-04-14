@@ -1,0 +1,149 @@
+https://www.youtube.com/c/Webcrunch/videos,Webcrunch,https://github.com/gramantin/awesome-rails#readme,Rails
+https://railsnotes.xyz,RailsNotes Blog,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.reddit.com/r/railsjobs/,railsjobs on Reddit,https://github.com/gramantin/awesome-rails#readme,Rails
+https://startup.jobs/ruby-jobs,rails jobs on Startup Jobs,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/isalevine/building-an-event-sourcing-system-in-rails-part-1-what-is-event-sourcing-46db,Building an Event Sourcing System in Rails, Part 1: What is Event Sourcing?,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7,CJ Avilla,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.reddit.com/r/rails/,rails on Reddit,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.arkency.com/rails-connections-pools-and-handlers/,Rails connections, pools and handlers,https://github.com/gramantin/awesome-rails#readme,Rails
+https://leanpub.com/therails7way,The Rails 7 Way,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.cloudbees.com/blog/five-practices-for-robust-ruby-on-rails-applications,Five Practices for Robust Ruby on Rails Applications,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/c/SupeRails/videos,SupeRails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://evilmartians.com/chronicles/a-fixture-based-approach-to-interface-testing-in-rails,A fixture-based approach to interface testing in Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://guides.rubyonrails.org,Rails Official Guide,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.arkency.com/how-to-balance-the-public-apis-of-open-source-library-practical-examples-from-railseventstore/,How to balance the public APIs of an open-source library — practical examples from RailsEventStore,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.indeed.com/q-Ruby-On-Rails-jobs.html,rails jobs on indeed.com,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/@typefastco/videos,TypeFast,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/hasanadeem/ruby-rails-machine-setup-guide-3l5a,Ruby/Rails Machine Setup Guide,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/master-many-to-many-associations-with-activerecord/,Master Many-to-Many Associations with ActiveRecord,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/coorasse/the-progressive-rails-app-46ma,The Progressive Rails App,https://github.com/gramantin/awesome-rails#readme,Rails
+https://discuss.rubyonrails.org/,Ruby on Rails Discussions,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.planetargon.com/entries/rails-61-is-coming-soon-how-to-prepare-your-app-now,Rails 6.1 is Out! How to Prepare Your App Now,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.arkency.com/common-authentication-for-mounted-rack-apps-in-rails/,Rack apps mounted in Rails — how to protect access to them?,https://github.com/gramantin/awesome-rails#readme,Rails
+https://learnetto.com/users/hrishio/courses/full-stack-rails-mastery,Full Stack Rails Mastery,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/@APPSIMPACTAcademy/videos,APPSIMPACT Academy,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/isalevine/building-an-event-sourcing-pattern-in-rails-from-scratch-355h,Part 2,https://github.com/gramantin/awesome-rails#readme,Rails
+https://gorails.com/forum,Gorails forum,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/@mixandgo/videos,Mix & Go,https://github.com/gramantin/awesome-rails#readme,Rails
+https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695,Crafting APIs With Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.ideamotive.co/ruby-on-rails/guide,Choosing ruby on rails for your next web development project (business guide),https://github.com/gramantin/awesome-rails#readme,Rails
+https://semaphoreci.com/community/tutorials/mocking-in-ruby-with-minitest,Mocking in Ruby with Minitest,https://github.com/gramantin/awesome-rails#readme,Rails
+https://edgeguides.rubyonrails.org,Rails Official Guide (Edge Guide),https://github.com/gramantin/awesome-rails#readme,Rails
+http://railscasts.com,RailsCasts,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/adamlogic/how-many-heroku-dynos-do-you-need-and-which-size-an-opinionated-guide-4fec,How many Heroku dynos do you need, and which size—An opinionated guide,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/@PhilSmy/videos,Phil Smy,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.digitalocean.com/community/tutorials/how-to-add-stimulus-to-a-ruby-on-rails-application,How To Add Stimulus to a Ruby on Rails Application,https://github.com/gramantin/awesome-rails#readme,Rails
+https://engineering.ezcater.com/youre-not-in-the-zone,Working with the SQL ‘time’ type in Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://gorails.com,GoRails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://remoteok.com/remote-ruby-jobs,rails jobs on remoteok.com,https://github.com/gramantin/awesome-rails#readme,Rails
+https://iridakos.com/tutorials/2019/04/07/dockerizing-a-rails-application.html,Dockerizing a Rails application,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/@davidbattersby/videos,David Battersby,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/dalezak/rails-environment-variables-using-credentials-mh7,Rails Environment Variables Using Credentials,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/common-rails-security-pitfalls-and-their-solutions/,Common Rails Security Pitfalls and Their Solutions,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/,10 Ruby on Rails Best Practices,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/matiascarpintini/real-time-notification-system-with-sidekiq-redis-and-devise-in-rails-6-33l9,Real Time Notification System with Sidekiq, Redis and Devise in Rails 6,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.planetargon.com/entries/when-should-you-upgrade-your-rails-application,When Should You Upgrade Your Rails Application?,https://github.com/gramantin/awesome-rails#readme,Rails
+https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec,How to Test Rails Models with RSpec,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/citronak/modern-rails-flash-messages-part-1-viewcomponent-stimulus-tailwind-css-3alm,Modern Rails flash messages (part 1): ViewComponent, Stimulus & Tailwind CSS,https://github.com/gramantin/awesome-rails#readme,Rails
+https://weworkremotely.com/remote-ruby-on-rails-jobs,rails jobs on weworkremotely.com,https://github.com/gramantin/awesome-rails#readme,Rails
+https://api.rubyonrails.org,Rails API Documentation,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.driftingruby.com/,Drifting Ruby,https://github.com/gramantin/awesome-rails#readme,Rails
+https://medium.com/oreilly-engineering/upgrading-rails-apps-with-dual-boot-e5c271e68a6e,Upgrading Rails apps with dual boot,https://github.com/gramantin/awesome-rails#readme,Rails
+https://rubyonrails.org/blog/,Rails Official Blog,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pganalyze.com/blog/efficient-graphql-queries-in-ruby-on-rails-and-postgres,Efficient GraphQL queries in Ruby on Rails & Postgres,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.freecodecamp.org/news/painless-rails-development-environment-setup-with-docker/,How to painlessly set up your Ruby on Rails dev environment with Docker,https://github.com/gramantin/awesome-rails#readme,Rails
+https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application,Dockerizing a Ruby on Rails Application,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams,Similarity in Postgres and Rails using Trigrams,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/luchiago/multiple-foreign-keys-for-the-same-model-in-rails-6-7ml,Multiple Foreign Keys for the Same Relationship in Rails 6,https://github.com/gramantin/awesome-rails#readme,Rails
+https://thoughtbot.com/upcase/rails,Learn Ruby on Rails (thoughtbot),https://github.com/gramantin/awesome-rails#readme,Rails
+https://pganalyze.com/blog/materialized-views-ruby-rails,Effectively Using Materialized Views in Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/render/deploying-your-rails-6-app-4an4,Deploying Your Rails 6 App,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/justalever/email-subscription-workflow-ruby-on-rails-406n,Email Subscription Workflow - Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/,Agile Web Development with Rails 6,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/building-apis-ruby-rails-graphql/,Building APIs with Ruby on Rails and GraphQL,https://github.com/gramantin/awesome-rails#readme,Rails
+https://skillcombo.com/topic/ruby-on-rails/,A curated list of Ruby on Rails courses,https://github.com/gramantin/awesome-rails#readme,Rails
+https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development,Dockerizing Ruby and Rails development,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pganalyze.com/blog/full-text-search-ruby-rails-postgres,Full Text Search in Milliseconds with Rails and PostgreSQL,https://github.com/gramantin/awesome-rails#readme,Rails
+http://rubyonwindowsguides.github.io,Ruby on Windows Guides,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.planetargon.com/entries/helpful-resources-for-your-rails-upgrade,Helpful Resources for Upgrading Your Rails App Version,https://github.com/gramantin/awesome-rails#readme,Rails
+https://admatbandara.medium.com/how-i-used-docker-with-rails-45601c43ed8f,How I used Docker with Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/citronak/modern-rails-flash-messages-part-2-the-undo-action-for-deleted-items-2a50,Part 2,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pganalyze.com/blog/active-record-subqueries-rails,Advanced Active Record: Using Subqueries in Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/c/DriftingRuby/videos,DriftingRuby,https://github.com/gramantin/awesome-rails#readme,Rails
+https://web3.career/ruby-jobs,rails jobs on web3.career,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pragprog.com/titles/ridocker/docker-for-rails-developers/,Docker for Rails Developers,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pganalyze.com/blog/postgis-rails-geocoder,PostGIS vs. Geocoder in Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.rubyguides.com/2019/06/rails-params/,What Are Rails Parameters & How to Use Them Correctly,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.cloud66.com/making-hotwire-and-devise-play-nicely-with-viewcomponents,Making Hotwire and Devise play nicely,https://github.com/gramantin/awesome-rails#readme,Rails
+https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one,How to GraphQL with Ruby, Rails, Active Record, and no N+1,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/c/GorailsTV/videos,Gorails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pganalyze.com/blog/custom-postgres-data-types-ruby-rails,Creating Custom Postgres Data Types in Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/morinoko/qr-code-reader-on-rails-5816,QR Code Reader on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/hint/what-s-cooking-in-rails-7-a42,What's Cooking in Rails 7?,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/c/TechmakerTV/videos,TechmakerTV,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.cloud66.com/taking-rails-to-the-next-level-with-hotwire,Taking Rails to the next level with Hotwire,https://github.com/gramantin/awesome-rails#readme,Rails
+https://evilmartians.com/chronicles/keep-up-with-the-tines-a-rails-frontend-revamp,Keep up with the Tines: Rails frontend revamp,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pragprog.com/titles/nrtest3/rails-5-test-prescriptions/,Rails 5 Test Prescriptions,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/model-view-controller-mvc-architecture-rails/,Understanding the Model-View-Controller (MVC) Architecture in Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/honeybadger/mastering-low-level-caching-in-rails-15ce,Mastering Low Level Caching in Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/appsignal/building-a-rails-app-with-multiple-subdomains-g05,Building a Rails App With Multiple Subdomains,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.youtube.com/c/Deanin/videos,Deanin,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.planetargon.com/entries/upgrading-rails-an-interview-with-eileen-uchitelle,Upgrading Rails: Interview with Eileen Uchitelle,https://github.com/gramantin/awesome-rails#readme,Rails
+https://semaphoreci.com/community/tutorials/integration-testing-ruby-on-rails-with-minitest-and-capybara,Integration Testing Ruby on Rails with Minitest and Capybara,https://github.com/gramantin/awesome-rails#readme,Rails
+https://shopify.engineering/write-fast-code-ruby-rails,How to Write Fast Code in Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.cloud66.com/hotwire-viewcomponents-and-tailwindcss-the-ultimate-rails-stack,Hotwire, ViewComponents and TailwindCSS: The Ultimate Rails Stack,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.toptal.com/ruby-on-rails/rails-6-features,Rails 6 Features: What's New and Why It Matters,https://github.com/gramantin/awesome-rails#readme,Rails
+https://medium.com/flatiron-labs/how-to-remove-single-table-inheritance-from-your-rails-monolith-c6009239defb,How to Remove Single Table Inheritance from Your Rails Monolith,https://github.com/gramantin/awesome-rails#readme,Rails
+https://evilmartians.com/chronicles/pulling-the-trigger-how-to-update-counter-caches-in-you-rails-app-without-active-record-callbacks,Pulling the trigger: How to update counter caches in your Rails app without Active Record callbacks,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pragprog.com/titles/dcbang2/rails-angular-postgres-and-bootstrap-second-edition/,Rails, Angular, Postgres, and Bootstrap, Second Edition,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.cloud66.com/adding-super-fast-frontend-search-in-rails-with-lunr,Adding Super Fast Frontend Search in Rails with Lunr,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/,nil?, empty?, blank? in Ruby on Rails - what's the difference actually?,https://github.com/gramantin/awesome-rails#readme,Rails
+https://evilmartians.com/chronicles/graphql-on-rails-3-on-the-way-to-perfection,GraphQL on Rails: On the way to perfection,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/nejremeslnici/using-hotwire-turbo-in-rails-with-legacy-javascript-17g1,Using Hotwire Turbo in Rails with legacy JavaScript,https://github.com/gramantin/awesome-rails#readme,Rails
+https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2,The 3 Tenets of Service Objects in Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/finiam/reactive-rails-applications-with-stimulusreflex-48kn,Reactive Rails applications with StimulusReflex,https://github.com/gramantin/awesome-rails#readme,Rails
+https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications,Containerizing Ruby on Rails Applications,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pragprog.com/titles/d-kegrap/growing-rails-applications-in-practice/,Growing Rails Applications in Practice,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/beyond-rails-abstractions-dive-database-internals/,Beyond Rails Abstractions: A Dive into Database Internals,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.arkency.com/how-well-rails-developers-actually-test-their-apps/,How well Rails developers actually test their apps,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/matiascarpintini/magic-links-with-ruby-on-rails-and-devise-4e3o,Magic Links with Ruby On Rails and Devise,https://github.com/gramantin/awesome-rails#readme,Rails
+https://evilmartians.com/chronicles/danger-on-rails-make-robots-do-some-code-review-for-you,Danger on Rails: make robots do some code review for you!,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/,Crafting Rails 4 Applications,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.arkency.com/rails-multitenancy-story-in-11-snippets-of-code/,Rails multitenancy story in 11 snippets of code,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/andrzejkrzywda/from-rails-scaffold-listing-to-hotwire-infinite-scroll-3273,From Rails scaffold listing to Hotwire infinite scroll,https://github.com/gramantin/awesome-rails#readme,Rails
+https://railsware.com/blog/famous-web-apps-built-with-ruby-on-rails/,Famous Web Apps Built with Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://shopify.engineering/how-to-introduce-composite-primary-keys-in-rails,How to Introduce Composite Primary Keys in Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query,GraphQL on Rails: From zero to the first query,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.arkency.com/painless-rails-upgrades/,Painless Rails upgrades,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-angular-vue-svelte-and-jquery-18kp,1 Backend, 5 Frontends - Todo List with Rails, React, Angular, Vue, Svelte, and jQuery,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/mario_chavez/i-created-the-same-application-with-rails-and-no-javascript-288o,I created the same application with Rails and no JavaScript,https://github.com/gramantin/awesome-rails#readme,Rails
+https://shopify.engineering/enforcing-modularity-rails-apps-packwerk,Enforcing Modularity in Rails Apps with Packwerk,https://github.com/gramantin/awesome-rails#readme,Rails
+https://thoughtbot.com/blog/implementing-multi-table-full-text-search-with-postgres,Implementing Multi-Table Full Text Search with Postgres in Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.cloudbees.com/blog/building-a-json-api-with-rails-5,Building a JSON API with Rails 5,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/orbit/building-a-component-library-in-rails-with-storybook-49m4,Building a Component Library in Rails With Storybook,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/,Comparison of approaches to multitenancy in Rails apps,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.ombulabs.com/blog/learning/javascript/behind-the-scenes-rails-ujs.html,Behind The Scenes: Rails UJS,https://github.com/gramantin/awesome-rails#readme,Rails
+https://pawelurbanek.com/rails-postgresql-data-integrity,Ruby on Rails ActiveRecord PostgreSQL Data Integrity and Validations,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.arkency.com/managing-rails-event-store-subscriptions-how-to/,Managing Rails Event Store Subscriptions — How To,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/andrewmcodes/instantly-speed-up-your-rails-application-by-self-hosting-your-fonts-526d,Instantly speed up your Rails application by self-hosting your fonts,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without,8 Useful Ruby on Rails Gems We Couldn't Live Without,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/vonagedev/create-a-video-party-app-with-rails-part-1-building-the-backend-2p4k,Create a Video Party App With Rails Part 1: Building the Backend,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/nicklevenson/how-to-speed-up-load-times-in-a-rails-app-what-i-wish-i-knew-four-months-ago-28g0,How to Speed Up Load Times In A Rails App - What I Wish I Knew Four Months Ago,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/search-autocomplete-rails-apps/,Search and Autocomplete in Rails Apps,https://github.com/gramantin/awesome-rails#readme,Rails
+https://hackr.io/tutorials/learn-ruby-on-rails,Programming Community Curated Resources For Learning Ruby on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/ilrock__/reactive-map-with-rails-stimulus-reflex-and-mapbox-1po4,Reactive Map with Rails, Stimulus Reflex and Mapbox,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/vonagedev/create-a-video-party-app-with-rails-part-2-building-the-frontend-hfe,Part 2,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/zealot128/endless-scroll-infinite-loading-with-turbo-streams-stimulus-5d89,Endless Scroll / Infinite Loading with Turbo Streams & Stimulus,https://github.com/gramantin/awesome-rails#readme,Rails
+https://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app,Ruby on Rails Code Audits: 8 Steps to Review Your App,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/maxwell_dev/the-rails-model-introduction-i-wish-i-had-5h2d,The Rails Model Introduction I Wish I Had,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/start-your-seo-right-with-sitemaps-on-rails/,Start Your SEO Right with Sitemaps on Rails,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/drews256/a-future-for-rails-stimulusreflex-48kb,A Future for Rails: StimulusReflex,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/solutelabs/how-to-create-a-gem-in-ruby-on-rails-fromscratch-3f4p,How to create a gem in Ruby on Rails? -From Scratch-,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/appsignal/introduction-to-ruby-on-rails-patterns-and-anti-patterns-2mhc,Introduction to Ruby on Rails Patterns and Anti-patterns Part 1,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.rubyonrails.link/,Ruby on Rails Link (Slack),https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/appsignal/ruby-on-rails-model-patterns-and-anti-patterns-32k9,Part 2,https://github.com/gramantin/awesome-rails#readme,Rails
+https://www.sitepoint.com/handle-password-and-email-changes-in-your-rails-api/,Handle Password and Email Changes in Your Rails API,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/appsignal/rails-concerns-to-concern-or-not-to-concern-3n94,Rails Concerns: To Concern Or Not To Concern,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/raphael_jambalos/more-than-hello-world-in-docker-run-rails-sidekiq-web-apps-in-docker-1b37,More than "Hello World" in Docker: Build Rails + Sidekiq web apps in Docker,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/renatamarques97/design-patterns-with-ruby-on-rails-part-1-introduction-and-policy-object-1c37,Design Patterns with Ruby on Rails part 1: Introduction and Policy Object,https://github.com/gramantin/awesome-rails#readme,Rails
+https://dev.to/renatamarques97/design-patterns-with-ruby-on-rails-part-2-query-object-1h65,Part 2,https://github.com/gramantin/awesome-rails#readme,Rails

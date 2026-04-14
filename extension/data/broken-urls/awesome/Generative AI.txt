@@ -1,0 +1,36 @@
+https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/,Bing Search,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.meta.ai/,Meta AI,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Client challenge'> | reason: Client challenge
+https://www.codium.ai/,CodiumAI,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://komo.ai/,Komo,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://mutable.ai/,MutableAI,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://pictory.ai/,Pictory,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://diagram.com/,Diagram,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)
+https://claude.ai/,Claude,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://typeset.io/,SciSpace,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 405: 'Not Allowed'> | reason: Not Allowed
+https://pi.ai,Pi,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.freepik.com/ai,Freepik AI,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.nytimes.com/2022/10/21/technology/generative-ai.html,A Coming-Out Party for Generative A.I., Silicon Valley's New Craze,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://gamma.app/,Gamma,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.clickable.so/,Clickable,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 526: '<none>'> | reason: <none>
+https://diffusiondb.com/,DiffusionDB,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912,ChatGPT Heralds an Intellectual Revolution,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 401: 'HTTP Forbidden'> | reason: HTTP Forbidden
+https://wonderdynamics.com/,Wonder Dynamics,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://creator.nightcafe.studio/,Nightcafe,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://leonardo.ai/,Leonardo AI,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://infinity.ai/,Infinity AI,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.resemble.ai/,Resemble AI,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://debuild.app/,Debuild,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://finchat.io/,FinChat,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://galactica.org/,Galactica,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 530: '<none>'> | reason: <none>
+https://stableboost.ai/,Stableboost,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://play.ht/,Play.ht,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 530: '<none>'> | reason: <none>
+https://poe.com/,Poe,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://podcast.ai/,podcast.ai,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.rephrase.ai/,Rephrase AI,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)
+https://phind.com/,Phind,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://vallex-demo.github.io/,VALL-E X,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.craiyon.com/,Craiyon,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://opt.alpa.ai/,OPT-175B text generation,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://synthical.com,Synthical,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: TimeoutError('The read operation timed out') | reason: 
+https://www.modyfi.io/,modyfi,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.ponzu.ai/,Ponzu,https://github.com/steven2358/awesome-generative-ai#readme,Generative AI error: <HTTPError 402: 'Payment Required'> | reason: Payment Required

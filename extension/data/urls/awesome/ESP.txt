@@ -1,11 +1,17 @@
-https://open-smartwatch.github.io/,Open SmartWatch,https://github.com/agucova/awesome-esp#readme,ESP
-https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html,ESP-NOW,https://github.com/agucova/awesome-esp#readme,ESP
 http://espressif.com/en/products/hardware/esp8266ex/overview,,https://github.com/agucova/awesome-esp#readme,ESP
 http://espressif.com/en/products/hardware/esp32/overview,,https://github.com/agucova/awesome-esp#readme,ESP
 http://bbs.espressif.com/,Espressif AT,https://github.com/agucova/awesome-esp#readme,ESP
 http://www.esp8266basic.com/,ESPBasic,https://github.com/agucova/awesome-esp#readme,ESP
 https://devicehive.com/,DeviceHive,https://github.com/agucova/awesome-esp#readme,ESP
 http://espressif.com/en/support/download/other-tools,ESP Flash Tool,https://github.com/agucova/awesome-esp#readme,ESP
+https://www.openhasp.com/,openHASP,https://github.com/agucova/awesome-esp#readme,ESP
 https://hackaday.io/project/28831-wifi-satellite-34c3,WiFi Satellite,https://github.com/agucova/awesome-esp#readme,ESP
 https://heartypatch.protocentral.com/,HeartyPatch,https://github.com/agucova/awesome-esp#readme,ESP
 https://www.crowdsupply.com/protocentral/healthypi-v4-unplugged,HealthyPi v4,https://github.com/agucova/awesome-esp#readme,ESP
+https://www.meshtastic.org/,Meshtastic,https://github.com/agucova/awesome-esp#readme,ESP
+https://mutantcybernetics.com/mutantW_V1.html,mutantW_V1,https://github.com/agucova/awesome-esp#readme,ESP
+https://open-smartwatch.github.io/,Open SmartWatch,https://github.com/agucova/awesome-esp#readme,ESP
+https://watchy.sqfmi.com,Watchy,https://github.com/agucova/awesome-esp#readme,ESP
+https://kno.wled.ge/,WLED,https://github.com/agucova/awesome-esp#readme,ESP
+https://lvgl.io,LVGL,https://github.com/agucova/awesome-esp#readme,ESP
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html,ESP-NOW,https://github.com/agucova/awesome-esp#readme,ESP

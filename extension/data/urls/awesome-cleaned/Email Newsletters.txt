@@ -1,0 +1,103 @@
+https://rweekly.org,R Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://tailwindweekly.com/,Tailwind Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.freecodecamp.org,FreeCodeCamp,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://phaser.io/community/newsletter,Phaser World,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://webtoolsweekly.com/,Web Tools Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://embertimes.substack.com/,The Ember Times,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://thisweekinreact.com,This Week In React,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.swiftbysundell.com/newsletter/,The Swift by Sundell,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://activeforks.net,Active forks,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://nodeweekly.com/,Node Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://web-design-weekly.com/,Web Design Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.emberweekly.com/,Ember Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://thecoder.cafe,The Coder Cafe,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://rubyweekly.com/,Ruby Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.baseclass.io/,BaseClass,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0,Front-end Front,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://news.vuejs.org,Vue.js Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.nodejs-security.com/newsletter,Node.js Security Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.oreilly.com/programming/newsletter.html,O’Reilly Programming Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://reactnewsletter.com/,React Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://webanimationweekly.com/,Web Animation Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://programmingdigest.net/,Programming Digest,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.typescript-weekly.com/,TypeScript Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://sidebar.io,Sidebar,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://vuedose.tips,VueDose,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://thoughtbot.com/blog/tags/ruby,Ruby Articles,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://reactnativenewsletter.com/,React Native Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://wpuniverse.online/the-comet/,The Comet,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://ardalis.com/tips,Weekly Dev Tips,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://jster.net/blog,JSter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://frontendfront.com/,Frontendfront,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://swiftweekly.com/,Swift Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://reactnativenow.com/,React Native Now,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://zendev.com/friday-frontend.html,Friday Front-end,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://andybargh.com/swiftdevelopments/,Swift Developments,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.webdesignernews.com,Web Designer News,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://zendev.com/category/friday-frontend.html,Archive,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://weekly-vue.news,Weekly Vue News,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://news.design.systems/,Design Systems News,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://reactdigest.net/,React Digest,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://thoughtbot.com,Thoughtbot,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://iosdevweekly.com/,iOS Dev Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://webweekly.email/,Web Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://llvmweekly.org,LLVM Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://world.hey.com/this.week.in.rails,Rails Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://generative.substack.com/,Generative Collective,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://responsivedesignweekly.com,Responsive Design Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://iosdevweekly.com/issues,Archive,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.discoverdev.io,Discover dev,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://react.statuscode.com/,React Status,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://swiftweekly.github.io,Swift Weekly Brief,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://css-weekly.com/,CSS Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://news.design.systems/issues,Archive,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://syntax.fm/snackpack,Syntax Snack Pack,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://womenonrailsinternational.substack.com/,Women on Rails Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.discoverdev.io/archive,Archive,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e,Subscribe,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://nextjsweekly.com/,Nextjs Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://designgest.com/,Designgest,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://css-tricks.com,CSS-Tricks,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://syntax.fm,Syntax.fm,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://advancedbeginners.substack.com/,Programming Feedback for Advanced Beginners,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.nngroup.com/articles/subscribe/,Alertbox E-Mail Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://unread.it/n/frontend/,Unreadit/Frontend,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://csslayout.news/,CSS Layout News,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://newsletter.shortruby.com,Short Ruby Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://weekly.bestofjs.org/,Best of JavaScript,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://golangweekly.com/,Golang Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://unread.it/n/design/,Unreadit/Design,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://markodenic.tech,Marko Denic Tech,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://mentor.silvestar.codes/reads,UI Dev Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.designernews.co,Designer News,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://golangweekly.com/issues,Archive,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://javascriptweekly.com/,JavaScript Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://figmalion.com,Figmalion,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.figma.com/,Figma,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://hackdesign.org,Hack Design,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://frontendsnacks.dev/,Frontend Snacks,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://labnotes.org/,Labnotes,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://javascriptweekly.com/issues,Archive,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://hackingui.com/,Hacking UI,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://thereactnativerewind.com/,React Native Rewind,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://wdrl.info,Web Development Reading List,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://frontendfoc.us,FrontEnd Focus,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.smashingmagazine.com/the-smashing-newsletter/,The Smashing Email Newsletter,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://gamedevjsweekly.com/,Gamedev.js Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://ewebdesign.com/,eWebDesign,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+http://adripofjavascript.com/index.html,A Drip of JavaScript,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://jamstack.email/,JAMstacked,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://bytes.dev/,Bytes,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://techtalksweekly.substack.com/,Tech Talks Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://techtalksweekly.substack.com/p/tech-conferences,+100 engineering conferences,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://techtalksweekly.substack.com/archive,Archive,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://abyteofcoding.com,A Byte of Coding,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://codedegen.substack.com/,CodeDegen Daily,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.objc.io/,ObjC,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://www.pointer.io/,Pointer,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://embedsysweekly.com/,Embedsys Weekly,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://csharpdigest.net/,C# Digest,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://bigtechdigest.substack.com/,Big Tech Digest,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://console.dev/,Console,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://aspnetcore.news/,ASP.NET Core News,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters
+https://wearecommunity.io/collections/DLY4smPzao,Integration Digest,https://github.com/zudochkin/awesome-newsletters#readme,Email Newsletters

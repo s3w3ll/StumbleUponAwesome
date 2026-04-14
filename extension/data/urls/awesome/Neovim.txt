@@ -1,8 +1,37 @@
-https://neovim.io/,Neovim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
-http://dinvim.com/,DinVim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://scalameta.org/metals/,Metals,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://sr.ht/~chinmay/clangd_extensions.nvim,~chinmay/clangd_extensions.nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://git.sr.ht/~whynothugo/lsp_lines.nvim,~whynothugo/lsp_lines.nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://aider.chat,aider-chat,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://block.github.io/goose,goose,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
 https://leanprover.github.io/,Lean Theorem Prover,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
-https://gitlab.com/yorickpeterse/nvim-pqf,gitlab.com/yorickpeterse/nvim-pqf,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
-https://gitlab.com/yorickpeterse/nvim-window,gitlab.com/yorickpeterse/nvim-window,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://unison-lang.org/,Unison,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://tangled.org/cuducos.me/yaml.nvim,cuducos.me/yaml.nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://ray.so,ray.so,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://codeberg.org/jthvai/lavender.nvim,jthvai/lavender.nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://www.hsluv.org/,HSLuv,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://gitlab.com/sxwpb/halfspace.nvim,sxwpb/halfspace.nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://gitlab.com/bartekjaszczak/distinct-nvim,bartekjaszczak/distinct-nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://gitlab.com/bartekjaszczak/luma-nvim,bartekjaszczak/luma-nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://gitlab.com/bartekjaszczak/finale-nvim,bartekjaszczak/finale-nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://codeberg.org/m15a/nvim-srcerite,m15a/nvim-srcerite,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://srcery.sh/,Srcery,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://gitlab.com/motaz-shokry/gruvbox.nvim,motaz-shokry/gruvbox.nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://sr.ht/~henriquehbr/nvim-startup.lua,henriquehbr/nvim-startup.lua,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://git.sr.ht/~elisoli/nekovim,~elisoli/nekovim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://codeberg.org/losch/ztl,losch/ztl,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://www.lua.org/pil/18.html,lua-lib-math,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://docs.brew.sh/Brew-Bundle-and-Brewfile,Brewfile,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://godbolt.org/,compiler-explorer,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://libgit2.org,libgit2,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://git.sr.ht/~nedia/auto-save.nvim,~nedia/auto-save.nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://git.sr.ht/~nedia/auto-format.nvim,~nedia/auto-format.nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://code.visualstudio.com/docs/remote/containers,remote container development,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://strudel.cc,strudel,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://sr.ht/~henriquehbr/ataraxis.lua,~henriquehbr/ataraxis.lua,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://git.sr.ht/~chinmay/cphelper.nvim,~chinmay/cphelper.nvim,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://wiki.nixos.org/wiki/Flakes,Nix flake,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
 https://vimawesome.com/,Vimawesome,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
-https://vimawesome.com/?q=tag:neovim,neovim tag,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://vimawesome.com/?q=tag:neovim,Neovim tag,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
 https://neovimcraft.com,Neovimcraft,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://neoland.dev,NeoLand,https://github.com/rockerBOO/awesome-neovim#readme,Neovim
+https://nvim.app,Nvim.app,https://github.com/rockerBOO/awesome-neovim#readme,Neovim

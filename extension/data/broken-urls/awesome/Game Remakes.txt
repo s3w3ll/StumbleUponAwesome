@@ -1,1 +1,8 @@
-https://sourceforge.net/p/uhexen2/code/HEAD/tree/,Hexen II: Hammer of Thyrion,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://sourceforge.net/projects/quakespasm/,QuakeSpasm,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sc2.sourceforge.net/,Free Stars: The Ur-Quan Masters,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/freecol/,FreeCol,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/zedonline/,Zed Online,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/doomlegacy/,Doom Legacy,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/opengate/,Opengate,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/freecs-1-5/,FreeCS,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/p/uhexen2/code/HEAD/tree/,Hexen II: Hammer of Thyrion,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

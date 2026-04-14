@@ -1,0 +1,20 @@
+http://shlomi-noach.github.io/awesome-mysql/,awesome-mysql,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://www.metabase.com/,Metabase,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://dalibo.github.io/pitrery/,pitrery,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://en.wikipedia.org/wiki/PostgreSQL,PostgreSQL,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://www.beekeeperstudio.io,Beekeeper Studio,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://www.bytebase.com,Bytebase,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://en.wikipedia.org/wiki/Object-relational_database,object-relational database,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://datazenit.com/,Datazenit,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://en.wikipedia.org/wiki/ACID,ACID-compliant,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://www.pgadmin.org/,pgAdmin,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://streams.dbconvert.com/,DBConvert Streams,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://en.wikipedia.org/wiki/Transaction_processing,transactional,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+http://www.dbvis.com,DbVisualizer,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://www.holistics.io/,Holistics,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://www.postgresql.org,PostgreSQL.org,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://www.jackdb.com/,JackDB,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+http://www.datensen.com,Luna Modeler,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://www.pgbarman.org/index.html,Barman,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://databasus.com,Databasus,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL
+https://pgbackrest.org/,pgBackRest,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL

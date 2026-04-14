@@ -1,0 +1,18 @@
+https://www.darkreading.com/edge-articles/addressing-the-low-code-security-elephant-in-the-room,Addressing the Low Code Security Elephant in the Room,https://github.com/zenitysec/awesome-low-code#readme,Low Code error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://mendix.com/,Mendix,https://github.com/zenitysec/awesome-low-code#readme,Low Code error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://flow.microsoft.com/,Power Automate (Microsoft),https://github.com/zenitysec/awesome-low-code#readme,Low Code error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://blog.powp.co/,PowPco,https://github.com/zenitysec/awesome-low-code#readme,Low Code error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.kintone.com/,Kintone,https://github.com/zenitysec/awesome-low-code#readme,Low Code error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+https://powerbi.microsoft.com/,Power BI,https://github.com/zenitysec/awesome-low-code#readme,Low Code error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://newgensoft.com/,NewGen,https://github.com/zenitysec/awesome-low-code#readme,Low Code error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://support.workato.com/en/support/solutions,Support History,https://github.com/zenitysec/awesome-low-code#readme,Low Code error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.servicenow.com/now-platform.html,Now Platform (ServiceNow),https://github.com/zenitysec/awesome-low-code#readme,Low Code error: TimeoutError('The read operation timed out') | reason: 
+https://apex.oracle.com/en/platform/low-code/,APEX (Oracle),https://github.com/zenitysec/awesome-low-code#readme,Low Code error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.salesforce.com/products/platform,Salesforce Platform, prev. Force.com (Salesforce),https://github.com/zenitysec/awesome-low-code#readme,Low Code error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.workato.com/modern-rpa,Workato RPA,https://github.com/zenitysec/awesome-low-code#readme,Low Code error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.illacloud.com/,ILLA Cloud,https://github.com/zenitysec/awesome-low-code#readme,Low Code error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://azure.microsoft.com/en-us/services/logic-apps/,Azure Logic Apps (Microsoft),https://github.com/zenitysec/awesome-low-code#readme,Low Code error: TimeoutError('The read operation timed out') | reason: 

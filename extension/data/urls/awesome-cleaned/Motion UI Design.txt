@@ -1,0 +1,26 @@
+http://dvdp.tumblr.com/,dvdp,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://hoverstat.es/,hoverstat.es,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://tympanus.net/codrops/,Tympanus codrops,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://bigblueboo.tumblr.com/,bigblueboo,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://codyhouse.co/library/,Codyhouse,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://app-ealing.com/,appealing.,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://misha-kvakin.tumblr.com/,Misha Kvakin,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://dribbble.com/shots?list=animated,Dribbble,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://uimovement.com/,UI Movement,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/,How fast should your UI animations be?,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://give-n-go.co/,Give ’n’ Go,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://pinterest.com/jvetrau/gestures-transitions-animations/,Gestures, transitions, animations,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://medium.com/this-also/getting-started-with-ui-motion-design-d82d4a625801,Getting started with UI motion design,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://pinterest.com/JRMYLFBV/web-ui-animation/,Web UI animation,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://pinterest.com/matthieuLrt/ux-ui-interaction-motion-design/,UX/UI interaction & Motion design,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://pinterest.com/julient/animated-uxui/,Animated UX/UI,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://pinterest.com/CodeDesignIO/motion-ui/,Motion UI,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://uxplanet.org/how-to-use-animation-to-improve-ux-338819e93bdb,How to Use Animation to Improve UX,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://beesandbombs.tumblr.com/,Bees & bombs,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://blog.prototypr.io/how-to-use-animations-and-motion-in-web-design-2fd1f68e6e02,How To Use Animations and Motion in Web Design,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://patakk.tumblr.com/,PATAKK,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+https://uxplanet.org/ui-animation-eye-pleasing-problem-solving-a8b27013f55c,UI Animation: Eye-Pleasing, Problem-Solving,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://awwwards.com/websites/animation/,Awwwards,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://cssanimation.rocks/,cssanimation.rocks,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://hakim.se/,hakim.se,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design
+http://ui-animations.tumblr.com/,ui-animations.tumblr.com,https://github.com/fliptheweb/motion-ui-design#readme,Motion UI Design

@@ -1,0 +1,55 @@
+https://www.youtube.com/playlist?list=PLMLZt4pr7Aq6AfC_ynfeDbEk2hbMFGpHO,Vue 3 Video Playlist,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://discord.com/invite/8bfzmkw,VueJS India - Discord chat server,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.trackawesomelist.com/vuejs/awesome-vue,,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/groups/huvuejs/,VueJS Magyar - Facebook Group [Hungarian],https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/groups/vue.blr/,VueBLR - Facebook Group,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://public.vuejsworkshops.com,Vue.js Workshops,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/groups/764064325433370,VueJS Bangladesh - Facebook Group,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://vuejs.org/,Documentation,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://discord.gg/mDr2z8V,VueJS CZ/SK - Discord group,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://vuejs.org/api/,API Reference,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://news.vuejs.org/,Vue.js News,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA,VueJS DOM - WhatsApp group,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://forum.vuejs.org/,Official Forum,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://vueconf.us,VueConf US,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://en.wikipedia.org/wiki/Vue.js,Vue.js Wikipedia,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://t.me/vuejsuzbekcommunity,VueJS Uzbekistan - Telegram Group [Uzbek],https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://thewebdev.info/category/javascript/vue/,Vue.js Articles,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://hackr.io/tutorials/learn-vue-js,Vue Curated Resources,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://vuetoronto.com,VueConf Toronto,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://t.me/vuejs_uz,VueJS Uzbekistan - Telegram Community and Support Group [Uzbek],https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/,Best vue.js Courses On YouTube,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://t.me/vue_en,VueJS English community,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://vuejs.amsterdam,Vue.js Amsterdam,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://vueschool.io,Vue School,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://t.me/vuejsTR,VueJS Turkey - Telegram Group,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://dev.to/t/vue,Vue.js DEV Community,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.fullstackradio.com/30,Full Stack Radio #30 (11-23-2015),https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://notes-on-vue.ackzell.dev/,Notes on Vue,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://webtechsurvey.com/technology/vue.js,WebTechSurvey.com,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://changelog.com/podcast/184,Changelog #184 (11-27-2015),https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.vuemastery.com/,Vue Mastery,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://kommunity.com/vue-turkey,Vue Türkiye - Kommunity Page,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://vue-faq.org/,Vue-FAQ,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://t.me/vuejssg,VueJS Singapore - Telegram Group,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/,Software Engineering Daily (12-29-2015),https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components,Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) [pt-BR],https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://t.me/joinchat/pqiJOgi8byQ5Y2E0,VueJS Bootcamp kablosuzkedi - Turkey - Telegram Group,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.fullstackradio.com/50,Full Stack Radio #50 (09-21-2016),https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://t.me/vuejs_ukraine,VueJS Translations Ukraine,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.monterail.com/stateofvue?utm_source=Github&utm_medium=awesomevue,State of Vue Report,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/groups/1675298779418239/,VueJS Indonesia - Facebook Group [Indonesian],https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://todovue.blog/,Website,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/groups/887185518120024,VueJS Hong Kong - Facebook group,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://weekly-vue.news/,Weekly Vue news,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://x.com/vuejs,X (Twitter),https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://t.me/vuejs_ru,VueJS Russia - Telegram Group [Russian],https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/groups/vuejsvietnam/,VueJS Viet Nam - Facebook group,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/groups/VuejsThailand/,VueJS Thailand - Facebook Group,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://t.me/vuejsbrasil,VueJS Brasil - Telegram Group [Portuguese],https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/vuejsbrasil/,VueJS Brasil - Facebook Page [Portuguese],https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/groups/vuejsbr/,VueJS Brasil - Facebook Group [Portuguese],https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/groups/vue.es/,VueJS en español - Facebook Group [Spanish],https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/officalVuejsIsrael/,VueJS Israel - Facebook Page,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://www.facebook.com/vuejsfinland/,VueJS Finland - Facebook Page,https://github.com/vuejs/awesome-vue#readme,Vue.js
+https://chat.whatsapp.com/I80X4JEZt4k1OxFD6YDIcl,VueBLR - WhatsApp Group,https://github.com/vuejs/awesome-vue#readme,Vue.js

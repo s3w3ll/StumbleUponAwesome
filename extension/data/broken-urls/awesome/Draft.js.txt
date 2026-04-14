@@ -5,6 +5,7 @@ https://codepen.io/Kiwka/pen/YNYgWa,Convert from HTML Editor,https://github.com/
 https://codepen.io/Kiwka/pen/wgpOoZ,Entity Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://codepen.io/Kiwka/pen/ZLvPeO,Link Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://codepen.io/Kiwka/pen/rjpRzj,Media Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://draftjs.herokuapp.com/,Slack channel,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://codepen.io/Kiwka/pen/jyYJzb,Plain Text Editor,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://codepen.io/Kiwka/pen/KaZERV,Decorators Editor - Tweet example,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://cannibalcoder.com/2016/12/02/draft-js-pieces/,Draft.js Pieces,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://cannibalcoder.com/2016/12/02/draft-js-pieces/,Draft.js Pieces,https://github.com/nikgraf/awesome-draft-js#readme,Draft.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

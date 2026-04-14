@@ -1,2 +1,3 @@
-http://cluecon.com,ClueCon,https://github.com/rtckit/awesome-rtc#readme,Real-Time Communications error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-https://test.webrtc.org,WebRTC Troubleshooter,https://github.com/rtckit/awesome-rtc#readme,Real-Time Communications error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://savannah.nongnu.org/projects/exosip,eXosip,https://github.com/rtckit/awesome-rtc#readme,Real-Time Communications error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://01.org/open-webrtc-toolkit,Open WebRTC Toolkit,https://github.com/rtckit/awesome-rtc#readme,Real-Time Communications error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://sipp.sourceforge.net,SIPp,https://github.com/rtckit/awesome-rtc#readme,Real-Time Communications error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

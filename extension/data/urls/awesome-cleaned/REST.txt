@@ -1,0 +1,64 @@
+https://httpbin.org,httpbin,https://github.com/marmelab/awesome-rest#readme,REST
+https://roy.gbiv.com/pubs/dissertation/top.htm,Architectural Styles and the Design of Network-based Software Architectures,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.mock-server.com/,MockServer,https://github.com/marmelab/awesome-rest#readme,REST
+http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/,MySQL HTTP plugin,https://github.com/marmelab/awesome-rest#readme,REST
+https://mockoon.com,Mockoon,https://github.com/marmelab/awesome-rest#readme,REST
+https://apigee.com,Apigee,https://github.com/marmelab/awesome-rest#readme,REST
+https://python-eve.org/,Python Eve,https://github.com/marmelab/awesome-rest#readme,REST
+https://mockintosh.io/,Mockintosh,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api,Best Practices for Designing a Pragmatic RESTful API,https://github.com/marmelab/awesome-rest#readme,REST
+https://apis.guru,APIs.guru,https://github.com/marmelab/awesome-rest#readme,REST
+https://cloud.google.com/apis/design/,Google Cloud API design guide,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.3scale.net/,3scale,https://github.com/marmelab/awesome-rest#readme,REST
+https://sailsjs.org/,Sails.js,https://github.com/marmelab/awesome-rest#readme,REST
+https://beeceptor.com/,Beeceptor,https://github.com/marmelab/awesome-rest#readme,REST
+https://ramses.readthedocs.org/en/stable/,Ramses,https://github.com/marmelab/awesome-rest#readme,REST
+https://mockae.com/,Mockae,https://github.com/marmelab/awesome-rest#readme,REST
+https://loopback.io/,loopback,https://github.com/marmelab/awesome-rest#readme,REST
+https://feathersjs.com/,Feathers,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.ruby-grape.org,Grape,https://github.com/marmelab/awesome-rest#readme,REST
+https://swagger.io/,Swagger,https://github.com/marmelab/awesome-rest#readme,REST
+https://raml.org/,RAML,https://github.com/marmelab/awesome-rest#readme,REST
+https://mitmproxy.org/,mitmproxy,https://github.com/marmelab/awesome-rest#readme,REST
+https://blog.octo.com/en/design-a-rest-api/,How to design a REST API?,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.charlesproxy.com/,Charles,https://github.com/marmelab/awesome-rest#readme,REST
+https://apitally.io,Apitally,https://github.com/marmelab/awesome-rest#readme,REST
+https://apidocjs.com/,API doc,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.blazemeter.com/,BlazeMeter,https://github.com/marmelab/awesome-rest#readme,REST
+https://martinfowler.com/articles/richardsonMaturityModel.html,Richardson Maturity Model,https://github.com/marmelab/awesome-rest#readme,REST
+https://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/,REST APIs with Symfony2: the Right Way,https://github.com/marmelab/awesome-rest#readme,REST
+https://guides.rubyonrails.org/api_app.html,Rails,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.odata.org/,OData,https://github.com/marmelab/awesome-rest#readme,REST
+https://zudoku.dev/,Zudoku,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.telerik.com/fiddler,Fiddler,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.django-rest-framework.org/,Django REST framework,https://github.com/marmelab/awesome-rest#readme,REST
+http://json-schema.org/,JSON Schema,https://github.com/marmelab/awesome-rest#readme,REST
+https://tools.ietf.org/html/draft-kelly-json-hal-06,HAL,https://github.com/marmelab/awesome-rest#readme,REST
+https://publicapis.dev/,Public APIs,https://github.com/marmelab/awesome-rest#readme,REST
+https://sourcey.com,Sourcey,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.crummy.com/writing/speaking/2008-QCon/act3.html,QCon 2008,https://github.com/marmelab/awesome-rest#readme,REST
+https://linx.software,Linx,https://github.com/marmelab/awesome-rest#readme,REST
+http://tastypieapi.org/,django-tastypie,https://github.com/marmelab/awesome-rest#readme,REST
+https://stoplight.io/,Stoplight,https://github.com/marmelab/awesome-rest#readme,REST
+https://aws.amazon.com/api-gateway/,AWS API Gateway,https://github.com/marmelab/awesome-rest#readme,REST
+https://martinfowler.com/articles/enterpriseREST.html,Enterprise Integration Using REST,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.httpmaster.net,HttpMaster,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.runscope.com/,Runscope,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.hydra-cg.com/,Hydra,https://github.com/marmelab/awesome-rest#readme,REST
+https://schema.org,Schema.org,https://github.com/marmelab/awesome-rest#readme,REST
+https://keploy.io,Keploy,https://github.com/marmelab/awesome-rest#readme,REST
+https://flask-restful.readthedocs.org/,flask-restful,https://github.com/marmelab/awesome-rest#readme,REST
+https://testmace.com,TestMace,https://github.com/marmelab/awesome-rest#readme,REST
+https://ping-api.com/,Ping-API,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.postman.com/,Postman,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.soapui.org/,SoapUI,https://github.com/marmelab/awesome-rest#readme,REST
+https://flask-restless.readthedocs.org/en/latest/,flask-restless,https://github.com/marmelab/awesome-rest#readme,REST
+https://restless.readthedocs.org/en/latest/,restless,https://github.com/marmelab/awesome-rest#readme,REST
+https://paw.cloud/,RapidAPI,https://github.com/marmelab/awesome-rest#readme,REST
+https://requestbin.com/,RequestBin,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.infoq.com/articles/webber-rest-workflow/,How to GET a cup of coffee,https://github.com/marmelab/awesome-rest#readme,REST
+https://www.restapitutorial.com/,REST API Tutorial,https://github.com/marmelab/awesome-rest#readme,REST
+https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/,Atlassian REST API design guidelines version 1,https://github.com/marmelab/awesome-rest#readme,REST
+https://guzzle.readthedocs.org/en/latest/,Guzzle,https://github.com/marmelab/awesome-rest#readme,REST
+https://ruby-doc.org/3.2.0/stdlibs/net/Net/HTTP.html,Net::HTTP,https://github.com/marmelab/awesome-rest#readme,REST
+https://flurl.dev,Flurl,https://github.com/marmelab/awesome-rest#readme,REST

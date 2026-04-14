@@ -1,33 +1,54 @@
 https://kubernetes.slack.com/messages/awesome-kubernetes,,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://awesome-kubernetes-by-ramitsurana.readthedocs.io/en/latest/?badge=latest,,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://medium.com/@sanche,Dan Sanche,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-http://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/,An Intro to Googleâ€™s Kubernetes and How to Use It,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-http://thevirtualizationguy.wordpress.com/tag/kubernetes/,Kubernetes by Google,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-http://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes,An Introduction to Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-http://blog.arungupta.me/key-concepts-kubernetes/,Key Concepts,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://mybinder.org/v2/gh/ramitsurana/awesome-kubernetes/master,,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://www.manning.com/books/kubernetes-on-windows,Kubernetes on Windows,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://keithtenzer.com/containers/application-containers-kubernetes-and-docker-from-scratch/,Application Containers: Kubernetes and Docker from Scratch,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://blog.brainboard.co/kubernetes-explained,Kubernetes explained,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-http://creativecommons.org/licenses/,,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/,Learn the Kubernetes Key Concepts in 10 Minutes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://rinormaloku.com/introduction-application-architecture/,Kubernetes and everything else - Introduction to Kubernetes and it's context,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://ramitsurana.gitbook.io/awesome-kubernetes/docs,https://ramitsurana.gitbook.io/awesome-kubernetes/docs,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/,The Children's Illustrated Guide to Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 http://research.google.com/pubs/archive/44843.pdf,Kubernetes Past,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services,Installation on Centos 7,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://hackr.io/tutorials/learn-kubernetes,Curated Resources for Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/,Setting Up a Kubernetes Cluster on Ubuntu 18.04,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://cloud.google.com/community/,Google Cloud,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://cloud.google.com/kubernetes-engine/kubernetes-comic/,Kubernetes Comic,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/,freeCodeCamp,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://www.freecodecamp.org/news/the-kubernetes-handbook/,The Kubernetes Handbook,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://docs.google.com/presentation/d/1JqcALpsg07eH665ZXQrIvOcin6SzzsIUjMRRVivrZMg/edit?usp=sharing,Kubernetes Community Overview and Contributions Guide,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.linkedin.com/pulse/you-ready-manage-your-infrastructure-like-google-matthew-bates/,Are you Ready to Manage your Infrastructure like Google?,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms,Google is years ahead when it comes to the cloud, but it's happy the world is catching up,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+http://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/,An Intro to Google’s Kubernetes and How to Use It,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+http://thevirtualizationguy.wordpress.com/tag/kubernetes/,Kubernetes by Google,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+http://blog.arungupta.me/key-concepts-kubernetes/,Key Concepts,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://keithtenzer.com/containers/application-containers-kubernetes-and-docker-from-scratch/,Application Containers: Kubernetes and Docker from Scratch,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/,Learn the Kubernetes Key Concepts in 10 Minutes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/,The Children's Illustrated Guide to Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://hackr.io/tutorials/learn-kubernetes,Curated Resources for Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://cloud.google.com/kubernetes-engine/kubernetes-comic/,Kubernetes Comic,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://cloud.google.com/,Google Cloud Platform,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16,Kubernetes 101: Pods, Nodes, Containers, and Clusters,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-http://blog.jetstack.io/blog/k8s-getting-started-part1/,Are you Ready to Manage your Infrastructure like Google?,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://medium.com/@sanche,Dan Sanche,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+http://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes,An Introduction to Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://rinormaloku.com/introduction-application-architecture/,Kubernetes and everything else - Introduction to Kubernetes and it's context,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services,Installation on Centos 7,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/,Setting Up a Kubernetes Cluster on Ubuntu 18.04,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://landscape.cncf.io/,Cloud Native Landscape,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.freecodecamp.org/news/the-kubernetes-handbook/,The Kubernetes Handbook,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform,Bootstrapping Microservices,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform-second-edition,Bootstrapping Microservices with Docker, Kubernetes, and Terraform, Second Edition,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile,Kubernetes Native Microservices with Quarkus, and MicroProfile,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://www.loginradius.com/blog/async/rest-api-kubernetes/,How to Deploy a REST API in Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms,Google is years ahead when it comes to the cloud, but it's happy the world is catching up,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
 https://www.manning.com/books/securing-kubernetes-secrets,Securing Kubernetes Secrets,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
-https://www.manning.com/books/kubeflow-in-action,Kubeflow in Action,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/gitops-and-kubernetes,GitOps and Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/knative-in-action,Knative in Action,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches,Learn Kubernetes in a Month of Lunches,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/cloud-native-spring-in-action,Cloud Native Spring in Action,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/securing-cloud-applications,Securing Cloud Applications,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/google-anthos-in-action,Google Anthos in Action,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.linkedin.com/in/searchguy/?originalSubdomain=uk,Antonio Gulli et al.,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://blog.brainboard.co/kubernetes-explained,Kubernetes explained,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/cloud-observability-in-action,Cloud Observabillity in Action,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/core-kubernetes,Core Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/road-to-kubernetes,Road to Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/kubernetes-on-windows,Kubernetes on Windows,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://blog.brainboard.co/kubernetes-explained-dde470707cb2,Kubernetes explained,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://spacelift.io/blog/kubernetes-secrets,How to Manage Secrets in Kubernetes – A Complete Guide,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://dev.to/idanref/kubernetes-concepts-deep-dive-50en,Kubernetes Concepts: Deep Dive,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.linkedin.com/in/idan-refaeli-65082a175/,Idan Refaeli,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.manning.com/books/fluent-bit-with-kubernetes,Fluent Bit with Kubernetes,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.linkedin.com/in/philwilkins/,Phil Wilkins,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://medium.com/@ghumare64/kubernetes-from-scratch-part-1-4b40cb6c1aba,Kubernetes from scratch,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+https://www.linkedin.com/in/rohit-ghumare/,Rohit Ghumare,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+http://creativecommons.org/licenses/,,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes
+http://www.linkedin.com/in/ramitsurana,Ramit Surana,https://github.com/ramitsurana/awesome-kubernetes#readme,Kubernetes

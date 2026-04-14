@@ -1,0 +1,39 @@
+https://termuxarch.github.io/TermuxArch/,Termux Arch,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://www.qubes-os.org/doc/building-archlinux-template/,Qubes OS (Archlinux Template),https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://kaosx.us/,KaOS,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://xerolinux.xyz/,XeroLinux,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://www.uplinklabs.net/projects/arch-linux-on-ec2/,Arch Linux on EC2,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://gitlab.manjaro.org/applications/pamac,Pamac,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://ko-fi.com/K3K179HAS,,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://web.obarun.org/,Obarun,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://www.archlinux32.org/,Arch Linux 32,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://gitlab.com/mrvik/pakku-gui,Pakku GUI,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://bioarchlinux.org/,BioArchLinux,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://artixlinux.org/,Artix Linux,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://archstrike.org/,ArchStrike,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+http://sheepdev.xyz,sheepdev,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+http://www.system-rescue-cd.org/,SystemRescueCd,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://archhurd.org/,Arch Hurd,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://www.hyperbola.info/,Hyperbola GNU/Linux-libre,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://git.io/archwsl,ArchWSL,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+http://malacology.net,Kuoi,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://tintaescura.com/projects/octopi,Octopi,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://www.parabola.nu/,Parabola GNU/Linux-libre,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://manjaro.org/,Manjaro,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://alfheimlinux.wixsite.com/alfheimlinux,Alfheim Linux,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+http://bbqlinux.org/,BBQLinux,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://arcolinux.com/,ArcoLinux,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://git.archlinux.org/devtools.git/,devtools,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://projects.metalgamer.eu/yaah,yaah,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://cachyos.org,CachyOS,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+http://archbang.org/,ArchBang Linux,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://endeavouros.com/,EndeavourOS,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://archlabslinux.com/,ArchLabs Linux,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://archcraft-os.github.io/,Archcraft OS,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://www.namiblinux.org/,Namib GNU/Linux,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://gitlab.com/ilpianista/arch-audit,arch-audit,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://hackage.haskell.org/package/aur,haskell-aur,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://gitlab.com/davidbittner/raur,raur,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+http://archex.exton.net/,ArchEX,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+https://ctlos.github.io/,Ctlos Linux,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects
+http://archman.org/,Archman,https://github.com/PandaFoss/Awesome-Arch#readme,Arch-based Projects

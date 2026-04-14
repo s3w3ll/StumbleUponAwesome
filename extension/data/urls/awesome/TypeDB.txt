@@ -1,31 +1,25 @@
-https://www.youtube.com/watch?v=pqcZ9_4-79U,Causal Knowledge Graphs Using TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://www.youtube.com/watch?v=0ir12x5FB4s,Ontology-Driven Modelling for Text-Mining Around Technology and Engineering,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://vaticle.com,TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://stackoverflow.com/questions/tagged/typedb,Stack Overflow,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://www.youtube.com/watch?v=H-Ln8YUITRw,Using TypeDB for Content Authorisation Across the Enterprise,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://www.youtube.com/watch?v=JTxvJxVNSH4,Comparing Graph Databases to TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://dzone.com/articles/a-clinical-decision-support-system-built-with-a-kn,A Clincial Decision Support System Built with a Knowledge Graph,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://grakncosmos.com/,Cosmos,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://www.youtube.com/watch?v=rNCvAGdiw1I&list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I,Comparing SQL to Graql,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://www.youtube.com/c/vaticle,YouTube,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://www.youtube.com/watch?v=s6xGQS84qKM,Comparing Semantic Web Technologies To Grakn | RDF, RDFS, OWL, SPARQL SHACL Grakn and Graql,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://www.youtube.com/watch?v=uxZovj2ekIQ,Comparing Property Graph Databases to Grakn,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com,,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/discord,Discord,https://github.com/vaticle/typedb-awesome#readme,TypeDB
 https://www.youtube.com/playlist?list=PLtEF8_xCPklY3P5NLSQb1SyIYLhQssxfY,Orbit,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://dzone.com/articles/object-recognition-and-spacial-awareness-for-a-spo,Object Recognition and Spatial Awareness for a SPOT Robotics System,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://www.youtube.com/watch?v=nYDi1_UaFtU&list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I,How Can We Complete a Knowledge Graph?,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://docs.vaticle.com/,Documentation for mainline version,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://forum.vaticle.com,Discuss,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://dzone.com/articles/knowledge-models-and-causal-diagrams,Knowledge Models and Causal Diagrams,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://vaticle.com/discord,Discord,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://dzone.com/articles/building-a-biomedical-knowledge-graph,Building a Biomedical Knowledge Graph,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a,A day described in Grakn,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://dzone.com/articles/how-roche-discovered-novel-potential-gene-targets,How Roche Discovered Novel Potential Gene Targets with TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://dzone.com/articles/social-graphs-for-drug-development,Social Graphs for Drug Development,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://dzone.com/articles/modelling-biomedical-data-for-a-drug-discovery-kno-1,Modelling Biomedical Data for a Drug Discovery Knowledge Graph,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://towardsdatascience.com/introducing-grami-a-data-migration-tool-for-grakn-d4051582f867,Introducing GraMi — a Data Migration Tool for Grakn,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://dzone.com/articles/comparing-graql-to-sql-part-12,Comparing Graql to SQL — Part 1/2,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://towardsdatascience.com/comparing-grakn-to-semantic-web-technologies-part-1-3-3558c447214a,Comparing Grakn to Semantic Web Technologies — Part 1/3,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://towardsdatascience.com/comparing-grakn-to-semantic-web-technologies-part-2-3-4602b56969fc,Comparing Grakn to Semantic Web Technologies — Part 2/3,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://towardsdatascience.com/comparing-grakn-to-semantic-web-technologies-part-3-3-cb2fb233fbd5,Comparing Grakn to Semantic Web Technologies — Part 3/3,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://towardsdatascience.com/neo4j-vs-grakn-part-i-basics-f2fe3511ce88,Neo4j vs GRAKN Part I: Basics,https://github.com/vaticle/typedb-awesome#readme,TypeDB
-https://towardsdatascience.com/neo4j-vs-grakn-part-ii-semantics-11a0847ae7a2,Neo4j vs GRAKN Part II: Semantics,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/docs,TypeDB Documentation Portal,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/the-need-for-subtyping-and-polymorphism-in-databases,The need for subtyping and polymorphism in databases,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/accelerating-drug-discovery-with-applied-knowledge-engineering-and-typedb,Accelerating drug discovery with applied knowledge engineering and TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/modeling-collections-in-databases-relational-sql-vs-typedb,Modeling collections in databases: Relational/SQL vs TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/the-age-of-ai-is-upon-us-where-are-the-smart-databases,The age of AI is upon us - where are the smart databases?,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/building-a-cyber-threat-intelligence-database-with-typedb,Building a Cyber Threat Intelligence database with TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/inheritance-and-polymorphism-where-the-cracks-in-sql-begin-to-show,Inheritance and polymorphism: where the cracks in SQL begin to show,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/identity-and-access-management-with-typedb-part-i-polymorphism,Identity and access management with TypeDB: Part I, polymorphism,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/a-new-era-for-typedb,A New Era for TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/inference-in-typedb,Inference in TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=e0lmTSb-rzY,Introduction to TypeDB and TypeQL,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=DbnS1feTyOs,TypeDB 2.0: A Database Evolution,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=xuiYorG8-1Q,Building an Open Source Threat Intelligence Platform with STIX,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=ESupDcw70kQ,TypeDB Community Project - NodeLab: An Advanced TypeDB GUI,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=9EaxwUG9vAg,Pandora Paper Leaks with TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/watch?v=oS42lN4qSJ4,Building a Distributed Database With the Raft Replication Algorithm,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://forum.typedb.com,Discussion Forum,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://stackoverflow.com/questions/tagged/vaticle-typedb%20vaticle-typeql?sort=Newest&edited=true,Stack Overflow,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.meetup.com/pro/typedb/,Meetup,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/c/vaticle,YouTube,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.linkedin.com/groups/13657731/,LinkedIn,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog,Blog,https://github.com/vaticle/typedb-awesome#readme,TypeDB

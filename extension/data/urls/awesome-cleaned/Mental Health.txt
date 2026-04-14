@@ -1,0 +1,113 @@
+https://www.youper.ai,Youper,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://twloha.com/find-help/international-resources/,To Write Love on Her Arms – Find Help,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.meetup.com/wellness-for-people-in-tech/,Wellness for People in Tech,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+http://mhprompt.org,MHPrompt,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=O4AWH5o1NVk,Getting Therapy To Those Who Need It Most - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=hhliVWI4mCY,Anxiety & Calm Technology - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=Ru58976R0Gw,UX Of Wearables In Clinical Treatment For PTSD - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=Dc2JkIXfx8I,Modern Mindfulness - Hey! 2016,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+http://codingmindfully.com/how-i-beat-impostor-syndrome/,How I Beat Impostor Syndrome And Stopped Feeling Like A Fake,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+http://codingmindfully.com/a-programmers-guide-to-stress/,A Programmers Guide To Stress,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://osmihelp.org,OSMI,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://leanpub.com/osmi-guidelines-for-employers,Mental Health In Tech: Guidelines For Executives And HR Professionals,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.gamesindustry.biz/articles/2017-05-09-its-time-to-talk-about-mental-health-in-the-games-industry,It's Time To Talk About Mental Health In The Games Industry,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=8tB6Eo8iJ70,Hacking With My Anxiety - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=k6tROMj_rIQ,Authentic Developer - Droidcon Berlin 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=6fmT_MBcoTY,VR Mental Health Startup: Idea To Reality - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=HPFuHS6aPhw,Programmers Don't Like People...Or Do They? - Node.js Interactive 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+http://www.methodsandtools.com/archive/zenprogrammer.php,Software Developer Careers Considered Harmful,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+http://selfcare.tech/,SelfCare.Tech,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://leanpub.com/osmi-mental-wellness-in-the-workplace,Mental Health In Tech: Guidelines For Mental Wellness In The Workplace,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=Rdc06jpjVIY,Hitting The Wall And How To Get Up Again - Tackling Burnout And Strategies For Self Care - PyCon Australia 2016,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=NGiy02nEcG8,Beyond Burnout: Mental Health And Neurodiversity In Engineering - DevOpsDays Boston 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=whYGza42F5U,Why We Need Innovation In Mental Health Tech - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=P4eR419RgVc,Self Care: Avoiding Burnout - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113,Peopleware: Productive Projects and Teams,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a,Why Do Software Developers Suffer From Imposter Syndrome?,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+http://blackmindsmatter.co.uk/,Black Minds Matter,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698,Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=gcYRhATiyO4,Burnout And Your Meat Computer - Electromagnetic Field 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://hanselminutes.com/728,Destigmatizing Mental Health in the Tech Industry,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://hackernoon.com/taming-anxiety-and-hacking-your-way-into-productivity-1c9258b8380a,Taming Anxiety And Hacking Your Way Into Productivity,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=0MjqMlkA3gs,Howto: Not Get A Burnout - PowerShell Conference EU 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016,Are You More Than Okay: The State Of Mental Health In Tech In 2016,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.amazon.com/Brotopia-Breaking-Boys-Club-Silicon-Valley/dp/0735213534,Brotopia: Breaking Up the Boys’ Club of Silicon Valley,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=jGG6Wip_PGg,Stress & Depression, A Taboo In Our Time - GOTO 2017,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://skillcrush.com/2015/06/18/eliminate-your-coding-anxiety/,How I Conquered Anxiety And Learned To LOVE Coding,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.iasp.info/resources/Crisis_Centres/,International Association for Suicide Prevention – Crisis Centres,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.engadget.com/2018/04/04/mental-illness-indie-take-this-kate-edwards-mike-wilson,It's Time To Talk About Mental Illness In Indie Development,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://almanac.io/docs/beating-burnout-a-guide-for-supporting-mental-health-at-work-yDLKVF3uJtMdshcZG37HP7OHpAczogYX,Beating Burnout: A Guide For Supporting Mental Health At Work,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.amazon.com/Building-Startup-Without-Going-Crazy/dp/946126643X,Building a Startup Without Going Crazy,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=4COZk8IjbJs,Cultivating Compassionate Tech Communities - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.amazon.com/Burn-Rate-Launching-Startup-Losing/dp/0593238265,Burn Rate: Launching a Startup and Losing My Mind,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=hNlLM0OUXDc,Imposter Syndrome - PyCon Australia 2016,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=7CoEDFOXJQo,Stronger Than Fear: Mental Health In The Developer Community - ElixirDaze 2017,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://behavioralhealthtech.com,Behavioral Health Tech,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://medium.com/better-programming/coding-fast-and-slow-developers-and-the-psychology-of-overconfidence-433388e7aec0,Coding, Fast And Slow: Developers And The Psychology Of Overconfidence,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://vimeo.com/253833709,Debugging Our Feelings: Cognitive Behavioural Therapy For Developers - Peers Conference 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=1i8ylq4j_EY,It's Dangerous To Go Alone: Battling The Invisible Monsters In Tech - PyCon 2014,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://simpleprogrammer.com/programmers-great-clinical-depression,The Programmer’s Great Clinical Depression,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://medium.freecodecamp.org/battling-depression-and-anxiety-to-finish-freecodecamps-front-end-dev-program-66a4c8cc0e13,How I Fought Through Anxiety And Depression To Finish freeCodeCamp's Front End Dev Program,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=C84h5e9cOZY,Successful, Accomplished, Depressed: A Talk About Performance, Perfectionism, And Burnout In IT - WeAreDevelopers 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.fingerprintforsuccess.com/blog/depression-at-work,Depression At Work Is Skyrocketing, But It Doesn't Have To Be Your New Normal,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.blacktherapistsrock.com/,Black Therapists Rock,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+http://happyporchradio.com/season-4-episode-3-april-wensel/,Emotional Intelligence And Ethics In Tech,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://weworkremotely.com/how-to-keep-your-mental-health-in-check-when-you-work-from-home,How To Keep Your Mental Health In Check When You Work From Home,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.copenotes.com,Cope Notes,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://alistapart.com/article/mental-illness-in-the-web-industry,Mental Illness In The Web Industry,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://leanpub.com/developers-and-depression,Developers and Depression,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=us4w6lBV30Y,Developers And Depression - Codeland NYC 2017,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=lyVHKTGjivo,It's Darkest Before Dawn: Alcoholism And Addiction In Tech - DjangoCon US 2016,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=qdddeZfzrus,The Evolution Of VR Therapy - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+http://mentalhealth.media.mit.edu/,Computing And Mental Health,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.elegantthemes.com/blog/editorial/mental-self-care-for-software-developers-and-web-designers,Mental Self Care For Software Developers And Web Designers,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4,Developers: How to Overcome Imposter Syndrome,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=zUQjZZJjKsY,Developers, Entrepreneurs And Depression - Business Of Software 2015,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://gumroad.com/l/imposter-syndrome,Imposter Syndrome (No CS Degree),https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=Jv9HdGwulE0,Living With Bipolar Disorder As A Software Engineer - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=smS1PxK5qK4,The Mental Impact of Tech Interviews - Abstractions II,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://medium.com/@taylorotwell/my-mental-health-toolbelt-9b9fdd4ae149,My Mental Health Toolbelt,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.baatn.org.uk/,The Black, African, and Asian Therapy Network,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://heartifacts.codeandsupply.co/,Heartifacts,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780,It Doesn’t Have to Be Crazy at Work,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://anchor.fm/mental-health-in-tech,Mental Health in Tech,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://joebell.co.uk/blog/do-not-disturb/,Do Not Disturb,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=SJnVhkEx8Cs,Emotional Intelligence For Engineers - ngAtlanta 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://nyxo.app,Nyxo,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=ITY3RAg_PW0,Looking After Your Mental Health, A Guide For Software Developers - PHP Yorkshire 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://compassionatecoding.com,Compassionate Coding,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://leanpub.com/osmi-guidelines-for-employees,Mental Health In Tech: Guidelines For Employees,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://docs.google.com/presentation/d/e/2PACX-1vRuuiXy4yk7B56kqCyYOxqKD1PRm5qVTEIg9FFlnTMLnNsrag6yzxnLgZFHjaFb6WbXLa60w4ci91xR/pub?start=false&loop=false&delayms=3000&slide=id.g44670d1eb8_0_13,Slides,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://softskills.audio,Soft Skills Engineering,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://dev.to/desi/encouraging-wellness-in-a-remote-workplace-17m5,Encouraging Wellness in a Remote Workpalce,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=DDka7_Yaaw4,Fight Tech With Tech - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://emobay.org,EmoBay,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=P4wWbHvNAvY,Mental Health In Development - PyCon Australia 2016,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://devjourney.info/Guests/284-ValarieRegas.html,Valarie Regas’s Story,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=CWHfIdG0nOw,The Never Ending Hack Mental Health In InfoSec Community - Circle City Con 5.0,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4,On Dealing With Anxiety And Depression As A Developer,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.ptsd.va.gov/appvid/mobile/ptsdcoach_app.asp,PTSD Coach,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.actitime.com/productivity/how-to-prevent-burnout,How To Prevent Or Recover From Developer Burnout,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://medium.com/envato/for-the-developers-with-anxiety-and-everyone-else-834cc2517eba,For The Developers With Anxiety, And Everyone Else,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://mhanational.org/annual-conference,Mental Health America Annual Conference,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.youtube.com/watch?v=GfTSrtJgemQ,Advocating For Mental Health At Work - AnxietyTech 2018,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://medium.com/samsung-internet-dev/perfectionism-anxiety-and-learning-to-be-kind-to-yourself-e3c23710704,Perfectionism, Anxiety And Learning To Be Kind To Yourself,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.meetup.com/berlin-mental-health-support-group/,Berlin Mental Health Support Group,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.happify.com,Happify,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.if-me.org,IfMe,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.meetup.com/thought-tech/,Thought Tech,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://dev.to/molly_struve/i-cant-do-it-all-my-burnout-story-1e54,I Can't Do It All: My Burnout Story,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.headspace.com,Headspace,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.brightdevelopers.com/tips-maintain-mental-health-software-developer/,Tips To Maintain Your Mental Health As A Software Developer,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://dev.to/256hz/intro-to-meditation-for-coders-1p6f,Intro To Meditation For Coders,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.anxietycanada.com/resources/mindshift-cbt/,MindShift CBT,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://mentalhealthhackers.org/,Mental Health Hackers,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.creativebloq.com/web-design/we-need-talk-about-developers-and-depression-101413045,We Need To Talk About Developers And Depression,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.codingdojo.com/blog/programmer-imposter-syndrome,Programmer Imposter Syndrome: 6 Ways To Get Over Yours,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://dev.to/andrew/its-okay-to-not-be-okay,It's Okay To Not Be Okay,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://dev.to/ogfris/what-its-like-being-a-developer-with-schizoaffective-disorder-1ei,What It's Like Being A Developer With Schizoaffective Disorder,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://blog.doist.com/mental-health-and-remote-work-1b77616f6945,What Most Remote Companies Don't Tell You About Remote Work,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+http://wakeupti.me/,Wake Up Time,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://woebothealth.com,Woebot,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://writewithwrabit.com,Wrabit,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health
+https://www.wysa.io,Wysa,https://github.com/dreamingechoes/awesome-mental-health#readme,Mental Health

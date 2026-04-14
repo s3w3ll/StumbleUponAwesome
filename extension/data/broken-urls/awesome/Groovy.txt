@@ -1,4 +1,9 @@
-https://grydeske.dk/news/index,Grails Diary,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://groovy-playground.appspot.com/,Groovy Playground,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://grailsblog.objectcomputing.com/,Grails Team blog,https://github.com/kdabir/awesome-groovy#readme,Groovy error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://codenarc.sourceforge.net/,CodeNarc,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://play.google.com/store/apps/details?id=com.tambapps.android.grooidshell,Android Groovy Shell,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse,Groovy Grails Tool Suite,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://greachconf.com,Greachconf,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://groovyconsole.appspot.com,Groovy Web Console,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://pleac.sourceforge.net/pleac_groovy/,PLEAC Groovy,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://grydeske.dk/news/index,Grails Diary,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://nofluffjuststuff.com/groovypodcast,Groovy Podcast,https://github.com/kdabir/awesome-groovy#readme,Groovy error: <HTTPError 404: ''> | reason: 

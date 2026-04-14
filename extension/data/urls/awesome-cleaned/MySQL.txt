@@ -1,0 +1,7 @@
+https://gitlab.com/wireshark/wireshark/,Wireshark,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://www.tpc.org/tpcc/,TPCC,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://www.tpc.org/tpch/,TPCH,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://www.php.net/manual/en/book.mysqlnd.php,PHP mysqlnd,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://pingcap.github.io/ai/integrations/tidb-mcp-server/,TiDB MCP Server,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+http://spots.augusta.edu/caubert/db/ln/,Database Systems Lecture Notes,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL
+https://en.wikibooks.org/wiki/SQL_Exercises,SQL Exercises,https://github.com/shlomi-noach/awesome-mysql#readme,MySQL

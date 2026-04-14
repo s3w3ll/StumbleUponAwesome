@@ -1,0 +1,1 @@
+https://ionicframework.com/,Ionic,https://github.com/candelibas/awesome-ionic#readme,Ionic Framework

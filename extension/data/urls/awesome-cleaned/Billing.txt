@@ -1,0 +1,72 @@
+https://mc4f.ee/Papers/PDF/EconPublicCloud.pdf,Usage Patterns and the Economics of the Public Cloud,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://monkeynoodle.org/2024/02/10/changing-the-pricing-model/,Changing the Pricing Model,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://web.stanford.edu/class/cs349d/docs/L01_overview.pdf,overview of cloud computing,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://ec2instances.info,EC2Instances.info,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://roberttisdale.com/aws-ec2-t2-instances-demystified-dont-learn-hard-way/,AWS EC2 T2 Instances Demystified: Don't Learn The Hard Way,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://saaspricingexplorer.hyperline.co,SaaS pricing explorer,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://blog.plover.com/prog/Moonpig.html,Moonpig: a billing system that doesn't suck,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://arxiv.org/pdf/1507.02545.pdf,Maximizing Profit of Cloud Brokers under Quantized Billing Cycles: a Dynamic Pricing Strategy based on Ski-Rental Problem,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.kdd.org/kdd2018/accepted-papers/view/customized-regression-model-for-airbnb-dynamic-pricing,Customized Regression Model for Airbnb Dynamic Pricing,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/,Books, an immutable double-entry accounting database service,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://news.ycombinator.com/item?id=23536919,“Designing billing for a service can be really challenging”,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://youtu.be/vYrWTDxoeGg?t=542,Jeremy Howard - From Predictive Modelling to Optimization,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://en.wikipedia.org/wiki/Vickrey_auction,Vickrey auction,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/,Why I Love Usage-Based Pricing,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://jepsen.io/analyses/tigerbeetle-0.16.11,tested on Jepsen,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://en.wikipedia.org/wiki/Gabor%E2%80%93Granger_method,Gabor–Granger method,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4,Accounting for Developers 101,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://news.ycombinator.com/item?id=19145391,HN comment,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://news.ycombinator.com/item?id=19830022,Use-cases for cloud services,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://django-hordak.readthedocs.io,Django Hordak,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html,Accounting for Computer Scientists,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/,Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter,Van Westendorp's Price Sensitivity Meter,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.electropedia.org/iev/iev.nsf/index?openform&part=691,Electropedia: Tariffs for electricity,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem,19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://web.archive.org/web/20221203184815/https://www.uber.com/blog/transforming-financial-forecasting-machine-learning/,Transforming Financial Forecasting with Data Science and Machine Learning at Uber,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://kevinlynagh.com/notes/pricing-niche-products/,Pricing niche products,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.odoo.com/documentation/functional/accounting.html,Accounting Memento For Entrepreneurs (US GAAP),https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace,Constrain the marketplace,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://web.archive.org/web/20150708151037/http://www.temple.edu/cis/icdcs2013/data/5000a410.pdf,Present or Future: Optimal Pricing for Spot Instances,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices,Time Series Prediction - A short introduction for pragmatists,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://medium.com/@hovm/finding-the-max-revenue-price-mark-for-digital-products-24cef24f746d,Finding the max revenue price mark for digital products,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://news.ycombinator.com/item?id=20347716,source,https://github.com/kdeldycke/awesome-billing#readme,Billing
+http://www.cs.newpaltz.edu/~lik/publications/Peijin-Cong-ACM-CS-a-2020.pdf,A Survey of Profit Optimization Techniques for Cloud Providers,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/,A Rake Too Far: Optimal Platform Pricing Strategy,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://x.com/kdeldycke/status/1214160678363246592,source,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://dants.github.io/papers/Spotprice11CloudCom.pdf,Deconstructing Amazon EC2 Spot Instance Pricing,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://papers.agoric.com/assets/pdf/papers/incentive-engineering-for-computational-resource-management.pdf,Incentive Engineering for Computational Resource Management,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://stripe.com/en-in/atlas/guides/saas-pricing,Pricing low-touch SaaS,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://facebook.github.io/prophet/,Prophet,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://en.wikipedia.org/wiki/Riemann_sum,Riemann sum,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://news.ycombinator.com/item?id=9564287,GCP Preemptible VMs vs AWS Spot Instances,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://tomtunguz.com/three-part-tariffs/,The Three Part Tariff,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.dwmbeancounter.com/BCTutorials/BCIntro/index.html,So, you want to learn Bookkeeping!,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.econstor.eu/bitstream/10419/205221/1/de-Streel-Jacques.pdf,Personalised pricing and EU law,https://github.com/kdeldycke/awesome-billing#readme,Billing
+http://www.sigmetrics.org/mama/2013/abstracts2013/UrgaonkarEtAl.pdf,Pricing of Service in Clouds: Optimal Response and Strategic Interactions,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://en.wikipedia.org/wiki/Allen%27s_interval_algebra,Allen's interval algebra,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://news.ycombinator.com/item?id=37665435,models in Darts expects,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://en.wikipedia.org/wiki/Product_information_management,Product Data Management,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://aws.amazon.com/forecast/,AWS Forecast,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://news.ycombinator.com/item?id=16071684,source,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.nickkolenda.com/psychological-pricing-strategies/,Pricing Psychology,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://bam.kalzumeus.com/archive/a-game-that-intentionally-frustrates-the-player/,Reconciliation: A game designed to frustrate the player,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://spot.rackspace.com/blogs/history-of-spot-instances,History of Spot Instances,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://threadreaderapp.com/thread/1091041507342086144.html,How to save money on your AWS bill,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://henryhxu.github.io/share/hxu-tcc2013.pdf,Dynamic Cloud Pricing for Revenue Maximization,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://web.archive.org/web/20240413010618/https://stackoverflow.com/questions/12069082/allens-interval-algebra-operations-in-sql?rq=1,Stack Overflow question with clean schema,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://tomtunguz.com/how-to-price-your-startups-product/,The 7 factors to consider when pricing your startup product,https://github.com/kdeldycke/awesome-billing#readme,Billing
+http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html,The Eternal Cost Savings Of Netflix's Internal Spot Market,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://sbigrowth.com/hubfs/SBI_PI_AnatomyofSaaSPricingStrategy_Handbook.pdf,The Anatomy of SaaS Pricing Strategy,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://cloud.google.com/blog/products/gcp/introducing-cloud-billing-catalog-api-gcp-pricing-in-real-time,GCP Product Catalog,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://medium.com/@lukwam/reconcile-your-monthly-gcp-invoice-with-bigquery-billing-export-b36ae0c961e,Reconcile Your Monthly GCP Invoice with BigQuery Billing Export,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://grisbi.org,Grisbi,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://firefly-iii.org,Firefly III,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://news.ycombinator.com/item?id=25366184,source,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://blog.gingerlime.com/2020/the-cup-of-coffee-pricing-fallacy/,The cup-of-coffee pricing fallacy,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://www.gnucash.org/docs/v2.4/C/gnucash-guide/,GnuCash Tutorial and Concepts Guide,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://xunroll.com/thread/1668082843728367616,Billed for ¥21,120, invoiced at ¥2,112,000 and paid ¥2,112,000,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://xunroll.com/thread/1599113889093890049,Get rid of integers and floats for monetary values,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://x.com/kdeldycke/status/1422564355799924736,source,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf,Don't just roll the dice – Software pricing guide,https://github.com/kdeldycke/awesome-billing#readme,Billing
+https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5,The Network Monetization Map: Aligning Incentives with Revenue,https://github.com/kdeldycke/awesome-billing#readme,Billing

@@ -1,0 +1,2 @@
+http://skim-app.sourceforge.net,Skim PDF Viewer,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.alfredforum.com/topic/1274-adium-workflow/,Adium,https://github.com/alfred-workflows/awesome-alfred-workflows#readme,Alfred Workflows error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

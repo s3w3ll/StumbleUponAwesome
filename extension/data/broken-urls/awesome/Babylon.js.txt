@@ -1,0 +1,91 @@
+https://www.babylonjs.com/specifications/,Specifications,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Distraction/,DiStraction,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/GlowLayer/,GlowLayer,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/AudioAnalyser/,AudioAnalyser,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Retail/,Retail,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/VideoProcessing/,Video Processing Sample,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/MansionVR/,MansionVR,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://gleborgne.github.io/molvwr/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://babylonjs.medium.com/,Medium,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/SPS/,SPS,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/MotionBlur/,MotionBlur,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/GlowingEspilit/,GlowingEspilit,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/WCafe/,WCafe,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Bones/,Bones,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/DragNDrop/,DragNDrop,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/SPSCollisions/,SPSCollisions,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/PBRGlossy/,PBRGlossy,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Heightmap/,Heightmap,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Boom/,Boom,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://spacepirates.babylonjs.com/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Yeti/,Yeti,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Espilit/,Espilit,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Bump/,Bump,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/SpaceDeK/,SpaceDeK,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/PBRGlossyBloom/,PBRGlossyBloom,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/HillValley/,HillValley,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Scenes/minority-race/,Minority Race,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/ExtrudePolygon/,ExtrudePolygon,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://radicalappdev.com/2021/03/12/babylon-js-day-10-terrarium/,Babylon JS Day 10: Terrarium,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://doc.babylonjs.com/divingDeeper/developWithBjs/howToStart,Start Contributing to Babylon.js,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/CellShading/,CellShading,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Sponza/,Sponza,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Scenes/Robot/,Robot Presentation,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/PPBloom/,PPBloom,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/HillValleyVR/,HillValleyVR,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Facets/,Facets,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Charting/,Charting,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/SponzaDynamicShadows/,SponzaDynamicShadows,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Scenes/WorldMonger/,World Monger,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/games/,Babylon.js Features,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Ink/,Ink,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/PPConvolution/,PPConvolution,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Flat2009/,Flat 2009,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/ChibiRex/,ChibiRex,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/TheCar/,TheCar,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Particles/,Particles,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/FlightHelmet/,FlightHelmet,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/InstancedBones/,InstancedBones,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://playground.babylonjs.com/,Babylon.js Playground,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Dancers/,Dancers,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Train/,Train,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Fur/,Fur,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Physics/,Physics,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Instances2/,Instances2,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://radicalappdev.com/2021/03/25/babylon-js-day-19/,Babylon JS Day 19: Golf Club,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.babylonjs.com/Demos/Dancing%20CSG/,Dancing CSG,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Tunnel/,Tunnel,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/GLTF/,GLTF,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/LookAt/,LookAt,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Polygon/,Polygon,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Decals/,Decals,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/V8/,V8,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/GUI/,GUI,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Mansion/,Mansion,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Procedural/,Procedural,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/ActionBuilder/,ActionBuilder,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/Actions/,Actions,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.babylonjs.com/Demos/Amp360Video/,Amp360Video,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/AssetsManager/,AssetsManager,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/native/,Babylon Native,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://demos.babylonjs.com/piano-portal/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://joepavitt.medium.com/building-the-web-based-3d-digital-experience-for-the-mayflower-autonomous-ship-a56f08e6558,Building the Web-Based 3d Digital Experience for the Mayflower Autonomous Ship,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/reactnative/,Babylon React Native,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://doc.babylonjs.com/whats-new,Changelog,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/community/,Community Demos,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://nme.babylonjs.com/,Node Material Editor,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/partners/,Partners Using Babylon.js,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://r6redux.herokuapp.com/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://doc.babylonjs.com/communityExtensions/figmaToBabylonJS,Figma to BabylonJS,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://babylon-fps-online.herokuapp.com/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://learn.framevr.io/post/msbuild2022,Frame at Microsoft Build: Speaking the World Into Existence,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://kzclimbing.netlify.app/client/public/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://t5c.onrender.com/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: TimeoutError('The read operation timed out') | reason: 
+https://doc.babylonjs.com/toolsAndResources/accessibility/screenReaders,Accessibility Scene Tree for Screen Readers,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://doc.babylonjs.com/guidedLearning/bjsBook,Journey Beyond The Docs,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://babylonjs.medium.com/mesh-shattering-with-baked-physics-5b3f8f381743,Mesh shattering with baked physics,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://office.wilcoschoneveld.com/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None)) | reason: [WinError 10061] No connection could be made because the target machine actively refused it
+https://vuebabylonjs.com/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://side_project.gitlab.io/pokeball-workshop/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'side_project.gitlab.io'. (_ssl.c:1018)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'side_project.gitlab.io'. (_ssl.c:1018)
+https://hooke.life/react-babylon-spring/,demo,https://github.com/Symbitic/awesome-babylonjs#readme,Babylon.js error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

@@ -1,0 +1,8 @@
+https://piebald.ai,,https://github.com/Piebald-AI/awesome-gemini-cli#readme,Gemini CLI
+https://piebald.ai/,https://piebald.ai/,https://github.com/Piebald-AI/awesome-gemini-cli#readme,Gemini CLI
+https://piebald.ai/discord,,https://github.com/Piebald-AI/awesome-gemini-cli#readme,Gemini CLI
+https://x.com/PiebaldAI,,https://github.com/Piebald-AI/awesome-gemini-cli#readme,Gemini CLI
+https://tars.saccolabs.com,Tars,https://github.com/Piebald-AI/awesome-gemini-cli#readme,Gemini CLI
+https://yaw.sh,Yaw,https://github.com/Piebald-AI/awesome-gemini-cli#readme,Gemini CLI
+https://termly.dev/,Termly,https://github.com/Piebald-AI/awesome-gemini-cli#readme,Gemini CLI
+https://issue-queue.readthedocs.io/en/latest/llm_agents.html,IssueDB,https://github.com/Piebald-AI/awesome-gemini-cli#readme,Gemini CLI

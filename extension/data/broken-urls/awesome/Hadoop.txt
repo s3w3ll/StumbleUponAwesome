@@ -1,4 +1,9 @@
-https://bitbucket.org/rodrigopr/redisstoragehandler,https://bitbucket.org/rodrigopr/redisstoragehandler,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bitbucket.org/vadim/hive-sharp,Hive-Sharp,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.socc2013.org/home/program/a5-vavilapalli.pdf,Apache Hadoop YARN: Yet Another Resource Negotiator,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://gethue.com/,Hue,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://seqpig.sourceforge.net/,seqpig,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://techblog.netflix.com/2013/06/introducing-lipstick-on-apache-pig.html,Introducing Lipstick on A(pache) Pig,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+http://www.cascading.org/projects/lingual/,Lingual,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+http://www.cascading.org/,Cascading,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+http://projects.spring.io/spring-hadoop/,Spring for Apache Hadoop,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://pydoop.sourceforge.net/,pydoop,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://ganglia.sourceforge.net/,Ganglia Monitoring System,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.apachecon.com/,ApacheCon,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://marketplace.eclipse.org/content/oozie-eclipse-plugin,Oozie Eclipse Plugin,https://github.com/youngwookim/awesome-hadoop#readme,Hadoop error: TimeoutError('The read operation timed out') | reason: 

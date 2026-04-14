@@ -1,0 +1,48 @@
+https://backstage.io,,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/,Backstage,https://github.com/shano/awesome-backstage#readme,Backstage
+https://www.youtube.com/watch?v=1XtJ5FAOjPk,Introduction to Backstage,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/releases/v1.40.0,Actions Registry + MCP Integration (v1.40.0),https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/next/plugins/plugin-directory-audit,Plugin Directory Audit,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/,Documentation,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.spotify.com/learn/,Backstage Learn,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/api/stable/modules/_backstage_plugin-mcp-actions-backend.html,MCP Actions Backend Plugin Docs,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/blog/,Blog,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/getting-started/,Getting Started with Backstage,https://github.com/shano/awesome-backstage#readme,Backstage
+https://www.youtube.com/watch?v=lLLw3tcBwWw,Creating a Plugin for Backstage,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.spotify.com/docs/portal/,Portal,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/plugins/create-a-plugin,Creating a Plugin,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/integrations/,Integrating with Existing Infrastructure,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/local-dev/cli-overview,Backstage CLI,https://github.com/shano/awesome-backstage#readme,Backstage
+https://demo.backstage.io/,Demo,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/getting-started/app-custom-theme/,Customizing the UI,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.github.io/upgrade-helper/?to=1.48.0,Upgrade Helper,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/plugins/,Plugin Directory,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/frontend-system/building-apps/module-federation,Module Federation,https://github.com/shano/awesome-backstage#readme,Backstage
+https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/,How Spotify Builds Infrastructure with Backstage,https://github.com/shano/awesome-backstage#readme,Backstage
+https://roadie.io/,Roadie,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/releases/v1.48.0/,Backstage v1.48.0 Release Notes,https://github.com/shano/awesome-backstage#readme,Backstage
+https://roadie.io/backstage/plugins/prometheus/,Prometheus,https://github.com/shano/awesome-backstage#readme,Backstage
+https://roadie.io/backstage/plugins/github-actions/,GitHub Actions,https://github.com/shano/awesome-backstage#readme,Backstage
+https://roadie.io/backstage/plugins/argo-cd/,Backstage ArgoCD Integration,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/releases/v1.47.0/,Backstage v1.47.0 Release Notes,https://github.com/shano/awesome-backstage#readme,Backstage
+https://roadie.io/backstage/plugins/aws-lambda/,aws-lambda,https://github.com/shano/awesome-backstage#readme,Backstage
+https://roadie.io/backstage/plugins/jenkins/,Jenkins,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.spotify.com/discover/blog/aika-data-plugins-coming-to-portal/,AiKA,https://github.com/shano/awesome-backstage#readme,Backstage
+https://docs.kratix.io/main/learn-more/how-kratix-complements/backstage,Kratix with Backstage,https://github.com/shano/awesome-backstage#readme,Backstage
+https://roadie.io/backstage/plugins/sonarqube/,SonarQube,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/docs/next/releases/v1.49.0-next.1-changelog,Backstage v1.49.0-next.1 Changelog,https://github.com/shano/awesome-backstage#readme,Backstage
+https://www.opslevel.com/resources/top-10-backstage-plugins-for-2025,RAG AI Plugin,https://github.com/shano/awesome-backstage#readme,Backstage
+https://roadie.io/backstage/plugins/circle-ci/,CircleCI,https://github.com/shano/awesome-backstage#readme,Backstage
+https://www.youtube.com/watch?v=d2L6PWGfhXI,Crossplane with Backstage,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/blog/2025/12/30/backstage-wrapped-2025,Backstage Wrapped 2025: Celebrating a mature framework with modern foundations,https://github.com/shano/awesome-backstage#readme,Backstage
+https://discord.com/invite/MUpMjP2,Discord,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta,BackstageCon + KubeCon NA 2025 Highlights,https://github.com/shano/awesome-backstage#readme,Backstage
+https://www.npmjs.com/package/@backstage-community/plugin-announcements,Announcements Plugin,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/blog/2024/12/17/backstage-security-audit-2024/,Backstage Security Audit 2024,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/blog/2026/02/25/get-a-jump-on-contribfest,Get a Jump on ContribFest,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.spotify.com/partners/spotify/plugin/git-release-manager/,Git Release Manager,https://github.com/shano/awesome-backstage#readme,Backstage
+https://backstage.io/blog/2024/02/28/security-notice/,CVE-2024-26150 Security Notice,https://github.com/shano/awesome-backstage#readme,Backstage
+https://contribfest.backstage.io/,ContribFest App,https://github.com/shano/awesome-backstage#readme,Backstage
+https://www.port.io/blog/top-5-backstage-plugins,Port Plugin,https://github.com/shano/awesome-backstage#readme,Backstage
+https://www.env0.com/blog/new-backstage-plugin-manage-and-deploy-iac-from-your-internal-developer-portal,Env0 Plugin,https://github.com/shano/awesome-backstage#readme,Backstage
+https://roadie.io/backstage/plugins/tech-insights/,Tech Insights Scorecards,https://github.com/shano/awesome-backstage#readme,Backstage

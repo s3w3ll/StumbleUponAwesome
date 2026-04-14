@@ -1,0 +1,8 @@
+https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b,devnet,https://github.com/MystenLabs/awesome-move#readme,Move
+https://0l.network/,mainnet,https://github.com/MystenLabs/awesome-move#readme,Move
+https://stcscan.io/,mainnet,https://github.com/MystenLabs/awesome-move#readme,Move
+https://explorer.aptoslabs.com/?network=mainnet,mainnet,https://github.com/MystenLabs/awesome-move#readme,Move
+https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs,coming soon,https://github.com/MystenLabs/awesome-move#readme,Move
+https://scan.chainx.org,mainnet,https://github.com/MystenLabs/awesome-move#readme,Move
+https://move-language.github.io/move/,Move Book,https://github.com/MystenLabs/awesome-move#readme,Move
+https://move-book.com/,Move Book,https://github.com/MystenLabs/awesome-move#readme,Move

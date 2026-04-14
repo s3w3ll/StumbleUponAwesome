@@ -1,0 +1,1 @@
+http://www.ammyui.com/,Ammy,https://github.com/XamSome/awesome-xamarin#readme,Xamarin error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

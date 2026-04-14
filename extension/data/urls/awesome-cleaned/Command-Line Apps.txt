@@ -1,0 +1,30 @@
+https://plaintextaccounting.org,plaintextaccounting.org,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://shuk.rs,shuk,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://ledger-cli.org/,ledger,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://jneidel.com,jneidel.com,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://www.passwordstore.org,pass,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://tools.suckless.org/sent/,sent,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://terminaltrove.com/,Terminal Trove,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://cmdchallenge.com,cmdchallenge,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://6xq.net/pianobar/,pianobar,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://www.explainshell.com/,explainshell,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://calcurse.org/,calcurse,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://dianne.skoll.ca/projects/remind/,remind,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://linuxcommandlibrary.com,Linux Command Library,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+http://harelba.github.io/q/,q,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+http://moc.daper.net/,moc,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://mpv.io,mpv,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://mosh.org/,mosh,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+http://www.bay12games.com/dwarves/,Dwarf Fortress,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://ohmyposh.dev,oh-my-posh,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://cataclysmdda.org,Cataclysm-DDA,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+http://www.figlet.org/,figlet,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://tracker.debian.org/pkg/task-spooler,task-spooler,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://nicolargo.github.io/glances/,glances,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://www.nethack.org,NetHack,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://transmissionbt.com,transmission-cli,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://gitlab.com/foxido/organize-rt,organize-rt,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://laktak.github.io/chkbit/,chkbit,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://surge.sh,surge,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://neomutt.org,NeoMutt,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps
+https://vhp.github.io/terminal_velocity/,Terminal velocity,https://github.com/agarrharr/awesome-cli-apps#readme,Command-Line Apps

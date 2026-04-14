@@ -1,103 +1,148 @@
-https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game,Dungeons & Dragons: Castle Ravenloft,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/The_Game_of_Life,The Game of Life,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/174430/gloomhaven,Gloomhaven,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/70919/takenoko,Takenoko,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/150997/shadows-of-brimstone-swamps-of-death,Shadows of Brimstone: Swamps of Death,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/324856/the-crew-mission-deep-sea,The Crew: Mission Deep Sea,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/260300/dungeon-mayhem,Dungeon Mayhem,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/244522/thats-pretty-clever,That's Pretty Clever,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/266192/wingspan,Wingspan,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/316624/stationfall,Stationfall,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/365717/clank-catacombs,Clank!: Catacombs,https://github.com/edm00se/awesome-board-games#readme,Board Games
 https://boardgamegeek.com/boardgame/83195/ghost-blitz,Ghost Blitz,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/144865/sushi-draft,Sushi Draft,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/34635/stone-age,Stone Age,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/135378/catan-explorers-pirates,Catan: Explorers & Pirates Expansion,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin,Exit The Game the Abandoned Cabin,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://gamewright.com/product/Sushi-Go,Sushi Go,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/266524/parks,PARKS,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Axis_%26_Allies,Axis & Allies,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/46213/telestrations,Telestrations,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://www.thesingaporeandream.com/,The Singaporean Dream,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://www.boardgamegeek.com/boardgame/244992/mind,The Mind,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/162886/spirit-island,Spirit Island,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Blokus,Blokus,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/204583/kingdomino,Kingdomino,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://wikipedia.org/wiki/Mansions_of_Madness,Mansions of Madness, 2nd ed,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://wikipedia.org/wiki/Mysterium_(board_game),Mysterium,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/211534/bears-vs-babies,Bears vs. Babies,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Candy_Land,Candy Land,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://gamewright.com/product/Trash-Pandas,Trash Pandas,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game),Game of Thrones,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/249381/estates,The Estates,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://wikipedia.org/wiki/Ticket_to_Ride_(board_game),Ticket to Ride,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition,Twilight Imperium 4th Edition,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/342810/marrakesh,Marrakesh,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Snakes_and_Ladders,Chutes and Ladders,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://board-games-galore.fandom.com/wiki/Battleship,Battleship,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/YINSH,YINSH,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2,Shabadabada,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/178900/codenames,Codenames,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/220700/cobra-paw,Cobra Paw,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/193621/joking-hazard,Joking Hazard,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/40182/telepathy,Telepathy,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/2407/sorry,Sorry,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Backgammon,Backgammon,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://www.boardgamegeek.com/boardgame/3837/rat-tat-cat,Rat-a-Tat Cat,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/131357/coup,Coup,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Chinese_checkers,Chinese Checkers,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/41186/monopoly-city,Monopoly,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Tak_(game),Tak,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/165722/klask,Klask,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://www.saywhatwithfriends.com/shop/say-what-singapores-shiok-food-card-game,Say What? Shiok Food Card Game,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Citadels_(card_game),Citadels,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Love_Letter_(card_game),Love Letter,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/270138/terror-below,Terror Below,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/526/abalone,Abalone,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://petersengames.com/cthulhu-wars/,Cthulhu Wars,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/6795/battleball,Battleball,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/173064/leaving-earth,Leaving Earth,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game),Terraforming Mars,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://wikipedia.org/wiki/Pandemic_(board_game),Pandemic,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Parcheesi,Parcheesi,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/342942/ark-nova,Ark Nova,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/188834/secret-hitler,Secret Hitler,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/TZAAR,TZAAR,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://commonspoly.cc/,Commonspoly,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://wikipedia.org/wiki/7_Wonders_(board_game),7 Wonders,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/123540/tokaido,Tokaido,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/8098/jungle-speed,Jungle Speed,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Nine_men's_morris,Nine Men's Morris,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Cluedo,Cluedo,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/122522/smash,Smash Up,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/173346/7-wonders-duel,7 Wonders Duel,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/270030/pinch-n-pass,Pinch 'n' Pass,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/194655/santorini,Santorini,https://github.com/edm00se/awesome-board-games#readme,Board Games
-http://anachronyboardgame.com/,Anachrony,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/157969/sheriff-nottingham,Sheriff of Nottingham,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/320/scrabble,Scrabble,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://wikipedia.org/wiki/Forbidden_Desert,Forbidden Desert,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/104955/antike-duellum,Antike Duellum,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/139952/clockwork-wars,Clockwork Wars,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/891/cranium,Cranium,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak,Lost Ruins of Arnak,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/148949/istanbul,Istanbul,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game),Ticket to Ride,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Pandemic_(board_game),Pandemic,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Forbidden_Desert,Forbidden Desert,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/199792/everdell,Everdell,https://github.com/edm00se/awesome-board-games#readme,Board Games
 https://boardgamegeek.com/boardgame/245271/forbidden-sky,Forbidden Sky,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game,Legendary: A Marvel Deck Building Game,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/148228/splendor,Splendor,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://www.boardgamegeek.com/boardgame/261614/unanimo-party,Unanimo Party,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Elder_Sign_(card_game),Elder Sign,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill,Betrayal at House on the Hill,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/521/crokinole,Crokinole,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/233867/welcome-to,Welcome To,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Dixit_(card_game),Dixit,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/218465/contrast,Contrast,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/234190/unstable-unicorns,Unstable Unicorns,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/295947/cascadia,Cascadia,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/59946/dungeons-and-dragons-castle-ravenloft-board-game,Dungeons & Dragons: Castle Ravenloft,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/203420/exit-the-game-the-abandoned-cabin,Exit The Game the Abandoned Cabin,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Candy_Land,Candy Land,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Snakes_and_Ladders,Chutes and Ladders,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/2407/sorry,Sorry,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/165722/klask,Klask,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/6795/battleball,Battleball,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/366013/heat-pedal-to-the-metal,Heat: Pedal to the Metal,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Parcheesi,Parcheesi,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/123540/tokaido,Tokaido,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/194655/santorini,Santorini,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/144865/sushi-draft,Sushi Draft,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/266524/parks,PARKS,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/217372/the-quest-for-el-dorado,The Quest for El Dorado,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/244521/quacks,The Quacks of Quedlinburg,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/204583/kingdomino,Kingdomino,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/291453/scout,SCOUT,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/220700/cobra-paw,Cobra Paw,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/364073/splendor-duel,Splendor Duel,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/199561/sagrada,Sagrada,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/230802/azul,Azul,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/287954/azul-summer-pavilion,Azul: Summer Pavilion,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/163412/patchwork,Patchwork,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/263918/cartographers,Cartographers,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/3354/tide-of-fortune,Tide of Fortune,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/714/talisman,Talisman,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/339789/welcome-to-the-moon,Welcome to the Moon,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/366161/wingspan-asia,Wingspan Asia,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/331106/the-witcher-old-world,The Witcher: Old World,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/281259/the-isle-of-cats,The Isle of Cats,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/22626/the-book-of-pop-up-board-games,The Book of Pop-Up Board Games,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Ashtapada,Ashtapada,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/170216/blood-rage,Blood Rage,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Backgammon,Backgammon,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Tak_(game),Tak,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/3076/puerto-rico,Puerto Rico,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/7_Wonders_(board_game),7 Wonders,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/173346/7-wonders-duel,7 Wonders Duel,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/125153/the-gallerist,The Gallerist,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/251247/barrage,Barrage,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/104955/antike-duellum,Antike Duellum,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/192135/too-many-bones,Too Many Bones,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/129437/legendary-a-marvel-deck-building-game,Legendary: A Marvel Deck Building Game,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Mansions_of_Madness,Mansions of Madness, 2nd ed,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game),Game of Thrones,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/YINSH,YINSH,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://shop.petersengames.com/products/cthulhu-wars-o4-edition,Cthulhu Wars,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://mindclashgames.com/game-worlds/anachrony/,Anachrony,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/18602/caylus,Caylus,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/139952/clockwork-wars,Clockwork Wars,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/164928/orleans,Orléans,https://github.com/edm00se/awesome-board-games#readme,Board Games
 https://boardgamegeek.com/boardgame/188188/complots,Complots,https://github.com/edm00se/awesome-board-games#readme,Board Games
-http://www.worldofmunchkin.com/game/,Munchkin,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Connect_Four,Connect Four,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/229537/mind-gap,Mind the Gap,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/40692/small-world,Small World,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Shogi,Shogi,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Checkers,Checkers,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Chaupar,Chaupar,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/5878/loteria,Lotería,https://github.com/edm00se/awesome-board-games#readme,Board Games
 https://en.wikipedia.org/wiki/Carcassonne_(board_game),Carcassonne,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://www.explodingkittens.com/,Exploding Kittens,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Chess,Chess,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/314040/pandemic-legacy-season-0,Pandemic Legacy: Season 0,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://commonspoly.cc,Commonspoly,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/126163/tzolkin-the-mayan-calendar,Tzolk'in: The Mayan Calendar,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Cluedo,Cluedo,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/157969/sheriff-of-nottingham,Sheriff of Nottingham,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/148228/splendor,Splendor,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Connect_Four,Connect Four,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/289351/gorgasali-battle-royale,Gorgasali: Battle Royale,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/266810/paladins-of-the-west-kingdom,Paladins of the West Kingdom,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Shadow_Hunters,Shadow Hunters,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/236008/persian-wars,Persian Wars,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/256916/concordia-venus,Concordia Venus,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/2392/mastermind,Mastermind,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://www.brotherwisegames.com/all/p/call-to-adventure,Call to Adventure,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/231733/obsession,Obsession,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/34635/stone-age,Stone Age,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Axis_%26_Allies,Axis & Allies,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/317985/beyond-the-sun,Beyond the Sun,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Blokus,Blokus,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/31260/agricola,Agricola,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/249381/the-estates,The Estates,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/40182/telepathy,Telepathy,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Chinese_checkers,Chinese Checkers,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Citadels_(card_game),Citadels,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/284083/the-crew-the-quest-for-planet-nine,The Crew: The Quest for Planet Nine,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/173064/leaving-earth,Leaving Earth,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/342942/ark-nova,Ark Nova,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/216132/clans-of-caledonia,Clans of Caledonia,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/205896/rising-sun,Rising Sun,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/303954/pax-viking,Pax Viking,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/316554/dune-imperium,Dune: Imperium,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/220308/gaia-project,Gaia Project,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition,Pax Pamir: Second Edition,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/12333/twilight-struggle,Twilight Struggle,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/193738/great-western-trail,Great Western Trails,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/182028/through-the-ages-a-new-story-of-civilization,Through the Ages: A New Story of Civilization,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/284378/kanban-ev,Kanban EV,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/84876/the-castles-of-burgundy,The Castles of Burgundy,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/209010/mechs-vs-minions,Mechs vs. Minions,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/28720/brass-lancashire,Brass: Lancashire,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-for-the-galaxy,Eclipse: Second Dawn Galaxy,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/96848/mage-knight-board-game,Mage Knight Board Game,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/124742/android-netrunner,Android: Netrunner,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/247763/underwater-cities,Underwater Cities,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/5168/queens-guard,Agon | Queen Guard | Royal Guard,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/159675/fields-of-arle,Fields of Arle,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/22877/fields-of-fire,Field of Fire,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/1608/ambush,Ambush!,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/224517/brass-birmingham,Brass: Birmingham,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/35677/le-havre,Le Havre,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Power_Grid,Power Grid,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/182874/grand-austria-hotel,Grand Austria Hotel,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/19254/blue-and-gray,Blue and Gray,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/5043/the-forever-war,The Forever War,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/2545/contigo,Contigo,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/170042/raiders-of-the-north-sea,Raiders of the North Sea,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/357873/the-old-kings-crown,The Old King's Crown,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/624/quoridor,Quoridor,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/8098/jungle-speed,Jungle Speed,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://en.wikipedia.org/wiki/Mysterium_(board_game),Mysterium,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2,Shabadabada,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://boardgamegeek.com/boardgame/131357/coup,Coup,https://github.com/edm00se/awesome-board-games#readme,Board Games
+https://munchkin.game/,Munchkin,https://github.com/edm00se/awesome-board-games#readme,Board Games
 https://en.wikipedia.org/wiki/Ludo_(board_game),Ludo,https://github.com/edm00se/awesome-board-games#readme,Board Games
 https://en.wikipedia.org/wiki/Carrom,Carrom,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/242483/noir,Noir,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://www.gorgasalibr.com,Gorgasali: Battle Royale,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://wikipedia.org/wiki/Elder_Sign_(card_game),Elder Sign,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/226322/s-question,That's A Questionï¹—,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Shadow_Hunters,Shadow Hunters,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://beziergames.com/products/one-night-ultimate-werewolf,One Night Werewolf,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill,Betrayal at House on the Hill,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://explodingkittens.com/,Exploding Kittens,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Dixit_(card_game),Dixit,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/236008/persian-wars,Persian Wars,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://en.wikipedia.org/wiki/Chess,Chess,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/218465/contrast,Contrast,https://github.com/edm00se/awesome-board-games#readme,Board Games
-http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm,Who Wants to Be a Millionare,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/2392/mastermind,Mastermind,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://boardgamegeek.com/boardgame/234190/unstable-unicorns,Unstable Unicorns,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://www.brotherwisegames.com/about-call-to-adventure,Call to Adventure,https://github.com/edm00se/awesome-board-games#readme,Board Games
-https://www.catan.com/game/catan,Catan,https://github.com/edm00se/awesome-board-games#readme,Board Games

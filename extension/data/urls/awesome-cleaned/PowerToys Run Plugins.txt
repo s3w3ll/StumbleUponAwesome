@@ -1,0 +1,4 @@
+https://learn.microsoft.com/en-us/windows/powertoys/run,,https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme,PowerToys Run Plugins
+https://apps.microsoft.com/detail/xp89dcgq3k6vld,Microsoft Store,https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme,PowerToys Run Plugins
+https://conductofcode.io/post/creating-custom-powertoys-run-plugins/,Creating custom PowerToys Run plugins,https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme,PowerToys Run Plugins
+https://blog.seguri.dev/posts/powertoys-run-johnnydecimal/,How I developed the JohnnyDecimal plugin,https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme,PowerToys Run Plugins

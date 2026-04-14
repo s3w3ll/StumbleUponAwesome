@@ -1,1 +1,5 @@
 https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API,SpiderMonkey AST,https://github.com/addyosmani/es6-tools#readme,ES6 Tools error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/es6-module-packager,es6-module-packager,https://github.com/addyosmani/es6-tools#readme,ES6 Tools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://h3manth.com/new/blog/2013/es6-on-nodejs/,ES6 on node,https://github.com/addyosmani/es6-tools#readme,ES6 Tools error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/grunt-init-es6,grunt-init-es6,https://github.com/addyosmani/es6-tools#readme,ES6 Tools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/es6-module-transpiler-brunch,plugin,https://github.com/addyosmani/es6-tools#readme,ES6 Tools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

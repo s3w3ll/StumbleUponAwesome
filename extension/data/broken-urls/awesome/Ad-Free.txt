@@ -1,5 +1,13 @@
-https://gnusocial.no,GNUsocial.no,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-https://nomoreads.org,No More Ads,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://libre.fm/,Libre.fm,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-https://www.armstrongeconomics.com/uncategorized/no-advertising/,Armstrong Economics,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-https://wire.com/en/privacy/,Wire,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://wire.com/en/resources/whitepapers/privacy/,Wire,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://theborrowedabode.com/advertise/,The Borrowed Abode,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://add-art.org/,Add-Art,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'add-art.org'. (_ssl.c:1018)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'add-art.org'. (_ssl.c:1018)
+https://aeon.co/,Aeon,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://ello.co/,Ello,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 520: '<none>'> | reason: <none>
+https://popularresistance.org/,Popular Resistance,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://goblinrefuge.com/mediagoblin/,Goblin Refuge,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://liberapay.com/,Liberapay,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads,We're building a dystopia just to make people click on ads,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+https://nomoreads.org,No More Ads,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.polyfacefarms.com/no-advertising/,Polyface Farms,https://github.com/johnjago/awesome-ad-free#readme,Ad-Free error: <HTTPError 404: 'Not Found'> | reason: Not Found

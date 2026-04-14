@@ -1,1 +1,5 @@
-http://coastonclojure.com/,Coast,https://github.com/razum2um/awesome-clojure#readme,Clojure error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://clojureneo4j.info/,neocons,https://github.com/razum2um/awesome-clojure#readme,Clojure error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer,Bracket Pair Colorizer (VSCode),https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://clojure.zeef.com/vlad.bokov,ZEEF/Clojure,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html,A Brief Beginner's Guide To Clojure,https://github.com/razum2um/awesome-clojure#readme,Clojure error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.tadam-framework.dev/,Tadam,https://github.com/razum2um/awesome-clojure#readme,Clojure error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

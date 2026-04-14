@@ -1,0 +1,17 @@
+https://gitlab.com/m210/RedneckGDX,RedneckGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://osgameclones.com/,Open Source Game Clones,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://gitlab.com/Dringgstein/Commander-Genius,Commander Genius,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://openrw.org/,OpenRW,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://zandronum.com/,Zandronum,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://gitlab.com/stone-kingdoms/stone-kingdoms,Stone Kingdoms,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://2004scape.org,2004scape,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+http://barbarian.1987.free.fr/indexEN.htm,Barbarian,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://2009scape.org,2009scape,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://gitlab.com/m210/DukeGDX,DukeGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://bitbucket.org/ecwolf/ecwolf/src/master/,ECWolf,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://emulator.ac,ACEmulator,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://gitlab.com/open-runescape-classic/core,OpenRSC,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://voidpoint.io/terminx/eduke32,Eduke32,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://fte.triptohell.info/,FTEQW,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://git.minetest.land/VoxeLibre/VoxeLibre,VoxeLibre,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes
+https://gitlab.com/m210/WitchavenGDX,WitchavenGDX,https://github.com/radek-sprta/awesome-game-remakes#readme,Game Remakes

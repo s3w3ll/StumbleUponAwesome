@@ -1,0 +1,4 @@
+https://wiki.osdev.org/A.out,A.out binary format,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://pferrie.tripod.com/papers/unpackers.pdf,Anti-unpacker tricks,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)
+https://wiki.osdev.org/COM,COM binary format,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://wiki.osdev.org/COFF,Common object file format (COFF),https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

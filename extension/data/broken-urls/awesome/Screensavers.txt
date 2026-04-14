@@ -1,4 +1,3 @@
-https://www.simonheys.com/wordclock/,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://johansson.design/screensavers/,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://littleendiangamestudios.com/project/ios-8-screen-saver/,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://itunes.apple.com/us/app/textify-me/id470453599,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.smart-app.dev/downloads/downloads.html,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://littleendiangamestudios.com/project/ios-8-screen-saver/,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://itunes.apple.com/us/app/textify-me/id470453599,,https://github.com/agarrharr/awesome-macos-screensavers#readme,Screensavers error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network

@@ -1,1 +1,9 @@
-http://wiki.micropython.org/Home,MicroPython Wiki,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://gitlab.com/rafalosa/HD44780-lcd-upy,HD44780-lcd-upy,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers,MicroPython Kickstarter,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot,MicroPython on the ESP8266 Kickstarter,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode,MicroPython IDE for VSCode,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink,MicroPython-REPLink for VSCode,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=DavesCodeMusings.mpremote,MPRemote for VSCode,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.packtpub.com/en-us/product/micropython-cookbook-9781838641955,MicroPython Cookbook,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.packtpub.com/en-us/product/micropython-projects-9781789952537,MicroPython Projects,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html,VL53L5CX,https://github.com/mcauser/awesome-micropython#readme,MicroPython error: TimeoutError('The read operation timed out') | reason: 

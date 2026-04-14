@@ -1,0 +1,39 @@
+https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/,Start Ethereum DApp Development Career,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethereum.foundation/,Ethereum Foundation,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers,Ethereum Stack Exchange,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://en.wikipedia.org/wiki/Ethereum,Ethereum,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://eprint.iacr.org/2016/633.pdf,Making Smart Contracts Smarter,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethereum.github.io/yellowpaper/paper.pdf,Yellowpaper,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://enjinx.io/,Enjinx,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.youtube.com/watch?v=-_Qs0XdPpw8,Ethereum Explained (22:00),https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethereumbuilders.gitbooks.io/guide/content/en/index.html,Ethereum Builders Guide,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.youtube.com/watch?v=gSQXq2_j-mw,A Guide to Building Your First Decentralized Application (37:00),https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://karl.tech/learning-solidity-part-1-deploy-a-contract/,Learning Solidity Tutorial Series,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.youtube.com/user/ethereumproject,Ethereum YouTube Channel,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://arxiv.org/abs/1710.09437,Casper the Friendly Finality Gadget Paper,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g,Ethereum Foundation YouTube Channel,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6,zk-SNARKS: Under the Hood,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://openzeppelin.org/,OpenZeppelin,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.goodreads.com/book/show/32762240-ethereum,Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://metamask.io/,MetaMask,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.reddit.com/r/ethereum/,r/Ethereum,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/,Cryptocurrency Security: University of Illinois 2016,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/,zk-SNARKs in a nutshell,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://solidity.readthedocs.io,Solidity Documentation,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.stateofthedapps.com/,State of the DApps,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://crypto.stanford.edu/cs251_fall15/,Stanford CS 251(p): Bitcoin and Crypto Currencies,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.mycrypto.com,MyCrypto,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://vyper.readthedocs.io/en/latest/index.html,Vyper Documentation,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+http://www.weekinethereum.com/,Week in Ethereum,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+http://coders-errand.com/practical-zk-snarks-for-ethereum/,Practical zk-SNARKs for Ethereum,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://etherscan.io/,Etherscan,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://yos.io/2018/11/10/bonding-curves/,Bonding Curves Explained,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethplorer.io/,Ethplorer,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://consensys.github.io/smart-contract-best-practices/,Smart Contract Best Practices,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.meetup.com/find/?allMeetups=false&keywords=ethereum,Ethereum Worldwide Meetups,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.cs.bu.edu/~goldbe/projects/eclipseEth.pdf,Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://eth.wiki/en/home,Ethereum Wiki Page,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://www.ethereum.org/,Ethereum Website,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://remix.ethereum.org/,Remix Online IDE,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://ethfiddle.com/,Eth Fiddle,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum
+https://cryptozombies.io/,CryptoZombies,https://github.com/ttumiel/Awesome-Ethereum#readme,Ethereum

@@ -1,0 +1,28 @@
+https://open-wc.org/docs/development/generator/,Open Web Components Generator,https://github.com/web-padawan/awesome-lit#readme,lit
+https://lit.dev/docs/,Documentation,https://github.com/web-padawan/awesome-lit#readme,lit
+https://rodydavis.com/posts/flutter-and-lit,Lit and Flutter,https://github.com/web-padawan/awesome-lit#readme,lit
+https://www.smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/,Building A Retro Draggable Web Component Using Lit,https://github.com/web-padawan/awesome-lit#readme,lit
+https://rodydavis.com/posts/lit-rich-text-editor,Building a Rich Text Editor with Lit,https://github.com/web-padawan/awesome-lit#readme,lit
+https://rodydavis.com/posts/lit-monaco-editor,Lit and Monaco Editor,https://github.com/web-padawan/awesome-lit#readme,lit
+https://lit.dev/tutorials/,Tutorials,https://github.com/web-padawan/awesome-lit#readme,lit
+https://rodydavis.com/posts/lit-draggable-dom,Draggable DOM with Lit,https://github.com/web-padawan/awesome-lit#readme,lit
+https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript,Getting started with LitElement and TypeScript,https://github.com/web-padawan/awesome-lit#readme,lit
+https://rodydavis.com/posts/lit-vscode-extension,Lit and VSCode Extensions,https://github.com/web-padawan/awesome-lit#readme,lit
+https://dev.to/jdvivar/here-s-a-minimalist-no-frills-redux-toolkit-litelement-example-1j91,Here's a minimalist no-frills Redux Toolkit & LitElement example,https://github.com/web-padawan/awesome-lit#readme,lit
+https://lit.dev/playground/,Playground,https://github.com/web-padawan/awesome-lit#readme,lit
+https://lit.dev/blog/,Blog,https://github.com/web-padawan/awesome-lit#readme,lit
+https://discord.com/invite/buildWithLit,Discord,https://github.com/web-padawan/awesome-lit#readme,lit
+https://rodydavis.com/posts/lit-sheet-music,Lit Sheet Music,https://github.com/web-padawan/awesome-lit#readme,lit
+https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript,Navigation Lifecycle using Vaadin Router, LitElement and TypeScript,https://github.com/web-padawan/awesome-lit#readme,lit
+https://rodydavis.com/posts/lit-html-table,JSON to HTML Table with Lit,https://github.com/web-padawan/awesome-lit#readme,lit
+https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/,Recreating The Arduino Pushbutton Using SVG And <lit-element>,https://github.com/web-padawan/awesome-lit#readme,lit
+https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element,Stack Overflow,https://github.com/web-padawan/awesome-lit#readme,lit
+https://terodox.tech/handling-web-component-markup-with-lit-html/,lit-html Part 1 - A solution for DOM management in web components,https://github.com/web-padawan/awesome-lit#readme,lit
+https://labs.thisdot.co/blog/routing-management-with-litelement,Routing Management with LitElement and TypeScript,https://github.com/web-padawan/awesome-lit#readme,lit
+https://dev.to/open-wc/some-things-to-know-about-litelement-282c,Some things to know about Lit,https://github.com/web-padawan/awesome-lit#readme,lit
+https://terodox.tech/lit-html-part-2/,lit-html Part 2 - Working with attributes and properties,https://github.com/web-padawan/awesome-lit#readme,lit
+https://www.youtube.com/channel/UCok4ZKSzM3jY7JQRMlF-DPg/,YouTube,https://github.com/web-padawan/awesome-lit#readme,lit
+https://rodydavis.com/posts/figma-and-lit,Lit and Figma,https://github.com/web-padawan/awesome-lit#readme,lit
+https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html,Lightning-fast templates & Web Components: lit-html & LitElement,https://github.com/web-padawan/awesome-lit#readme,lit
+https://lit.dev/blog/2021-04-21-lit-2.0-meet-lit-all-over-again/,Lit 2.0: Meet Lit, all over again!,https://github.com/web-padawan/awesome-lit#readme,lit
+https://lit.dev/blog/2021-09-21-announcing-lit-2/,Announcing Lit 2 stable release,https://github.com/web-padawan/awesome-lit#readme,lit

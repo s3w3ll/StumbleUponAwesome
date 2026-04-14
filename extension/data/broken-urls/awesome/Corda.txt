@@ -1,1 +1,15 @@
-http://slack.corda.net/,Slack,https://github.com/chainstack/awesome-corda#readme,Corda error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)
+https://www.corda.net/,,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://training.corda.net/,Official Corda Training Platform,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://docs.corda.net/,Documentation,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.r3.com/reports/corda-technical-whitepaper/,Technical whitepaper,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://chainstack.com/corda/,Nodes and networks deployment with Chainstack,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 520: '<none>'> | reason: <none>
+https://api.corda.net/,Corda API reference,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.r3.com/training-and-certification/,Corda developer certification,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.r3.com/,CorDapp marketplace,https://github.com/chainstack/awesome-corda#readme,Corda error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://corda.network/,Corda Network,https://github.com/chainstack/awesome-corda#readme,Corda error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://corda.network/participation/preprod.html,Corda Pre-Production Network,https://github.com/chainstack/awesome-corda#readme,Corda error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://docs.corda.net/corda-testnet-intro.html,Corda Testnet,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.corda.net/demobench/,DemoBench,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://docs.chainstack.com/operations/corda/tools,Interact with nodes,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://docs.corda.net/tutorials-index.html,Official Corda tutorials,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://docs.chainstack.com/tutorials/no-ticket-scalping-cordapp-on-corda,No ticket scalping CorDapp,https://github.com/chainstack/awesome-corda#readme,Corda error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,51 @@
+https://arxiv.org/abs/2001.08361,Scaling Laws for Neural Language Models,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://arxiv.org/abs/2005.14165,Language Models are Few-Shot Learners,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://arxiv.org/abs/2212.08073,Constitutional AI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://cohere.com/,Cohere,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://cookbook.openai.com/,OpenAI Cookbook,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ,Google Deepmind| Introduction to Reinforcement Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://the-pocket.github.io/PocketFlow/,PocketFlow,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ,Karpathy’s LLM Zero-to-Hero,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://mistral.ai/,Mistral,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/,Designing Machine Learning Systems,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://qwenlm.github.io/,Qwen,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://google.github.io/adk-docs/,Google ADK,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://klingai.com/,Kling,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.therundown.ai/,The Rundown AI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://deepseek.com/,DeepSeek,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://ai.pydantic.dev/,Pydantic-AI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.cloudskillsboost.google/paths/118,Google Generative AI Learning Path,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://cursor.sh/,Cursor,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.langchain.com/langgraph,LangGraph,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://huggingface.co/learn/llm-course/chapter1/1,Hugging Face LLM Course,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://alphasignal.ai/,AlphaSignal,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/,Generative Deep Learning (2nd Edition),https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://course.fast.ai/,Fast.ai — Practical Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.superhuman.ai/,Superhuman AI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://openai.com/chatgpt,ChatGPT-4o Image Generation,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://stanford-cs324.github.io/winter2022/,Stanford CS324: Large Language Models,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.oreilly.com/library/view/ai-engineering/9781098166298/,AI Engineering,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://newsletter.owainlewis.com,AI Engineer,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://deepmind.google/technologies/veo/,Google Veo 3,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://fullstackdeeplearning.com/,Full Stack Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.crewai.com/,CrewAI,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://runwayml.com/,Runway,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://microsoft.github.io/autogen/,AutoGen,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://introtodeeplearning.com/,MIT 6.S191: Intro to Deep Learning,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://elevenlabs.io/,ElevenLabs,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.anthropic.com/claude,Claude,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://learn.deeplearning.ai/,DeepLearning.AI Short Courses,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.thelmbook.com/,100 Page Language Models Book,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://suno.ai/,Suno,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.llamaindex.ai/,LlamaIndex,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://gemini.google.com/,Gemini,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://aima.cs.berkeley.edu/,Artificial Intelligence: A Modern Approach,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://haystack.deepset.ai/,Haystack,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://arxiv.org/abs/1706.03762,Attention Is All You Need,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf,Reinforcement Learning: An Introduction (2nd Edition),https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.aiva.ai/,Aiva,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.anthropic.com/engineering/building-effective-agents,Building Effective Agents (Anthropic),https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf,OpenAI Agents Guide,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.kaggle.com/whitepaper-agents,Google AI Agents Paper,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://www.kaggle.com/whitepaper-agent-companion,Google Agents Companion Paper,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence
+https://blackforestlabs.ai/,Flux,https://github.com/owainlewis/awesome-artificial-intelligence#readme,Artificial Intelligence

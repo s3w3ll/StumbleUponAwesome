@@ -1,0 +1,69 @@
+https://rladies.org/,R-Ladies,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.femalefoundersconference.org/,Female Founders Conference,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.debian.org/women/,Debian Women,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.globaltechwomen.com/voices-global-conference.html/,Global Tech Women's Annual Voices Conference,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.meetup.com/R-Ladies-Sao-Paulo,R-Ladies São Paulo - Brazil,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://contributor-covenant.org/version/1/3/0/,,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://fedoraproject.org/wiki/Women,Fedora Women,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://ghc.anitab.org/,Grace Hopper Celebration of Women in Computing,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://wonderwomentech.com/,Wonder Women Tech Summit,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://bytehacks.org/,Byte Hacks,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.clojurebridge.org,ClojureBridge,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://community.kde.org/KDE_Women,KDE Women,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.codegirl.com.br/,Code Girl,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://en.wikipedia.org/wiki/LinuxChix,Linux Chix,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.czechitas.cz/,Czechitas,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://gocarrots.org,Geek Girls Carrots,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.johnsonwomenintech.com,Johnson Women in Technology Conference,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://chicktech.org/,Chick Tech,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://minasprogramam.com/,Minas Program,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://ladieswinedesign.com/,Ladies Wine and Design,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.techgirlz.org/,Tech Girlz,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://women.acm.org/,ACM-W,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.facebook.com/jduchess.org/,JDuchess,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.shesharp.org/,SheSharp,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://appcamp4girls.com/,App Camp 4 Girls,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.sheplusplus.org/,She++,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://werise.tech/,We RISE,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.redhat.com/en/about/women-in-open-source,RedHat - Women in Open Source,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://nodegirls.com/,NodeGirls,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://wtp.mit.edu/,Women’s Technology Program at MIT,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://phpwomen.org/,PHPWomen,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.blackgirlscode.com/,Black Girls Code,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://djangogirls.org/,Django Girls,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.pyladies.com/,PyLadies,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.blackhoodie.re/,BlackHoodie,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://witchat.github.io/,Women in Tech,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.shestarteditfilm.com/,She started it,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.aspirations.org/aspireit,AspireIT,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://chicaspoderosas.org/home/,Chicas Poderosas,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.awis.org/,Association for Women in Science,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.wecodeharvard.com/,WECode,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://railsgirls.com/,RailsGirls,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://railsgirlssummerofcode.org/,RailsGirls Summer of Code,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://sheplusplus.org/film/,She++ The Documentary,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.builtbygirls.com/,Built by Girls,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://hexagonux.com/,Hexagon UX,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.meetup.com/Chicago-WomenTech/,Chicago WomenTech,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://inspiradanacomputacao.com/,InspirAda na Computação,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://ladiesthatux.com/,Ladies that UX,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.madewithcode.com/,Made with Code,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.powertofly.com/,PowerToFly,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://findingada.com/,Ada Lovelace Day,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://anitab.org/,AnitaB.org,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://rewritingthecode.org,Rewriting the Code,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://gcc.prologin.org/,Girls Can Code,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://anitas.com.br/,Anitas,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.girlsteachinggirlstocode.org/,Girls Teaching Girls to Code,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://girlswhocode.com/,Girls Who Code,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://hackbrightacademy.com/,Hackbright Academy,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.lambdaladies.com/,Lambda Ladies,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.meetup.com/SanFranciscoWomenandDiversityInTech/,San Francisco Women in Tech,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.womenhackfornonprofits.com/,Women Hack For Non-Profits (WHFNP),https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://act-w.org/,ACT-W,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://alterconf.com/,AlterConf,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://www.programaria.org/,Maria Lab,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.programaria.org/,PrograMaria,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://www.callbackwomen.com/,CallbackWomen,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+http://ladieslearningcode.com/,Ladies Learning Code,https://github.com/cristianoliveira/awesome4girls#readme,For Girls
+https://adacamp.org/,AdaCamp Toolkit,https://github.com/cristianoliveira/awesome4girls#readme,For Girls

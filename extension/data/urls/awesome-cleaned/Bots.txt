@@ -1,0 +1,50 @@
+https://dev.botframework.com/,Microsoft Bot Framework,https://github.com/hackerkid/bots#readme,Bots
+https://www.youtube.com/watch?v=zFO1cRr5-qY,Pair Programming a Facebook Messenger Bot.,https://github.com/hackerkid/bots#readme,Bots
+https://dialoganalytics.com/,Dialog,https://github.com/hackerkid/bots#readme,Bots
+http://www.pandorabots.com/,Pandorabots,https://github.com/hackerkid/bots#readme,Bots
+https://www.dashbot.io/,Dashbot,https://github.com/hackerkid/bots#readme,Bots
+https://admin.wechat.com/,WeChat,https://github.com/hackerkid/bots#readme,Bots
+http://uxofchatbots.com/,UX of Chatbots,https://github.com/hackerkid/bots#readme,Bots
+https://www.botsociety.io,Bot Society,https://github.com/hackerkid/bots#readme,Bots
+https://www.facebook.com/groups/chatbot/,Bots,https://github.com/hackerkid/bots#readme,Bots
+http://docs.botframework.com,Microsoft Bot Framework,https://github.com/hackerkid/bots#readme,Bots
+http://www.ibm.com/cloud-computing/bluemix/watson/,Watson,https://github.com/hackerkid/bots#readme,Bots
+https://www.facebook.com/groups/uxforbots/,UX for Bots,https://github.com/hackerkid/bots#readme,Bots
+https://beepboophq.com/,Beep Boop,https://github.com/hackerkid/bots#readme,Bots
+https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch,Bot Sketch,https://github.com/hackerkid/bots#readme,Bots
+https://www.facebook.com/groups/hhbots/,HH Bots,https://github.com/hackerkid/bots#readme,Bots
+https://rundexter.com/app/spreadsheet-bot,Dexter,https://github.com/hackerkid/bots#readme,Bots
+https://www.facebook.com/groups/242384196138564/,Messenger Platform Developer Community,https://github.com/hackerkid/bots#readme,Bots
+http://www.converse.ai/,Converse AI,https://github.com/hackerkid/bots#readme,Bots
+https://www.gupshup.io/developer/home,Gupshup,https://github.com/hackerkid/bots#readme,Bots
+https://cloud.google.com/natural-language,Google Cloud Platform,https://github.com/hackerkid/bots#readme,Bots
+https://messenger-demo-viewer.kilianvalkhof.com/,Messenger Demo Viewer,https://github.com/hackerkid/bots#readme,Bots
+https://chatbottle.co/,ChatBottle,https://github.com/hackerkid/bots#readme,Bots
+https://botlist.co/,BotList,https://github.com/hackerkid/bots#readme,Bots
+https://bitbucket.org/phips28/universal-bot-framework/overview,Universal Bot Framework,https://github.com/hackerkid/bots#readme,Bots
+https://slack.com/apps,Slack Store,https://github.com/hackerkid/bots#readme,Bots
+https://www.producthunt.com/topics/bots,Product Hunt,https://github.com/hackerkid/bots#readme,Bots
+http://www.dashbot.io/bots,Dashbot,https://github.com/hackerkid/bots#readme,Bots
+https://bots.botframework.com/,Skype Bot Directory,https://github.com/hackerkid/bots#readme,Bots
+https://chatbotconf.com/,ChatbotConf,https://github.com/hackerkid/bots#readme,Bots
+https://talkabot.ai/,Talkabot,https://github.com/hackerkid/bots#readme,Bots
+https://botmakers.net/,BotMakers,https://github.com/hackerkid/bots#readme,Bots
+https://bots.discord.pw/,Discord Bots,https://github.com/hackerkid/bots#readme,Bots
+https://discordbots.org/,Discord Bot List,https://github.com/hackerkid/bots#readme,Bots
+http://www.botgig.com/,Botgig,https://github.com/hackerkid/bots#readme,Bots
+https://t.me/botlist,Telegram Botlist,https://github.com/hackerkid/bots#readme,Bots
+http://chatbottest.com/,ChatbotTest,https://github.com/hackerkid/bots#readme,Bots
+https://developer.ibm.com/code/exchanges/bots/,IBM Bot Asset Exchange,https://github.com/hackerkid/bots#readme,Bots
+http://bottesting.co/,BotTesting,https://github.com/hackerkid/bots#readme,Bots
+http://www.vishnuks.com,Vishnu Ks,https://github.com/hackerkid/bots#readme,Bots
+https://developers.facebook.com/products/messenger/,Facebook messenger,https://github.com/hackerkid/bots#readme,Bots
+https://api.slack.com/bot-users,Slack,https://github.com/hackerkid/bots#readme,Bots
+https://blog.discordapp.com/the-robot-revolution-has-unofficially-begun/,Discord,https://github.com/hackerkid/bots#readme,Bots
+https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/,How To Build Bots for Messenger.,https://github.com/hackerkid/bots#readme,Bots
+https://zulip.com/integrations/,Zulip,https://github.com/hackerkid/bots#readme,Bots
+https://developer.atlassian.com/hipchat/getting-started,HipChat,https://github.com/hackerkid/bots#readme,Bots
+https://developer.microsoft.com/en-us/skype/bots,Skype,https://github.com/hackerkid/bots#readme,Bots
+https://developers.google.com/hangouts/chat/concepts/,Hangouts Chat,https://github.com/hackerkid/bots#readme,Bots
+https://wit.ai/,wit.ai,https://github.com/hackerkid/bots#readme,Bots
+https://textit.in/,Text It,https://github.com/hackerkid/bots#readme,Bots
+https://chatfuel.com/,Chatfuel,https://github.com/hackerkid/bots#readme,Bots

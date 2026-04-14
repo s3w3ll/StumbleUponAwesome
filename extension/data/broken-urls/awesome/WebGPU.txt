@@ -1,0 +1,15 @@
+https://www.w3.org/TR/webgpu/,,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.construct.net/en/blogs/ashleys-blog-2/brief-history-graphics-web-1517,A brief history of graphics on the web and WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.w3.org/,W3C,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://hello-webgpu-compute.glitch.me,WebGPU Compute 101 Demo,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 410: 'Gone'> | reason: Gone
+https://www.w3.org/standards/history/webgpu/,History,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://gpuharbor.ucsc.edu/webgpu-mem-testing/,WebGPU Memory Model Testing,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://www.w3.org/TR/WGSL/,Working Draft,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://arche.graphics/docs/intro,WebGPU Engine Development (Chinese/English),https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://crates.io/crates/wgpu-profiler,webgpu-profiler,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/,A Taste of WebGPU in Firefox,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.w3.org/community/gpu/,GPU for the web community group,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://lists.w3.org/Archives/Public/public-gpu/,Public GPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.babylonjs.com/Demos/WebGPU/forestWebGPU.html,Forest WebGPU,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.construct.net/en/blogs/ashleys-blog-2/webgl-webgpu-construct-1519,From WebGL to WebGPU in Construct,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://doc.babylonjs.com/setup/support/webGPU,Babylon.js,https://github.com/mikbry/awesome-webgpu#readme,WebGPU error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

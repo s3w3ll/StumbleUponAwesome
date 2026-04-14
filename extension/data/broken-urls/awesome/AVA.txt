@@ -1,1 +1,2 @@
-http://silvenon.com/testing-react-and-redux/,Testing a React & Redux Codebase,https://github.com/avajs/awesome-ava#readme,AVA error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://jsair.io/ava,JavaScript Air episode with the AVA team,https://github.com/avajs/awesome-ava#readme,AVA error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://silvenon.com/testing-react-and-redux/,Testing a React & Redux Codebase,https://github.com/avajs/awesome-ava#readme,AVA error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,5 @@
+http://xmlstar.sourceforge.net/,xmlstarlet,https://github.com/alebcay/awesome-shell#readme,Shell error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://unix-shell.zeef.com/caleb.xu,Unix-Shell.ZEEF.com,https://github.com/alebcay/awesome-shell#readme,Shell error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.gnu.org/software/parallel/,parallel,https://github.com/alebcay/awesome-shell#readme,Shell error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://modules.sourceforge.net/,modules,https://github.com/alebcay/awesome-shell#readme,Shell error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html,Bash Official Reference Manual,https://github.com/alebcay/awesome-shell#readme,Shell error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

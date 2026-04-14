@@ -1,2 +1,4 @@
-https://blog.hackster.io/search?q=adafruit_io,Adafruit IO on Hackster.io,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://forums.adafruit.com/viewforum.php?f=56,Adafruit IO Forums,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://blog.adafruit.com/tag/iot-monthly,Archives of all newsletters,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.instructables.com/howto/circuitpython,Adafruit IO on Instructables,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://blog.hackster.io/search?q=adafruit_io,Adafruit IO on Hackster.io,https://github.com/adafruit/awesome-adafruitio#readme,Adafruit IO error: TimeoutError('The read operation timed out') | reason: 

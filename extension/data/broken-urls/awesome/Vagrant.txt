@@ -1,2 +1,7 @@
+https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge,,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.drupal.org/project/vdd,VDD,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.vagrantup.com/docs/share/,Vagrant share,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://confluence.jetbrains.com/display/PhpStorm/Working+with+Advanced+Vagrant+features+in+PhpStorm,Working with Advanced Vagrant features in PhpStorm.,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved,Scotch Box,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share,Sharing Your Virtual Machine on the Web with Vagrant Share,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://classpert.com/vagrant,Vagrant Online Courses at Classpert,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://fgrehm.viewdocs.io/vagrant-cachier/,vagrant-cachier,https://github.com/iJackUA/awesome-vagrant#readme,Vagrant error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable

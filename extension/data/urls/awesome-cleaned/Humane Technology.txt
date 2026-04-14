@@ -1,0 +1,5 @@
+https://community.humanetech.com,,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology
+https://humanetech.community,,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology
+https://community.humanetech.com/t/3322,To Help Improve Wellbeing, Freedom and Society!,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology
+https://giveupgithub.org,See Software Freedom Conservancy's Give Up  GitHub site for details,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology
+https://codeberg.org/teaserbot-labs/delightful-humane-design,https://codeberg.org/teaserbot-labs/delightful-humane-design,https://github.com/humanetech-community/awesome-humane-tech#readme,Humane Technology

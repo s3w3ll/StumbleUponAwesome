@@ -1,0 +1,41 @@
+https://buf.build/cosmos,Protobuf,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://tutorials.cosmos.network,Cosmos Developer Portal,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://ida.interchain.io/,Interchain Developer Academy,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://docs.cosmos.network/,Cosmos SDK,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://ibc.cosmos.com/,IBC,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://docs.cometbft.com/,CometBFT,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://hub.cosmos.network/,Cosmos Hub,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://docs.cosmwasm.com/docs/1.0/,CosmWasm,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://cosmology.tech/learn,Cosmology,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://atomscan.com,ATOMScan,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://bigdipper.live,Big Dipper,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://ibc.iobscan.io/,IOBScan,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://www.mintscan.io,Mintscan,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet,Mintscan for Cosmos Hub Testnet,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://explorers.guru/,NG Explorers,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://ping.pub,Ping.pub,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://stake.id,Stake ID,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://mapofzones.com/?period=24,Map of Zones,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://hub.mintscan.io,Mintscan,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://cosmos.directory,Cosmos directory,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://www.mintscan.io/cosmos/validators,List on Mintscan,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://atomscan.com/validators,List on ATOMScan,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://cosmos.bigdipper.live/validators,List on BigDipper,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://pod.kujira.app/cosmoshub-4,List on Kujira POD,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://docs.cosmos.network/main/modules/,List of Modules,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://cosmod.xyz,Cosmod.xyz,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://t.me/NodesGuru_bot,Nodes Checker,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://ibcprotocol.dev/,IBCprotocol.dev,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://nixos.org/,Nix,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://restake.app,REStake,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://cosmos-notifier.decrypto.online,Cosmos Notifier,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://go.skip.build,Skip:Go,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://cosmos.network/ecosystem/wallets,https://cosmos.network/ecosystem/wallets,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://cosmos.network/intro/,What is Cosmos?,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://blog.cosmos.network/,Cosmos Blog,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://interchain-io.medium.com,Interchain Foundation Blog,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://zerofruit.medium.com/cosmos-dev-series-cosmos-sdk-based-blockchain-upgrade-b5e99181554c,Cosmos Dev Series: Cosmos Blockchain Upgrade,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://cyber.orijtech.com/scsec/cosmos-hardening,Hardening guides,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://dev.to/kikiding/how-to-connect-your-frontend-to-cosmos-blockchain-5fcn,How to connect your frontend to Cosmos blockchain,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://cyber.orijtech.com/scsec/cosmos-go-coding-guide,Go coding guide,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK
+https://www.faulttolerant.xyz/2024-01-16-cosmos-security-1,The Cosmos Security Handbook - Part 1,https://github.com/cosmos/awesome-cosmos#readme,Cosmos SDK

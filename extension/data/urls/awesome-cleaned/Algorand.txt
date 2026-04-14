@@ -1,0 +1,86 @@
+https://algovanity.com/,algovanity,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algomint.io/,Algomint,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://lora.algokit.io/mainnet,algokit-lora,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://irulan.dev/,irulan,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algorewards.github.io/,algorewards,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.youtube.com/watch?v=KNJGPI0fuFA&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA,Foundations of Blockchains,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://messina.one/,Messina,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://metrics.algorand.org/,Algorand MainNet metrics,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://folks.finance/,Folks.finance,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://dev.algorand.co/algokit/algokit-intro/,AlgoKit Docs,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/,Lending pool using Reach,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.algorand.co/,Algorand,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://stoi.org/,STOI,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/,Creating a License Manager Contract,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.gora.io/,Gora,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://perawallet.app/,Pera Wallet,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet/,Stateless session management with the Pera wallet,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.youtube.com/playlist?list=PLwRyHoehE435ttTjvFZA-DyqHYIYc26K_,Zero to Hero PyTeal,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://arc.algorand.foundation,here,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algotables.github.io/,AlgoTables,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://metrics.allo.info/,Allo Metrics,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/,AlgoMinter,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/,Getting Started with Django, Python, and Algorand,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/,MultiSig with Algorand for Co-operative Groups,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://cometa.farm/,Cometa.farm,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://akaalias.github.io/algorand-ballet/,Algorand Ballet,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://stake.tax,stake.tax,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/,Adding Notes to Transactions,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://awesomealgo.com,,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf,Algorand, efficient self-sustaining Blockchain,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.certik.com/ecosystems/algorand,Certik,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algoamm.com,algoAMM.com,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://developer.algorand.org/solutions/using-stateful-smart-contract-to-create-algorand-standard-asset/,Create Assets with a Stateful Smart Contract,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://developer.algorand.org/solutions/artificial-intelligence-on-algorand/,Artificial Intelligence on Algorand,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://goplausible.com,GoPlausible,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://pub.dev/packages/algorand_dart,dart-algorand-sdk,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.youtube.com/watch?v=e8s8Ui8vDaY,Algorand Efficiency,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algo3d.live/,Algorand Multiverse,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://thisdid.com,ThisDID,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://docs.reach.sh,reach,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.ulam.io/software-services/smart-contract-audits,UlamLabs,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algo.surf/,AlgoSurf,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.youtube.com/watch?v=fTAPLiPcj28,Introduction to AVM and Applications,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.aramid.finance/,aramid.finance,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://tealish.tinyman.org,tealish,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.youtube.com/watch?v=zXDqJHK_Bqs,Introduction to PyTeal,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://rss.com/podcasts/the-awesomealgo-podcast,,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://stabilitas.finance/,stabilitas.finance,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://coinmarketcap.com/currencies/algorand/,,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algorandtechnologies.com/,Algorand,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.youtube.com/watch?v=USLcyfVD_ws,PyTeal ABI Smart Contracts,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.asastats.com/,ASA Stats,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algorand.foundation/,Algorand Foundation,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://runtimeverification.com/smartcontract,Runtime Verification,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://vestige.fi/,vestige.fi,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.youtube.com/watch?v=031VvOxvuxY,Beaker,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://hub.docker.com/r/algorand/algod,Official Algod Container,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://nf.domains/,NFDomains,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.randgallery.com/,Rand Gallery,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://nodely.io,Nodely,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.immunebytes.com,Immunebytes,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algogems.io/,AlgoGems,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algodea-docs.bloxbean.com/,algoDEA,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://algorand.foundation/faq,Algorand FAQ,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://governance.algorand.foundation/,Algorand Governance,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://dev.algorand.co/,Algorand Developer Portal,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://kudelskisecurity.com,KudelskiSecurity,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://discord.com/invite/YgPTCVk,Algorand Discord,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.flatternft.com/,Flatter,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.alphaarcade.com/,Alpha Arcade,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://blockshake.io,blockshake-io,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://subtopia.io/,Subtopia,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.vantagepoint.sg/contact-us,Vantage Point Blockchain,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://subquery.network,SubQuery,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://hub.docker.com/r/algorand/conduit,Official Conduit Container,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://academy.subquery.network/quickstart/quickstart_chains/algorand.html,getting started guide,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://methodwallet.app/,Method Wallet,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://defly.app/,Defly Wallet,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.exodus.com/,Exodus,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://a-wallet.net/,A-Wallet,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.txnlab.dev/,txnlab,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://allo.info,Allo,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://explorer.perawallet.app/,Pera Explorer,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://tinyman.org/,Tinyman,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.pact.fi/,Pact,https://github.com/aorumbayev/awesome-algorand#readme,Algorand
+https://www.lofty.ai/,Lofty.ai,https://github.com/aorumbayev/awesome-algorand#readme,Algorand

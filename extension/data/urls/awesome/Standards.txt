@@ -1,0 +1,112 @@
+https://www.ietf.org/standards/rfcs/,IETF RFCs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.rfc-editor.org/rfc/bcp/bcp-index.txt,BCPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.ecma-international.org/publications-and-standards/standards/,ECMA International Standards,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.w3.org/TR/,W3C,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.w3.org/WAI/,W3C WAI,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://whatwg.org/,WHATWG,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.unicode.org/reports/,Unicode Standards,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.oasis-open.org/standards/,OASIS Open,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://openid.net/developers/specs/,OpenID Specifications,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://spec.graphql.org/,GraphQL Spec,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://protobuf.dev/reference/protobuf/,Protobuf Spec,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://xmlrpc.com/spec.md,XML-RPC,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.jsonrpc.org/specification,JSON-RPC,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://avro.apache.org/docs/++version++/specification/,Apache Avro,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://spec.open-rpc.org/,OpenRPC Spec,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://spec.openapis.org/,OpenAPI Spec,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://apiblueprint.org/documentation/specification.html,API Blueprint Spec,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://json-schema.org/specification,JSON Schema,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.asyncapi.com/docs/reference/specification/latest,AsyncAPI Spec,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-11,HATEOAS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://stateless.group/hal_specification.html,HAL,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://jsonapi.org/,JSON:API,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://json-ld.org/,JSON-LD,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://ionspec.org/,Ion,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.hydra-cg.com/spec/,Hydra,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.odata.org/documentation/,Odata,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://cloud.google.com/apis/design,Google API Design Guide,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://opensource.zalando.com/restful-api-guidelines/,Zalando RESTful Guidelines,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://apistylebook.com/,API Stylebook,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://peps.python.org/,PEPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.php-fig.org/,PHP FIG,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://rust-lang.github.io/rfcs/,Rust RFCs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.swift.org/swift-evolution/,Swift Evolution,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://docs.scala-lang.org/sips/,SIPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.erlang.org/eep,EEPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://jcp.org/en/jsr/all,JSR,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://docs.oracle.com/javase/specs/,Java SE Specs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://go.dev/ref/spec,GoLang Spec,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.open-std.org/jtc1/sc22/wg14/www/projects,C Standards,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.open-std.org/jtc1/sc22/wg21/,C++ Standards,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://srfi.schemers.org/,SRFI,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://standards.scheme.org/,Scheme Standards,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://cdr.common-lisp.dev/,CDR,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://groovy.apache.org/wiki/geps.html,GEPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://rfcs.emberjs.com/,Ember RFCs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://scikit-learn-enhancement-proposals.readthedocs.io/en/latest/,SLEPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://jupyter.org/enhancement-proposals,JEPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.ros.org/reps/rep-0000.html,REPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.kubernetes.dev/resources/keps/,KEPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://godot-proposals-viewer.github.io/,GIPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.conventionalcommits.org/,Conventional Commits,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://xit.jotaen.net/,[x]it!,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://spdx.github.io/spdx-spec/,SPDX Spec,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://semver.org/,SemVer Spec,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://calver.org/,CalVer Spec,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://eips.ethereum.org/,EIPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://zips.z.cash/,ZIPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://yips.yearn.fi/,YIPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://specs.optimism.io/,Optimism Specs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://sips.synthetix.io/,SIPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://docs.fuel.network/docs/specs/,Fuel Specs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://spec.filecoin.io/,Filecoin Specs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://governance.aptosfoundation.org/,AIPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://specs.ipfs.tech/,IPIP,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://spec.torproject.org/,Tor Specs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://geti2p.net/spec,I2P Specs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.nist.gov/documentary-standards,NIST,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.nist.gov/itl/publications-0/federal-information-processing-standards-fips,FIPS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://arxiv.org/pdf/1207.5446v1.pdf,PKCS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://fidoalliance.org/specifications/,FIDO Specifications,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://pubs.opengroup.org/onlinepubs/9799919799/,POSIX Standards,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list,Windows API (WinAPI),https://github.com/donBarbos/awesome-standards#readme,Standards
+https://refspecs.linuxfoundation.org/lsb.shtml,LSB,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://unix.org/what_is_unix/single_unix_specification.html,SUS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://bitsavers.computerhistory.org/pdf/xOpen/X_Open_Portability_Guide_1985/,X/Open Portability Guide (XPG),https://github.com/donBarbos/awesome-standards#readme,Standards
+https://uefi.org/specifications,UEFI Specifications,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://refspecs.linuxfoundation.org/fhs.shtml,FHS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://gitlab.com/cryptsetup/cryptsetup/-/wikis/Specification,LUKS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.dmtf.org/standards/ovf,OVF (Open Virtualization Format),https://github.com/donBarbos/awesome-standards#readme,Standards
+https://public.dhe.ibm.com/software/dw/linux390/perf/ZSW03346USEN.pdf,KVM (Kernel-based Virtual Machine),https://github.com/donBarbos/awesome-standards#readme,Standards
+https://opencontainers.org/release-notices/overview/,OCI (Open Container Initiative),https://github.com/donBarbos/awesome-standards#readme,Standards
+https://dbus.freedesktop.org/doc/dbus-specification.html,D-Bus,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://standards.ieee.org/standard/,IEEE,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.pcisecuritystandards.org/,PCI Standards,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.hdmi.org/spec/index,HDMI Specifications,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.bluetooth.com/specifications/specs/core-specification-6-0/,Bluetooth Core Specifications,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=95652201,CEPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://spark.apache.org/improvement-proposals.html,SPIPs,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.itu.int/en/ITU-T/Pages/default.aspx,ITU-T,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.etsi.org/standards,ETSI,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.iso.org/standards.html,ISO,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.iec.ch/publications/international-standards,IEC,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.ansi.org/,ANSI,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.bsigroup.com/,BS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.cencenelec.eu/,CEN,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.din.de/,DIN,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.afnor.org/,AFNOR,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.nsai.ie/,NSAI,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.csagroup.org/,CSA Group,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.sii.org.il/eng/,SII,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.gob.mx/se/acciones-y-programas/standards,NOM,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://abnt.org.br/,ABNT,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.singaporestandardseshop.sg/,SS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.jisc.go.jp/eng/,JIS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.kats.go.kr/en/,KATS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.cnsonline.com.tw/,CNS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.gbstandards.org/,GB,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.gost.ru,GOST,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://tcvn.gov.vn/?lang=en,TCVN,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.bis.gov.in/,BIS,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.psqca.com.pk/,PSQCA,https://github.com/donBarbos/awesome-standards#readme,Standards
+https://www.tisi.go.th/home/en,TIS,https://github.com/donBarbos/awesome-standards#readme,Standards

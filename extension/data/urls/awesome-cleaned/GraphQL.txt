@@ -1,0 +1,27 @@
+https://x.com/search?q=%23GraphQL,X,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://stackoverflow.com/questions/tagged/graphql,StackOverflow,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.reddit.com/r/graphql/,/r/GraphQL,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/GraphQL-London/,London,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://relay.dev/docs/guides/graphql-server-specification/,GraphQL Relay,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/GraphQL-Melbourne/,Melbourne,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/GraphQL-Munich/,Munich,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.apollographql.com/docs/federation/federation-spec/,Apollo Federation,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/GraphQL-NYC/,New York City,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://gabotechs.github.io/graphqxl/,GraphQXL,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.graphql-scalars.com/,GraphQL Scalars,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/GraphQL-SF/,San Francisco,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/Seattle-GraphQL/,Seattle,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://graphql.org/foundation/,GraphQL Foundation,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/GraphQL-Sydney/,Sydney,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://discord.graphql.org/,Discord - GraphQL,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/GraphQL-TLV/,Tel Aviv,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.graphqlweekly.com/,GraphQL Weekly,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://community.apollographql.com/,Apollo GraphQL Community,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+http://join.reactiflux.com/,Discord - Reactiflux,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.facebook.com/groups/795330550572866/,Facebook,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/Amsterdam-GraphQL-Meetup/,Amsterdam,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/graphql-bangalore/,Bangalore,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/es-ES/GraphQL-BA/,Buenos Aires,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/Copenhagen-GraphQL-Meetup-Group/,Copenhagen,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/DFW-GraphQL-Meetup/,Dallas-Fort Worth,https://github.com/chentsulin/awesome-graphql#readme,GraphQL
+https://www.meetup.com/GraphQL-Hamburg/,Hamburg,https://github.com/chentsulin/awesome-graphql#readme,GraphQL

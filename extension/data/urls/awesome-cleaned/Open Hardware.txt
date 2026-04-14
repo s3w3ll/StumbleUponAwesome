@@ -1,0 +1,53 @@
+https://www.arduino.cc/,Arduino,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.youtube.com/watch?v=t56bojFAnUg,Revolution of the open hardware,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.prusa3d.com/,Prusa3D,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://podcasts.google.com/feed/aHR0cHM6Ly90aGVhbXBob3VyLmxpYnN5bi5jb20vcnNz/episode/aHR0cDovL3d3dy50aGVhbXBob3VyLmNvbS8_cD0xNTg?sa=X&ved=0CAIQuIEEahcKEwjgkZnWjPr0AhUAAAAAHQAAAAAQCA,Amp hour,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://hackaday.io/,Hackaday.io,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.preciousplastic.com/,Precious Plastic,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://doi.org/10.1016/j.techfore.2020.119986,Towards national policy for open source hardware research: The case of Finland,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.hackster.io/about,Hackster.io,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://mutable-instruments.net/,Mutable Instruments,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.youtube.com/watch?v=UYRhupdnUcY,Why do open hardware,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.youtube.com/watch?v=ifTaGRTPwLc,Get your open hardware manufactured,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+http://dx.doi.org/10.1109/ACCESS.2018.2881929,Open-Source Hardware in Education: A Systematic Mapping Study,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://openflexure.org/,OpenFlexure,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.opensourceecology.org/,Open Source Ecology,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.openhardware.io/about,Openhardware.io,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://semiwiki.com/podcast/podcast-ep44-open-hardware-diversity-alliance/,Semiconductor Insiders,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.youtube.com/watch?v=c1pwbnDAub0,Open Hardware Projects to Fight COVID-19,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+http://biohackacademy.github.io/,Biohack Academy,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://safecast.org/,SafeCast,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://podcasts.google.com/feed/aHR0cHM6Ly9wcm9ncmFtbWluZ2VsZWN0cm9uaWNzLmNvbS9jYXRlZ29yeS9yYWRpby1zaG93L2ZlZWQv,Open source hardware podcast,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.youtube.com/watch?v=Od_9yJqc098,Designing Open Hardware for 21st century science,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.wikihouse.cc/,WikiHouse,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://openhardware.science/,Openhardware.science,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://doi.org/10.1371/journal.pbio.3000014,Haves and have nots must find a better way: The case for open scientific hardware,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.youtube.com/watch?v=7ifGu22bhd4,Why open source hardware is(n't) working,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://reprap.org/wiki/RepRap,RepRap,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware,The bridge,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+http://www.gaudi.ch/GaudiLabs/?page_id=19,GaudiLab,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.youtube.com/watch?v=_EZT57dtWHM,Open source and the future of hardware,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://winterbloom.com,Winterbloom,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://openbci.com/,OpenBCI,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://openhardware.space,Open Hardware Makers,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://openlifesci.org/,Openlifescience,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.youtube.com/watch?v=HBS8sS138GE,On behalf of mankind: thank you for sharing!,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://openspim.org/,OpenSPIM,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://doi.org/10.1371/journal.pbio.1002086,Open Labware: 3-D Printing Your Own Lab Equipment,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://openhardware.academy/,Open Hardware Academy,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://docs.opulo.io/,Opulo,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://opensource.guide/,Open Source Guide,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://farm.bot/pages/open-source,FarmBot,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://kitspace.org,Kitspace.org,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+http://mesospim.org/,mesoSPIM,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://doi.org/10.5334/joh.7,What is the “Source” of Open Source Hardware?,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://open.spotify.com/episode/4pjaUpl96YhjqBvjzV0K1H?si=ssJJH7ouSOW_ttGvF2Mtdg,Physics Worlds,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://open.spotify.com/episode/1yGuG9TKvS2lkH7wgRO8YF?si=PwAZCT0qSxW87HQlCa7AeA,Command Line Heroes,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://pikvm.org/,PiKVM,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://openhardware.metajnl.com/,The Journal of Open Hardware,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://fosdem.org/2022/,Fosdem,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://certification.oshwa.org/,OSHWA Certification,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://2022.oshwa.org/,Open Hardware Summit,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://en.oho.wiki/wiki/Home,Open Hardware Observatory,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.mekanika.io/,Mekanika,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware
+https://www.youtube.com/watch?v=Rfu_MKgu2Ik,How Open Hardware will Take Over the World,https://github.com/delftopenhardware/awesome-open-hardware#readme,Open Hardware

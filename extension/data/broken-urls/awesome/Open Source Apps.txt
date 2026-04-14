@@ -1,2 +1,0 @@
-https://git.blender.org/blender.git,Blender,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.artstation.com/community/channels,artwork.rss,https://github.com/serhii-londar/open-source-mac-os-apps#readme,Open Source Apps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

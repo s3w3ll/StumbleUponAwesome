@@ -1,1 +1,2 @@
-https://www.lexaloffle.com/bbs/?tid=31000,Custom template,https://github.com/pico-8/awesome-PICO-8#readme,PICO-8 error: timeout('The read operation timed out') | reason: 
+https://medium.com/swlh/creativity-through-limitation-pico-8-fantasy-console-175294e13332,Article with demoscene effects code,https://github.com/pico-8/awesome-PICO-8#readme,PICO-8 error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.romanzolotarev.com/pico-8-color-palette/,Color Palette,https://github.com/pico-8/awesome-PICO-8#readme,PICO-8 error: <HTTPError 404: 'Not Found'> | reason: Not Found

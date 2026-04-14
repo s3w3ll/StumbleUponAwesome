@@ -1,0 +1,3 @@
+https://dzone.com/articles/an-in-depth-look-at-git-hooks,An In-Depth Look at Git Hooks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks error: <HTTPError 410: 'Gone'> | reason: Gone
+https://www.javascriptjanuary.com/blog/git-hooked,Git Hooked,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks error: <HTTPError 520: '<none>'> | reason: <none>
+https://medium.com/@Sergeon/using-javascript-in-your-git-hooks-f0ce09477334,Using JavaScript in Your Git Hooks,https://github.com/compscilauren/awesome-git-hooks#readme,Git Hooks error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

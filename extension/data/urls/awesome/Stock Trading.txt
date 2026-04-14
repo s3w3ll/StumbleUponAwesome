@@ -1,0 +1,131 @@
+https://alphaspread.com,Alpha Spread,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.barchart.com,Barchart,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.capitoltrades.com,Capitol Trade,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://chartmill.com,Chartmill,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://danelfin.com,Danelfin,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://finbox.io/,Finbox,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.marketbeat.com,Market Beat,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.marketscreener.com,Market Screener,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.morningstar.com,Morningstar,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://seekingalpha.com,Seeking Alpha,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://simplywall.st/,Simply Wall St,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://strike.market,Strike.Market,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.tipranks.com,Tip Ranks,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.wallstreetzen.com,Wall Street Zen,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://wallmine.com,Wallmine,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.zacks.com,Zacks,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.companiesmarketcap.com,Companies Market Cap,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://edition.cnn.com/markets/fear-and-greed,Fear & Greed Index,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.tradingterminal.com,Trading Terminal,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://tradytics.com,Tradytics,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.cnbc.com/stock-screener/,Cnbc Stock Screener,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://finviz.com,Finviz,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.marketbeat.com/stock-screener/,Market Beat Stock Screener,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://simplywall.st/features/stock-screener,Simply Wall St Stock Screener,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.tipranks.com/screener,Tip Ranks Stock Screener,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://scanner.tradingterminal.com,Trading Terminal Scanner,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://wallmine.com/screener,Wallmine Free Stock Screener,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.wallstreetzen.com/stock-screener,Wallstreet Zen Stock Screener,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.zacks.com/stock-screener,Zacks Stock Screener,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.tradingview.com,TradingView,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://stockcharts.com,StockCharts,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.barrons.com,Barron's,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.benzinga.com,Benzinga,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.bloomberg.com,Bloomberg,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.investing.com,Investing,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.marketwatch.com,MarketWatch,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.fool.com,The Motley Fool,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.wsj.com,The Wall Street Journal,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.thestreet.com,The Street,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://finance.yahoo.com,Yahoo Finance,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/,J.P. Morgan - Market Updates,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.msci.com/research-and-insights/market-insights,MSCI - Market Insights,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://portfoliovisualizer.com,Portfolio Visualizer,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.wealthica.com,Wealthica,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.screeningtale.com,Screening Tale,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.quantconnect.com,QuantConnect,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://seekingalpha.com/alpha-picks/,Alpha Picks,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://pro.benzinga.com,Benzinga Pro,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.investopedia.com/best-stocks-to-buy-now/,Best Stocks to Buy Now,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.earningsbeats.com,EarningsBeats,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://seekingalpha.com/groups,Investing Groups by Seeking Alpha,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.fool.com/services/,The Motley Fool Stock Advisor,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://marketsmith.investors.com/growth250/,Growth 250,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://stocktwits.com/rankings/trending,StockTwits Top 10,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.alphavantage.co/,Alpha Vantage,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://eodhistoricaldata.com,Eodhistoricaldata,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://site.financialmodelingprep.com/,Financial Modeling Prep,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://marketstack.com,MarketStack,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://developer.morningstar.com,Morningstar,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://data.nasdaq.com,Nasdaq Data Link,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://massive.com/,Massive,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api,Refinitiv Eikon Data,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.investopedia.com,Investopedia,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.stockscreening101.com,StockScreening101,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.wallstreetmojo.com,Wallstreetmojo,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders,Berkshire Hathaway Letters to Shareholders,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0,Common Stocks and Uncommon Profits,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/21841022-damodaran-on-valuation,Damodaran on Valuation: Security Analysis for Investment and Corporate Finance,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/746936.Margin_of_Safety,Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://en.wikipedia.org/wiki/Security_Analysis_(book),Security Analysis,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance,The Alchemy of Finance,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/500514.The_Dhandho_Investor,The Dhandho Investor: The Low-Risk Value Method to High Returns,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://en.wikipedia.org/wiki/The_Intelligent_Investor,The Intelligent Investor,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing,The Little Book of Value Investing,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/41211699-the-most-important-thing,The Most Important Thing,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/21949163-the-thoughtful-investor,The Thoughtful Investor,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/209956.The_Warren_Buffett_Way,The Warren Buffett Way,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/293636.Value_Investing,Value Investing: From Graham to Buffett and Beyond,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/537529.Active_Portfolio_Management,Active Portfolio Management,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/2825008-portfolio-selection,Portfolio Selection: Efficient Diversification of Investments,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/264468.Quantitative_Equity_Portfolio_Management,Quantitative Equity Portfolio Management,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/891835.Beating_the_Street,Beating the Street,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/34889127-charlie-munger,Charlie Munger: The Complete Investor,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/966769.Market_Wizards,Market Wizards: Interviews with Top Traders,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street,One Up On Wall Street,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/965633.Stocks_for_the_Long_Run_,Stocks for the Long Run,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_,The Battle for Investment Survival,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/33026972-the-complete-turtle-trader,The Complete Turtle Trader,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/128947547-the-craft-of-investing-by-john-train,The Craft of Investing,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/16235023-the-little-book-of-trading,The Little Book of Trading,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/8247775-the-little-book-that-still-beats-the-market,The Little Book that Still Beats the Market,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/27224350-new-market-wizards,The New Market Wizards,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion,Think & Trade Like a Champion,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/12664470-investing-with-volume-analysis,Investing with Volume Analysis,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks,Learn to Trade Momentum Stocks,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/25819574-stocks-on-the-move,Stocks on the Move,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/20428445-trading-the-trends,Trading the Trends,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/34855405-trend-following,Trend Following,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/18969247-trend-qualification-and-trading,Trend Qualification and Trading,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/19569996-trend-trading-set-ups,Trend Trading Set-Ups,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/29460388-price-action-breakdown,Price Action Breakdown,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/55854507-price-action-trading-secrets,Price Action Trading Secrets,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/19138622-pring-on-price-patterns,Pring on Price Patterns,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/38296614-stock-trading-investing-using-volume-price-analysis,Stock Trading & Investing Using Volume Price Analysis,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/19169498-trading-price-action-trends,Trading Price Action Trends,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/100132.Irrational_Exuberance,Irrational Exuberance,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing,The Little Book of Behavioral Investing: How not to be your own worst enemy,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds,The Wisdom of Crowds,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/128429.Against_the_Gods,Against the Gods,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://en.wikipedia.org/wiki/Fooled_by_Randomness,Fooled by Randomness,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/20914691-the-5-mistakes-every-investor-makes-and-how-to-avoid-them,The 5 Mistakes Every Investor Makes and How to Avoid Them,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable,The Black Swan,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.goodreads.com/book/show/1308591.Dot_con,Dot.con: How America Lost Its Mind and Money in the Internet Era,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.asx.com.au,Australian Securities Exchange (ASX),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.b3.com.br,B3 (Brasil, Bolsa, Balcão),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.bseindia.com,Bombay Stock Exchange (BSE),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.boerse-frankfurt.de,Frankfurter Wertpapierbörse (Börse Frankfurt),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.xetra.com,Xetra,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.hkex.com.hk,Hong Kong Stock Exchange (HKEX),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://global.krx.co.kr,Korea Exchange (KRX),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.londonstockexchange.com,London Stock Exchange (LSE),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.nasdaq.com,NASDAQ,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.nseindia.com,National Stock Exchange of India (NSE),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.nyse.com,New York Stock Exchange (NYSE),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.sse.com.cn,Shanghai Stock Exchange (SSE),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.szse.cn,Shenzhen Stock Exchange (SZSE),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.sgx.com,Singapore Exchange (SGX),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.six-group.com,SIX Swiss Exchange,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.jpx.co.jp/english,Tokyo Stock Exchange (TSE),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.tsx.com,Toronto Stock Exchange (TSX),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading
+https://www.euronext.com,Euronext,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading

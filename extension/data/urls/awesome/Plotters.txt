@@ -1,112 +1,233 @@
-https://www.youtube.com/watch?v=6_pwzqPk6Gg,Roland Pen Plotters,https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf,Plotter Cable Pinout,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://d3js.org,D3,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929,Pen Plotter Programming: The Basics,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://trmm.net/Hidden_Wireframe,Hidden wireframe removal,https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://jscut.org/,jscut,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://observablehq.com/collection/@makio135/plotter,makio135/plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://shop.evilmadscientist.com/productsmenu/846,AxiDraw,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.thingiverse.com/thing:229982,Sharpie Fine Point Plotter Adapter,https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://chilipeppr.com,ChiliPeppr Hardware Fiddle,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://inconvergent.net/generative,On Generative Algorithms,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/Plotter_CBM8075_198x_Commodore_DE,Commodore Computer Plotter CBM 8075 Brochure (German),https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://www.polargraph.co.uk,Polargraph,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter,How to Draw Generative Art with an Axidraw Pen Plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/panasonic-rk-p-400-c-manual/,Panasonic RK-P400C 4-Color Graphic Penwriter Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://observablehq.com/,Observable,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/7570adraftproplotterhardwaresupportmanual0757090000201pagesdec86,HP 7570A DraftPro Plotter Hardware Support Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.michaelfogleman.com/plotter,Michael Fogleman,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.evilmadscientist.com,Evil Mad Scientist,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://p5js.org,p5.js,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.thingiverse.com/thing:227985,Plotter Pen STL Models,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://mitxela.com/plotterfun/,PlotterFun,https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://buy.inconvergent.net,inconvergent,https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml,Summary of single line fonts,https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://www.makelangelo.com,Makelangelo,https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://paperjs.org,Paper.js,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/bitsavers_hpplotter0_18190273,HP 7585B Drafting Plotter Service Manual (1983),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/TNM_Strope_Model_100_graphics_plotter_-_Strobe_In_20180506_0009,Strobe Model 100 Graphics Plotter Brochure (1980),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/TNM_Time_Share_Peripherals_-_TSP-212_plotting_sys_20170630_0194,Time Share Peripherals TSP-212 Brochure,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://all3dp.com/2/pen-plotters-best-xy-plotters/,The Best XY Plotters in 2020,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://hackaday.io/project/12276-roland-dg-dxy-990,Roland DG DXY-990,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.literalstreetart.com,Customized Streetart,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://wiki.evilmadscientist.com/Pens_for_AxiDraw,Pens for AxiDraw,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.line-us.com,Line-us,https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://paulbourke.net/dataformats/hershey,Hershey Vector Font,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://brachiograph.readthedocs.io/en/latest/,BrachioGraph,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://dutchplottr.nl/en/,Arjan van der Meij,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://sighack.com/post/cohen-sutherland-line-clipping-algorithm,The Cohen-Sutherland Line Clipping Algorithm,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/draftproplotterusersguide0757090017163pagesmay86,HP DraftPro Plotter User's Guide (1986),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://shop.visualcinnamon.com/collections/pen-plotter-prints,Nadieh Bremer,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up,Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://wiki.evilmadscientist.com/Pen_choices,Pens for EggBot,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.evilmadscientist.com/2012/stipplegen2,blog post,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.diymachines.co.uk/arduino-cnc-drawing-machine,Arduino CNC Drawing Machine,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/Hewlett-Packard_Journal_Vol._29_No._1_1977-09_Hewlett-Packard,Hewlett-Packard Journal Volume 29 Number 1,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.reddit.com/r/PlotterArt,PlotterArt Subreddit,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.saatchiart.com/account/artworks/155196,Monica Rizzolli,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://svgurt.com,svgurt,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.onelinefonts.com,OneLineFonts.com,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.dirtalleydesign.com/,Michelle Chandra,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/AppleColorPlotter,Apple Color Plotter User's Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.arduino.cc,Arduino,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.thingiverse.com/thing:2349232,Drawing Robot,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://emergentdesign.bigcartel.com/products,EmergentDesign,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.reddit.com/r/axidraw,AxiDraw Subreddit,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340,JetPens â€“ The Best White Ink Pens,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/draftproprogrammersreference0757090001387pagessep86,HP DraftPro Plotter Programmers Reference (1986),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://gitlab.com/oskay/svg-fonts,svg-fonts,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.reddit.com/r/generative,Generative Art Subreddit,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.jessicain.net/shop-originals,Jessica In,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.adafruit.com/product/1750,adafruit,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://gitlab.com/mononym/chiplotle-on-parallel-port,Chiplotle on Parallel Port,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma,Vera MolnÃ¡r,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://plotterpeople.github.io/,Plotter People,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._11_1981-11_Hewlett-Packard,Hewlett-Packard Journal Volume 32 Number 11,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://gitlab.com/oskay/hershey-text,Hershey Text,https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://juerglehni.com/works/hektor,Hektor,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://svg-exporter.netlify.com,Let's make map,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://store.pedroalcocer.com/,Pedro Alcocer,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://msurguy.github.io/cnc-text-tool/,CNC Text Tool,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/bitsavers_calcompProlottersJun68_2464236,Programming CalComp Pen Plotters (1968),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://discordapp.com/invite/XHP3dBg,DrawingBots Discord Forum,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.adafruit.com/product/1749,adafruit,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/Plotter_Printer_19xx_Radio_Shack,Radio Shack TRS-80 Plotter Printer Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=J1NpYzETm3M,What is a pen plotter 2022?,https://github.com/beardicus/awesome-plotters#readme,Plotters
 https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba,An Intro to Pen Plotters,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://jasonwebb.github.io/SuperformulaSVG-for-web,SuperformulaSVG for web,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/TNM_CalComp_-_Precision_graphics_system_900-728_20170630_0196,CalComp Precision Graphics System 900/728 Brochure (1970),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://turtletoy.net,Turtletoy,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://shop.andymakes.com/,AndyMakes,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/1520PrinterPlotterUsersManualStyleA,Commodore 1520 Printer Plotter Manual (1983),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/RolandDXY880PlotterOperationManual,Roland DXY-880 Operation Manual (1984),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://schwittlick.bigcartel.com/,Marcel Schwittlick,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://wiki.protoneer.co.nz/Raspberry_Pi_CNC,Raspberry Pi CNC Hat,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://blog.protoneer.co.nz/arduino-cnc-shield,Arduino CNC Shield,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://mkt.com/bustbright,BustBright,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/TNM_Digital_Plotting_Newsletter_march-april_1967__20171014_0114,Digital Plotting Newsletter (1967),https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://biosrhythm.com/?page_id=1453,WiFi232,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.isoplotec.co.jp/HPGL/eHPGL.htm,HPGL Reference Guide,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/1520PrinterPlotterusersManualStyleB,Commodore 1520 Printer Plotter Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://bitaesthetics.com/posts/surface-projection.html,Surface Projection,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/dpx-3300-service-manual,Roland DPX-3300 Service Notes (1987) (GitHub),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://mrmrs.cc/writing/pen-plotting-intro/,An Introduction to Pen Plotting,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929,Pen Plotter Programming: The Basics,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://mattdesl.svbtle.com/pen-plotter-1,Pen Plotter Art & Algorithms,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter,How to Draw Generative Art with an Axidraw Pen Plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://shop.evilmadscientist.com/productsmenu/846,AxiDraw,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://bantamtools.com/collections/bantam-tools-nextdraw,NextDraw,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://bantamtools.com/collections/artframe,ArtFrame,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.line-us.com,Line-us,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.thingiverse.com/thing:2349232,Drawing Robot,https://github.com/beardicus/awesome-plotters#readme,Plotters
 https://www.instructables.com/id/4xiDraw/,4xiDraw,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/TNM_Versatec_printers_and_plotters_-_Versatec_a_X_20180227_0009,Versatec Printers and Plotters Brochure (1977),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://boucheron.org/brian,Brian Boucheron,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/HP7475AInterfacingandProgrammingManual,HP 7475A Interfacing and Programming Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.chromatocosmos.com/,Geoffrey Bradway,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html,Fractal Generation with L-Systems,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/dpx-3300-schematics,Roland DPX-3300 Schematics (1987),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/bitsavers_cdc160139c_4086972,Control Data 165/165-2 Plotter Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
 https://watercolorbot.com,WaterColorBot,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://www.gnu.org/software/hp2xx,hp2xx,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/TNM_Printer-plotters_plotters_and_output_systems__20171113_0057,Versatec Printer/Plotters, Plotters and Output Systems (1981),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://wiki.evilmadscientist.com/TSP_art,Introduction to TSP art,https://github.com/beardicus/awesome-plotters#readme,Plotters
 https://egg-bot.com,EggBot,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/HP7475AOperationManual,HP 7475A Graphics Plotter Operation and Interconnection Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf,Roland DPX-3700A DPX-2700A User's Manual (Roland Direct Download),https://github.com/beardicus/awesome-plotters#readme,Plotters
-https://archive.org/details/RolandUsersGroupVolume2Number41984/page/n39/mode/2up,Roland Users Group Volume 2 Number 4 (1984),https://github.com/beardicus/awesome-plotters#readme,Plotters
 https://www.hpmuseum.net/exhibit.php?class=4&cat=24,HP Pen Plotters,https://github.com/beardicus/awesome-plotters#readme,Plotters
-http://shop.brubsby.com/,brubsby,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=6_pwzqPk6Gg,Roland Pen Plotters,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://blot.hackclub.com,Blot,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.brachiograph.art,BrachioGraph,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=u4Jh1daCl60,video of a BrachioGraph talk at PyCon UK,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.diymachines.co.uk/arduino-cnc-drawing-machine,Arduino CNC Drawing Machine,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://store.bantamtools.com/collections/bantam-tools-nextdraw,NextDraw,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.bantamtools.com,Bantam Tools,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.marginallyclever.com/products/makelangelo-5/,Makelangelo 5,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.nycresistor.com/2017/12/13/reviving-the-apple-410-color-plotter/,Reviving the Apple 410 Color Plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.adafruit.com/product/1750,adafruit,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.adafruit.com/product/1749,adafruit,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://blog.protoneer.co.nz/arduino-cnc-shield,Arduino CNC Shield,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://wiki.protoneer.co.nz/Raspberry_Pi_CNC,Raspberry Pi CNC Hat,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://shop.evilmadscientist.com/productsmenu/188,EBB Driver Board,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://biosrhythm.com/?page_id=1453,WiFi232,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf,Plotter Cable Pinout,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://obsoletetech.us/products/replacement-pen-carousel-turret-carriage-holder-for-hp-7475a-plotter,Replacement Pen Carousel Turret Carriage Holder for HP 7475A Plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://obsoletetech.us/products/replacement-geneva-drive-wheel-gear-for-hp-7475a-plotter-pen-carousel,Replacement Geneva Drive Wheel Gear for HP 7475A Plotter Pen Carousel,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.printables.com/model/156721-sharpie-fine-point-plotter-adapter,Sharpie Fine Point Plotter Adapter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.printables.com/model/156722-plotter-pen,Plotter Pen STL Models,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://wiki.evilmadscientist.com/Pens_for_AxiDraw,Pens for AxiDraw,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://wiki.evilmadscientist.com/Pen_choices,Pens for EggBot,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.jetpens.com/blog/The-Best-White-Ink-Pens/pt/340,JetPens - The Best White Ink Pens,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.isoplotec.co.jp/HPGL/eHPGL.htm,HPGL Reference Guide,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/HP7475AInterfacingandProgrammingManual,HP 7475A Interfacing and Programming Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.gnu.org/software/hp2xx,hp2xx,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://d3js.org,D3,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://jscut.org/,jscut,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://chilipeppr.com,ChiliPeppr Hardware Fiddle,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://extensions.blender.org/add-ons/fabnodes/,fabnodes,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://p5js.org,p5.js,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://paperjs.org,Paper.js,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.evilmadscientist.com/2012/stipplegen2,blog post,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://svgurt.com,svgurt,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://svg-exporter.netlify.app,Let's make map,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://linedream.marcrleonard.com/,LineDream,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://jasonwebb.github.io/SuperformulaSVG-for-web,SuperformulaSVG for web,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://maker.js.org,Maker.js,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://turtletoy.net,Turtletoy,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://observablehq.com/collection/@makio135/plotter,makio135/plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://mitxela.com/plotterfun/,PlotterFun,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://svgjs.dev/,SVG.js,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://components.ai/,Components AI,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://plotter.vision/,plotter.vision,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://javier.xyz/pintr,PINTR,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://revdancatt.com/penplotter/,REVDANCATT Plotter Tools,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://msurguy.github.io/flow-lines/,Flow Lines,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://doersino.github.io/uji/,UJI,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://msurguy.github.io/rad-lines/,Rad Lines,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://anvaka.github.io/peak-map/,Peak Map,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://msurguy.github.io/svg-cropper-tool/,SVG Cropper,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml,Summary of single line fonts,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://paulbourke.net/dataformats/hershey,Hershey Vector Font,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://gitlab.com/oskay/svg-fonts,svg-fonts,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://gitlab.com/oskay/hershey-text,Hershey Text,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://msurguy.github.io/cnc-text-tool/,CNC Text Tool,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/,Blog post,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.nycresistor.com/2017/12/29/pulling-teeth-from-a-corpse-extracting-the-vector-font-from-the-apple-410-color-plotter/,Pulling Teeth From a Corpse: Extracting the Vector Font From the Apple 410 Color Plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://inconvergent.net/generative,On Generative Algorithms,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://hackaday.io/project/12276-roland-dg-dxy-990,Roland DG DXY-990,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://sighack.com/post/cohen-sutherland-line-clipping-algorithm,The Cohen-Sutherland Line Clipping Algorithm,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma,Vera Molnár,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://juerglehni.com/works/hektor,Hektor,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://nb.paulbutler.org/surface-projection/,Surface Projection,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://nb.paulbutler.org/l-systems/,Fractal Generation with L-Systems,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://wiki.evilmadscientist.com/TSP_art,Introduction to TSP art,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://trmm.net/Hidden_Wireframe,Hidden wireframe removal,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://all3dp.com/2/pen-plotters-best-xy-plotters/,The Best XY Plotters in 2020,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.glkitty.com/pages/orbistertius.html,Orbis Tertius,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=tk4c4WMZJZ8,Tech Tangents: Plotting For The First Time - HP 7470A,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=Tr7Mbw9gLpk,CuriousMarc: HP 7475A Plotter and HPGL Demo,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=h-oj4HrTH14,CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=QwPTluBvKLU,Commodore 1520 Plotter Demonstration,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=8785ktWD7vQ,Tech Tangents: Gold Standard Plotter - HP 7475A,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.curiousmarc.com/computing/hp-7475a-plotter,curiousmarc.com: HP 7475A Plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.typotheque.com/articles/from-lettering-guides-to-cnc-plotters,From Lettering Guides to CNC Plotters,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://lostpixels.io/writings/building-interactive-plotter-art,Building an interactive plotter art installation,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=Xms3sZONQjo,Taxan KPL 710 Demo Plot,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=xE9LVOMbKxk,Sweet-P Six Shooter SP-600 Plotter Demonstration,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html,Bottle Plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/,Buildlog.net Atari 1020 Plotter Retrofit,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html,Texas Instruments HX-1000 Plotter Photos,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/,Making cheap HP plotter pens,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.artxcode.io/journal/marcel-schwittlick-the-long-run,Marcel Schwittlick and The Long Run,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.artxcode.io/journal/lars-wander-interview,Lars Wander and Mixing Paint With Code,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=Ho3xr4b60Zg,Flatulence, Crystals, and Happy Little Accidents by Nick Fitzgerald (RustConf 2019),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=OR_TzMFhv50,Recreating Retro Plotter Art, by Sher Minn (Plotter People #1),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.eyesofpanda.com/project/plotter_painting_q_a/,20+ Questions About My Plotter Painting Practice,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.dirtalleydesign.com/blogs/news/how-to-watercolor-painting-with-a-robotic-drawing-machine-an-interview-with-licia-he,How to Watercolor Paint with a Robotic Drawing Machine: An Interview with Licia He,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://liciahe.medium.com/300-days-with-plotters-14159ab64034,300 Days with Plotters,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=BMVq8vuH4sw,Roland DXY 1300 Plotter Self Test,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=kfL3K8mQp5I,Vintage Aritma 0507 Plotter drawing Sierpinski triangles in one stroke,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=Xso0gfLp8IE&t=34s,Plotter (Artima Minigraf 0507),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://jiristepanovsky.cz/project.php?p=13plotter,https://jiristepanovsky.cz/project.php?p=13plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=EwFyIusdH7g,Another drawing on Aritma Minigraf 0507,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=YY0ivdyhLpo,Aritma Minigraf 0507 Plotting Space Shuttle,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=nkxiFXCnbj8&t=131s,Drawing an Etch-Mask Directly onto a PCB using a Vintage Plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://simandl.cz/stranky/elektro/spoje/pcb.htm,OrCAD 386 and a plotter Colorgraf Aritma 512,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.amygoodchild.com/blog/computer-art-50s-and-60s,Early Computer Art in the 50s and 60s,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript,Coding My Handwriting,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/AppleColorPlotter,Apple Color Plotter User's Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://simandl.cz/stranky/elektro/colorgraf/colorgraf_a.htm,Aritma Colorgraf 512,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/atari-1020-color-printer,Atari 1020 Color Printer Owner's Guide (1982),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.buildlog.net/blog/wp-content/uploads/2019/09/atari-1020-color-printer-owners-guide.pdf,a PDF on buildlog.net,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/atari1020colorprinterfieldservicemanualrev.011983atari,Atari 1020 Color Printer Field Service Manual (1983),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/calcomp-artisan-plus-1023-1025-1026-users-guide,CalComp Artisan Plus 1023/1025/1026 User's Guide (1990),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/bitsavers_calcompProlottersJun68_2464236,Programming CalComp Pen Plotters (1968),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/1520PrinterPlotterUsersManualStyleA,Commodore 1520 Printer Plotter Manual (1983),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/1520PrinterPlotterusersManualStyleB,Commodore 1520 Printer Plotter Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/bitsavers_cdc160139c_4086972,Control Data 165/165-2 Plotter Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/manualsplus_03665,Esterline Angus Spartan X-Y Recorder Instruction Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/manualsplus_03659,Esterline Angus Spartan X-Y Recorder Instruction Manual (1980),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/manualsplus_03657,Esterline Angus Model XY530 Recorder Instruction Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/manualsplus_03641,Esterline Angus Model XY575 Recorder Instruction Manual (1976),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/manualsplus_03096,Fluke 1771A Intelligent Digital Plotter User's Manual (1983),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.manualslib.com/manual/465193/Gerber-Gs750-Plus.html,Gerber GS750 Plus User Manual (1995) (manualslib),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.manualslib.com/manual/464167/Gerber-Signmaker-Ivb.html,Gerber Signmaker IVB User's Manual (1983) (manualslib),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/manualzilla-id-5807113,Graphtec Pen Plotter MP303 Series Service Manual (2004),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/houston-instrument-dmp-160-series-plotters-operation-manual,Houston Instrument DMP-160 Plotter Operation Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/hi-dmpl-command-language,Houston Instrument DM/PL Command Language (1984),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/dmp-40v,Houston Instrument DMP-40V Operation Manual (1988),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/hi-dmp-51-52-operation-manual,Houston Instrument HIPLOT DMP-51/52 Operation Manual (1985),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/hi-interface-notes-dm-pl-plotters,Houston Instrument Interface Notes for DM/PL Intelligent Plotters (1983),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/hi-stand-assembly-procedure-dmp-50-series-plotter,Houston Instrument Stand Assembly Procedure DMP-50 Series Plotter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/houston-instruments-dmp-60-manual,Houston Instrument DMP-60 Series Plotters Operation Manual (1990),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/manualzilla-id-7029812,HP 7470A Interconnection Guide,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.manualslib.com/manual/1089592/Hp-7470a.html,HP 7470A Operator's Manual (manualslib),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/HP7475AOperationManual,HP 7475A Graphics Plotter Operation and Interconnection Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://literature.hpcalc.org/community/hp75-plotter-ers.pdf,HP-75 Plotter ROM External Reference Specification (1982) (PDF),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/7570adraftproplotterhardwaresupportmanual0757090000201pagesdec86,HP 7570A DraftPro Plotter Hardware Support Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/hp-7580-b-plotter-service-manual,HP 7580B Drafting Plotter Service Manual (1986),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/bitsavers_hpplotter0_18190273,HP 7585B Drafting Plotter Service Manual (1983),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/draftproplotterusersguide0757090017163pagesmay86,HP DraftPro Plotter User's Guide (1986),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/draftproprogrammersreference0757090001387pagessep86,HP DraftPro Plotter Programmers Reference (1986),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/mutoh-et202-leichtgemacht,Mutoh ET202 Scriber (German),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/olivettipl10microplotter,Olivetti PL10 Microplotter User Guide (1983),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/olivettip6060prestazionigrafiche,Olivetti P6060 Programming Manual (1979) (Italian),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/manualsplus_03520,Philips X-Y Flat Bed Recorder PM 8120 (1971),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/Plotter_Printer_19xx_Radio_Shack,Radio Shack TRS-80 Plotter Printer Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/cgp-115_operation_manual,Radio Shack TRS-80 Color Graphic Printer Operation Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/cgp-115-service-manual,Radio Shack TRS-80 Color Graphic Printer Service Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/RolandDXY880PlotterOperationManual,Roland DXY-880 Operation Manual (1984),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/rolanddxy980operationmanual,Roland DXY-980 Operation Manual (1985),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/roland-dxy-990,Roland DXY-990 Operation Manual (1986),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/rolanddxy130012001100commandreferencemanualaf,Roland DXY-1300 -1200 -1100 Command Reference Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.manualslib.com/manual/884553/Roland-Dxy_1350.html,Roland DXY-1350A -1150A User's Manual (1997) (manualslib),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/roland-dpx-2000-manual,Roland DPX-2000 User's Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/dpx-3300-service-manual,Roland DPX-3300 Service Notes (1987),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/dpx-3300-schematics,Roland DPX-3300 Schematics (1987),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf,Roland DPX-3700A DPX-2700A User's Manual (Roland Direct Download),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/manualzilla-id-5691908,Roland XY Plotter DXY-1350A DXY-1150A User's Manual (1997),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/rotingtubularplotterpointprakticaltipsandinformation,Rotring Tubular Plotter Points Practical Tips and Information,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/rotring_NC-scriber_CS_50_Operating_Instructions,Rotring NC-scriber CS 50 Operating Instructions (1989),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/sega-sp-400,SEGA SP-400 Operation Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/sekonicspl450spl455,Sekonic SPL-450+/SPL-455 User Manual (1990) (German),https://github.com/beardicus/awesome-plotters#readme,Plotters
 https://archive.org/details/SiemensC1613Manual,Siemens C1613 Plotter Manual (German),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/silver-reed-colour-pengraph-eb-50-operating-manual,Silver Reed Colour PenGraph EB-50 Operating Manual (1984),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://pzwiki.wdka.nl/mediadesign/File:Taxan_kpl710_x-y_plotter.pdf,Taxan X-Y Plotter KPL 710 Instruction Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/bitsavers_tektronix42InteractiveDigitalPlotterUserManualNov1_40423494,Tectronix 4662 Interactive Digital Plotter User Manual (1976),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/manualsonline-id-212d14c3-7d2f-4e64-906f-1a22e86d1f35/,Tectronix HC100 Instruction Manual (1987),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/panasonic-rk-p-400-c-manual,Panasonic RK-P400C 4-Color Graphic Penwriter Manual,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/panasonicpenwriterprotocol,Panasonic Penwriter Manual Excerpt: RS232 Protocol Section,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/lp-2002-betriebsanleitung/,(Unknown Brand) LP 2002 Photo Plotter Attachment Operating Manual (German),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://mastodon.social/@artandtech/109382879937442706,Martin Bircher's thread,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/TNM_Time_Share_Peripherals_-_TSP-212_plotting_sys_20170630_0194,Time Share Peripherals TSP-212 Brochure,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/Hewlett-Packard_Journal_Vol._29_No._1_1977-09_Hewlett-Packard,Hewlett-Packard Journal Volume 29 Number 1,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard,Hewlett-Packard Journal Volume 32 Number 10,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._11_1981-11_Hewlett-Packard,Hewlett-Packard Journal Volume 32 Number 11,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/Hewlett-Packard_Journal_Vol._33_No._12_1982-12_Hewlett-Packard,Hewlett-Packard Journal Volume 33 Number 12 (1982),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/TNM_CalComp_-_Precision_graphics_system_900-728_20170630_0196,CalComp Precision Graphics System 900/728 Brochure (1970),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/TNM_Digital_Plotting_Newsletter_march-april_1967__20171014_0114,Digital Plotting Newsletter (1967),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/TNM_Versatec_printers_and_plotters_-_Versatec_a_X_20180227_0009,Versatec Printers and Plotters Brochure (1977),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/TNM_Printer-plotters_plotters_and_output_systems__20171113_0057,Versatec Printer/Plotters, Plotters and Output Systems (1981),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/RolandUsersGroupVolume2Number41984/page/n39/mode/2up,Roland Users Group Volume 2 Number 4 (1984),https://github.com/beardicus/awesome-plotters#readme,Plotters
 https://archive.org/details/TNM_Omega-t_Systems_-_FasPlot_Plotter_20170630_0254,Omega-t Systems FasPlot Plotter Brochure,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/Plotter_CBM8075_198x_Commodore_DE,Commodore Computer Plotter CBM 8075 Brochure (German),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/TNM_Strope_Model_100_graphics_plotter_-_Strobe_In_20180506_0009,Strobe Model 100 Graphics Plotter Brochure (1980),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up,Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/auerbachondigitalplottersandimagedigitizers,Auerbach On Digital Plotters And Image Digitizers (1972),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/TNM_CalComp_graphics_products_plotters_and_printe_20171101_0032,CalComp Graphics Products Brochure (1981),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=AAc4VLR6-Dg,CalComp Plotters in 1968,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/hi-dmp-41-42-brochure,Houston Instrument DMP-41 and DMP-42 Plotters Brochure,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/hi-dmp-51-52-brochure,Houston Instrument DMP-51/52 Series Brochure,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/TNM_Omnigraphic_Plotter_20171016_0228,Houston Instrument Omnigraphic Plotter Brochure,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854,Sweet-P Plotter Brochure and Price List,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111,IEEE Electronic Systems News Autumn (1985),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/apple-ii-business-graphics,Apple II Business Graphics Film (1982),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://archive.org/details/elektor_202310,Elektor Magazine Selbstbauplotter MONDRIAN II (1990) (German),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://grabcad.com/library/plotter-mondrian-1,a model of this plotter on GrabCAD,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.1000bit.it/ad/bro/ibm/IBM737xColorPlotters.pdf,IBM 7374 and 7375 Color Plotter Brochure (PDF),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.jstor.org/stable/1573236,Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (paywall),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226,Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.proquest.com/docview/2791602751?sourcetype=Scholarly%20Journals,Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://arxiv.org/abs/2401.13001,PatternPortrait: Draw Me Like One of Your Scribbles (2024),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://arxiv.org/abs/1910.07860,Can I teach a robot to replicate a line art (2019),https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://dl.acm.org/doi/abs/10.1145/3411764.3445653,Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.youtube.com/watch?v=xqhT-8ElJ68,Video Summary,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.researchgate.net/publication/338896073_Vera_Molnar's_Computer_Paintings,Vera Molnar's Computer Paintings,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://patents.google.com/patent/US4943817,Adaptor for universal X-Y plotter pen,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.eyesofpanda.com/project/painting_with_plotters/,Painting with Plotters,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.reddit.com/r/PlotterArt,PlotterArt Subreddit,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.reddit.com/r/axidraw,AxiDraw Subreddit,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.reddit.com/r/generative,Generative Art Subreddit,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://plotterpeople.github.io/,Plotter People,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://discordapp.com/invite/XHP3dBg,DrawingBots Discord Forum,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://plotterfiles.com/,PlotterFiles,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://bsky.app/search?q=%23PenPlotter,Bluesky,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://mastodon.social/search?q=%23PenPlotter,Mastodon,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://adamfuhrer.bigcartel.com,Adam Fuhrer,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://shop.andymakes.com/,AndyMakes,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://dutchplottr.nl/en/,Arjan van der Meij,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://emergentdesign.bigcartel.com/products,EmergentDesign,https://github.com/beardicus/awesome-plotters#readme,Plotters
+http://buy.inconvergent.net,inconvergent,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://wares.lifewinning.com,Ingrid Burrington,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.michaelfogleman.com/plotter,Michael Fogleman,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://www.dirtalleydesign.com/,Michelle Chandra,https://github.com/beardicus/awesome-plotters#readme,Plotters
 https://shop.paulrickards.com,Paul Rickards,https://github.com/beardicus/awesome-plotters#readme,Plotters
+https://store.pedroalcocer.com/,Pedro Alcocer,https://github.com/beardicus/awesome-plotters#readme,Plotters

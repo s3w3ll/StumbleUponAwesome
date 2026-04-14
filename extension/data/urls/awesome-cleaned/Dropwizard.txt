@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/tagged/dropwizard,StackOverflow,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+http://www.dropwizard.io,,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+https://vimeo.com/37930578,Instant-ish Real Service Architecture,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+https://beforeitwasround.com,Steve Agalloco,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+http://metrics.dropwizard.io/3.1.0/manual/third-party/,metrics,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+http://willhamill.com/2014/12/04/application-health-checks-with-dropwizard,Application Health Checks with DropWizard,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+http://christopher-batey.blogspot.com/2014/08/using-hystrix-with-dropwizard.html,Using Hystrix with Dropwizard,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+http://modules.dropwizard.io/,Dropwizard Modules Directory,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+https://boxfuse.com/blog/dropwizard-aws.html,Deploy a Dropwizard Unikernel to AWS,https://github.com/stve/awesome-dropwizard#readme,Dropwizard
+http://www.remmelt.com/post/use-consuls-kv-store-for-dropwizard-settings/,Use Consul's KV store for Dropwizard settings,https://github.com/stve/awesome-dropwizard#readme,Dropwizard

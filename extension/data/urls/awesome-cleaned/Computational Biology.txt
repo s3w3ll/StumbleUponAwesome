@@ -1,0 +1,114 @@
+https://huggingface.co/owkin/phikon,Phikon,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://en.wikipedia.org/wiki/Computational_biology,Wikipedia,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://squidpy.readthedocs.io/,Squidpy,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://inoue0426.github.io/awesome-computational-biology/,GitHub Pages UI,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.bindingdb.org/rwd/bind/chemsearch/marvin/SDFdownload.jsp?all_download=yes,BindingDB Curated Sets,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904,QM9,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.genome.jp/kegg/pathway.html,KEGG PATHWAY,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.omim.org/,OMIM (Online Mendelian Inheritance in Man),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.uniprot.org/,UniProt,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.uniprot.org/help/api,UniProt REST API,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+http://www.chemspider.com/,ChemSpider,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://platform.opentargets.org/,Open Targets Platform,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://portals.broadinstitute.org/ctrp/,Cancer Therapeutics Response Portal (CTRP),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://cellxgene.cziscience.com/,CZ CELLxGENE,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.gromacs.org/,GROMACS,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://alphafold.ebi.ac.uk/api-docs,AlphaFold Protein Structure Database,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://wikipathways.org/,WikiPathways,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://hpo.jax.org/,Human Phenotype Ontology (HPO),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.mdanalysis.org/,MDAnalysis,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+http://sideeffects.embl.de/,SIDER (Side Effect Resource),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://openmm.org/,OpenMM,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://cancer.sanger.ac.uk/cosmic,Catalogue Of Somatic Mutations In Cancer (COSMIC),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://pachterlab.github.io/kallisto/,kallisto,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://predictioncenter.org/,Critical Assessment of Structure Prediction (CASP),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://reactome.org/,Reactome,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://tabula-muris.ds.czbiohub.org/,Tabula Muris,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://rest.ensembl.org/,Ensembl REST API,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://diseases.jensenlab.org/,DISEASES,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.nextprot.org/,NeXtProt,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://cole-trapnell-lab.github.io/monocle3/,Monocle3,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://tabula-sapiens-portal.ds.czbiohub.org/,Tabula Sapiens,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ncbi.nlm.nih.gov/geo/,Gene Expression Omnibus,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga,The Cancer Genome Atlas (TCGA),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://uniclust.mmseqs.com/,Uniclust,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://biocyc.org/,BioCyc,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ebi.ac.uk/metagenomics/,MGnify,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.kegg.jp/kegg/rest/keggapi.html,KEGG REST API,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://tdcommons.ai/,Therapeutics Data Commons (TDC),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.dgidb.org/,DGIdb,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://proteomics.cancer.gov/programs/cptac,CPTAC (Clinical Proteomic Tumor Analysis Consortium),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://ieeexplore-ieee-org.ezp2.lib.umn.edu/stamp/stamp.jsp?tp=&arnumber=8723620&tag=1,DeepDSC,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.uniprot.org/uniref/,UniRef,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://arxiv.org/abs/2001.01037,CrossDocked2020,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.humancellatlas.org/,Human Cell Atlas,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://huggingface.co/AI4Chem/ChemLLM-7B-Chat,AI4Chem/ChemLLM-7B-Chat,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://signor.uniroma2.it/,SIGNOR,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://huggingface.co/stanford-crfm/BioMedLM,BioMedLM,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+http://ctdbase.org/,Comparative Toxicogenomics Database,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ebi.ac.uk/chembl/ws,ChEMBL Web Services,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.nlm.nih.gov/dataguide/edirect/esearch.html,PubMed E-utilities (esearch/efetch),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.cathdb.info/,CATH database,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://huggingface.co/ctheodoris/Geneformer,Geneformer,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://singlecell.broadinstitute.org/single_cell,Single Cell PORTAL,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.gsea-msigdb.org/gsea/msigdb,MSigDB (Molecular Signatures Database),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://platform.opentargets.org/api,Open Targets Platform API,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html,SNAP,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://discover.nci.nih.gov/cellminercdb/,CellMiner Cross Database (CellMinerCDB),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://gnomad.broadinstitute.org/,gnomAD,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://clinicaltrials.gov/api/gui,ClinicalTrials.gov API,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ncbi.nlm.nih.gov/books/NBK25501/,NCBI E-utilities,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ebi.ac.uk/gxa/sc/home,Single Cell Expression Atlas,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://biopython.org/,Biopython,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab,SAbDab,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://scanpy.readthedocs.io/en/stable/,Scanpy,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+http://moleculenet.ai/,MoleculeNet,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://pubchem.ncbi.nlm.nih.gov/,PubChem,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://rfam.org/,Rfam,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://ogb.stanford.edu/,OGB (Open Graph Benchmark),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://satijalab.org/seurat/,Seurat,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://mona.fiehnlab.ucdavis.edu/,MoNA MassBank of North America,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://scvi-tools.org/,scvi-tools,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+http://stitch.embl.de/,STITCH,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ebi.ac.uk/chebi/,ChEBI,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+http://opig.stats.ox.ac.uk/webapps/oas/,OADB (Observed Antibody Space Database),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.bindingdb.org/rwd/bind/index.jsp,BindingDB,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.pharmgkb.org/,PharmGKB,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://sites.broadinstitute.org/ccle/,Cancer Cell Line Encyclopedia,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.proteinatlas.org/,THE HUMAN PROTEIN ATLAS,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ebi.ac.uk/interpro/,InterPro,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ebi.ac.uk/chembl/,ChEMBL,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.genome.jp/kegg/drug/,KEGG DRUG,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.rcsb.org/,PROTEIN DATA BANK (PDB),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://pk-db.com/,PK-DB,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ebi.ac.uk/interpro/entry/pfam/,Pfam,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+http://www.regnetworkweb.org/,RegNetwork,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://depmap.org/portal/prism/,PRISM,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.genome.jp/kegg/compound/,KEGG COMPOUND,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.disgenet.org/,DisGeNET,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.pdbbind-plus.org.cn/,PDBBind,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ensembl.org/,Ensembl,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.mirbase.org/,miRBase,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml,Human Genome Resources at NCBI,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://clinicaltrials.gov/,ClinicalTrials.gov,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.lipidmaps.org/databases/lmsd/overview,LIPID MAPS,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ncbi.nlm.nih.gov/genbank/,GenBank,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://thebiogrid.org/,BioGRID,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.rhea-db.org/,Rhea,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://icd.who.int/browse10/2019/en,ICD10,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://genome.ucsc.edu/,UCSC Genome Browser,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://eudract.ema.europa.eu/,EU Drug Regulating Authorities Clinical Trials DB (EudraCT),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.cbioportal.org/,cBioPortal,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/,HIPPIE,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+http://drugcentral.org/,DrugCentral,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.10xgenomics.com/resources/datasets,10x Genomics Dataset,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://mimic.mit.edu/,MIMIC-IV,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.ebi.ac.uk/intact/home,IntAct,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://gtexportal.org/home/,The Genotype-Tissue Expression (GTEx),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.internationalgenome.org/,1000 Genomes Project,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.kaggle.com/datasets/gokturkkoch/bace,BACE,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://depmap.org/portal/,Dependency Map (DepMap),https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://biodev.github.io/BeatAML2/,BEAT AML,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://idrblab.net/ttd/full-data-download,Therapeutic Target Database,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://zinc.docking.org/,ZINC ligand discovery database,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology
+https://www.pathwaycommons.org/,PathwayCommons,https://github.com/inoue0426/awesome-computational-biology#readme,Computational Biology

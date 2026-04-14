@@ -1,11 +1,10 @@
+http://www.hackintoshx86.co.uk/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://codeberg.org/LinuxCafeFederation,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://eddiejaoudecommunity.github.io,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.discordnetwork.com/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://join.javadiscord.net,Java,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://discordnetwork.com/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.cscareerhackers.org/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://pythondiscord.com/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://nodecg.com/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)
-https://dozennn.github.io/steam-rom-manager/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.amigadev.com/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.defcon.org/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: ConnectionResetError(54, 'Connection reset by peer') | reason: 
+http://invite.ers.repair/,Electronics Repair School,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://iphonediscord.info,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://homework-help.org/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://world-of-coding.tech/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://join.javadiscord.net,Java,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://javadiscord.net,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
 https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/,,https://github.com/mhxion/awesome-discord-communities#readme,Discord Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found

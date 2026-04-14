@@ -1,0 +1,251 @@
+http://www.gamasutra.com/,Gamasutra,https://github.com/ellisonleao/magictools#readme,Game Development
+http://pents90.github.io/eburp/,E.B.U.R.P,https://github.com/ellisonleao/magictools#readme,Game Development
+https://snowb.org/,SnowB Bitmap Font,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.openra.net/,OpenRA,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/dp/1556220782?tag=game-prog-books-20,Programming Game AI by Example,https://github.com/ellisonleao/magictools#readme,Game Development
+https://svgco.de/,SVGcode,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492,Game Programming Gems,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.udacity.com/course/html5-game-development--cs255,Udacity: HTML5 Game Development,https://github.com/ellisonleao/magictools#readme,Game Development
+http://jmonkeyengine.org/,jMonkeyEngine 3,https://github.com/ellisonleao/magictools#readme,Game Development
+http://gamedev.stackexchange.com/,Game Development on StackExchange,https://github.com/ellisonleao/magictools#readme,Game Development
+https://engoengine.github.io/,engo,https://github.com/ellisonleao/magictools#readme,Game Development
+http://unity3d.com/,Unity 3D,https://github.com/ellisonleao/magictools#readme,Game Development
+http://raisedbeaches.com/octave/index.html,Octave,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.google.com/admob/,AdMob by Google,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.udacity.com/course/interactive-3d-graphics--cs291,Interactive 3D Graphics,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.madtracker.org/main.php,MadTracker,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.pickleeditor.com/,Pickle,https://github.com/ellisonleao/magictools#readme,Game Development
+http://piqnt.com/stage.js/,Stage.js,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.rpgmakerweb.com/,RPGMaker,https://github.com/ellisonleao/magictools#readme,Game Development
+https://gitlab.com/Penaz/2dgd_f0th,2D Game Development: From Zero To Hero,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240/,Real-Time Rendering,https://github.com/ellisonleao/magictools#readme,Game Development
+http://ggez.rs/,ggez,https://github.com/ellisonleao/magictools#readme,Game Development
+https://affinity.serif.com/de/designer,Affinity Designer,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.adcolony.com/,AdColony,https://github.com/ellisonleao/magictools#readme,Game Development
+http://urho3d.github.io/,Urho3D,https://github.com/ellisonleao/magictools#readme,Game Development
+https://ebiten.org/,Ebiten,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/,3D Math Primer for Graphics and Game Development,https://github.com/ellisonleao/magictools#readme,Game Development
+https://vexlio.com/svg-to-png/,SVG to PNG,https://github.com/ellisonleao/magictools#readme,Game Development
+http://gameprogrammingpatterns.com/,Game Programming Patterns,https://github.com/ellisonleao/magictools#readme,Game Development
+https://orx-project.org/,ORX,https://github.com/ellisonleao/magictools#readme,Game Development
+https://deepnight.net/tools/ldtk-2d-level-editor/,LDtk,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Rules-Play-Game-Design-Fundamentals/dp/0262240459/,Rules of Play,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.jpct.net/,JPCT,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.raylib.com/,raylib,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.gdcvault.com/gdmag,Game Developer Magazine,https://github.com/ellisonleao/magictools#readme,Game Development
+http://gamedevs.org/,GameDevs.org,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.ursinaengine.org/,ursina,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.plaintextures.com/,PlainTextures,https://github.com/ellisonleao/magictools#readme,Game Development
+https://ims.cr5.space/,IMS Creators,https://github.com/ellisonleao/magictools#readme,Game Development
+http://graphicburger.com/mobile-game-gui/,2D Cartoon Mobile Game UI Pack,https://github.com/ellisonleao/magictools#readme,Game Development
+https://vectormagic.com/,Vector Magic,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/dp/0123747317?tag=game-prog-books-20,Artificial Intelligence for Games,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578,Game Scripting Mastery,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.lexaloffle.com/pico-8.php,PICO-8,https://github.com/ellisonleao/magictools#readme,Game Development
+https://affinity.serif.com/de/photo,Affinity Photo,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965/,The Art of Game Design,https://github.com/ellisonleao/magictools#readme,Game Development
+http://magnum.graphics/,Magnum,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.pacdv.com/sounds/index.html,PacDV,https://github.com/ellisonleao/magictools#readme,Game Development
+http://schteppe.github.io/p2.js/,p2.js,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.world-creator.com/,World Creator,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.visioncortex.org/vtracer/,VTracer,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.drpetter.se/project_musagi.html,musagi,https://github.com/ellisonleao/magictools#readme,Game Development
+http://gamejolt.com/,GameJolt,https://github.com/ellisonleao/magictools#readme,Game Development
+http://kivent.org/,Kivent,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937,Designing Games: A Guide to Engineering Experiences,https://github.com/ellisonleao/magictools#readme,Game Development
+https://mappermate.com/,MapperMate,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.java-gaming.org/,Java Gaming,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.pixelmator.com,Pixelmator,https://github.com/ellisonleao/magictools#readme,Game Development
+http://pngmini.com/,ImageAlpha,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.world-machine.com/,World Machine,https://github.com/ellisonleao/magictools#readme,Game Development
+https://ogmo-editor-3.github.io/,OGMO Editor,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.foundry.com/products/modo,modo,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/,Essential Mathematics for Games and Interactive Applications: A Programmer's Guide,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.manning.com/books/geometry-for-programmers,Geometry for Programmers (book),https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.appodeal.com/,Appodeal,https://github.com/ellisonleao/magictools#readme,Game Development
+http://hacknplan.com/,HacknPlan,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.renpy.org/,Ren'Py,https://github.com/ellisonleao/magictools#readme,Game Development
+https://ephtracy.github.io/,MagicaVoxel,https://github.com/ellisonleao/magictools#readme,Game Development
+http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453,420 Pixel Art Icons for RPGs,https://github.com/ellisonleao/magictools#readme,Game Development
+http://pixelatorapp.com,Pixelator,https://github.com/ellisonleao/magictools#readme,Game Development
+http://impactjs.com/ejecta,Ejecta,https://github.com/ellisonleao/magictools#readme,Game Development
+http://gamua.com/starling/,Starling,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202/,Flow,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.blender-models.com/,Blender 3D models,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.pixelicious.xyz/,Pixelicious,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.lostgarden.com/,Lost Garden,https://github.com/ellisonleao/magictools#readme,Game Development
+https://spritefusion.com/,Sprite Fusion,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.panda3d.org/,Panda3D,https://github.com/ellisonleao/magictools#readme,Game Development
+http://soundbible.com/,SoundBible.com,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.manning.com/books/hello-scratch,Hello Scratch: Learn to Program by Making Arcade Games,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.indiemag.fr/,IndieMag,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.aseprite.org/,Aseprite,https://github.com/ellisonleao/magictools#readme,Game Development
+https://sculptris.br.uptodown.com/windows,sculptris,https://github.com/ellisonleao/magictools#readme,Game Development
+http://useflashpunk.net/,FlashPunk,https://github.com/ellisonleao/magictools#readme,Game Development
+http://brm.io/matter-js/,Matter.js,https://github.com/ellisonleao/magictools#readme,Game Development
+https://photoresizerinkb.com/,Photo Resizer In KB,https://github.com/ellisonleao/magictools#readme,Game Development
+https://soundation.com/,Soundation,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.twitch.tv/directory/game/Game%20Development,Twitch GameDev,https://github.com/ellisonleao/magictools#readme,Game Development
+https://quaternius.com/,Quaternius,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Game-Coding-Complete-Fourth-McShaffry/dp/1133776574/,Game Coding Complete,https://github.com/ellisonleao/magictools#readme,Game Development
+https://itch.io/jams,Game jams on itch.io,https://github.com/ellisonleao/magictools#readme,Game Development
+https://unity.com/products/unity-ads,Unity Ads,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.vassalengine.org/,Vassal,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/dp/047068867X?tag=game-prog-books-20,Level Up!,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.mapeditor.org/,Tiled,https://github.com/ellisonleao/magictools#readme,Game Development
+http://melonjs.org,MelonJS,https://github.com/ellisonleao/magictools#readme,Game Development
+https://itch.io/jam/gmtk-jam-2022,GMTK Game Jam,https://github.com/ellisonleao/magictools#readme,Game Development
+http://pnggauntlet.com/,PNGGauntlet,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.moddb.com/downloads/sculptris,1.01,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.textures.com,CGTextures,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.stencyl.com/,Stencyl,https://github.com/ellisonleao/magictools#readme,Game Development
+https://spline.design/,Spline,https://github.com/ellisonleao/magictools#readme,Game Development
+http://kivy.org,Kivy,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.blend4web.com/,Blend4Web,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.piston.rs/,Piston,https://github.com/ellisonleao/magictools#readme,Game Development
+http://nukesaq88.github.io/Pngyu/,Pngyu,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.polygon.com/,Polygon,https://github.com/ellisonleao/magictools#readme,Game Development
+https://developer.apple.com/documentation/scenekit,SceneKit,https://github.com/ellisonleao/magictools#readme,Game Development
+http://inventwithpython.com/pygame/,Making Games with Python & Pygame,https://github.com/ellisonleao/magictools#readme,Game Development
+http://piqnt.com/planck.js/,Planck.js,https://github.com/ellisonleao/magictools#readme,Game Development
+https://krita.org/,Krita,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.audiosauna.com/,Audiosauna,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.questlog.build,Questlog,https://github.com/ellisonleao/magictools#readme,Game Development
+https://womp.com/,Womp,https://github.com/ellisonleao/magictools#readme,Game Development
+https://miniscript.org/MiniMicro/,Mini Micro,https://github.com/ellisonleao/magictools#readme,Game Development
+http://box2d.org/,Box2D,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.reddit.com/r/gamedev/,Reddit r/gamedev,https://github.com/ellisonleao/magictools#readme,Game Development
+https://chriscourses.com/,Chris Courses: Complete courses for an assortment of 2D games,https://github.com/ellisonleao/magictools#readme,Game Development
+https://cascadeur.com/,Cascadeur,https://github.com/ellisonleao/magictools#readme,Game Development
+https://libresprite.github.io/,LibreSprite,https://github.com/ellisonleao/magictools#readme,Game Development
+https://flaxengine.com/,Flax Engine,https://github.com/ellisonleao/magictools#readme,Game Development
+http://waveengine.net/,Wave,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.goodreads.com/book/show/1633392.Game_Development_Essentials,Game Development Essentials: Game Level Design,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.leadwerks.com/,Leadwerks,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/dp/1435458869?tag=game-prog-books-20,Mathematics For 3D Game Programming And Computer Graphics,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.goodreads.com/book/show/391752.The_Ultimate_Guide_to_Video_Game_Writing_and_Design,The Ultimate Guide to Video Game Writing and Design,https://github.com/ellisonleao/magictools#readme,Game Development
+http://gree.github.io/lwf/,LWF,https://github.com/ellisonleao/magictools#readme,Game Development
+http://sproxel.blogspot.com.br/,Sproxel,https://github.com/ellisonleao/magictools#readme,Game Development
+https://miniscript.org,MiniScript,https://github.com/ellisonleao/magictools#readme,Game Development
+https://discord.com/invite/gamedev,Game Dev League,https://github.com/ellisonleao/magictools#readme,Game Development
+http://natureofcode.com/book/,Nature of Code,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.reddit.com/r/IndieGaming/,Reddit r/IndieGaming,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.filterforge.com/,FilterForge,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.limejs.com/,LimeJS,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.warmplace.ru/soft/sunvox/,SunVox,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/,The Visual Story,https://github.com/ellisonleao/magictools#readme,Game Development
+https://stride3d.net/,Stride,https://github.com/ellisonleao/magictools#readme,Game Development
+http://pyxeledit.com/,PyxelEdit,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.sfml-dev.org/,SFML,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.reinerstilesets.de/,Reiner's Tilesets,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Physics-Game-Developers-David-Bourg/dp/0596000065,Physics for Game Developers,https://github.com/ellisonleao/magictools#readme,Game Development
+https://tenebrislab.github.io/livenormal/,Live Normal,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.slidedb.com/,Slidedb,https://github.com/ellisonleao/magictools#readme,Game Development
+https://discord.gg/brackeys,Brackeys Discord,https://github.com/ellisonleao/magictools#readme,Game Development
+http://liballeg.org/,Allegro,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.lightcube.art/,Lightcube,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.puzzlescript.net/,PuzzleScript,https://github.com/ellisonleao/magictools#readme,Game Development
+https://pixologic.com/,ZBrush,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/,Theory of Fun,https://github.com/ellisonleao/magictools#readme,Game Development
+https://supernovaengine.org/,Supernova Engine,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.indiegamejams.com/,Indie Game Jams,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.monogame.net/,Monogame,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.coursera.org/course/interactivepython1,Coursera: Introduction to interactive Python programming,https://github.com/ellisonleao/magictools#readme,Game Development
+https://solar2d.com/,Solar2D,https://github.com/ellisonleao/magictools#readme,Game Development
+http://loopengo.free.fr/,Fusion Character Animator,https://github.com/ellisonleao/magictools#readme,Game Development
+http://greenlitgaming.com/,Greenlit Gaming,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.gameenginebook.com/,Game Engine Architecture,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.iterary.com,Iterary,https://github.com/ellisonleao/magictools#readme,Game Development
+https://coplay.dev?ref=github&utm_source=magictools,Coplay,https://github.com/ellisonleao/magictools#readme,Game Development
+http://bulletphysics.org/wordpress/,Bullet,https://github.com/ellisonleao/magictools#readme,Game Development
+http://ludumdare.com/,Ludum Dare,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amulet.xyz/,amulet,https://github.com/ellisonleao/magictools#readme,Game Development
+https://sparklinlabs.itch.io/superpowers,Superpowers,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.khanacademy.org/computing/cs/programming-games-visualizations,Khan Academy: Advanced JS: Games & Visualizations,https://github.com/ellisonleao/magictools#readme,Game Development
+https://pyga.me/docs/index.html,PyGame-CE,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.gamedevmarket.net/,GameDev Market,https://github.com/ellisonleao/magictools#readme,Game Development
+https://ncine.github.io/,nCine,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618,Tricks of the Windows Game Programming Gurus,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.blender.org/,Blender,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.gridsagegames.com/rexpaint/,REXPaint,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.godotengine.org/,Godot,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.nodebox.net/,NodeBox,https://github.com/ellisonleao/magictools#readme,Game Development
+http://multipaint.kameli.net,Multipaint,https://github.com/ellisonleao/magictools#readme,Game Development
+https://bevyengine.org/,Bevy,https://github.com/ellisonleao/magictools#readme,Game Development
+https://led.itch.io/tilemancer,Tilemancer,https://github.com/ellisonleao/magictools#readme,Game Development
+https://graphicsgale.com/us/,GraphicsDale,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.manning.com/books/unity-in-action-second-edition,Unity in Action (book),https://github.com/ellisonleao/magictools#readme,Game Development
+https://winteralexander.itch.io/normalpainter,NormalPainter,https://github.com/ellisonleao/magictools#readme,Game Development
+https://chipmunk-physics.net/,Chipmunk2D,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/,Simple HTML5 Canvas Game,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.html5gamedevs.com/,HTML5 Game Devs Forum,https://github.com/ellisonleao/magictools#readme,Game Development
+https://gamesounds.xyz/,Free Game Sounds,https://github.com/ellisonleao/magictools#readme,Game Development
+https://ledoux.itch.io/bitsy,bitsy,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.solarus-games.org/,Solarus,https://github.com/ellisonleao/magictools#readme,Game Development
+https://forum.brackeys.com/,Brackeys Forum,https://github.com/ellisonleao/magictools#readme,Game Development
+http://litiengine.com/,LITIengine,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.iforce2d.net/,iforce2d,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.goodreads.com/book/show/13705461-game-mechanics,Game Mechanics: Advanced Game Design,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=OpenGl+3d+game&qid=1570646865&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=,Learn OpenGL: Beginner's guide to 3D rendering and game development with OpenGL and C++,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.rptools.net/,RPTools,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.widgetworx.com/spritelib/,SpriteLib,https://github.com/ellisonleao/magictools#readme,Game Development
+http://csdb.dk/release/?id=75871,Timanthes,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.pixplant.com/,PixPlant,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.audiotool.com/app,Audiotool,https://github.com/ellisonleao/magictools#readme,Game Development
+http://iconmonstr.com/,Iconmonstr,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.stickpng.com/,StickyPNG,https://github.com/ellisonleao/magictools#readme,Game Development
+http://cocos2d-x.org/,Cocos2d-x,https://github.com/ellisonleao/magictools#readme,Game Development
+https://community.gamedev.tv/,GameDev.tv,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.getpaint.net/,Paint.NET,https://github.com/ellisonleao/magictools#readme,Game Development
+https://aws.amazon.com/lumberyard/,Lumberyard,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.designer-notes.com/,Designer Notes,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.freesound.org/,Freesound,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.bfxr.net/,Bfxr,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.openfl.org/,OpenFL,https://github.com/ellisonleao/magictools#readme,Game Development
+https://forgeleaf.com/forge,Forge,https://github.com/ellisonleao/magictools#readme,Game Development
+https://texturehaven.com/,TextureHaven,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.tape-worm.net/,Gorgon,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.spritemate.com,Spritemate,https://github.com/ellisonleao/magictools#readme,Game Development
+http://onehourgamejam.com/,One Hour Game Jam,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.hobbygamedev.com/,HobbyGameDev,https://github.com/ellisonleao/magictools#readme,Game Development
+http://charas-project.net/index.php,Charas,https://github.com/ellisonleao/magictools#readme,Game Development
+https://brashmonkey.com/download-spriter-pro/,Spriter Pro,https://github.com/ellisonleao/magictools#readme,Game Development
+http://springrts.com/,Spring,https://github.com/ellisonleao/magictools#readme,Game Development
+https://machengine.org/,mach,https://github.com/ellisonleao/magictools#readme,Game Development
+https://squoosh.app,Squoosh,https://github.com/ellisonleao/magictools#readme,Game Development
+http://haxeflixel.com/,HaxeFlixel,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.indiedb.com/,IndieDB,https://github.com/ellisonleao/magictools#readme,Game Development
+https://developer.apple.com/documentation/spritekit,SpriteKit,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.textureking.com/,TextureKing,https://github.com/ellisonleao/magictools#readme,Game Development
+https://heaps.io/,Heaps,https://github.com/ellisonleao/magictools#readme,Game Development
+http://kenney.nl/assets,Kenney Assets,https://github.com/ellisonleao/magictools#readme,Game Development
+http://indiegames.com/index.html,indiegames,https://github.com/ellisonleao/magictools#readme,Game Development
+http://pixelatto.com,AutoTileGen,https://github.com/ellisonleao/magictools#readme,Game Development
+http://boscaceoil.net/,Bosca Ceoil,https://github.com/ellisonleao/magictools#readme,Game Development
+https://casual.pm/,Casual,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.vecteezy.com/,Vecteezy,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.moddb.com/,Mod DB,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.ambiera.com/coppercube/,CopperCube,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.horde3d.org/,Horde3D,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.emanueleferonato.com/,Emanuele Feronato's Blog,https://github.com/ellisonleao/magictools#readme,Game Development
+http://lpc.opengameart.org,Liberated Pixel Cup assets,https://github.com/ellisonleao/magictools#readme,Game Development
+http://sfbgames.com/chiptone/,ChipTone,https://github.com/ellisonleao/magictools#readme,Game Development
+http://coquette.maryrosecook.com/,Coquette,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.codecks.io,Codecks,https://github.com/ellisonleao/magictools#readme,Game Development
+https://gameidea.org,GameIdea,https://github.com/ellisonleao/magictools#readme,Game Development
+http://impactjs.com/,ImpactJS,https://github.com/ellisonleao/magictools#readme,Game Development
+https://ctjs.rocks/,ct.js,https://github.com/ellisonleao/magictools#readme,Game Development
+http://jfxr.frozenfractal.com,jfxr,https://github.com/ellisonleao/magictools#readme,Game Development
+http://opengameart.org/,OpenGameArt,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.defold.com/,Defold,https://github.com/ellisonleao/magictools#readme,Game Development
+http://oryxdesignlab.com/,Oryx Design Lab,https://github.com/ellisonleao/magictools#readme,Game Development
+http://inform7.com/,Inform7,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.inklestudios.com/ink/,Ink,https://github.com/ellisonleao/magictools#readme,Game Development
+https://www.daz3d.com/,Daz 3D,https://github.com/ellisonleao/magictools#readme,Game Development
+http://www.makehumancommunity.org/,MakeHuman,https://github.com/ellisonleao/magictools#readme,Game Development
+http://biz.turbulenz.com/developers,Turbulenz,https://github.com/ellisonleao/magictools#readme,Game Development
+http://twinery.org/,Twine,https://github.com/ellisonleao/magictools#readme,Game Development
+http://gameplay3d.io/,gameplay,https://github.com/ellisonleao/magictools#readme,Game Development
+https://gamesalad.com/,GameSalad,https://github.com/ellisonleao/magictools#readme,Game Development
+https://gdevelop-app.com/,GDevelop,https://github.com/ellisonleao/magictools#readme,Game Development
+https://elevationapi.com,DEM Net Elevation API,https://github.com/ellisonleao/magictools#readme,Game Development

@@ -1,28 +1,36 @@
-https://archive.hugo.pro/builds/godot/,here,https://github.com/godotengine/awesome-godot#readme,Godot
-https://kristianduske.com/trenchbroom/,TrenchBroom,https://github.com/godotengine/awesome-godot#readme,Godot
-https://godotengine.org,,https://github.com/godotengine/awesome-godot#readme,Godot
-https://gitlab.com/shine-upon-thee/joystick,SUTjoystick,https://github.com/godotengine/awesome-godot#readme,Godot
-https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine,iFire's builds,https://github.com/godotengine/awesome-godot#readme,Godot
-https://godotengine.org/qa/438/camera2d-screen-shake-extension,Camera2D Screen Shake,https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/dulvui/99managers-futsal-edition,99Managers Futsal Edition,https://github.com/godotengine/awesome-godot#readme,Godot
 https://codeberg.org/Yeldham/librerama,Librerama,https://github.com/godotengine/awesome-godot#readme,Godot
-https://discord.com/developers/docs/game-sdk/sdk-starter-guide,Discord Game SDK,https://github.com/godotengine/awesome-godot#readme,Godot
-https://itch.io/app,app,https://github.com/godotengine/awesome-godot#readme,Godot
-http://www.portaudio.com,PortAudio,https://github.com/godotengine/awesome-godot#readme,Godot
-https://godotengine.org/asset-library/asset,Godot Asset Library,https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/antimundo/poder-solar,Poder Solar,https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/dulvui/pocket-broomball/,Pocket Broomball,https://github.com/godotengine/awesome-godot#readme,Godot
 https://zacryol.itch.io/spindle-of-serendipity,spindle of serendipity,https://github.com/godotengine/awesome-godot#readme,Godot
-https://atom.io/packages/lang-gdscript,Atom,https://github.com/godotengine/awesome-godot#readme,Godot
 http://kobuge-games.github.io/minilens/,Minilens,https://github.com/godotengine/awesome-godot#readme,Godot
-https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools,godot-tools Visual Studio Code Extension,https://github.com/godotengine/awesome-godot#readme,Godot
-https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode,C# Tools for Godot Visual Studio Code Extension,https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/Nokorpo/LibreAim,LibreAim,https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/sunder/sunder,Sunder,https://github.com/godotengine/awesome-godot#readme,Godot
 https://gitlab.com/SuperTuxParty/SuperTuxParty,Super Tux Party,https://github.com/godotengine/awesome-godot#readme,Godot
-https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter,gdformat Visual Studio Code Extension,https://github.com/godotengine/awesome-godot#readme,Godot
-https://hugo.pro/projects/godot-builds/,Calinou's builds,https://github.com/godotengine/awesome-godot#readme,Godot
-https://godotshaders.com/,Godot Shaders,https://github.com/godotengine/awesome-godot#readme,Godot
-https://docs.godotengine.org/en/latest/community/tutorials.html,Notice: The list of tutorials has moved to the Godot documentation.,https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/dulvui/ball2box,Ball2Box,https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/Phazorknight/Cogito,COGITO,https://github.com/godotengine/awesome-godot#readme,Godot
+https://docs.godotengine.org/en/latest/community/tutorials.html,list of tutorials,https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/svetogam/creverter,CReverter (Composite Reverter),https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/svetogam/csconnector,CSConnector (Contextual Signal/Setup Connector),https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/svetogam/cslocator,CSLocator (Contextual Service Locator),https://github.com/godotengine/awesome-godot#readme,Godot
+https://quakewiki.org/wiki/Quake_Map_Format,Quake MAP file format,https://github.com/godotengine/awesome-godot#readme,Godot
+https://trenchbroom.github.io/,TrenchBroom,https://github.com/godotengine/awesome-godot#readme,Godot
+https://kenyoni-software.github.io/godot-addons/addons/icon_explorer,Icon Explorer,https://github.com/godotengine/awesome-godot#readme,Godot
+https://kenyoni-software.github.io/godot-addons/addons/licenses,License Manager,https://github.com/godotengine/awesome-godot#readme,Godot
+https://kenyoni-software.github.io/godot-addons/addons/qr_code,QR Code,https://github.com/godotengine/awesome-godot#readme,Godot
+https://codeberg.org/svetogam/yourbuil,Your Buil,https://github.com/godotengine/awesome-godot#readme,Godot
 https://effekseer.github.io/en/,Effekseer,https://github.com/godotengine/awesome-godot#readme,Godot
-https://gotm.io/about,Gotm.io,https://github.com/godotengine/awesome-godot#readme,Godot
-https://thisweekingodot.com/,This Week in Godot,https://github.com/godotengine/awesome-godot#readme,Godot
-http://godotrecipes.com/,Godot Recipes,https://github.com/godotengine/awesome-godot#readme,Godot
-https://www.mapeditor.org/,Tiled,https://github.com/godotengine/awesome-godot#readme,Godot
-https://gotm.io/,gotm.io,https://github.com/godotengine/awesome-godot#readme,Godot
+https://gitlab.com/atnb/xsm,XSM,https://github.com/godotengine/awesome-godot#readme,Godot
+https://gitlab.com/shine-upon-thee/joystick,SUTjoystick,https://github.com/godotengine/awesome-godot#readme,Godot
+https://godotengine.org/qa/438/camera2d-screen-shake-extension,Camera2D Screen Shake,https://github.com/godotengine/awesome-godot#readme,Godot
+https://kidscancode.org/godot_recipes/3.x/,Godot Recipes,https://github.com/godotengine/awesome-godot#readme,Godot
+https://discord.com/developers/docs/game-sdk/sdk-starter-guide,Discord Game SDK,https://github.com/godotengine/awesome-godot#readme,Godot
+https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode,C# Tools for Godot Visual Studio Code Extension,https://github.com/godotengine/awesome-godot#readme,Godot
+https://marketplace.visualstudio.com/items?itemName=EddieDover.gdscript-formatter-linter,gdformat Visual Studio Code Extension,https://github.com/godotengine/awesome-godot#readme,Godot
+https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools,godot-tools Visual Studio Code Extension,https://github.com/godotengine/awesome-godot#readme,Godot
+https://docs.godotengine.org/en/stable/engine_details/development/compiling/optimizing_for_size.html,optimized for size,https://github.com/godotengine/awesome-godot#readme,Godot
+https://godotengine.org/asset-library/asset,Godot Asset Library,https://github.com/godotengine/awesome-godot#readme,Godot
+https://godotshaders.com/,Godot Shaders,https://github.com/godotengine/awesome-godot#readme,Godot
+https://asdf-vm.com,asdf version manager,https://github.com/godotengine/awesome-godot#readme,Godot
+https://gdvm.io,gdvm,https://github.com/godotengine/awesome-godot#readme,Godot
 https://www.npmjs.com/package/@gd-com/utils,gd-com npm package,https://github.com/godotengine/awesome-godot#readme,Godot

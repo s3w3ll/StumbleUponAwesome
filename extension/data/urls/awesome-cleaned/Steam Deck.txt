@@ -1,0 +1,75 @@
+https://parsec.app/,Parsec,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.reddit.com/r/EmuDeck,r/EmuDeck,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.reddit.com/r/WindowsOnDeck/,r/WindowsOnDeck,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B09R26XXFW/,Acer Nitro XV272U Vbmiiprx 27 Inch Monitor,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/Magglass-Tempered-Designed-Protector-Anti-Glare/dp/B09X82S4XL/,Maglass Screen Protector,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://gitlab.com/corectrl/corectrl,CoreCtrl,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://ghio.airscript.it/awesome-steam-deck/,,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://syntechhome.com/products/syntech-docking-station-compatible-with-steam-deck,Syntech Dock,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.youtube.com/watch?v=Cb1U0_KbtLQ,Activate SFTP,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B09CQJ39YS/,ViewSonic VX1755,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://en.wikipedia.org/wiki/Steam_Deck,Steam Deck,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://deckdrivemanager.com/,Deck Drive Manager,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://t.me/SteamDeckIta,Steam Deck Italia,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B07ZVKTP53,Anker 7-in-1 USB-C Hub,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.steamdeck.com/en/verified,Deck Verified,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://jsaux.com/products/fan-cooler-for-steam-deck-gp0200,JSAUX Cooling Fans,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B0B75N73N9,Spigen Rugged Armor Case,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://orca.gnome.org/,Orca Screen Reader,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://sponsor.airscript.it,,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B0BGQSZJTG,Spigen Tempered Glass,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.ifixit.com/Device/Steam_Deck,Repair Steam Deck,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://kofi.airscript.it,,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B09VPHVT2Z,Anker PowerCore,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://nexdock.com/features/,NexDock,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://flathub.org/apps/io.github.flattool.Warehouse,Warehouse,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://extremerate.com/collections/steam-deck-shells,Extreme Rate Shells,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B0BV8N5JS2,Deckmate Detachable Kickstand System,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989,SSD Replacement,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://trigg.github.io/Discover/deckaddnonsteamgame,Discord Overlay,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://wiki.archlinux.org/title/Speech_dispatcher,Text-to-Speech Tools,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://sharedeck.games/,ShareDeck,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://steamdeckrepo.com/,Steam Deck Repo,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://dbrand.com/killswitch,Killswitch,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://gitlab.com/popsulfr/steamos-btrfs,SteamOS Btrfs,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.howtogeek.com/877293/how-to-install-windows-on-your-steam-deck/,Install Windows,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://davidotek.github.io/protonup-qt/,ProtonUp-Qt,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://gitlab.com/es-de/emulationstation-de,EmulationStation DE,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://jsaux.com/products/upgraded-carrying-case-for-steam-deck-bg0106,Carrying Case,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.gamingcobra.com/collections/steam-deck-shells,GamingCobra Shells,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://plugins.deckbrew.xyz,Deckbrew Plugins,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://lutris.net/,Lutris,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://steam-deck-web-app-generator.vercel.app/,Steam Deck Web App Generator,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://jsaux.com/products/transparent-back-plate-for-steam-deck-pc0106,JSAUX Transparent Back Plate,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://git.ngram.ca/NG-SD-Plugins/PowerTools,PowerTools,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.protondb.com/,ProtonDB,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://jsaux.com/products/steam-deck-protective-case,Silicon Case,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://wagnerstechtalk.com/sd-windows/,Install Windows On microSD,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B0B4SW81GW/,Corsair K70 Pro Mini,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.steamgriddb.com/,SteamGridDB,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://heroicgameslauncher.com/,Heroic,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B09VCR969M,Razer Viper V2 Pro,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://jsaux.com/products/upgraded-docking-station-for-steam-deck,6-in-1 Docking Station,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://itch.io/app,Itch,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://pimylifeup.com/steam-deck-ps5-remote-play/,Install Chiaki,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://store.steampowered.com/steamdeckdock,Steam Deck Dock,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B0B9BR6H7N/,8BitDo Wireless 2.4g Controller,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B00SAYCXWG/,HyperX Cloud II Wireless,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://isthereanydeal.com/,IsThereAnyDeal,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/dp/B099LZ2BGB/,Razer Hammerhead (2021),https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://git.sr.ht/~thestr4ng3r/chiaki,Chiaki,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://magicpods.app/steamdeck,MagicPods,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.pcgamingwiki.com/,PCGamingWiki,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://howlongtobeat.com/,HowLongToBeat,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://store.steampowered.com/app/353380/Steam_Link/,Steam Link,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://reddit.com/r/SteamDeck,r/SteamDeck,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.steamdeck.com/,Steam Deck,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://store.steampowered.com/steamdeck/mygames,Great On Deck,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://wiki.archlinux.org/title/Steam_Deck,Steam Deck ArchWiki,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://t.me/steamdecktalk,Steam Deck Group,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://decky.xyz/,Install Decky Loader,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://deckthemes.com/,Setup CSS Loader,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/SABRENT-Rocket-2230-Performance-SB-2130-1TB/dp/B0BQG6JCRP/,Sabrent Rocket 2230 SSD,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7MPX8L/,SanDisk Extreme microSD,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://store.steampowered.com/sale/steamdeckrefurbished,Steam Deck Refurbished,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck
+https://www.amazon.com/Protective-Shock-Absorption-Anti-Scratch-Accessories-nintendo-switch/dp/B0B75N73N9/,Spigen Rugged Armor Protective Case,https://github.com/airscripts/awesome-steam-deck#readme,Steam Deck

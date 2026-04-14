@@ -1,0 +1,10 @@
+https://scapy.net/,,https://github.com/secdev/awesome-scapy#readme,Scapy
+https://scapy.net,Scapy,https://github.com/secdev/awesome-scapy#readme,Scapy
+https://wiki.networksecuritytoolkit.org/nstwiki/index.php?title=HowTo_Use_The_Scapy:_Multi-Traceroute_-_MTR,Network Security Toolkit (NST),https://github.com/secdev/awesome-scapy#readme,Scapy
+https://pypi.org/project/scapy-packet-viewer/,Scapy-Packet-Viewer,https://github.com/secdev/awesome-scapy#readme,Scapy
+https://redmine.laas.fr/projects/mirage,mirage,https://github.com/secdev/awesome-scapy#readme,Scapy
+http://blog.champtar.fr/VLAN0_LLC_SNAP,CVE-2021-28444,https://github.com/secdev/awesome-scapy#readme,Scapy
+https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html,CVE-2021-24086,https://github.com/secdev/awesome-scapy#readme,Scapy
+https://blog.quarkslab.com/bad-neighbor-on-freebsd-ipv6-router-advertisement-vulnerabilities-in-rtsold-cve-2020-25577.html,CVE-2020-25577,https://github.com/secdev/awesome-scapy#readme,Scapy
+https://blog.quarkslab.com/beware-the-bad-neighbor-analysis-and-poc-of-the-windows-ipv6-router-advertisement-vulnerability-cve-2020-16898.html,CVE-2020-16898,https://github.com/secdev/awesome-scapy#readme,Scapy
+https://www.synacktiv.com/ressources/Synacktiv_OpenBSD_PacketFilter_CVE-2019-5597_ipv6_frag.pdf,CVE-2019-5597,https://github.com/secdev/awesome-scapy#readme,Scapy

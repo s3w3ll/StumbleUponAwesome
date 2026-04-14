@@ -1,0 +1,17 @@
+https://www.npmjs.com/package/standard-reporter,standard-reporter,https://github.com/standard/awesome-standard#readme,Standard Style
+https://www.npmjs.com/package/happiness,happiness,https://github.com/standard/awesome-standard#readme,Standard Style
+https://www.npmjs.com/package/generate-swap-generator,generate-swap-generator,https://github.com/standard/awesome-standard#readme,Standard Style
+https://atom.io/packages/standard-formatter,standard-formatter,https://github.com/standard/awesome-standard#readme,Standard Style
+https://www.npmjs.com/package/standard,standard,https://github.com/standard/awesome-standard#readme,Standard Style
+https://www.npmjs.com/package/grunt-standard,grunt-standard,https://github.com/standard/awesome-standard#readme,Standard Style
+https://atom.io/packages/standardjs-snippets,standardjs-snippets,https://github.com/standard/awesome-standard#readme,Standard Style
+https://www.npmjs.com/package/standard-markdown,standard-markdown,https://github.com/standard/awesome-standard#readme,Standard Style
+https://npmjs.com/package/a-standard,aStandard,https://github.com/standard/awesome-standard#readme,Standard Style
+http://npm-stat.com/charts.html?package=standard&author=&from=&to=,download graphs of standard (npm-stat.com),https://github.com/standard/awesome-standard#readme,Standard Style
+https://packagecontrol.io/packages/SublimeLinter-contrib-standard,SublimeLinter-contrib-standard,https://github.com/standard/awesome-standard#readme,Standard Style
+https://www.npmjs.com/package/mocha-standard,mocha-standard,https://github.com/standard/awesome-standard#readme,Standard Style
+https://packagecontrol.io/packages/StandardFormat,StandardFormat,https://github.com/standard/awesome-standard#readme,Standard Style
+https://hub.docker.com/r/geniousphp/standard-js/,docker-standard,https://github.com/standard/awesome-standard#readme,Standard Style
+https://atom.io/packages/linter-js-standard,linter-js-standard,https://github.com/standard/awesome-standard#readme,Standard Style
+https://atom.io/packages/linter-js-standard-engine,linter-js-standard-engine,https://github.com/standard/awesome-standard#readme,Standard Style
+https://getyodlr.com/home,yodlr,https://github.com/standard/awesome-standard#readme,Standard Style

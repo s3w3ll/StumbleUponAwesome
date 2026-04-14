@@ -1,0 +1,23 @@
+https://docs.appetize.io/testing,@appetize/Playwright,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://currents.dev/blog/playwright,Currents Blog,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://www.npmjs.com/package/playwright-cleanup,Playwright-cleanup,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc,Playwright Tips (videos),https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://danteukraine.github.io/playwright-elements,playwright-elements,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://www.appetize.io,Appetize,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://www.npmjs.com/package/playwright-performance,Playwright-performance,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://playwrightweekly.com,Playwright Weekly,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://www.npmjs.com/package/appwright,appwright,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://testingbot.com,TestingBot,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://docs.happo.io/docs/playwright,Happo,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://playwrightsolutions.com,playwrightsolutions.com,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://serenity-js.org/handbook/web-testing/your-first-web-scenario/,serenity-js.org,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd,Chrome Web Store,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://try.playwright.tech,Try Playwright,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://www.npmjs.com/package/playwright-graphql?activeTab=readme,playwright-graphql,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://www.checklyhq.com/docs/detect/testing/playwright-reporter/,Checkly,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://serenity-js.org,Serenity/JS,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://currents.dev/,currents-dev,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://serenity-js.org/handbook/design/screenplay-pattern/,Screenplay Pattern,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://testdino.com,TestDino,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://git.io/JT2bj,Playwright,https://github.com/mxschmitt/awesome-playwright#readme,Playwright
+https://octomind.dev,octomind.dev,https://github.com/mxschmitt/awesome-playwright#readme,Playwright

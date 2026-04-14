@@ -1,1 +1,10 @@
-https://www.npmjs.com/~phuu,phuu,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/maintenance-modules,,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/~boennemann,boennemann,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/gasket,gasket,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/~ngoldman,ngoldman,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/~sindresorhus,sindresorhus,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/~meandave,meandave,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/~phuu,phuu,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/~tjunnone,tjunnone,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/~zeke,zeke,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://npmjs.org/~zeke,zeke,https://github.com/maxogden/maintenance-modules#readme,Maintenance Modules error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests

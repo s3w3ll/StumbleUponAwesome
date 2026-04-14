@@ -1,0 +1,101 @@
+http://opentechschool.github.io/python-data-intro/core/notebook.html,Learn how to use Jupyter Notebook,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html,Visualizing your DataFrames,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://jakevdp.github.io/PythonDataScienceHandbook/,Python Data Science Handbook, as Jupyter Notebooks,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://datascience.stackexchange.com/,datascience.stackexchange.com,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://d2l.ai/,Dive into Deep Learning,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://supportukrainenow.org,SupportUkraineNow.org — "Real ways you can help Ukraine",https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://sebastianraschka.com/blog/2022/ml-pytorch-book.html,Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://stats.stackexchange.com/questions/tagged/machine-learning,stats.stackexchange.com – such as the tag, machine-learning.,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://www.randalolson.com/,Dr. Randal S. Olson,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme,added in 2021,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.reddit.com/r/learningmachinelearning,/r/LearningMachineLearning,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://d2l.ai/chapter_installation/index.html,Run this book locally, using Jupyter Notebooks,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.youtube.com/watch?v=qb7FT68tcA8,learn by screencast,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.reddit.com/r/machinelearning,/r/MachineLearning,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://aws.amazon.com/machine-learning/mlu/,Amazon AWS,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.reddit.com/r/learnmachinelearning/,/r/LearnMachineLearning,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.datasetlist.com/,datasetlist.com,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://openreview.net/about,OpenReview.net,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://reddit.com/r/MachineLearning,/r/MachineLearning,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://d2l.ai/chapter_appendix-tools-for-deep-learning/colab.html,Run this book in your browser, using Google Colab,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://reddit.com/r/DataIsBeautiful,/r/DataIsBeautiful,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb,Launch in Binder, no installation steps required,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://design.google/library/ux-ai/,"The UX of AI" by Josh Lovejoy,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://aws.amazon.com/machine-learning/learn/,more of their options,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://reddit.com/r/DataScience,/r/DataScience,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.coursera.org/specializations/jhu-data-science,Data Science Specialization,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://scikit-learn.org/stable/index.html,scikit-learn,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://dask.org/,dask,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://stats.stackexchange.com/,Cross-Validated: stats.stackexchange.com,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr,Prof. Pedro Domingos's introductory video series,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://101.datascience.community/2012/06/27/the-data-scientific-method/,here's a video about the scientific method in data science.,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.coursera.org/learn/machine-learning,Prof. Andrew Ng's Machine Learning on Coursera,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://vaex.io,vaex,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://openreview.net/,OpenReview.net,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf,"A Few Useful Things to Know About Machine Learning",https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en,Prof. Andrew Ng's,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf,"A Few Useful Things to Know about Machine Learning",https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://cs109.github.io/2015/,Harvard CS109: Data Science,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://hai.stanford.edu/people/andrew-ng,Prof. Andrew Ng's,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://en.wikipedia.org/wiki/Technical_debt,technical debt,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://homes.cs.washington.edu/~pedrod/,Prof. Pedro Domingos,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://openreview.net/forum?id=xf0zSBd2iufMg,Open Scholarship and Peer Review: a Time for Experimentation,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.coursera.org/specializations/deep-learning,courses on Deep Learning,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://rayli.net/blog/data/coursera-machine-learning-review/,Study tips for Prof. Andrew Ng's course, by Ray Li,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.kdnuggets.com/2019/09/advice-building-machine-learning-career-research-papers-andrew-ng.html,"Advice on building a machine learning career and reading research papers by Prof. Andrew Ng",https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.deeplearning.ai,deeplearning.ai,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://stronginference.com/Bios8366/lectures.html,Advanced Statistical Computing (Vanderbilt BIOS8366),https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb,Things in Pandas I Wish I'd Had Known Earlier,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.deeplearningbook.org/,Deep Learning,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.coursera.org/learn/machine-learning/reviews,The user reviews on Coursera,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.nngroup.com/articles/false-consensus/,You Are Not The User,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://openreview.net/group?id=ICML.cc/2013/PeerReview,ICML 2013 Peer Review Workshop,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://pandas.pydata.org/pandas-docs/stable/10min.html,10 Minutes to Pandas,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://paperswithcode.com/,paperswithcode.com,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://news.ycombinator.com/item?id=10508565,On Hacker News, user olympus commented to say you could use competitions to practice and evaluate yourself,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://data8.org/,UC Berkeley's Data 8: The Foundations of Data Science,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://research.google/pubs/pub43146/,Machine Learning: The High-Interest Credit Card of Technical Debt,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://openreview.net/sponsors,OpenReview Sponsors,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://distill.pub/about/,Distill.pub,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.kaggle.com/competitions,Kaggle,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.coursera.org/learn/learning-how-to-learn/,"Learning How to Learn" by Barbara Oakley,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y,Video series from Data School, about Pandas,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.inferentialthinking.com/,Computational and Inferential Thinking,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://web.archive.org/web/20210717194345/http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html,Understanding Machine Learning,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://www.chalearn.org/,ChaLearn,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://pandas.pydata.org/pandas-docs/stable/cookbook.html,Cookbook,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/,listen to a podcast episode interviewing one of the authors of this paper,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://pandas.pydata.org/pandas-docs/stable/dsintro.html,Data Structures,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://valohai.com/blog/the-mlops-stack/,MLOps Stack Template,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html,Reshaping by pivoting DataFrames,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.coursera.org/articles/what-does-a-data-engineer-do-and-how-do-i-become-one,"Data Engineering.",https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://barbaraoakley.com/books/a-mind-for-numbers,Barbara Oakley's book A Mind for Numbers: How to Excel at Math and Science,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://pandas.pydata.org/pandas-docs/stable/computation.html,Computational tools,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://ml-ops.org/,"MLOps",https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://ml-ops.org/content/mlops-stack-canvas,MLOps Stack Canvas,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language,StackExchange thread: "What is covariance in plain language?",https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://blog.kaggle.com/,for example, the "No Free Hunch" blog,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://pandas.pydata.org/pandas-docs/stable/groupby.html,Group By (split, apply, and combine DataFrames),https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf,"Rules of Machine Learning: Best Practices for [Reliable] ML Engineering,",https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://paperswithcode.com/datasets,paperswithcode.com/datasets,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://algorithmwatch.org/en/,AlgorithmWatch,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://replicate.com,Replicate,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions,Machine Learning isn't just about Kaggle competitions,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.goodreads.com/book/show/18693655-a-mind-for-numbers,reviews,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html,The High Cost of Maintaining Machine Learning Systems,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.retrievalpractice.org/make-it-stick,Make It Stick: the Science of Successful Learning,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.goodreads.com/book/show/18770267-make-it-stick,reviews,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://hunch.net/?p=22,11 Clever Methods of Overfitting and How to Avoid Them,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+http://radimrehurek.com/data_science_python/,Practical Data Science,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://algorithmwatch.org/en/newsletter/,newsletter,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.swyx.io/learn-in-public/,learning in public,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.manning.com/liveprojectseries/time-series-forecasting-with-bayesian-modeling,Time Series Forecasting with Bayesian Modeling by Michael Grogan,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://developers.google.com/machine-learning/crash-course/,Machine Learning Crash Course from Google,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://cloud.google.com/training/machinelearning-ai,more of their options,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.drawdown.org/,Project Drawdown,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb,learning,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://ethical.institute/principles.html,8 Responsible Machine Learning Principles,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://openethics.ai/canvas/,Open Ethics Canvas,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://www.anaconda.com/download/,Anaconda Python distribution,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://web.archive.org/web/20211226071314/https://brainsteam.co.uk/2021/04/01/opinionated-guide-to-virtualenvs/,If you're unsure or need more context about using conda/virtualenv/poetry/pipenv, here's a very helpful guide,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning
+https://jupyter.org/try,try JupyterLab,https://github.com/hangtwenty/dive-into-machine-learning#readme,Dive into Machine Learning

@@ -1,5 +1,29 @@
+http://mig.mozilla.org/,mig,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://hub.docker.com/r/kalilinux/kali-linux-docker/,official Kali Linux,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.sqreen.io/,Sqreen,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://www.whonix.org,Whonix,https://github.com/sbilly/awesome-security#readme,Security error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://hub.docker.com/r/remnux/metasploit/,docker-metasploit,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://cyware.com/community/ctix-feeds,Cyware Threat Intelligence Feeds,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://torstatus.blutmagie.de/,Tor Node List,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://denyhosts.sourceforge.net/,Denyhosts,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ,Emerging Threats - Open Source,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.phishtank.com/,PhishTank,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://nodesecurity.io/,Node Security Platform,https://github.com/sbilly/awesome-security#readme,Security error: URLError(ConnectionResetError(54, 'Connection reset by peer')) | reason: [Errno 54] Connection reset by peer
-https://scammerlist.now.sh/,Scammer-List,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-http://mig.mozilla.org/,mig,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://torstatus.blutmagie.de/,Tor Node List,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://threatjammer.com,Threat Jammer,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.leakedin.com/,leakedin.com,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 503: 'Backend fetch failed'> | reason: Backend fetch failed
+http://justniffer.sourceforge.net/,justniffer,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://ngrep.sourceforge.net/,ngrep,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.dshield.org/reports.html,Internet Storm Center,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.openvas.org/openvas-nvt-feed.html,OpenVAS NVT Feed,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://wiki.secmobi.com/,SecMobi Wiki,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.alienvault.com/open-threat-exchange/dashboard,AlienVault Open Threat Exchange,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/,PF_RING ZC (Zero Copy),https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation,ENSIA Homepage,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://sourceforge.net/projects/bifrozt/,Bifrozt,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://suricata-ids.org/,Suricata,https://github.com/sbilly/awesome-security#readme,Security error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://w3af.org/,w3af,https://github.com/sbilly/awesome-security#readme,Security error: TimeoutError('timed out') | reason: 
+https://aibuilds.net,Demo,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+http://www.cuckoosandbox.org/,Cuckoo Sandbox,https://github.com/sbilly/awesome-security#readme,Security error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://www.hardenwindows10forsecurity.com/,Hardening Windows 10,https://github.com/sbilly/awesome-security#readme,Security error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://amzn.to/2uWh1Up,How to Hack Like a Legend,https://github.com/sbilly/awesome-security#readme,Security error: <HTTPError 404: 'Not Found'> | reason: Not Found

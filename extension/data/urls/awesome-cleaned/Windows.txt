@@ -1,0 +1,64 @@
+https://www.trackawesomelist.com/0pandadev/awesome-windows/,,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.raycast.com/,Raycast,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://gerardog.github.io/gsudo/,gsudo,https://github.com/0pandadev/awesome-windows#readme,Windows
+http://wox-launcher.github.io/Wox/,Wox,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://learn.microsoft.com/en-us/windows/package-manager/winget/,winget,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://discord.gg/invite/PEX37vvWyU,discord,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://legcord.app/,LegCord,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://hg.mozilla.org/mozilla-central,,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.mp3tag.de/en/,Mp3tag,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://helium.computer/,Helium,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://qttabbar.wikidot.com/,QTTabBar,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://dedg3.com/wao/,Waow,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.rainmeter.net/,Rainmeter,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.ableton.com/en/live/,Ableton Live,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://beeper.com,Beeper,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://audacityteam.org/,Audacity,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://pandadev.net,pandadev.net,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://discordapp.com,Discord,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://codeberg.org/librewolf/source,,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.7-zip.org/,7-Zip,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://picard.musicbrainz.org/,MusicBrainz Picard,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://nilesoft.org,Shell,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.bandisoft.com/bandizip/,Bandizip,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://meetfranz.com/,Franz,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://musikcube.com/,musikcube,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://gitlab.torproject.org/tpo/core/tor,,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://zen-browser.app/,Zen Browser,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.usebruno.com/,Bruno,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://themia.app,Themia,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US,NanaZip,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://hoppscotch.com/,Hoppscotch,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://noramusic.netlify.app/,Nora,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://peazip.github.io/,PeaZip,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://filen.io/,Filen,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://audionodes.com/,AudioNodes,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.google.com/drive//,Google Drive,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://cider.sh/,Cider,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://digimezzo.github.io/site/,Dopamine,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.image-line.com/,FL Studio,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://tenacityaudio.org/,Tenacity,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://riot-optimizer.com/,Riot,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://streamshare.wireway.ch,Streamshare,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.getpostman.com/postman,Postman,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://codeberg.org/tenacityteam/tenacity,,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.wallpaperengine.io/,Wallpaper Engine,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://windhawk.net/,WindHawk,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://yaak.app,Yaak,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.rarlab.com/,WinRAR,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.duplicati.com/,Duplicati,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.prosofteng.com/windows-data-recovery,Data Rescue,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://flowlauncher.com/,Flow Launcher,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://kopia.io/,Kopia,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://restic.net/,Restic,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://rammichael.com/7-taskbar-tweaker,7+ Taskbar Tweaker,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://keypirinha.com/,Keypirinha,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.isobuster.com/,IsoBuster,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://eartrumpet.app/,EarTrumpet,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://fluentflyout.com/,FluentFlyout,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.ontrack.com/en-au/software/easyrecovery/windows,Ontrack EasyRecovery,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.listary.com/,Listary,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://firefox.com,Firefox,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://www.foobar2000.org/,Foobar2000,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://threema.ch,Threema,https://github.com/0pandadev/awesome-windows#readme,Windows
+https://vencord.dev,Vencord,https://github.com/0pandadev/awesome-windows#readme,Windows

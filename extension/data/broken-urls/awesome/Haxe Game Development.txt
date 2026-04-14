@@ -1,0 +1,3 @@
+https://playspellbreak.com/,Spellbreak,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://haxepunk.com/games/,HaxePunk showcase,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+http://northgard.net/,Northgard,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error

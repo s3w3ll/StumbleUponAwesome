@@ -1,8 +1,11 @@
-http://oboejs.com/,oboe.js,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 421: 'Misdirected Request'> | reason: Misdirected Request
-https://jsonpad.io/,jsonpad,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-http://surveyjs.org/,survey.js,https://github.com/burningtree/awesome-json#readme,JSON error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://jsonvat.com/,vat-rates,https://github.com/burningtree/awesome-json#readme,JSON error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://amundsen.com/media-types/collection/,Collection+JSON,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 500: 'Object reference not set to an instance of an object.'> | reason: Object reference not set to an instance of an object.
-http://www.kuwata-lab.com/kwalify/,Kwalify,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-https://frictionlessdata.io/table-schema/,JSON Table Schema,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://jsonstub.com/,JsonStub,https://github.com/burningtree/awesome-json#readme,JSON error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
+https://jsonschema.net//,JSONSchema.net,https://github.com/burningtree/awesome-json#readme,JSON error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://www.schemastore.org/json/,JSON Schema Store,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://ubjson.org/,UBJSON,https://github.com/burningtree/awesome-json#readme,JSON error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+http://www.jsontest.com/,JSON Test,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 530: '<none>'> | reason: <none>
+https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc,FracturedJsonVsc,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.jsonbinpack.org,JSON BinPack,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/deepjson/,deepjson,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://jsonperf.com,JSONPerf,https://github.com/burningtree/awesome-json#readme,JSON error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)
+https://www.npmjs.com/package/fracturedjsonjs,FracturedJsonJs,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://amundsen.com/media-types/collection/,Collection+JSON,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.json2yaml.com/,json2yaml,https://github.com/burningtree/awesome-json#readme,JSON error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

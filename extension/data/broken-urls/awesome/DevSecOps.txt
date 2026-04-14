@@ -1,3 +1,15 @@
-https://azure.microsoft.com/en-au/services/key-vault/,Azure Key Vault,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://appsecday.io/,AppSec Day,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 525: ''> | reason: 
-https://podcast.securityjourney.com/,Application Security Podcast,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.foreseeti.com/,SecuriCAD,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://secdevtools.azurewebsites.net/helpcredscan.html,CredScan,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 403: 'Site Disabled'> | reason: Site Disabled
+https://www.securitycompass.com/sdelements/threat-modeling/,SD Elements,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://nightfall.ai/solutions/product/github,Nightfall,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.pagerduty.com/blog/security-training-at-pagerduty/,Our Approach to Employee Security Training,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://blog.aquasec.com/devsecops-podcasts,BeerSecOps,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://xebialabs.com/periodic-table-of-devops-tools/,Periodic Table of DevOps Tools,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.mydevsecops.io/the-secure-developer-podcast,The Secure Developer,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://academy.safestack.io/,SafeStack,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: URLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')) | reason: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)
+https://safecode.org/wp-content/uploads/2018/03/SAFECode_Fundamental_Practices_for_Secure_Software_Development_March_2018.pdf,Fundamental Practices for Secure Software Development,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.secureflag.com/platform.html,SecureFlag,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.dvwa.co.uk/,Damn Vulnerable Web App,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://discotek.ca/deepdive.xhtml,Deep Dive,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://azure.microsoft.com/en-au/services/key-vault/,Azure Key Vault,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: TimeoutError('The read operation timed out') | reason: 
+https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/,CyberArk Application Access Manager,https://github.com/TaptuIT/awesome-devsecops#readme,DevSecOps error: <HTTPError 520: ''> | reason: 

@@ -1,0 +1,47 @@
+https://www.linkedin.com/newsletters/echo-news-6937495018668482560/,eCHO News NEWSLETTER,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://docs.cilium.io/en/stable,Cilium,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://naftalyava.com/example-xdp-ebpf-code-for-handling-ingress-traffic/,Exploring eBPF and XDP,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://kubito.dev/posts/kubernetes-gateway-api-cilium/,Kubernetes Gateway API with Cilium,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://djalal.opendz.org/post/prevent-kernel-overlayfs-ubuntu-cves-with-yaml/,Learn how Tetragon can stop CVEs with YAML,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://ebpf.io/,ebpf.io,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://www.youtube.com/watch?v=80OYrzS1dCA,Introduction to Cilium,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux,Bpfilter instead of iptables for routing,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://ebpf.io/what-is-ebpf,an introduction to eBPF,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://www.solo.io/blog/cilium-1-14-istio/,Cilium + Istio,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+http://docs.cilium.io/en/latest/bpf/,BPF and XDP Reference Guide,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://veducate.co.uk/migrate-red-hat-openshiftsdn-ovn-kubernetes-cilium/,How to migrate from Red Hat OpenShiftSDN/OVN-Kubernetes to Cilium,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://cilium.io,Website,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://isovalent.com/learning-tracks/,Cilium Learning Tracks,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://xxradar.medium.com/cilium-mutual-auth-diy-5d5036a82cf9,Cilium mutual auth … DIY,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/,Why is the kernel community replacing iptables with BPF?,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://isovalent.com/,Isovalent,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://docs.cilium.io/en/v1.9/gettingstarted/clustermesh/,Cilium Cluster Mesh,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://medium.com/@amitmavgupta/installing-cilium-in-azure-kubernetes-service-byocni-with-no-kube-proxy-825b9007b24b,Istio service mesh with ALB in EKS,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://docs.cilium.io/en/stable/internals/cilium_operator/,Cilium Operator,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://packetpushers.net/podcast/kubernetes-unpacked-022-kubernetes-networking-and-abstraction-with-cilium-and-ebpf/,Podcast: Kubernetes Unpacked Podcast,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://blog.palark.com/why-cilium-for-kubernetes-networking/,Cilium for Kubernetes networking,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://isovalent.com/blog/post/introducing-cilium-mesh/,Cilium Mesh,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://medium.com/@valentin.hristev/kubernetes-loadbalance-service-using-cilium-bgp-control-plane-8a5ad416546a,Kubernetes LoadBalance service using Cilium BGP control plane,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://www.youtube.com/watch?v=z8Kifl3M3LU&list=PLQpKr4_0p0jEIGtCeV4VcGd_-Jf49e1JY,From Zero to Cluster Mesh: Installing and Configuring Cilium CNI on Kubernetes,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://opensource.googleblog.com/2016/11/cilium-networking-and-security.html,A generic introduction to Cilium,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://editor.networkpolicy.io/,NetworkPolicy Editor,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://qmo.fr/docs/talk_20180316_frnog_bpfilter.pdf,Bpfilter: Linux firewall with eBPF sauce,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://www.viktorious.nl/2024/01/05/setup-basic-l4-load-balancing-with-cilium-cni-and-ubuiqiti-edge-router/,Setup basic L4 load balancing with Cilium CNI and Ubuiqiti Edge Router,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://b-nova.com/en/home/content/ebpf-based-networking-with-cilium,eBPF-based networking with Cilium,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://artifacthub.io/packages/helm/cilium/cilium,Cilium Helm Chart,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+http://blog.ipspace.net/2016/10/fast-linux-packet-forwarding-with.html,A podcast interviewing Thomas Graf,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/,How eBPF streamlines the service mesh,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://isovalent.com/blog/post/deploying-red-hat-openshift-with-cilium/,Deploying Red Hat OpenShift with Cilium,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://cilium.io/events/,CiliumCon,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://medium.com/codex/migrate-to-cilium-from-amazon-vpc-cni-with-zero-downtime-493827c6b45e,From Amazon VPC CNI to Cilium with zero downtime,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://medium.com/oracledevs/cni-adventures-with-kubernetes-on-oracle-cloud-cilium-5c6f011746d5,Cilium CNI and OKE on Oracle Cloud,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://isovalent.com/events/2023-07-security-summer-school/,Isovalent Security Summer School 2023,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://learn.microsoft.com/en-us/azure/aks/azure-cni-powered-by-cilium,Cilium in Azure Kubernetes Service (AKS),https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://isovalent.com/events/,Isovalent's cilium related events,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://www.youtube.com/c/eBPFCiliumCommunity,YouTube,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://isovalent.com/resource-library/,Isovalent library for Cilium,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+http://www.slideshare.net/ThomasGraf5/clium-container-networking-with-bpf-xdp,Cilium: Networking & Security for Containers with BPF & XDP,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+http://www.slideshare.net/Docker/cilium-bpf-xdp-for-containers-66969823,Cilium: Networking & Security for Containers with BPF & XDP,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://www.youtube.com/watch?v=TnJF7ht3ZYc&list=PLkA60AVN3hh8oPas3cq2VA9xB7WazcIgs,Video,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+http://www.slideshare.net/ThomasGraf5/cilium-fast-ipv6-container-networking-with-bpf-and-xdp,Cilium: Fast IPv6 container Networking with BPF and XDP,https://github.com/seifrajhi/awesome-cilium#readme,Cilium
+https://fosdem.org/2017/schedule/event/cilium/,Cilium: BPF & XDP for containers,https://github.com/seifrajhi/awesome-cilium#readme,Cilium

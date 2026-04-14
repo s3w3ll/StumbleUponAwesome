@@ -1,0 +1,4 @@
+https://suricata.io,,https://github.com/satta/awesome-suricata#readme,Suricata error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://suricata.io/features,Suricata,https://github.com/satta/awesome-suricata#readme,Suricata error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://dtection.io/ruleset/3cs_lateral,3CORESec NIDS - Lateral Movement,https://github.com/satta/awesome-suricata#readme,Suricata error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://dtection.io/ruleset/3cs_sinkholes,3CORESec NIDS - Sinkholes,https://github.com/satta/awesome-suricata#readme,Suricata error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed

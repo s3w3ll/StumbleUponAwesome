@@ -1,0 +1,148 @@
+https://brootware.github.io/awesome-cyber-security-university/,,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/openvpn,OpenVPN,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/jr/welcome,Welcome,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/introtoresearch,Intro to Researching,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/linuxfundamentalspart1,Linux Fundamentals 1,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/linuxfundamentalspart2,Linux Fundamentals 2,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/linuxfundamentalspart3,Linux Fundamentals 3,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/pentestingfundamentals,Pentesting fundamentals,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/principlesofsecurity,Principles of security,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/redteamengagements,Red Team Engagements,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/hipflask,Hip Flask,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://labex.io/courses/linux-basic-commands-practice-online,Practice Linux Commands,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/googledorking,Google Dorking,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/ohsint,Osint,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/shodan,Shodan.io,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/rptmux,Tmux,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://echoctf.red/challenge/1,Nmap,Curl and Netcat,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/rustscan,Web Scanning,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/subdomainenumeration,Subdomain Enumeration,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/metasploitintro,Metasploit,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/hydra,Hydra,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/linuxprivesc,Linux Privesc,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/redteamfundamentals,Red Team Fundamentals,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/redteamrecon,Red Team Recon,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://labex.io/tutorials/quick-start-with-nmap-free-tutorials-400132,Nmap Tutorials,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/vulnversity,Vulnversity,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/blue,Blue,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/easyctf,Simple CTF,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/cowboyhacker,Bounty Hacker,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/crackthehash,Crack the hash,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/agentsudoctf,Agent Sudo,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/thecodcaper,The Cod Caper,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/ice,Ice,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/lazyadmin,Lazy Admin,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/basicpentestingjt,Basic Pentesting,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/bypassinguac,Bypassing UAC,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/owasptop10,OWASP top 10,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/inclusion,Inclusion,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/injection,Injection,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/owaspjuiceshop,Juiceshop,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/overpass,Overpass,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/yearoftherabbit,Year of the Rabbit,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/bsidesgtdevelpy,DevelPy,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/jackofalltrades,Jack of all trades,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/bolt,Bolt,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/r/room/win64assembly,Windows x64 Assembly,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/ccghidra,CC Ghidra,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/ccradare2,CC Radare2,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/reverseengineering,Reverse Engineering,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/reverselfiles,Reversing ELF,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/rfirmware,Dumping Router Firmware,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/introtopwntools,Intro to pwntools,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/pwnkit,Pwnkit: CVE-2021-4034,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/sudovulnsbypass,Sudo Security Bypass,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/sudovulnsbof,Sudo Buffer Overflow,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/windowsprivescarena,Windows Privesc Arena,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/linuxprivescarena,Linux Privesc Arena,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/windows10privesc,Windows Privesc,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/blaster,Blaster,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/ignite,Ignite,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/kenobi,Kenobi,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/c4ptur3th3fl4g,Capture the flag,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/picklerick,Pickle Rick,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/introdigitalforensics,Introduction to digital forensics,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/windowsfundamentals1xbx,Windows Fundamentals,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/rpnessusredux,Nessus,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/mitre,Mitre,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/introtosiem,IntroSIEM,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/yara,Yara,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/openvas,OpenVAS,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/introductiontohoneypots,Intro to Honeypots,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cyberdefenders.org/blueteam-ctf-challenges/redline/,Volatility,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/btredlinejoxr3d,Red Line,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/autopsy2ze0,Autopsy,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/investigatingwindows,Investigating Windows,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/juicydetails,Juicy Details,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/c2carnage,Carnage,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/squidgameroom,Squid Game,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/bpsplunk,Splunk Boss of the SOC V1,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cyberdefenders.org/blueteam-ctf-challenges/16,Splunk Boss of the SOC V2,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cyberdefenders.org/blueteam-ctf-challenges/8,Splunk Boss of the SOC V3,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/contiransomwarehgh,Hunt Conti with Splunk,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3,Hunting for Execution Tactic,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5,Hunting for Credential Access,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2,Hunting for Persistence Access,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4,Hunting for Defense Evation,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/cyberthreatintel,Threat Intelligence 101,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/threatinteltools,Threat Intelligence Tools,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0,Martryohka doll,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0,The Glory of the Garden,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://play.picoctf.org/practice/challenge/286?category=4&page=2&solved=0,Packets Primer,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://play.picoctf.org/practice/challenge/115?category=4&page=1&solved=0,Wireshark doo doo doo,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://play.picoctf.org/practice/challenge/110?category=4&page=1&solved=0,Wireshark two two two,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://play.picoctf.org/practice/challenge/103?category=4&page=1&solved=0,Trivial flag transfer protocol,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://play.picoctf.org/practice/challenge/74?category=4&page=2&solved=0,What Lies within,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://app.hackthebox.com/challenges/illumination,Illumination,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://app.hackthebox.com/challenges/emo,Emo,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://app.hackthebox.com/challenges/obscure,Obsecure,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cyberdefenders.org/blueteam-ctf-challenges/38,Intel101 Challenge,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cryptohack.org/courses/intro/course_details/,Introduction to Cryptohack,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://play.picoctf.org/practice/challenge/301?category=4&page=2&solved=0,Sleuthkit Intro,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://app.hackthebox.com/challenges/reminiscent,Reminiscent,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cyberdefenders.org/blueteam-ctf-challenges/32,Hunter - Windows Disk Image Forensics,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cyberdefenders.org/blueteam-ctf-challenges/34,Spotlight - Mac Disk Image Forensics,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cyberdefenders.org/blueteam-ctf-challenges/41,Ulysses -  Linux Disk Image Forensics,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cyberdefenders.org/blueteam-ctf-challenges/43,Banking Troubles - Windows Memory Image Forensics,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cyberdefenders.org/blueteam-ctf-challenges/86,Detect Log4J,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/historyofmalware,History of Malware,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/malmalintroductory,Malware Introduction,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/basicmalwarere,Basic Malware Reverse Engineering,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/windowsreversingintro,Intro Windows Reversing,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/win64assembly,Windows x64 Assembly,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/jvmreverseengineering,JVM reverse engineering,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://cyberdefenders.org/blueteam-ctf-challenges/47,Get PDF (Malicious Document),https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://overthewire.org/wargames/bandit/,Bandit,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://overthewire.org/wargames/natas/,Natas,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/postexploit,Post Exploitation Basics,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/smaggrotto,Smag Grotto,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/dogcat,Dogcat,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/bufferoverflowprep,Buffer Overflow Prep,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/breakoutthecage1,Break out the cage,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/lianyu,Lian Yu,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/insekube,Insecure Kubernetes,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/thegreatescape,The Great Escape (docker),https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/solar,Solr Exploiting Log4j,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/spring4shell,Spring4Shell,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/module/recent-threats,Most Recent threats,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/attacktivedirectory,Attacktive Directory,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/retro,Retro,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/blueprint,Blue Print,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/anthem,Anthem,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/relevant,Relevant,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/ra,Ra,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/cct2019,CCT2019,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/theseus,Theseus,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/ironcorp,IronCorp,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/carpediem1,Carpe Diem 1,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/borderlands,Borderlands,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/jeff,Jeff,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/yearoftheowl,Year of the Owl,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/anonymousplayground,Anonymous Playground,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/enterprize,EnterPrize,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/racetrackbank,Racetrack Bank,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://tryhackme.com/room/pythonplayground,Python Playground,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://skerritt.blog/free-rooms/,https://skerritt.blog/free-rooms/,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://allcontributors.org/docs/en/emoji-key,emoji key,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://brootware.github.io,Oaker Min,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University
+https://lucidcode.com,Michael Paul Coder,https://github.com/brootware/awesome-cyber-security-university#readme,Cyber Security University

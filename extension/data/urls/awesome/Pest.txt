@@ -1,0 +1,14 @@
+https://en.wikipedia.org/wiki/Parsing_expression_grammar,PEG,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://pest.rs/book,Book,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://docs.rs/pest,API reference on docs.rs,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://gitter.im/pest-parser/pest,Gitter,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://discord.gg/XEGACtWpT2,Discord,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://shopify.github.io/liquid/,Shopify,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://code.rosaelefanten.org/ws2markdown,ws2markdown,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://marketplace.visualstudio.com/items?itemName=pest.pest-ide-tools,VSCode Extension,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://plugins.jetbrains.com/plugin/12046-pest,IntelliJ IDEA Plugin,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://tomtau.github.io/pest-web-debug/,online,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://crates.io/crates/pest_consume,pest_consume,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://crates.io/crates/pest-test,pest-test,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://crates.io/crates/pest_ascii_tree,pest_ascii_tree,https://github.com/pest-parser/awesome-pest#readme,Pest
+https://docs.rs/pest_debugger/latest/pest_debugger/,pest_debugger,https://github.com/pest-parser/awesome-pest#readme,Pest

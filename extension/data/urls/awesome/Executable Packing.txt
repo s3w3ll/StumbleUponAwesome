@@ -1,0 +1,22 @@
+https://x.com/intent/tweet?text=Awesome%20Executable%20Packing%20-%20A%20curated%20list%20of%20resources%20related%20to%20the%20packing%20of%20various%20executable%20formats%20and%20its%20detection.%0D%0Ahttps%3a%2f%2fgithub%2ecom%2fdhondta%2fawesome-executable-packing%0D%0A&hashtags=awesomelists,malware,malwareresearch,executablepacking,cybersecurity,infosec,,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://www.freebsd.org/cgi/man.cgi?a.out(5),a.out (FreeBSD manual pages),https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://wiki.osdev.org/A.out,A.out binary format,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://anti-debug.checkpoint.com,About anti-debug tricks,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://www.fortiguard.com/events/759/2014-06-12-android-packers-separating-from-the-pack,Android packers: Separating from the pack,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://www.apriorit.com/dev-blog/367-anti-reverse-engineering-protection-techniques-to-use-before-releasing-software,Anti debugging protection techniques with examples,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://pferrie.tripod.com/papers/unpackers.pdf,Anti-unpacker tricks,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://www.virusbulletin.com/virusbulletin/2010/11/anti-unpacker-tricks-part-fourteen/,Anti-unpacker tricks - Part 14 (and previous parts),https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://www.blackhat.com/docs/us-15/materials/us-15-Choi-API-Deobfuscator-Resolving-Obfuscated-API-Functions-In-Modern-Packers.pdf,API deobfuscator: Resolving obfuscated API functions in modern packers,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://phrack.org/issues/58/5,Armouring the ELF: Binary encryption on the UNIX platform,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://www.oreilly.com/library/view/the-art-of/9781118824993,The art of memory forensics: Detecting malware and threats in Windows, Linux, and mac memory,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf,The art of unpacking,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://symantec-enterprise-blogs.security.com/blogs/expert-perspectives/unpacking-hidden-malware-attacks,Cloak and dagger: Unpacking hidden malware attacks,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://en.wikipedia.org/w/index.php?title=Cluster_analysis&oldid=1148034400,Cluster analysis,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://developers.google.com/machine-learning/clustering/clustering-algorithms,Clustering algorithms,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://wiki.osdev.org/COM,COM binary format,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://wiki.osdev.org/COFF,Common object file format (COFF),https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats,Comparison of executable file formats,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://ieeexplore.ieee.org/document/1702388/,A complexity measure,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://ieeexplore.ieee.org/document/106988,Cyclomatic complexity density and software maintenance productivity,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://2008.caro.org/program/dealing-with-virtualization-packers,Dealing with virtualization packers,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing
+https://defacto2.net/g/defacto2net,Defacto2,https://github.com/dhondta/awesome-executable-packing#readme,Executable Packing

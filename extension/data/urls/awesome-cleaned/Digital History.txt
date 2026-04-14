@@ -1,0 +1,99 @@
+https://maehr.github.io/awesome-digital-history/,,https://github.com/maehr/awesome-digital-history#readme,Digital History
+http://workbook.craftingdigitalhistory.ca/,Crafting Digital History,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://python-textbook.pythonhumanities.com/intro.html,Introduction to Python for Humanists,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://maehr.github.io/critical-ai-literacy-for-historians/,Critical AI Literacy for Historians,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://en.wikipedia.org/wiki/Primary_source,primary sources,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://eugenicsarchive.ca/,Eugenics Archive,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://hls-dhs-dss.ch/,Historical Encyclopedia of Switzerland,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://fxtop.com/,Fxtop,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.ismus.is/,ÍSMÚS,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.chgov.bar.admin.ch/,chgov,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://locallinkages.org/,Local Linkages,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html,Python für Historiker:innen,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://awesome-digital-history.pages.dev/,awesome-digital-history.pages.dev,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://hsso.ch/,HSSO,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://comp-think.github.io/,The CTP Book,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.archives.gov/,National Archives,https://github.com/maehr/awesome-digital-history#readme,Digital History
+http://chnm.gmu.edu/digitalhistory/,Digital History Guide,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://gotpapers.scene.org/?page_id=73,Got Papers?,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html,Spiegel Online,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://hmml.org/,HMML,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://cdm21048.contentdm.oclc.org/,National Library of South Africa Digital Collections,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.zotero.org/groups/2541642/digitale_quellenkritik,Digitale Quellenkritik,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://archives.un.org/,United Nations Archive,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://guides.lib.uci.edu/history/history_dh,UCI Digital History,https://github.com/maehr/awesome-digital-history#readme,Digital History
+http://www.cosmov.uzh.ch/,COSMOV,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.digitales-deutsches-frauenarchiv.de/,Digitales Deutsches Frauenarchiv,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://geospatialhistorian.wordpress.com/,Geospatial Historian,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://dh-erfurt.github.io/digital-history/home.html,Grundlagen, Methoden und Anwendungen der Digital History,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://mapire.eu/,Mapire,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.mediathek.at/,Österreichische Mediathek,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://cblevins.github.io/f19-dig-hist/,HIST 7370,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://archive.org/web/,WayBackMachine,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://industriekultur.ch/,Industriekultur,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://parc-portal.org/,PARC,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://digital.skkg.ch/,SKKG Digital Collection,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://kvk.bibliothek.kit.edu/,Karlsruher Virtueller Katalog,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.digibern.ch/,DigiBern,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.monasterium.net/mom/home,Monasterium,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.zotero.org/groups/209983/historical_network_research,Historical Network Research,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://legacy.lib.utexas.edu/maps/,Perry-Castañeda Library Map Collection,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://docupedia.de/,Docupedia,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://tempopedia.org/,Tempopedia,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.topotijdreis.nl/,Topotijdreis,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.marxists.org/,Marxist Internet Archive,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://whgazetteer.org/,World Historical Gazeteer,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://sources-online.org/index.html,Sources Online,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki,Wien Geschichte Wiki,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://repository.duke.edu/dc/adaccess,Ad*Access,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.worldradiohistory.com/index.htm,World Radio History,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.dodis.ch/,Diplomatic Documents of Switzerland,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/,History Toolkit,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.timarit.is/,tímarit.is,https://github.com/maehr/awesome-digital-history#readme,Digital History
+http://www.kartenportal.ch/,Kartenportal,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://swisscollections.ch/,swisscollections,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.nrscotland.gov.uk/,National Records of Scotland,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://wissen-ist-acht.github.io/digitalhistory.intro/,Introduction to Digital History,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.asia-directories.org/,FOCAL,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.leo-bw.de/,leo bw,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.cgwmuseum.org/,Computer Gaming World Museum,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.eastview.com/resources/gpa/crl-san/,South Asian Newspapers,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.eastview.com/resources/gpa/crl-sean/,Southeast Asian Newspapers,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://swissnatcoll.ch/,swissnatcoll,https://github.com/maehr/awesome-digital-history#readme,Digital History
+http://e-codices.ch/,e-codices,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.oldmapsonline.org/,OldMapsOnline,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://digital.zlb.de/,ZLB,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.davidrumsey.com/,David Rumsey Map Collection,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://ekds.ch,Kulturgüter der Schweiz online,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://data.nls.uk/data/,NLS,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.archivesportaleurope.net/,Archives Portal Europe,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://opencat.io/,OpenCat,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.nationalarchives.gov.uk/,The National Archives,https://github.com/maehr/awesome-digital-history#readme,Digital History
+http://www.sfa-laboratory.ch/sr/cubestest/index.php,timeSTAT Cubes,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.letempsarchives.ch/,Le Temps,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://dp.la/,Digital Public Library of America,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://druckschriften-digital.marchivum.de/,MARCHIVUM,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.digitaltransgenderarchive.net/,Digital Transgender Archive,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.atlasofmutualheritage.nl/,Atlas of Mutual Heritage,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://map.geo.admin.ch/,map.geo.admin.ch,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://openhistoricalmap.org/,OpenHistoricalMap,https://github.com/maehr/awesome-digital-history#readme,Digital History
+http://bitsavers.trailing-edge.com/,Bitsavers.org,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://gallica.bnf.fr/,Gallica,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.projekt-gutenberg.org/,Projekt Gutenberg,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.e-manuscripta.ch/,e-manuscripta,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://ehne.fr/,Encyclopédie d'histoire numérique,https://github.com/maehr/awesome-digital-history#readme,Digital History
+http://transcriptiones.ch,transcriptiones,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.atarimagazines.com/,Classic Computer Magazine Archive,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.ina.fr/,Institut national de l'audiovisuel,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://eudocs.lib.byu.edu/index.php/Main_Page,EuroDocs – Online Sources for European History,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.adfontes.uzh.ch/,AdFontes,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://library.harvard.edu/collections/women-working-1800-1930,Women Working 1800-1930,https://github.com/maehr/awesome-digital-history#readme,Digital History
+http://www.memobase.ch/,MEMOBASE,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.e-periodica.ch/,E-Periodica,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.e-rara.ch/,e-rara,https://github.com/maehr/awesome-digital-history#readme,Digital History
+http://computerarchiv-muenchen.de/,Computerarchiv Muenchen,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.handrit.is/,handrit.is,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.amtsdruckschriften.bar.admin.ch/,Amtsdruckschriften,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.islandskort.is/,islandskort.is,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.archeco.info/,arCHeco,https://github.com/maehr/awesome-digital-history#readme,Digital History
+https://www.archives-online.org/,Archives Online,https://github.com/maehr/awesome-digital-history#readme,Digital History

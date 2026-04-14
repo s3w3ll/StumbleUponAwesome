@@ -1,2 +1,6 @@
-http://www.lonesock.net/soil.html,SOIL,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://glew.sourceforge.net,GLEW,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://freeglut.sourceforge.net,freeGLUT,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://bitbucket.org/alfonse/gltut/wiki/Home,Learning Modern 3D Graphics Programming,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://software.intel.com/en-us/gpa,Intel-GPA,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.opengl.org/wiki/Main_Page,OpenGL Wiki,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.lonesock.net/soil.html,SOIL,https://github.com/eug/awesome-opengl#readme,OpenGL error: <HTTPError 404: 'Not Found'> | reason: Not Found

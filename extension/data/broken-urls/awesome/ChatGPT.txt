@@ -1,0 +1,5 @@
+https://www.googlegpt.io,GoogleGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://chatgpt4google.com,ChatGPT for Google,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://genez.io/blog/create-your-first-app-using-chatgpt/,Create your first app using ChatGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://flexgpt.io,FlexGPT,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://apps.apple.com/app/id1662283032,Developer Duck,https://github.com/sindresorhus/awesome-chatgpt#readme,ChatGPT error: <HTTPError 404: 'Not Found'> | reason: Not Found

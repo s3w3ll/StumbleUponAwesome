@@ -1,0 +1,12 @@
+https://www.biorxiv.org/content/10.1101/622803v1.full,Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences,https://github.com/n2cholas/awesome-jax#readme,JAX error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2,ProGen: Language Modeling for Protein Generation,https://github.com/n2cholas/awesome-jax#readme,JAX error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.radx.in/jax.html,Understanding Autodiff with JAX by Srihari Radhakrishna,https://github.com/n2cholas/awesome-jax#readme,JAX error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://roberttlange.github.io/posts/2020/03/blog-post-10/,Getting started with JAX (MLPs, CNNs & RNNs) by Robert Lange,https://github.com/n2cholas/awesome-jax#readme,JAX error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://levelup.gitconnected.com/create-your-own-automatically-differentiable-simulation-with-python-jax-46951e120fbb?sk=e8b9213dd2c6a5895926b2695d28e4aa,Simple PDE solver + Constrained Optimization with JAX by Philip Mocz,https://github.com/n2cholas/awesome-jax#readme,JAX error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://roberttlange.github.io/posts/2021/02/cma-es-jax/,Evolving Neural Networks in JAX by Robert Tjarko Lange,https://github.com/n2cholas/awesome-jax#readme,JAX error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://medium.com/swlh/plugging-into-jax-16c120ec3302,Plugging Into JAX by Nick Doiron,https://github.com/n2cholas/awesome-jax#readme,JAX error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.tensorflow.org/xla,XLA compiler,https://github.com/n2cholas/awesome-jax#readme,JAX error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://people.eecs.berkeley.edu/~bmild/fourfeat,Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains,https://github.com/n2cholas/awesome-jax#readme,JAX error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.036401,Kohn-Sham equations as regularizer: building prior knowledge into machine-learned physics,https://github.com/n2cholas/awesome-jax#readme,JAX error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

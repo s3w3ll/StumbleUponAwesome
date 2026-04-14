@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=YlFUv4F5PYc,Customizing Kustomize with Client-Side Custom Resources,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://kustomize.io,,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/,Declarative Management of Kubernetes Objects Using Kustomize,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://www.youtube.com/watch?v=Xoh_OpLoVtI,Own your YAML: extending Kustomize via Plugins,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://cloud.google.com/anthos-config-management/docs/concepts/kustomize,Configure Kubernetes with Kustomize,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://www.youtube.com/watch?v=1fCAwFGX38U,Organizing the YAML mess with Kustomize,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://www.innoq.com/en/blog/kustomize-enhancement-with-krm-functions/,Kustomize Enhancement with KRM Functions,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://www.youtube.com/watch?v=ahMIBxufNR0,Kustomize: Deploy Your App with Template Free YAML,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://tech.aabouzaid.com/2021/05/delete-a-manifest-from-kustomize-base.html,Delete a manifest from a Kustomize base,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://redhat-scholars.github.io/argocd-tutorial/argocd-tutorial/03-kustomize.html,ArgoCD GitOps Tutorial - Working with Kustomize,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://tech.aabouzaid.com/2022/04/apply-kustomize-builtin-transformers-on-a-single-resource.html,Apply Kustomize builtin transformers on a single resource,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://tech.aabouzaid.com/2020/09/3-ways-to-customize-off-the-shelf-helm-charts-with-kustomize-kubernetes.html,3 ways to customize off-the-shelf Helm charts with Kustomize,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://tech.aabouzaid.com/2022/12/pass-extra-data-to-the-containerized-krm-function.html,Pass extra data to the Containerized KRM function,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://blog.scottlowe.org/2021/11/01/using-kustomize-components-with-cluster-api/,Using Kustomize Components with Cluster API,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://www.innoq.com/en/blog/advanced-kustomize-features/,Advanced Kustomize features,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize
+https://tech.aabouzaid.com/2022/11/set-openapi-patch-strategy-for-kubernetes-custom-resources-kustomize.html,Set OpenAPI patch strategy for Kubernetes Custom Resources,https://github.com/DevOpsHiveHQ/awesome-kustomize#readme,Kustomize

@@ -1,0 +1,3 @@
+https://docutils.sourceforge.io/rst.html,reStructuredText,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://docutils.sourceforge.io/docs/,docutils,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://pandoc.org/MANUAL,pandoc,https://github.com/writing-resources/awesome-scientific-writing#readme,Scientific Writing error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,172 @@
+https://www.youtube.com/user/GNOMEDesktop,GNOMEDesktop on Youtube,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gitlab.com/adhami3310/Footage,Footage,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org,Apps for GNOME,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/97/coverflow-alt-tab/,Coverflow Alt-Tab,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://codeberg.org/swsnr/turnon,Turn On,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://www.gnome.org,,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://missioncenter.io,Mission Center,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Boxes,Boxes,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Workbench,Workbench,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Converter,Switcheroo,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Amberol,Amberol,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/3433/fly-pie,Fly-Pie,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/AudioSharing,Audio Sharing,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Wike,Wike,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/List,Errands,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/3193/blur-my-shell/,Blur-my-shell,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://valadoc.org,Valadoc,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.gnome.org,GNOME,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://planet.gnome.org,Planet GNOME,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Secrets,Secrets,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/2986/runcat/,RunCat,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.nokse22.ultimate-tic-tac-toe,Ultimate Tic Tac Toe,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.cleomenezesjr.aurea,Aurea,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Apostrophe,Apostrophe,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gjs-docs.gnome.org,GJS Documentation,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://circle.gnome.org,GNOME Circle,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe,Ultimate Tic Tac Toe,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/net.natesales.Aviator,Aviator,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Mousai,Mousai,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Lorem,Lorem,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Boatswain,Boatswain,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://discourse.gnome.org,GNOME's Discourse,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/307/dash-to-dock,Dash-to-Dock,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/3210/compiz-windows-effect,Compiz windows effect,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gjs.guide,GJS Guide,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.usebottles.bottles,Bottles,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Authenticator,Authenticator,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.github.huluti.Coulr,Coulr,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Citations,Citations,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/517/caffeine,Caffeine,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://handbook.gnome.org,GNOME Project Handbook,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Epiphany,GNOME Web,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://python-gtk-3-tutorial.readthedocs.io/en/latest,The Python GTK+ 3 Tutorial,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org,GNOME Wiki (depreciated),https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/SharePreview,Share Preview,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Podcasts,Podcasts,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Decoder,Decoder,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/details/org.gnome.Todo,Endeavour,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Community/GettingInTouch/IRC,complete list of channels,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.haguichi.net,Haguichi,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/1160/dash-to-panel,Dash-to-Panel,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.nokse22.Exhibit,Exhibit,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.reddit.com/r/gnome,Reddit,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/4684/useless-gaps,Useless Gaps,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/de.hummdudel.Libellus,Libellus,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Collision,Collisions,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://stackoverflow.com/questions/tagged/gnome,Stack Overflow,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.github.neithern.g4music,Gapless,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/7/removable-drive-menu,Removable Drive Menu,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Fragments,Fragments,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/4648/desktop-cube/,Desktop Cube,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.dvlv.boxbuddyrs,BoxBuddy,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.nokse22.asciidraw,ASCII Draw,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Decibels,Decibels,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/TextPieces,Text Pieces,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Junction,Junction,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://floss.social/@gnome,@gnome on floss.social,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/6655/openweather/,OpenWeather,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/PikaBackup,Pika Backup,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/4703/dock-from-dash,Dock-from-Dash,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://cartero.danirod.es,Cartero,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony,Monophony,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Raider,File Shredder,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/4679/burn-my-windows/,Burn My Windows,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.facebook.com/GNOMEDesktop,@GNOMEDesktop on Facebook,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/net.danigm.timetrack,Timetrack,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/org.nickvision.tubeconverter,Parabolic,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/details/io.otsaloma.nfoview,NFO Viewer,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/NewsFlash,Newsflash,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://snwh.org/paper,Paper,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/DejaDup,Déjà Dup Backups,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.github.marhkb.Pods,Pods,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/3843/just-perfection,Just Perfection,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.github.geigi.cozy,Cozy,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://mijorus.it/projects/collector,Collector,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/779/clipboard-indicator,Clipboard Indicator,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.halfmexican.Mingle,Mingle,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://ranfdev.com/projects/geopard,Geopard,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://www.gnome-look.org/p/999996,ComixCursors,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.mardojai.ForgeSparks,Forge Sparks,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/me.iepure.devtoolbox,Dev Toolbox,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.gitlab.adhami3310.Impression,Impression,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/app.drey.KeyRack,Key Rack,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.nokse22.teleprompter,Teleprompter,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://hydrapaper.gabmus.org,HydraPaper,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/org.gustavoperedo.FontDownloader,Font Downloader,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.github.johnfactotum.Foliate,Foliate,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/4167/custom-hot-corners-extended,Custom Hot Corners - Extended,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gdm-settings.github.io,GDM Settings,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Graphs,Graphs,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/570/todotxt,Todo.txt,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.celluloid_player.Celluloid,Celluloid,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://thisweek.gnome.org,This Week in GNOME,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/en/Biblioteca,Biblioteca,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/app.devsuite.Ptyxis,Ptyxis,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Builder,GNOME Builder,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/app.fotema.Fotema,Fotema,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Tangram,Tangram,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/org.gnome.Fractal,Fractal,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/5446/quick-settings-tweaker,Quick Settings Tweaker,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.seadve.Kooha,Kooha,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/org.gnome.design.AppIconPreview,App Icon Preview,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://gaphor.org,Gaphor,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+http://gkarsay.github.io/parlatype,Parlatype,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.alainm23.planify,Planify,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/DrumMachine/,Drum Machine,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/1319/gsconnect,GSConnect,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.diegoivan.pdf_metadata_editor,Paper Clip,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.Foldex.AdwSteamGtk,AdwSteamGtk,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://amit9838.github.io/mousam,Moussam,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://arewelibadwaitayet.com/,Are we libadwaita yet,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Hieroglyphic,Hieroglyphic,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.github.alexhuntley.Plots,Plots,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Bustle,Bustle,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Polari,Polari,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://dino.im,Dino,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/WebfontKitGenerator,Webfont Kit Generator,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://relm4.org,Relm4,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/6/applications-menu,Application Menu,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://wiki.gnome.org/Newcomers,GNOME Newcomers Wiki,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/615/appindicator-support,KStatusNotifiers/AppIndicator Support,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/en/Curtail,Curtail,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/org.gnome.design.Palette,Palette,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Sysprof,Sysprof,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Cartridges,Cartridges,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.github.tchx84.Flatseal,Flatseal,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.github.flxzt.rnote,RNote,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://developer.gnome.org,GNOME Developer Center,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker,Time Tracker,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Warp,Warp,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/de.philippun1.Snoop,Snoop,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.github.wwmm.easyeffects,Easy Effects,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/6099/paperwm/,PaperWM,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Commit,Commit,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/8/places-status-indicator,Places Indicator,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.getnf.embellish,Embellish,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/so.libdb.dissent,Dissent,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Identity,Identity,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://docs.gtk.org,GTK Documentation,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Blanket,Blanket,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/org.gnome.design.Contrast,Contrast,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/com.clarahobbs.chessclock,Chess Clock,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://extensions.gnome.org/extension/3628/arcmenu,Arc Menu,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Resources,Resources,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/garden.jamie.Morphosis,Morphosis,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/dev.alextren.Spot,Spot,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Tuba,Tuba,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.lo2dev.Echo,Echo,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://rafostar.github.io/clapper,Clapper,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Health,Health,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Dialect,Dialect,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Solanum,Solanum,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Obfuscate,Obfuscate,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/org.gnome.Crosswords,Crosswords,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Shortwave,Shortwave,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/org.gnome.design.IconLibrary,Icon Library,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/de.schmidhuberj.tubefeeder,Pipeline,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/io.github.lainsce.Khronos,Khronos,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/VideoTrimmer,Video Trimer,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/org.gnome.Mahjongg,Mahjongg,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://flathub.org/apps/org.gnome.design.SymbolicPreview,Symbolic Preview,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME
+https://apps.gnome.org/Emblem,Emblem,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME

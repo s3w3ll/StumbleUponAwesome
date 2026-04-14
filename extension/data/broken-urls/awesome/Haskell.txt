@@ -1,2 +1,4 @@
-https://www.futurelearn.com/courses/functional-programming-haskell/,Functional Programming in Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-http://hayoo.fh-wedel.de/,Hayoo,https://github.com/krispo/awesome-haskell#readme,Haskell error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://hayoo.fh-wedel.de/,Hayoo,https://github.com/krispo/awesome-haskell#readme,Haskell error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://ihpcasts.com/ShowEpisode?episodeId=ab384647-3665-4a36-b5e5-e05fea6c2288,IHP Casts,https://github.com/krispo/awesome-haskell#readme,Haskell error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.futurelearn.com/courses/functional-programming-haskell/,Functional Programming in Haskell,https://github.com/krispo/awesome-haskell#readme,Haskell error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://happylearnhaskelltutorial.com/,Happy Learn Haskell Tutorial,https://github.com/krispo/awesome-haskell#readme,Haskell error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

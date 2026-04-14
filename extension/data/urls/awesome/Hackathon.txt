@@ -1,0 +1,61 @@
+https://en.wikipedia.org/wiki/Hackathon,hackathons,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.zotero.org/groups/5538025/awesome_hackathons,Zotero library,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hms.te-st.org/,Teplitsa,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.agorize.com/,www,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://devfolio.co/,www,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://devpost.com,www,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hackhq.io/,HackHQ,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.hackhub.com/event,www,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://help.hackhub.com/,docs,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://help.hackworks.com/knowledge,docs,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.nosu.io/,Nosu,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://docs.stackref.com/,docs,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://taikai.network/,www,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://devtranet.tech/,Devtranet,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hackthackathon.github.io/,Hack the Hackathon,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hack2skill.com,Hack2Skill,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hack2skill.com/organizeHack,own platform,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://blog.hack2skill.com/what-is-a-hackathon-a-complete-guide-about-hackathon,shares resources,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.hackathon.com/,Hackathon.com,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.bemyapp.com/organize-your-hackathon.html,BeMyApp Corporation,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://corporate.hackathon.com/,commercial services,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.hackerearth.com/,HackerEarth,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hacktribe.co/,HackTribe,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.hypeinnovation.com/about,HYPE,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://mettl.com/about/,Mercer | Mettl,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://mettl.com/online-hackathons/,hackathons as a tool,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.microsoft.com/en-us/garage/blog/category/hackathons/,Microsoft,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons,offers advice,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://rhokjr.org/,RHOK, Jr.,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.rhok-cph.org/,RHOK CPH,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://tulu.la/hackathons-and-challenges,Tulula,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://tulula.gitbook.io/docs/setup-guide/quick-start,online platform,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://unstop.com/,Unstop,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hackathon-planning-kit.org/,Planning Kit,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hr.berkeley.edu/hr-network/central-guide-managing-hr/managing-hr/interaction/team-building/steps,Steps to Building an Effective Team,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/hackathon-team-builder-a-teams-tab-application/ba-p/3334437,Team Builder for MS Teams,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.sessionlab.com/blog/team-building-activities/,Team building activities,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://opensource.guide/leadership-and-governance/,Leadership & Governance,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://smartchicagocollaborative.org/launch-the-civicwhitaker-anthology/,@CivicWhitaker Anthology,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://developer.ansys.com/node/14990,Ansys Developer,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.betterevaluation.org/blog/hackathon,Evaluation Hackathon,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://eventflare.io/journal/crafting-effective-hackathon-judging-criteria-a-step-by-step-guide,Eventflare's Journal,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://eventflare.io/journal/how-to-select-the-right-hackathon-judges-for-your-event,recruiting judges,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://guide.mlh.io/general-information/judging-and-submissions/judging-plan,MLH Judging Plan,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://guides.data.gouv.fr/autres-ressources-utiles/guide-du-participant-au-hackathon-meteo/ressources-du-hackathon,Guides et documentation data.gouv.fr,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://opendata.ch/guidelines,Hackathon Guidelines - Opendata.ch,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hackhq.io/planning-guide,HackHQ Planning Guide,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hack4thefuture.eu/Guidebook_Hack4theFuture_02.pdf,Hack4TheFuture Guidebook,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hack.athon.uk/,hack.athon.uk,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hack-tools.github.io/,Hack Tools,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://handbuch.jugendhackt.de/,Handbuch Jugend-Hackathons,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://hackorgx.dribdat.cc/project/31,LauzHack How-To,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon,Mattermost Handbook,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/demystifying-the-hackathon,McKinsey: Demystifying the hackathon,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.mediawiki.org/wiki/Hackathons/Handbook,Mediawiki Handbook,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://guide.mlh.io/organizer-resources/software-for-hackathons,MLH Software for Hackathons,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+http://handbook.opendatalab.eu/,OpenDataLab.eu Handbook,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://consensys.net/developers/ultimate-hackathon-survival-guide/,Ultimate Ethereum Hackathon Survival Guide,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.uiin.org/wp-content/uploads/2021/03/SB_Participant-handbook.pdf,Participant,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://uiin.org/wp-content/uploads/2021/04/Hackathon-Handbook-010720.pdf,Organizer,https://github.com/dribdat/awesome-hackathon#readme,Hackathon
+https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/,Pull Request,https://github.com/dribdat/awesome-hackathon#readme,Hackathon

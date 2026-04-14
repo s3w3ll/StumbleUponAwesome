@@ -1,15 +1,26 @@
 {
   "name": "StumbleUponAwesome",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "version": "1.2.2",
   "description": "An awesome internet discovery button. Like StumbleUpon, but for developers, tech and science lovers.",
   "background": {
-    "scripts": [
-      "background.js"
-    ],
-    "persistent": false
-  },  
-  "web_accessible_resources": ["images/icon_16.png", "images/icon_32.png", "images/icon_128.png", "images/rabbithole.gif", "images/rabbithole.png", "images/rabbithole_small.png", "images/spiral.png", "images/close.svg"],
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "images/icon_16.png",
+        "images/icon_32.png",
+        "images/icon_128.png",
+        "images/rabbithole.gif",
+        "images/rabbithole.png",
+        "images/rabbithole_small.png",
+        "images/spiral.png",
+        "images/close.svg"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ],
   "content_scripts": [
     {
       "matches": [
@@ -24,9 +35,14 @@
   ],
   "permissions": [
     "storage",
-    "contextMenus"
+    "contextMenus",
+    "scripting",
+    "tabs"
   ],
-  "browser_action": {
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
     "default_icon": {
       "16": "images/icon_16.png",
       "32": "images/icon_32.png",
@@ -41,7 +57,7 @@
     "128": "images/icon_128.png"
   },
   "commands": {
-    "_execute_browser_action": {
+    "_execute_action": {
       "suggested_key": {
         "windows": "Alt+Shift+S",
         "mac": "Alt+Shift+S",

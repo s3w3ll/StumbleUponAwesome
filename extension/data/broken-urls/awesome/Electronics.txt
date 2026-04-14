@@ -1,5 +1,15 @@
-https://www.findchips.com/,Findchips,https://github.com/kitspace/awesome-electronics#readme,Electronics error: timeout('The read operation timed out') | reason: 
-https://www.3dcontentcentral.com,3D ContentCentral,https://github.com/kitspace/awesome-electronics#readme,Electronics error: timeout('The read operation timed out') | reason: 
-https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know,List of ULPs everyone should know,https://github.com/kitspace/awesome-electronics#readme,Electronics error: timeout('The read operation timed out') | reason: 
-https://tcad.com/Software.html,TCAD Central,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://parts.io/,Parts.io,https://github.com/kitspace/awesome-electronics#readme,Electronics error: timeout('The read operation timed out') | reason: 
+http://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Basic_Electronics_XI.pdf,Student Handbook,https://github.com/kitspace/awesome-electronics#readme,Electronics error: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None) | reason: 
+https://www.autodesk.com/products/eagle/overview,Eagle,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://aems.edu.sd/wp-content/uploads/2019/02/Electronics-Circuits-and-Systems-Fourth-Edition-PDFDrive.com-.pdf,Electronics circuits and systems,https://github.com/kitspace/awesome-electronics#readme,Electronics error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+http://iverilog.icarus.com/,Icarus Verilog,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://octopart.com,Octopart,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://mayhewlabs.com/3dpcb,Mayhew Labs 3dpcb,https://github.com/kitspace/awesome-electronics#readme,Electronics error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://circuitpeople.com,CircuitPeople,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://componentsearchengine.com/,Electronic Component Search Engine,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.3dcontentcentral.com,3D ContentCentral,https://github.com/kitspace/awesome-electronics#readme,Electronics error: TimeoutError('The read operation timed out') | reason: 
+https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html,LTspice,https://github.com/kitspace/awesome-electronics#readme,Electronics error: TimeoutError('The read operation timed out') | reason: 
+http://ngspice.sourceforge.net/,ngspice,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know,List of ULPs everyone should know,https://github.com/kitspace/awesome-electronics#readme,Electronics error: TimeoutError('The read operation timed out') | reason: 
+http://qucs.sourceforge.net/,Qucs,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://nptel.ac.in/course.html,NPTEL,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://eyrie.io,Eyrie,https://github.com/kitspace/awesome-electronics#readme,Electronics error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway

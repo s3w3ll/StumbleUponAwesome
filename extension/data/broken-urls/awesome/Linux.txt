@@ -1,5 +1,15 @@
-http://corebird.baedert.org/,Corebird,https://github.com/inputsh/awesome-linux#readme,Linux error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-http://vim.org,vim,https://github.com/inputsh/awesome-linux#readme,Linux error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://developer.linuxmint.com/projects/cinnamon-projects.html,Cinnamon,https://github.com/inputsh/awesome-linux#readme,Linux error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'developer.linuxmint.com'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'developer.linuxmint.com'. (_ssl.c:1123)
-http://alternativeto.net,AlternativeTo,https://github.com/inputsh/awesome-linux#readme,Linux error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://lxqt.org/,LXQt,https://github.com/inputsh/awesome-linux#readme,Linux error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://linux.die.net/Bash-Beginners-Guide/,Bash Guide for Beginners,https://github.com/inputsh/awesome-linux#readme,Linux error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://linux.die.net/abs-guide/,Advanced Bash-Scripting Guide,https://github.com/inputsh/awesome-linux#readme,Linux error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://openbox.org/wiki/Main_Page,Openbox,https://github.com/inputsh/awesome-linux#readme,Linux error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.nongnu.org/ratpoison/,ratpoison,https://github.com/inputsh/awesome-linux#readme,Linux error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://jangernert.github.io/FeedReader/,FeedReader,https://github.com/inputsh/awesome-linux#readme,Linux error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://manuel-kehl.de/projects/go-for-it/,Go For It!,https://github.com/inputsh/awesome-linux#readme,Linux error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://parnold-x.github.io/nasc/,NaSC,https://github.com/inputsh/awesome-linux#readme,Linux error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://developer.linuxmint.com/projects/cinnamon-projects.html,Cinnamon,https://github.com/inputsh/awesome-linux#readme,Linux error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://corebird.baedert.org/,Corebird,https://github.com/inputsh/awesome-linux#readme,Linux error: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None)) | reason: [WinError 10061] No connection could be made because the target machine actively refused it
+http://gnome-twitch.vinszent.com/,GNOME Twitch,https://github.com/inputsh/awesome-linux#readme,Linux error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://vim.org,vim,https://github.com/inputsh/awesome-linux#readme,Linux error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://wereturtle.github.io/ghostwriter/,ghostwriter,https://github.com/inputsh/awesome-linux#readme,Linux error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://en.opensuse.org/YaST_Software_Management,YaST,https://github.com/inputsh/awesome-linux#readme,Linux error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://gparted.sourceforge.io/,GParted,https://github.com/inputsh/awesome-linux#readme,Linux error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.yoctoproject.org/software-item/matchbox/,Matchbox,https://github.com/inputsh/awesome-linux#readme,Linux error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network

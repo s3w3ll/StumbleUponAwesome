@@ -1,4 +1,28 @@
+https://mailjet.com/,Mailjet,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://mailscribe.com/page/mailmaker,Mailscribe Mailmaker,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://blog.spently.com/,Spently Blog,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.emailmonks.com/blog/,Emailmonks Blog,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.campaignmonitor.com/css/,CSS Support,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 http://codepen.io/reallygoodemails/,Really good emails Codepen,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://milled.com/,Milled,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-http://emailcomb.com/,EmailComb,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://sendtest.email/,Sendtest.email,https://github.com/jonathandion/awesome-emails#readme,Emails error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://myemma.com/brainiac/gate-free-stats,Myemma Email Stats,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://reallygoodemails.com/,Really good emails,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/,Campaign Monitor 2015 Report,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.campaignmonitor.com/company/annual-report/2016/,Campaign Monitor 2016 Report,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://milled.com/,Milled,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.campaignmonitor.com/best-email-marketing-campaigns/,The Top Email Campaigns,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.sendwithus.com/resources/templates,Sendwithus,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.campaignmonitor.com/email-templates/,Campaign Monitor Templates,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://mysigmail.com/card/,MySigMail Card,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 404: 'Page not found: /card/'> | reason: Page not found: /card/
+https://www.campaignmonitor.com/resources/,Campaign Monitor Resources,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.campaignmonitor.com/dev-resources/,Campaign Monitor Dev Resources,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://docs.thememountain.com/acorn/,Acorn,https://github.com/jonathandion/awesome-emails#readme,Emails error: URLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1018)')) | reason: [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1018)
+https://scotch.io/tutorials/building-responsive-email-templates-with-ink,Building Responsive Email Templates with Ink,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://litmus.com/,Litmus,https://github.com/jonathandion/awesome-emails#readme,Emails error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://www.campaignmonitor.com/testing/,Campaign Monitor,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/grunt-litmus,Grunt Litmus,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/gulp-litmus,Gulp Litmus,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://litmus.com/community/learning,Litmus learning,https://github.com/jonathandion/awesome-emails#readme,Emails error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://litmus.com/blog/,Litmus Blog,https://github.com/jonathandion/awesome-emails#readme,Emails error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+http://myemma.com/content-hub,Myemma Blog,https://github.com/jonathandion/awesome-emails#readme,Emails error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://mautic.com/,Mautic,https://github.com/jonathandion/awesome-emails#readme,Emails error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://mautic.org/,Mautic,https://github.com/jonathandion/awesome-emails#readme,Emails error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network

@@ -1,0 +1,6 @@
+https://www.npmjs.com/package/eslint-config-fbjs,Facebook,https://github.com/dustinspecker/awesome-eslint#readme,ESLint error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@gitbutler/no-relative-imports,@gitbutler/no-relative-imports,https://github.com/dustinspecker/awesome-eslint#readme,ESLint error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/eslint-plugin-jest-async,Jest-async,https://github.com/dustinspecker/awesome-eslint#readme,ESLint error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@microsoft/eslint-formatter-sarif,SARIF,https://github.com/dustinspecker/awesome-eslint#readme,ESLint error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f,Creating an ESLint Plugin,https://github.com/dustinspecker/awesome-eslint#readme,ESLint error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/eslint-plugin-const-case,const case,https://github.com/dustinspecker/awesome-eslint#readme,ESLint error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

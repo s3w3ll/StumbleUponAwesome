@@ -1,1 +1,12 @@
-http://abjad.mbrsi.org/,Abjad,https://github.com/ciconia/awesome-music#readme,Music error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://unisonofficial.com/html/user-documentation.html?title=unison-editor,Unison,https://github.com/ciconia/awesome-music#readme,Music error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://sourceforge.net/projects/snd/,snd,https://github.com/ciconia/awesome-music#readme,Music error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.cpdl.org/,CPDL,https://github.com/ciconia/awesome-music#readme,Music error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://timidity.sourceforge.net/,Timidity,https://github.com/ciconia/awesome-music#readme,Music error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://commonmusic.sourceforge.net/,Common Music,https://github.com/ciconia/awesome-music#readme,Music error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://inscore.sourceforge.net/,Inscore,https://github.com/ciconia/awesome-music#readme,Music error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://abjad.mbrsi.org/,Abjad,https://github.com/ciconia/awesome-music#readme,Music error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+http://lame.sourceforge.net/,Lame,https://github.com/ciconia/awesome-music#readme,Music error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://sox.sourceforge.net/,SoX,https://github.com/ciconia/awesome-music#readme,Music error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://guidolib.sourceforge.net/,Guido,https://github.com/ciconia/awesome-music#readme,Music error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://mei-friend.mdw.ac.at,mei-friend,https://github.com/ciconia/awesome-music#readme,Music error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+http://notat.io/,NOTATIO,https://github.com/ciconia/awesome-music#readme,Music error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

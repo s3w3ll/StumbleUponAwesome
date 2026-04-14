@@ -1,0 +1,32 @@
+https://docs.readthedocs.io/en/stable/tutorial/index.html,,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://about.readthedocs.com,https://about.readthedocs.com,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://crate.io/docs/crate/,CrateDB,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.django-cms.org/,django-cms,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.ray.io/,Ray,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.scrapy.org/,Scrapy,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://setuptools.pypa.io/,setuptools,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://sphinx-needs.readthedocs.io/,sphinx-needs,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://sphinx-immaterial.readthedocs.io/,sphinx-immaterial,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://manual.uberspace.de/,Uberspace,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.wagtail.org/,Wagtail,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.wagtail.org/en/stable/releases/index.html,Release Notes,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.wagtail.org/en/stable/contributing/index.html,Contribution guide,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.weblate.org/,Weblate,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://argo-cd.readthedocs.io/,Argo CD,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://doc2dash.readthedocs.io/,doc2dash,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.nautobot.com/,Nautobot,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.sidra.dev/en/latest/,Sidra Data Platform,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.haskellstack.org/,The Haskell Tool Stack,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://discordpy.readthedocs.io/,discord.py,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://aiida-qe-demo.readthedocs.io/,AiiDA demonstration,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://crest.readthedocs.io/,Crest Ocean System,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://jupyterbook.org/,jupyter-book,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://jupyter-sphinx.readthedocs.io/,jupyter-sphinx,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://jupyter-tutorial.readthedocs.io/,jupyter-tutorial,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://msticpy.readthedocs.io/,msticpy,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://nbsphinx.readthedocs.io/,nbsphinx,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.poliastro.space/,poliastro,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://diataxis.fr/,Diátaxis framework,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://docs.sunpy.org/,SunPy,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://torchio.readthedocs.io/,TorchIO,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs
+https://tomobank.readthedocs.io/,TomoBank,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs

@@ -1,0 +1,1 @@
+https://www.npmjs.com/package/git-tip,git-tip,https://github.com/git-tips/tips#readme,Git Tips error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

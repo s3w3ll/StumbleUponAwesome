@@ -1,0 +1,11 @@
+https://cornucopia.owasp.org,Cornucopia,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games
+https://copi.owasp.org,copi.owasp.org,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games
+https://www.cryptogogame.com/EN,Crypto Go,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games
+https://aca.edu.au/resources/cyber-sharing-cards/,Know your risks,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games
+https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/,Backdoors & Breaches,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games
+https://web.archive.org/web/20150312215303/http://www.microsoft.com/security/sdl/adopt/eop.aspx,Elevation of Privilege (EOP) by Microsoft,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games
+https://www.microsoft.com/en-us/download/details.aspx?id=20303,card deck,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games
+http://securitycards.cs.washington.edu/index.html,Security Cards,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games
+https://adam.shostack.org/games.html,Tabletop Security Games & Cards,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games
+https://redcanary.com/blog/using-tabletop-simulations-to-improve-information-security/,Tabletop Simulations to Improve Your Information Security Program,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games
+https://www.linkedin.com/pulse/game-tabletop-games-teach-cyber-information-security-mike-mcgannon,Game On: Tabletop Games to Teach Cyber and Information Security Concepts,https://github.com/Karneades/awesome-security-card-games#readme,Security Card Games

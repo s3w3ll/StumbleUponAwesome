@@ -1,3 +1,4 @@
-https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home,Lua for IDEA,https://github.com/love2d-community/awesome-love2d#readme,LÃ–VE error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bitbucket.org/itraykov/profile.lua/src/,profile.lua,https://github.com/love2d-community/awesome-love2d#readme,LÃ–VE error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://notabug.org/pgimeno/Gspot,GspÃ¶t,https://github.com/love2d-community/awesome-love2d#readme,LÃ–VE error: timeout('The read operation timed out') | reason: 
+https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua,Lua for Visual Studio Code,https://github.com/love2d-community/awesome-love2d#readme,LÖVE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=sumneko.lua,Lua Language Server,https://github.com/love2d-community/awesome-love2d#readme,LÖVE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher,Visual Studio Code LÖVE Launcher,https://github.com/love2d-community/awesome-love2d#readme,LÖVE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode,Local Lua Debugger,https://github.com/love2d-community/awesome-love2d#readme,LÖVE error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

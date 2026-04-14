@@ -1,2 +1,6 @@
 https://30secondsofcode.org/js/p/1,,https://github.com/30-seconds/30-seconds-of-code#readme,30 Seconds of Code
-https://30secondsofcode.org/search,Search page,https://github.com/30-seconds/30-seconds-of-code#readme,30 Seconds of Code
+https://30secondsofcode.org,the website,https://github.com/30-seconds/30-seconds-of-code#readme,30 Seconds of Code
+https://30secondsofcode.org/snippets/p/1,articles,https://github.com/30-seconds/30-seconds-of-code#readme,30 Seconds of Code
+https://30secondsofcode.org/collections/p/1,collections,https://github.com/30-seconds/30-seconds-of-code#readme,30 Seconds of Code
+https://astro.build/,Astro,https://github.com/30-seconds/30-seconds-of-code#readme,30 Seconds of Code
+https://unsplash.com/collections/9387655/30-seconds-of-code-images,Unsplash,https://github.com/30-seconds/30-seconds-of-code#readme,30 Seconds of Code

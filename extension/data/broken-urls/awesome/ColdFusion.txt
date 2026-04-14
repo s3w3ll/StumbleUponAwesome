@@ -1,3 +1,5 @@
-http://macromates.com,TextMate,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-http://cfquickdocs.com/,CFQuickDocs,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
-http://validatethis.org,ValidateThis,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml,CFML Extension for Visual Studio Code,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.adobe.com/products/coldfusion-family.html,Adobe ColdFusion,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion error: TimeoutError('timed out') | reason: 
+https://helpx.adobe.com/coldfusion/home.html,Adobe ColdFusion Documentation,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion error: TimeoutError('The read operation timed out') | reason: 
+http://www.adobe.com/products/coldfusion-builder.html,Adobe ColdFusion Builder 3,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion error: TimeoutError('timed out') | reason: 
+https://www.slatwallcommerce.com/,Slatwall,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion error: <HTTPError 520: '<none>'> | reason: <none>

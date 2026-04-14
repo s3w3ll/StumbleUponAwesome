@@ -1,0 +1,30 @@
+https://termux.dev/en/donate,Termux,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/retrospring,#2,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/mypaint,MyPaint,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://fund.blender.org/,Blender,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://forum.thirtybees.com/support-thirty-bees/,Thirty Bees,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/xfce-eu,#2,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/postmarketos,PostmarketOS,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/generator-jhipster,JHipster,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/bookwyrm,#2,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/secure-scuttlebutt-consortium,Secure Scuttlebutt,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/synfig,#2,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/tiled,#2,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://transmissionbt.com/donate/,Transmission,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/duplicati,Duplicati,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/apexchartsjs,ApexCharts,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/flarum/,Flarum,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/qubes-os,Qubes OS,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/webpack,Webpack,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://www.tipeee.com/zemarmot,#2,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/hapijs,Hapi.js,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/f-droid,F-Droid,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://ko-fi.com/hecrj_,#2,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/funkwhale,Funkwhale,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/getsolus,Solus,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://ko-fi.com/heroicgames,#3,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://opencollective.com/logseq,LogSeq,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://freecadweb.org/wiki/Donate,FreeCAD,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://www.paypal.me/LineageOS,LineageOS,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://freeter.io/sponsor/,Freeter,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons
+https://remmina.org/donations/,Remmina,https://github.com/uraimo/awesome-software-patreons#readme,Software Patreons

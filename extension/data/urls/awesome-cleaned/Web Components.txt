@@ -1,0 +1,87 @@
+https://codelabs.developers.google.com/codelabs/the-lit-path,From Web Component to Lit Element,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/,Styling in the Shadow DOM With CSS Shadow Parts,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/making-web-components-for-different-contexts/,Making Web Components for Different Contexts,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://dev.to/webpadawan/beyond-the-polyfills-how-web-components-affect-us-today-3j0a,Beyond the polyfills: how Web Components affect us today?,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://gomakethings.com/html-templates-with-vanilla-javascript/,HTML templates with vanilla JavaScript,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/thinking-through-styling-options-for-web-components/,Thinking Through Styling Options for Web Components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/,Web components still need to be accessible,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://javascript.info/custom-elements,Custom elements,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://javascript.info/shadow-dom-events,Shadow DOM and events,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://component.kitchen/blog/posts/supporting-both-automatic-and-manual-registration-of-custom-elements,Supporting both automatic and manual registration of custom elements,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part,MDN - part global attribute,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/,Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://developer.mozilla.org/en-US/docs/Web/Web_Components,Web Components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://web.dev/components-howto-checkbox/,HowTo Components –<howto-checkbox>,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://javascript.info/slots-composition,Shadow DOM slots, composition,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template,MDN - <template>: The Content Template element,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/an-introduction-to-web-components/,An Introduction to Web Components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.hjorthhansen.dev/shadow-dom-and-forms/,Custom elements, shadow DOM and implicit form submission,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/,Web Standards Meet User-Land: Using CSS-in-JS to Style Custom Elements,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://javascript.info/shadow-dom-style,Shadow DOM styling,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://meowni.ca/posts/part-theme-explainer/,::part and ::theme, an ::explainer,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.hjorthhansen.dev/shadow-dom-form-participation/,Form-associated custom elements,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/,The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://web.dev/custom-elements-best-practices/,Custom Element Best Practices,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.hjorthhansen.dev/you-might-not-need-shadow-dom/,You might not need shadow DOM,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://web.dev/components-howto-tabs/,HowTo Components –<howto-tabs>,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://coryrylan.com/blog/accessibility-with-id-referencing-and-shadow-dom,Accessibility with ID Referencing and Shadow DOM,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://web.dev/custom-elements-v1/,Custom Elements v1: Reusable Web Components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://dev.to/ionic/apple-just-shipped-web-components-to-production-and-you-probably-missed-it-57pf,Apple Just Shipped Web Components to Production and You Probably Missed It,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/,Does shadow DOM improve style performance?,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://web.dev/shadowdom-v1/,Shadow DOM v1: Self-Contained Web Components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/,Dialogs and shadow DOM: can we make it accessible?,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots,MDN - Using templates and slots,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://nolanlawson.com/2021/08/03/handling-properties-in-custom-element-upgrades/,Handling properties in custom element upgrades,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://open-wc.org/guides/developing-components/publishing/,Developing Components: Publishing,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.thinktecture.com/web-components/introduction-and-motivation/,The Motivation For Using Web Components, an Introduction,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/advanced-tooling-for-web-components/,Advanced Tooling for Web Components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://w3ctag.github.io/webcomponents-design-guidelines/,Guidelines for creating web platform compatible components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://web.dev/components-howto-tooltip/,HowTo Components – <howto-tooltip>,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://custom-elements-everywhere.com,Custom Elements Everywhere,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://every-layout.dev/blog/eschewing-shadow-dom/,Eschewing Shadow DOM,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://javascript.info/template-element,Template element,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/,How to Publish Web Components to NPM,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://dev.to/thatjoemoore/bringing-order-to-web-design-chaos--3fhb,Bringing Order to Web Design Chaos (with Web Components),https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://open-wc.org/guides/developing-components/code-examples/,open-wc code examples,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.sitepoint.com/accessible-web-components/,How to Make Accessible Web Components — a Brief Guide,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://kittygiraudel.com/2022/09/30/templating-in-html/,Templating in HTML,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82,The Rise of Shadow DOM,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://javascript.info/webcomponents-intro,Web Components: From the orbital height,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://open-wc.org,Open Web Components Recommendations,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://robdodson.me/interoperable-custom-elements/,Custom Elements That Work Anywhere,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://coryrylan.com/blog/understanding-slot-updates-with-web-components,Understanding Slot Updates with Web Components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/,Managing focus in the shadow DOM,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://web.dev/custom-properties-web-components/,How Nordhealth uses Custom Properties in Web Components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://html.spec.whatwg.org/multipage/custom-elements.html,HTML Living Standard: Custom elements,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.infoworld.com/article/3618410/get-moving-with-microsofts-fast-web-components.html,Get moving with Microsoft’s FAST web components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://nolanlawson.com/2021/01/03/options-for-styling-web-components/,Options for styling web components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://dev.to/ahferroin7/the-html5-template-element-26b6,The HTML5 template element,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://robdodson.me/the-future-of-accessibility-for-custom-elements/,The future of accessibility for custom elements,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://bitsofco.de/what-is-the-shadow-dom/,What is the Shadow DOM?,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://thenewstack.io/how-web-components-are-used-at-github-and-salesforce/,How Web Components Are Used at GitHub and Salesforce,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://gomakethings.com/what-are-browser-native-web-components/,What are browser-native web components?,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://dev.to/straversi/build-a-story-web-component-with-litelement-e59,Build a Story Web Component with LitElement,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://nolanlawson.com/2022/06/22/style-scoping-versus-shadow-dom-which-is-fastest/,Style scoping versus shadow DOM: which is fastest?,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://blog.openreplay.com/understanding-the-template-element-in-html/,Understanding The Template Element In HTML,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/,Frankenstein Migration: Framework-Agnostic Approach (Part 1),https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://github.blog/2021-05-04-how-we-use-web-components-at-github/,How we use Web Components at GitHub,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/,The Guide to Accessible Web Components,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/styling-a-web-component/,Styling a Web Component,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://dev.to/westbrook/who-doesnt-love-some-s-3de0,Who doesn't love some slots?,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements,MDN - Using Custom Elements,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/,A Guide to Custom Elements for React Developers,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/,Frankenstein Migration: Framework-Agnostic Approach (Part 2),https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://medium.com/stories-from-upstatement/building-custom-elements-with-web-components-for-the-2020-elections-f767ff9e9c6a,Building Custom Elements with Web Components for the 2020 Elections,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/,Web Components aren't a framework replacement - they're better than that,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/creating-custom-form-controls-with-elementinternals/,Creating Custom Form Controls with ElementInternals,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5,CSS Shadow Parts are coming!,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/,A complete guide on shadow DOM and event propagation,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://medium.com/@Danetag/implementing-a-design-language-system-with-stencil-js-515432918eb5,Implementing a Design Language System with Stencil.js,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://www.24a11y.com/2019/web-components-and-the-aom/,Web Components and the Accessibility Object model (AOM),https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://dev.to/westbrook/your-content-in-shadow-dom-portals-3cdb,Your Content in Shadow DOM Portals,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://component.kitchen/blog/posts/hiding-internal-framework-methods-and-properties-from-web-component-apis,Hiding internal framework methods and properties from web component APIs,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://css-tricks.com/crafting-reusable-html-templates/,Crafting Reusable HTML Templates,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://developer.mozilla.org/en-US/docs/Web/CSS/::part,MDN - ::part() CSS pseudo element,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM,MDN - Using Shadow DOM,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://dev.to/open-wc/mind-the-document-activeelement-2o9a,Mind the document.activeElement!,https://github.com/web-padawan/awesome-web-components#readme,Web Components
+https://javascript.info/shadow-dom,Shadow DOM,https://github.com/web-padawan/awesome-web-components#readme,Web Components

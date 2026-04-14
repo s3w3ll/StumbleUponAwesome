@@ -1,0 +1,3 @@
+https://www.fusetools.com/,,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369,20,000 Leagues Under The Sea,https://github.com/fuse-compound/awesome-fuse#readme,Fuse
+http://www.amphi-festival.de/,Amphi Festival 2017,https://github.com/fuse-compound/awesome-fuse#readme,Fuse

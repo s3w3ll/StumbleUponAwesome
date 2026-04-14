@@ -1,0 +1,226 @@
+https://arxiv.org/abs/1806.09739,REST-ler: Automatic Intelligent REST API Fuzzing, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2025-526-paper.pdf,TWINFUZZ: Differential Testing of Video Hardware Acceleration Stacks, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/2002.08568,MEUZZ: Smart Seed Scheduling for Hybrid Fuzzing, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://qingkaishi.github.io/public_pdfs/SP2020.pdf,Pangolin:Incremental Hybrid Fuzzing with Polyhedral Path Abstraction, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.semanticscholar.org/paper/RetroWrite%3A-Statically-Instrumenting-COTS-Binaries-Dinesh-Burow/845cafb153b0e4b9943c6d9b6a7e42c14845a0d6,RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://en.wikipedia.org/wiki/Fuzzing,Fuzzing,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1801.04589,Deep Reinforcement Fuzzing, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.youtube.com/watch?v=DFQT1YxvpDo,Fuzzing with AFL,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1906.11133,A Review of Machine Learning Applications in Fuzzing, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2024-514-paper.pdf,DeepGo: Predictive Directed Greybox Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2023-78-paper.pdf,LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-zhang-cen.pdf,Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-krupp.pdf,AmpFuzz: Fuzzing for Amplification DDoS Vulnerabilities, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-peng.pdf,GLeeFuzz: Fuzzing WebGL Through Error Message Guided Mutation, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-bulekov.pdf,Morphuzz: Bending (Input) Space to Fuzz Virtual Devices, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-solt.pdf,Lost in Translation: Enabling Confused Deputy Attacks on EDA Software with TransFuzz, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-asmita.pdf,Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1906.00621,Evolutionary Fuzzing of Android OS Vendor System Services, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2023/933600b765/1OXH123kRcQ,RSFuzzer: Discovering Deep SMI Handler Vulnerabilities in UEFI Firmware with Hybrid Fuzzing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a040/1RjEaeMELbq,Predecessor-aware Directed Greybox Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1711.04596,Not all bytes are equal: Neural byte sieve for fuzzing, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2025/223600d507/26hiVy3bGHm,HouseFuzz: Service-Aware Grey-Box Fuzzing for Vulnerability Detection in Linux-Based Firmware, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.unexploitable.systems/publication/kimhfl/,HFL: Hybrid Fuzzing on the Linux Kernel, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/pdf/2203.12064.pdf,Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity20/presentation/jiang,Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity18/presentation/pailoor,MoonShine: Optimizing OS Fuzzer Seed Selection with Trace Distillation, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2025-750-paper.pdf,Automatic Library Fuzzing through API Relation Evolvement, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1905.13055,MoonLight: Effective Fuzzing with Near-Optimal Corpus Distillation, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://doi.org/10.1109/ETFA.2018.8502600,MTF-Storm:a high performance fuzzer for Modbus/TCP, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2024-819-paper.pdf,EnclaveFuzz: Finding Vulnerabilities in SGX Applications, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1711.02807,Faster Fuzzing: Reinitialization with Deep Neural Models, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://gts3.org/assets/papers/2020/xu:freedom.pdf,FREEDOM: Engineering a State-of-the-Art DOM Fuzzer, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a051/1RjEaqzRsfC,SATURN: Host-Gadget Synergistic USB Driver Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2023/933600a116/1He7XPiaynS,Toss a Fault to Your Witcher: Applying Grey-box Coverage-Guided Mutational Fuzzing to Detect SQL and Command Injection Vulnerabilities, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/pdf/1708.08437.pdf,SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity21/presentation/nagy,Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1809.01266,Coverage-Guided Fuzzing for Deep Neural Networks, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1701.07232,Learn&Fuzz: Machine Learning for Input Fuzzing, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2025-1912-paper.pdf,Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a137/1Ub23V26Svm,SoK: Prudent Evaluation Practices for Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2024-556-paper.pdf,Large Language Model guided Protocol Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity20/presentation/ispoglou,FuzzGen: Automatic Fuzzer Generation, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity18/presentation/yun,QSYM : A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2023/933600a746/1OXH6X6Fexi,UTOPIA: Automatic Generation of Fuzz Driver using Unit Tests, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://qingkaishi.github.io/public_pdfs/SP22.pdf,BEACON : Directed Grey-Box Fuzzing with Provable Path Pruning, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-ba.pdf,Stateful Greybox Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-zhang-bin.pdf,Automated Exploitable Heap Layout Generation for Heap Overflows Through Manipulation Distance-Guided Fuzzing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-zhang-kunpeng.pdf,Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-kim-jiwon.pdf,Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-bulekov.pdf,HYPERPILL: Fuzzing for Hypervisor-bugs by Leveraging the Hardware Virtualization Interface, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://softsec.kaist.ac.kr/~sangkilc/papers/cha-oakland15.pdf,Program-Adaptive Mutational Fuzzing, 2015,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://acmccs.github.io/papers/p2123-corinaA.pdf,DIFUZE: Interface Aware Fuzzing for Kernel Drivers, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1808.09413,DLFuzz: Differential Fuzzing Testing of Deep Learning Systems, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2025/223600a066/21B7Ray6BkA,Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://huhong789.github.io/papers/chen:sfuzz.pdf,SFuzz: Slice-based Fuzzing for Real-Time Operating Systems, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2019/666000b122/19skgbGVFEQ,Full-speed Fuzzing: Reducing Fuzzing Overhead through Coverage-guided Tracing, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://doi.org/10.1109/ETFA.2015.7301400,A Modbus/TCP Fuzzer for testing internetworked industrial systems, 2015,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1611.02429,Complementing Model Learning with Mutation-Based Fuzzing, 2016,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity21/presentation/tychalas,ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://a.co/d/0bXISQgZ,Fuzzing Against the Machine: Automate vulnerability research with emulated IoT devices on QEMU,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000e661/1ZZvBxFudzi,SyzGen++: Dependency Inference for Augmenting Kernel Driver Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1807.10875,TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2025/223600a003/21B7PWv1JGU,RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/serebryany,OSS-Fuzz - Google's continuous fuzzing service for open source software, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity20/presentation/osterlund,ParmeSan: Sanitizer-guided Greybox Fuzzing, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a070/1RjEaG9OpTa,SyzTrust: State-aware Fuzzing on Trusted OS Designed for IoT Devices, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://fuzzing-survey.org/,fuzzing-survey.org,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://publications.cispa.saarland/3773/1/2022-CCS-JIT-Fuzzing.pdf,JIT-Picking: Differential Fuzzing of JavaScript Engines, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1807.05620,NEUZZ: Efficient Fuzzing with Neural Program Learning, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2023/933600b050/1OXGOF6jNp6,SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity21/presentation/aafer,Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-garbelini.pdf,BrakTooth: Causing Havoc on Bluetooth Link Manager via Directed Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-luo-zhengxiong.pdf,Bleem: Packet Sequence Oriented Fuzzing for Protocol Implementations, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2025/223600b120/26EkFox5zyg,Stateful Analysis and Fuzzing of Commercial Baseband Firmware, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-song-xiangpu.pdf,MBFuzzer: A Multi-Party Protocol Fuzzer for MQTT Brokers, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-yin.pdf,KextFuzz: Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting Mitigations, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2025-1411-paper.pdf,DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2024-131-paper.pdf,MOCK: Optimizing Kernel Fuzzing Mutation with Context-aware Dependency, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a059/1RjEaxqvmQ8,Titan: Efficient Multi-target Directed Greybox Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/schumilo,kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity20/presentation/oleksenko,SpecFuzz: Bringing Spectre-type vulnerabilities to the surface, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+http://s3.eurecom.fr/docs/ndss18_muench.pdf,What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/abs/1807.00182,EnFuzz: From Ensemble Learning to Ensemble Fuzzing, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.fuzzingbook.org/,The Fuzzing Book,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-chesser.pdf,MultiFuzz: A Multi-Stream Fuzzer For Testing Monolithic Firmware, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2023/933600c708/1OXH7BohI2Y,Finding Specification Blind Spots via Fuzz Testing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2023-688-paper.pdf,No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Description, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/pdf/2208.14530.pdf,MC^2: Rigorous and Efficient Directed Greybox Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a011/1RjE9PjiDss,AFGen: Whole-Function Fuzzing for Applications and Libraries, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-lyu.pdf,MINER: A Hybrid Data-Driven Approach for REST API Fuzzing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a024/1RjEa0y9RMQ,To Boldly Go Where No Fuzzer Has Gone Before: Finding Bugs in Linux' Wireless Stacks through VirtIO Devices, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://ieeexplore.ieee.org/abstract/document/5504701,TaintScope: A checksum-aware directed fuzzing tool for automatic software vulnerability detection, 2010,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://gitlab.com/brown-ssl/ivysyn,IvySyn,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity21/presentation/lee-gwangmu,Constraint-guided Directed Greybox Fuzzing, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2019/666000a594/19skfLYOpaw,Fuzzing File Systems via Two-Dimensional Input Space Exploration, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-gong-xueluan.pdf,PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf,Learning to Fuzz from Symbolic Execution with Application to Smart Contracts, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2023/933600c726/1OXH0xA0Lrq,ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf,Fuzzle: Making a Puzzle for Fuzzers, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a109/1Ub23heRtUA,Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-xu-jinyan.pdf,MorFuzz: Fuzzing Processor via Runtime Instruction Morphing enhanced Synchronizable Co-simulation, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity20/presentation/zong,FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/de-ruiter,Protocol State Fuzzing of TLS Implementations, 2015,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-cho.pdf,BoKASAN: Binary-only Kernel Address Sanitizer for Effective Kernel Fuzzing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-trippel.pdf,Fuzzing Hardware Like Software, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a195/1WPcYmDLzKo,Towards Smart Contract Fuzzing on GPU, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://ieeexplore.ieee.org/document/8863940,The Art, Science, and Engineering of Fuzzing: A Survey,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a096/1Ub234bjuWA,DY Fuzzing: Formal Dolev-Yao Models Meet Cryptographic Protocol Fuzz Testing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2023/933600d228/1OXH4y2HyuI,VIDEZZO: Dependency-aware Virtual Device Fuzzing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity21/presentation/schumilo,Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-zhang-qifan.pdf,ResolverFuzz: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2025-400-paper.pdf,FUZZUER: Enabling Fuzzing of UEFI Interfaces on EDK-2, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/ndss2024_f113_paper.pdf,Predictive Context-sensitive Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://chungkim.io/doc/ccs22-drivefuzz.pdf,DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-shen-zekun.pdf,Drifuzz: Harvesting Bugs in Device Drivers from Golden Seeds, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2019/666000a900/19skg5XghG0,NEUZZ: Efficient Fuzzing with Neural Program Smoothing, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2020/02/24422.pdf,Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity20/presentation/lee-suyoung,Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-wang-jianqiang.pdf,AidFuzzer: Adaptive Interrupt-Driven Firmware Fuzzing via Run-Time State Recognition, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.amazon.com/Fuzzing-Software-Security-Testing-Assurance/dp/1608078507/,Fuzzing for Software Security Testing and Quality Assurance, 2nd Edition,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-xiao-jifan.pdf,Robust, Efficient, and Widely Available Greybox Fuzzing for COTS Binaries with System Call Pattern Feedback, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a142/1Ub23ZRRhRu,Everything is Good for Something: Counterexample-Guided Directed Fuzzing via Likely Invariant Inference, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2023/933600d246/1OXH2Xsv2Du,DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://hexhive.epfl.ch/publications/files/23Oakland.pdf,TEEzz: Fuzzing Trusted Applications on COTS Android Devices, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-chen-xingman.pdf,MTSan: A Feasible and Practical Memory Sanitizer for Fuzzing COTS Binaries, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2024-31-paper.pdf,ReqsMiner: Automated Discovery of CDN Forwarding Request Inconsistencies and DoS Attacks with Grammar-based Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-wang-dawei.pdf,CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity21/presentation/li-yuwei,UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://softsec.kaist.ac.kr/~sangkilc/papers/rebert-usenixsec14.pdf,Optimizing Seed Selection for Fuzzing, 2014,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-deng.pdf,ChainFuzz: Exploiting Upstream Vulnerabilities in Open-Source Supply Chains, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://web.cs.ucdavis.edu/~hchen/paper/chen2019matryoshka.pdf,Matryoshka: fuzzing deeply nested branches, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.nds.rub.de/media/nds/veroeffentlichungen/2016/10/19/tls-attacker-ccs16.pdf,Systematic Fuzzing and Testing of TLS Libraries, 2016,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a127/1Ub23HQTJ1C,LABRADOR: Response Guided Directed Fuzzing for Black-box IoT Devices, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://daramg.gift/paper/han-ndss2019.pdf,CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119/,Fuzzing: Brute Force Vulnerability Discovery, 1st Edition,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity20/presentation/gan,GREYONE: Data Flow Sensitive Fuzzing, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2019/666000a296/19skfwZLirm,Razzer: Finding Kernel Race Bugs through Fuzzing, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-li-penghui.pdf,SDFuzz: Target States Driven Directed Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf,LibAFL: A Framework to Build Modular and Reusable Fuzzers, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-li-wen.pdf,PolyFuzz: Holistic Greybox Fuzzing of Multi-Language Systems, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-yuan-ming.pdf,DDRace: Finding Concurrency UAF Vulnerabilities in Linux Drivers with Directed Fuzzing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-kim.pdf,FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://lifeasageek.github.io/papers/jeong-segfuzz.pdf,SEGFUZZ: Segmentizing Thread Interleaving to Discover Kernel Concurrency Bugs through Fuzzing, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2022-345-paper.pdf,Semantic-Informed Driver Fuzzing Without Both the Hardware Devices and the Emulators, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final73.pdf,Fuzzing with Code Fragments, 2012,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://lifeasageek.github.io/papers/jaewon-difuzzrtl.pdf,DIFUZZRTL: Differential Fuzz Testing to Find CPU Bugs, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2024/313000a196/1WPcYnhN15u,LLMIF: Augmented Large Language Model for Fuzzing IoT Devices, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity20/presentation/liu,FANS: Fuzzing Android Native System Services via Automated Interface Analysis, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-zhang-lingming.pdf,Waltzz: WebAssembly Runtime Fuzzing with Stack-Invariant Transformation, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-mera.pdf,SHiFT: Semi-hosted Fuzz Testing for Embedded Applications, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://ieeexplore.ieee.org/abstract/document/8233151,Coverage-based Greybox Fuzzing as Markov Chain, 2016,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2024-134-paper.pdf,ShapFuzz: Efficient Fuzzing via Shapley-Guided Byte Selection, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.amazon.com/Open-Source-Fuzzing-Tools-Rathaus/dp/1597491950/,Open Source Fuzzing Tools, 1st Edition,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity19/presentation/jung,Fuzzification: Anti-Fuzzing Techniques, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/vuzzer-application-aware-evolutionary-fuzzing/,Vuzzer: Application-aware evolutionary fuzzing, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-dong-yilu.pdf,CoreCrisis: Threat-Guided and Context-Aware Iterative Learning and Fuzzing of 5G Core Networks, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/sp22.pdf,PATA: Fuzzing with Path Aware Taint Analysis, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2025-795-paper.pdf,ICSQuartz: Scan Cycle-Aware and Vendor-Agnostic Fuzzing for Industrial Control Systems, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://chenbihuan.github.io/paper/ccs18-chen-hawkeye.pdf,Hawkeye: Towards a Desired Directed Grey-box Fuzzer, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ,Fuzzing Labs - Patrick Ventuzelo,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity20/presentation/fiterau-brostean,Analysis of DTLS Implementations Using Protocol State Fuzzing, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-zhao-bodong.pdf,StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-jiang-zu-ming.pdf,DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-kande.pdf,TheHuzz: Instruction Fuzzing of Processors Using Golden-Reference Models for Finding Software-Exploitable Vulnerabilities, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-lin-zihan.pdf,Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss201702A-1LeePaper.pdf,DELTA: A Security Assessment Framework for Software-Defined Networks, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity19/presentation/guler,AntiFuzz: Impeding Fuzzing Audits of Binary Executables, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2022-314-paper.pdf,MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://pdfs.semanticscholar.org/488a/b1e313f5109153f2c74e3b5d86d41e9b4b71.pdf,Hybrid fuzz testing: Discovering software bugs via fuzzing and symbolic execution, 2012,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+http://web.cs.ucdavis.edu/~hchen/paper/chen2018angora.pdf,Angora: Efficient Fuzzing by Principled Search, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://conand.me/publications/redini-diane-2021.pdf,DIANE: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-yang-yupeng.pdf,Towards Generic Database Management System Fuzzing, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-zhang-zenong.pdf,FIXREVERTER: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://people.cs.kuleuven.be/~stijn.volckaert/papers/2019_NDSS_PeriScope.pdf,PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-seidel.pdf,Forming Faster Firmware Fuzzers, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2022-296-paper.pdf,Context-Sensitive and Directional Concurrency Fuzzing for Data-Race Detection, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2023-159-paper.pdf,DARWIN: Survival of the Fittest Fuzzing Mutators, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2025-125-paper.pdf,MALintent: Coverage Guided Intent Fuzzing Framework for Android, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity20/presentation/yue,EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit, 2020,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/conference/usenixsecurity18/presentation/talebi,Charm: Facilitating Dynamic Analysis of Device Drivers of Mobile Systems, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+http://daramg.gift/paper/han-ccs2017.pdf,IMF: Inferred Model-based Fuzzer, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-cloosters.pdf,SGXFuzz: Efficiently Synthesizing Nested Structures for SGX Enclave Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-wang-junjie.pdf,FuzzJIT: Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-guler.pdf,Atropos: Effective Fuzzing of Web Applications for Server-Side Vulnerabilities, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.cs.ucr.edu/~csong/oakland22-jigsaw.pdf,Jigsaw: Efficient and Scalable Path Constraints Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings/iccsa/2008/3243/00/3243a019-abs.html,Call-Flow Aware API Fuzz Testing for Security of Windows Systems, 2008,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-myung.pdf,MundoFuzz: Hypervisor Fuzzing with Statistical Coverage Testing and Grammar Inference, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2022-162-paper.pdf,EMS: History-Driven Mutation for Coverage-based Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-bolcskei.pdf,Encarsia: Evaluating CPU Fuzzers via Automatic Bug Injection, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2025-218-paper.pdf,Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://youtu.be/qTTwqFRD1H8,Effective File Format Fuzzing,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2017/09/Automated-Whitebox-Fuzz-Testing-paper-Patrice-Godefroid.pdf,Automated Whitebox Fuzz Testing, 2008,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-borkar.pdf,WhisperFuzz: White-Box Fuzzing for Detecting and Locating Timing Vulnerabilities in Processors, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-bao-andrew.pdf,From Alarms to Real Bugs: Multi-target Multi-step Directed Greybox Fuzzing for Static Analysis Result Verification, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2025-1133-paper.pdf,MSan: Efficiently Detecting Uninitialized Memory Errors During Fuzzing, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-solt.pdf,Cascade: CPU Fuzzing via Intricate Program Generation, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2023-290-paper.pdf,FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-scharnowski.pdf,Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://nebelwelt.net/publications/files/18Oakland.pdf,T-Fuzz: fuzzing by program transformation, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2025/223600c865/26hiVb0gXUA,CHIMERA: Fuzzing P4 Network Infrastructure for Multi-Plane Bug Detection and Vulnerability Discovery, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-bars.pdf,Fuzztruction: Using Fault Injection-based Fuzzing to Leverage Implicit Domain Knowledge, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-jiang-yuancheng.pdf,Fuzzing the PHP Interpreter via Dataflow Fusion, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2025-301-paper.pdf,Truman: Constructing Device Behavior Models from OS Drivers to Fuzz Virtual Devices, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/sec22-zou.pdf,SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs in Linux kernel, 2022,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.youtube.com/watch?v=SngK4W4tVc0,Adventures in Fuzzing,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2025/223600a002/21B7PVDny6I,FirmRCA: Towards Post-Fuzzing Analysis on ARM Embedded Firmware with Efficient Event-based Fault Localization, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.cs.ucr.edu/~heng/pubs/digfuzz_ndss19.pdf,Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-shi-ji.pdf,AIFORE: Smart Fuzzing Based on Automatic Input Format Reverse Engineering, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://softsec.kaist.ac.kr/~sangkilc/papers/woo-ccs13.pdf,Scheduling Black-box Mutational Fuzzing, 2013,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://taesoo.kim/pubs/2021/jung:winnie.pdf,WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-xiang-yi.pdf,Critical Code Guided Directed Greybox Fuzzing for Commits, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.computer.org/csdl/proceedings-article/sp/2025/223600a336/26hiTETXKow,Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_08-4_Zhang_paper.pdf,Life after Speech Recognition: Fuzzing Semantic Misinterpretation for Voice Assistant Applications, 2019,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity23-fu-yu-fu.pdf,autofz: Automated Fuzzer Composition at Runtime, 2023,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ieee-security.org/TC/SP2017/papers/42.pdf,Skyfire: Data-Driven Seed Generation for Fuzzing, 2017,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity25-wu-lichao.pdf,GenHuzz: An Efficient Generative Hardware Fuzzer, 2025,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/2018/07/bar2018_14_Hsu_paper.pdf,INSTRIM: Lightweight Instrumentation for Coverage-guided Fuzzing, 2018,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.cs.ucr.edu/~heng/pubs/afl-hier.pdf,Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://nesa.zju.edu.cn/download/ppt/pgn_slides_V-SHUTTLE.pdf,V-SHUTTLE: Scalable and Semantics-Aware Hypervisor Fuzzing, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://beerkay.github.io/papers/Berkay2021PGFuzzNDSS.pdf,PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.usenix.org/system/files/usenixsecurity24-lindenmeier.pdf,EL3XIR: Fuzzing COTS Secure Monitors, 2024,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-2_24224_paper.pdf,Favocado: Fuzzing Binding Code of JavaScript Engines Using Semantically Correct Test Cases, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://www.microsoft.com/en-us/research/uploads/prod/2021/09/hyperfuzzer-ccs21.pdf,HyperFuzzer: An Efficient Hybrid Fuzzer For Virtual CPUs, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://mboehme.github.io/paper/CCS21.pdf,Regression Greybox Fuzzing, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://gts3.org/assets/papers/2021/ding:snap.pdf,Hardware Support to Improve Fuzzing Performance and Precision, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing
+https://arxiv.org/pdf/2105.05445.pdf,SNIPUZZ: Black-box Fuzzing of IoT Firmware via Message Snippet Inference, 2021,https://github.com/cpuu/awesome-fuzzing#readme,Fuzzing

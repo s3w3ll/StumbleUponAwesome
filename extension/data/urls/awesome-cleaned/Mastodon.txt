@@ -1,0 +1,50 @@
+https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274,Ivory,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://docs.joinmastodon.org/,Documentation & Help Center,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/,Mastodon - Simplified Federation!,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://docs.joinmastodon.org/client/intro/,API Documentation,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://elest.io/open-source/mastodon,elestio,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://apps.apple.com/us/app/toot/id1229021451,Toot!,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://docs.joinmastodon.org/client/libraries/,Official Library List,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://streetpass.social/,StreetPass,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://joinmastodon.org/servers,Official Instance List,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://getaether.net,aether,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://glitch-soc.github.io/docs/,Glitch Edition,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://writefreely.org/,WriteFreely,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://the-federation.info/,The Federation,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://pixelfed.org/,PixelFed,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://www.youtube.com/watch?v=IPSbNdBmWKE,What is Mastodon?,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://misskey-hub.net/en/,Misskey Hub,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://mastodonservers.net/,mastodonservers.net Instance List,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://joinmastodon.org/apps/,Official Client List,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://pleroma.social/,Pleroma,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://fedidb.org/network/,FediDB,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://gitlab.com/brutaldon/brutaldon/,Brutaldon,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://gnusocial.rocks/,GNU social,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://fedi.buzz/,FediBuzz,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://instances.social/list/,instances.social Instance List,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://buffer.com/resources/mastodon-social,A Beginner's Guide to Mastodon,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://gitlab.com/chaica/feed2toot,feed2toot,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://mastodon.social/about/,mastodon.social,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://whalebird.social/en/desktop/contents/,Whalebird,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://www.comeetie.fr/galerie/mapstodon/,Fediverse Graph Visualization,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://social.vivaldi.net/about/,Vivaldi Social,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://mastodon.social/@TrendingBot,@TrendingBot@mastodon.social,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://apps.kde.org/tokodon/,Tokodon,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://fedi.tips,Fedi.Tips,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://docs.joinmastodon.org/user/run-your-own,Official Hosting Documentation,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://fediverse.party/,fediverse.party,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://journa.host/about/,Journa.host,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://mastodon.social/@HackerNewsBot,@HackerNewsBot@mastodon.social,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://masto.host,Masto.host,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://mastodon.cloud/@launchradar,@launchradar@mastodon.cloud,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://scheduler.mastodon.tools/,Toot Scheduler,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://newsie.social/about/,Newsie,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://toot.io/mastodon_hosting.html,toot.io,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://hell.limitedideas.org,hellclient,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://sk22.github.io/megalodon/,Megalodon,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://www.mastodonlistmanager.org/main/,Mastodon List Manager,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://rknightuk.github.io/mastodon-toot-bookmarklet/,Mastodon Toot Bookmarklet,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://codeberg.org/tom79/Fedilab/,Fedilab,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://joinpeertube.org/,Peertube,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://funkwhale.audio/,FunkWhale,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon
+https://joinplu.me/,Plume,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon

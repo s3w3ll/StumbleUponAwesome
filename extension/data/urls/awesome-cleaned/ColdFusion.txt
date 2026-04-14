@@ -1,0 +1,32 @@
+https://coldbox.ortusbooks.com/digging-deeper/recipes/building-rest-apis,ColdBox REST,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://cfbrackets.org,cfbrackets,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://taffy.io,Taffy,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://gallery.ecr.aws/adobe/coldfusion,Amazon ECR,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://hub.docker.com/u/adobecoldfusion,Docker Hub,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://guides.cfwheels.org/docs/routing,CFWheels RESTful,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://cfeclipse.org,CFEclipse,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://hub.docker.com/u/lucee,Docker Hub,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://cachebox.ortusbooks.com/,CacheBox,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://logbox.ortusbooks.com/,LogBox,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://macromates.com,TextMate,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://mustache.github.io,{{ mustache }},https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://www.ortussolutions.com/products/commandbox,CommandBox,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://www.sublimetext.com,Sublime Text 3,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://www.uu-2.info/,Unofficial Updater,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://carehart.org/cf411/,CF411,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://cflib.org/,CFLib,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://www.learncfinaweek.com,Learn CF in a Week,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://trycf.com/,Try ColdFusion,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://www.cfmlrepo.com/,CFRepo,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://lucee.org/,Lucee,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://cfwheels.org,CFWheels,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://www.coldbox.org,ColdBox,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://cfdocs.org/,CFDocs,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://www.farcrycore.org,FarCry,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://bitbucket.org/lucee/lucee/wiki/Home,Lucee Wiki,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://testbox.ortusbooks.com/mocking/mockbox,MockBox,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://docs.lucee.org/,Official Lucee Server Documentation,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://wirebox.ortusbooks.com/,Wirebox,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://www.jetbrains.com/idea/,IntelliJ Idea,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+http://www.contens.com/,CONTENS CMS,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion
+https://www.murasoftware.com/,Mura,https://github.com/seancoyne/awesome-coldfusion#readme,ColdFusion

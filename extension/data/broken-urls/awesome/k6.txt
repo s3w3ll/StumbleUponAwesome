@@ -1,3 +1,4 @@
-https://mostafa.dev/blog/integrating-k6-with-apache-kafka,Integrating k6 with Apache Kafka,https://github.com/k6io/awesome-k6#readme,k6 error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://mostafa.dev/blog/load-testing-your-api-with-swagger-openapi-and-k6,Load Testing Your API with Swagger/OpenAPI and k6,https://github.com/k6io/awesome-k6#readme,k6 error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://mostafa.dev/blog/load-testing-your-api-with-postman,Load Testing Your API with Postman,https://github.com/k6io/awesome-k6#readme,k6 error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://medium.com/microsoftazure/load-testing-with-azure-devops-and-k6-839be039b68a,Load Testing with Azure DevOps and k6,https://github.com/grafana/awesome-k6#readme,k6 error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://levelup.gitconnected.com/load-testing-with-k6-48488c7946bb,Load testing with k6,https://github.com/grafana/awesome-k6#readme,k6 error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://feryn.eu/presentations/distributed-load-testing-k6-confoo23,Distributed load testing with k6,https://github.com/grafana/awesome-k6#readme,k6 error: <HTTPError 426: ''> | reason: 
+https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04,Load Testing with k6,https://github.com/grafana/awesome-k6#readme,k6 error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

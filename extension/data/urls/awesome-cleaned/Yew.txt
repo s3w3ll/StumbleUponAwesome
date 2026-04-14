@@ -1,0 +1,47 @@
+https://alexbuz.github.io/mindsweeper/,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://abhimanyu003.github.io/qubit,qubit,https://github.com/jetli/awesome-yew#readme,Yew
+https://abhimanyu003.github.io/qubit/,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://lucide.rustforweb.org,Rust Lucide,https://github.com/jetli/awesome-yew#readme,Yew
+https://docs.rs/yew,API Docs,https://github.com/jetli/awesome-yew#readme,Yew
+https://sudonull.com/post/11627-Yew-Rust-WebAsse-frontend-framework,Yew - Rust & WebAsse-frontend framework,https://github.com/jetli/awesome-yew#readme,Yew
+https://yew.rs/,Website,https://github.com/jetli/awesome-yew#readme,Yew
+https://scap.kali-team.cn/,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://gitlab.com/marcempunkt/maeurerdev,Marc Portfolio,https://github.com/jetli/awesome-yew#readme,Yew
+https://theiskaa.com,Live at theiskaa.com,https://github.com/jetli/awesome-yew#readme,Yew
+https://huggingface.co/spaces/lmz/candle-whisper,whisper,https://github.com/jetli/awesome-yew#readme,Yew
+https://plotly.com/javascript/,Plotly,https://github.com/jetli/awesome-yew#readme,Yew
+https://discord.gg/VQck8X4,Chatroom,https://github.com/jetli/awesome-yew#readme,Yew
+https://www.reddit.com/r/yew_web/,Reddit,https://github.com/jetli/awesome-yew#readme,Yew
+https://huggingface.co/spaces/lmz/candle-llama2,LLaMA2,https://github.com/jetli/awesome-yew#readme,Yew
+https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe,Create a desktop app in Rust using Tauri and Yew,https://github.com/jetli/awesome-yew#readme,Yew
+https://huggingface.co/spaces/radames/Candle-T5-Generation-Wasm,T5,https://github.com/jetli/awesome-yew#readme,Yew
+https://maeurer.dev/,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://live-ask.com,Live at live-ask.com,https://github.com/jetli/awesome-yew#readme,Yew
+https://huggingface.co/spaces/lmz/candle-yolo,yolo,https://github.com/jetli/awesome-yew#readme,Yew
+https://www.ag-grid.com/javascript-data-grid/,AG Grid,https://github.com/jetli/awesome-yew#readme,Yew
+https://opencollective.com/yew,Financial Contribute,https://github.com/jetli/awesome-yew#readme,Yew
+https://www.youtube.com/watch?v=ilrGIJGdqRo,A code walkthrough video of Yew with a real-world app with Christopher Hunt and Kiki Carter,https://github.com/jetli/awesome-yew#readme,Yew
+https://play.yew.rs,Playground,https://github.com/jetli/awesome-yew#readme,Yew
+https://popper.js.org/,Popper JS,https://github.com/jetli/awesome-yew#readme,Yew
+https://mikekrisher.com/writings/yew_and_tailwind,Adding Tailwind to Yew,https://github.com/jetli/awesome-yew#readme,Yew
+https://floating-ui.rustforweb.org/,Rust Floating UI,https://github.com/jetli/awesome-yew#readme,Yew
+https://rustwasm.github.io/docs/book/,The WebAssembly Book,https://github.com/jetli/awesome-yew#readme,Yew
+https://en.wikipedia.org/wiki/Dot-voting,Dot-voting,https://github.com/jetli/awesome-yew#readme,Yew
+https://rustwasm.github.io/docs/wasm-bindgen/,The wasm-bindgen Guide,https://github.com/jetli/awesome-yew#readme,Yew
+https://rustwasm.github.io/docs/wasm-pack/,The wasm-pack Guide,https://github.com/jetli/awesome-yew#readme,Yew
+https://www.zzhack.fun/,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://hurlurl.com/,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://dev.to/deciduously/lets-build-a-rust-frontend-with-yew---part-1-3k2o,Let's Build a Rust Frontend with Yew,https://github.com/jetli/awesome-yew#readme,Yew
+https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471,A Web Application completely in Rust,https://github.com/jetli/awesome-yew#readme,Yew
+https://pragprog.com/book/khrust/programming-webassembly-with-rust,Programming WebAssembly with Rust,https://github.com/jetli/awesome-yew#readme,Yew
+https://rquote.vercel.app/,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://www.oreilly.com/library/view/creative-projects-for/9781789346220/,Creative Projects for Rust Programmers,https://github.com/jetli/awesome-yew#readme,Yew
+https://macige.tramline.app,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://www.manning.com/books/server-side-webassembly,Server-Side WebAssembly,https://github.com/jetli/awesome-yew#readme,Yew
+https://devctm.com,mb2,https://github.com/jetli/awesome-yew#readme,Yew
+https://crypto.qkation.com,Website,https://github.com/jetli/awesome-yew#readme,Yew
+https://wainwrightmark.github.io/puzzle_cube/,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://mae664128.github.io/demo_web_zip_wasm/,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://rustedlesspass.github.io/,Web App,https://github.com/jetli/awesome-yew#readme,Yew
+https://windows-terminal-theme-generator.netlify.app/,Live Demo,https://github.com/jetli/awesome-yew#readme,Yew
+https://niqin.com,live demo site,https://github.com/jetli/awesome-yew#readme,Yew

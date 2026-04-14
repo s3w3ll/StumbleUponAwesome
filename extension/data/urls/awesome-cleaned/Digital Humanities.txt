@@ -1,0 +1,83 @@
+https://tineye.com/,TinEye,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://www.ala.org/acrl/standards/ilframework,Framework for Information Literacy for Higher Education,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://tropy.org/,Tropy,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://diging.atlassian.net/wiki/spaces/GECO/overview,Giles Ecosystem,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://voyant-tools.org/,Voyant,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://manifoldapp.org/,Manifold,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.digitalhistorynetwork.ch/,Digital History Network Switzerland,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://mattw.io/youtube-metadata/,YouTube Metadata,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://glam-workbench.net/,GLAMS Workbench,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://hdlab.stanford.edu/palladio/,Palladio,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://recogito.pelagios.org/,Recogito,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.humanitiesdataanalysis.org/,Humanities Data Analysis,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.laurenceanthony.net/software/antconc/,AntConc,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html,Intro Cultural Analytics,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://omeka.org/,Omeka,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://allmaps.org/,Allmaps,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://crdh.rrchnm.org/,Current Research in Digital History,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://mupdf.com/,MuPDF,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://hdlab.stanford.edu/breve/,Breve,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://minicomp.github.io/wax/,Wax,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://rawgraphs.io/,RAWGraphs,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://www.corpusexplorer.de,CorpusExplorer v2.0,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://hdlab.stanford.edu/data-pen/,Data Pen,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://asandersgarcia.humspace.ucla.edu/courses/dh101f18/,Introduction to Digital Humanities (DH101),https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://marketplace.sshopencloud.eu/,Social Sciences & Humanities Open Marketplace,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://storyline.knightlab.com/,StorylineJS,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://digitalhumanitiesnow.org/,Digital Humanities Now,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://ach.org/,ACH,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://www.ucla.edu/,UCLA,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://storymap.knightlab.com/,StorymapJS,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://poppler.freedesktop.org/,Poppler,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://missing.csail.mit.edu/,Missing Semester,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://vistorian.github.io/,Vistorian.online,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.ehri-project.eu/,European Holocaust Research Infrastructure (EHRI),https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://datacommons.org/,Data Commons,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://new-languages-for-nlp.github.io/course-materials/intro.html,New Languages for NLP,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://tapor.ca/home,TAPoR 3,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://docs.datacommons.org/datasets/,wide range of sources,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://lexos.wheatoncollege.edu,Lexos,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://teach.dariah.eu/,#dariahTeach,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.zotero.org/groups/2782799/cultural_ai,Cultural AI,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://mimno.github.io/Mallet/,Mallet,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://campus.dariah.eu/,DARIAH-CAMPUS,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://adho.org/,ADHO,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.zotero.org/groups/2386895/dh_unibe,DH Unibe,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://tadirah.info/,Taxonomy of Digital Research Activities in the Humanities (TaDiRAH),https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://catma.de/,CATMA,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://training.parthenos-project.eu/,PARTHENOS Training,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://medium.com/dh-tools-for-beginners,DH Tools for Beginners,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://open-archive.org/,OpenArchive,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.opensemanticsearch.org/,Open Semantic Search,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://programminghistorian.org/,The Programming Historian,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://mith.umd.edu/chain/,CHAIN,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://glycerine.io/,Glycerine,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.zotero.org/groups/113737/doing_digital_humanities_-_a_dariah_bibliography,Doing Digital Humanities - A DARIAH Bibliography,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://www.globaloutlookdh.org/,GO::DH,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.prisms.digital/training/,Digital Editions Course,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://chcinetwork.org/,CHCI,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.historians.org/community-careers/digital-history-resources/,Perspectives on History,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://cmu-lib.github.io/dhlg/topics/,Digital Humanities Literacy Guidebook,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://geobrowser.de.dariah.eu/,DARIAH-DE Geo-Browser,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://data.europa.eu/euodp/en/data/,Open EU Data Portal,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://ltagliaferri.github.io/dh-rutgers-2022/,Digital Humanities Theories and Practice,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://trafilatura.readthedocs.io/,Trafilatura,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://wethink.hypotheses.org/,wethink.hypotheses.org,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://en.wikipedia.org/wiki/Digital_history,Wikipedia,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://dhcenternet.org/,centerNet,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://collectionbuilder.github.io/,CollectionBuilder,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://fortext.net,forText,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.clarin.eu/,CLARIN,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://transkribus.eu/,Transkribus,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.dariah.eu/,DARIAH,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://dh-ch.ch/,DHCH,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.dh.unibe.ch/,Digital Humanities Bern,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://dhlab.philhist.unibas.ch/en/,Digital Humanities Lab - Universität Basel,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://hdlab.stanford.edu/,HDLab,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools,DH Toychest,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://liu.english.ucsb.edu/,Alan Liu,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://www.unige.ch/lettres/humanites-numeriques/,Humanités numériques Unversity of Geneva,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://digitaltextuality.pbworks.com/w/page/68178062/Digital%20Textuality%20Resource%20Pages,Digital Textuality Resource Pages,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://digitalhumanities.duke.edu/tools,Duke University's DH Tools catalog,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+http://www.dhlausanne.ch/,Ladhul dhCenter,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities
+https://rrchnm.org/,Roy Rosenzweig Center for History and New Media,https://github.com/dh-tech/awesome-digital-humanities#readme,Digital Humanities

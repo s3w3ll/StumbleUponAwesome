@@ -1,3 +1,6 @@
-https://gitlab.com/brinkervii/appimage-cobbler,AppImage cobbler,https://github.com/AppImage/awesome-appimage#readme,AppImage error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-https://output.jsbin.com/qoqukof,AppStream Generator,https://github.com/AppImage/awesome-appimage#readme,AppImage error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-https://www.srevinsaju.me/get-appimage/,Get AppImage,https://github.com/AppImage/awesome-appimage#readme,AppImage error: URLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1123)')) | reason: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1123)
+https://app-outlet.github.io/,App Outlet,https://github.com/AppImage/awesome-appimage#readme,AppImage error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://g.sreve/get-appimage/,Get AppImage,https://github.com/AppImage/awesome-appimage#readme,AppImage error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://gitlab.com/brinkervii/appimage-cobbler,AppImage cobbler,https://github.com/AppImage/awesome-appimage#readme,AppImage error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://output.jsbin.com/qoqukof,AppStream Generator,https://github.com/AppImage/awesome-appimage#readme,AppImage error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://invent.kde.org/packaging/craft,KDE Craft,https://github.com/AppImage/awesome-appimage#readme,AppImage error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://gitlab.com/formigoni/gameimage,GameImage,https://github.com/AppImage/awesome-appimage#readme,AppImage error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

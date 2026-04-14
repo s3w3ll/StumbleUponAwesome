@@ -1,5 +1,97 @@
-https://egghead.io/browse/frameworks/angular,Egghead.io - Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://bitsrc.io/,bitsrc,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
-https://www.letsboot.com/angular-2-in-house-training-support,Letsboot.com,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: ''> | reason: 
-https://www.npmjs.com/package/mdl-ext,mdl-ext,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://vsavkin.tumblr.com/post/108837493941/better-support-for-functional-programming-in,Better Support For Functional Programming In,https://github.com/PatrickJS/awesome-angular#readme,Angular error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)
+https://medium.com/@eugeniyoz,Evgeniy Oz,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://medium.com/@maks-dolgikh,Maksim Dolgikh,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ngx-gccb,ngx-gccb,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@trustcomponent/trustcaptcha-angular,trustcaptcha-angular,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/hexaeight-sessions,hexaeight-sessions,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@openfeature/go-feature-flag-web-provider,@openfeature/go-feature-flag-web-provider,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.udemy.com/course/the-complete-guide-to-angular-2,Udemy: Angular - The Complete Guide,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://themeforest.net/search/angular,Theme Forest,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator,Angular File Generator,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://tomastrajan.medium.com/,Tomas Trajan,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://ngx-gccb.netlify.app/,showcase,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://flexi-ui.ecnorow.com/,Flexi UI,https://github.com/PatrickJS/awesome-angular#readme,Angular error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.npmjs.com/package/@melody-auth/angular,SDK,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@ic-on/main,ic-on,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@amirsavand/ngx-input,@amirsavand/ngx-input,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ngx-np-datepicker,ngx-np-datepicker,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics,Angular Schematics,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/~angular,,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://glama.ai/mcp/servers?query=angular,glama,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 103: 'Early Hints'> | reason: Early Hints
+https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode,Angular 17 Snippets,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/animated-paginator-web-component,animated-paginator-web-component,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items/?itemName=AdrienAudouard.i18n-studio,i18n-studio,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@sergeydus/ng-signals-utils,ng-signals-utils,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ngx-light-modal,ngx-light-modal,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/angular-codx-recipe,angular-codx-recipe,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ngx-json-diff-viewer,ngx-json-diff-viewer,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@apidevtools/json-schema-ref-parser,JSON References,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@ops-ai/ngx-feature-flags-toggly,ngx-feature-flags-toggly,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://htmlrev.com/free-angular-templates.html,HTMLrev,https://github.com/PatrickJS/awesome-angular#readme,Angular error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console,Nx Console,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools,AngularTools,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html,VS Code Angular HTML,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ngx-polish-validators,ngx-polish-validators,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@impler/angular,Angular package,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@statsig/angular-bindings,@statsig/angular-bindings,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://blog.simplified.courses/,simplified courses,https://github.com/PatrickJS/awesome-angular#readme,Angular error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.wrappixel.com/templates/category/angular-templates/,Wrap Pixel,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 520: '<none>'> | reason: <none>
+https://gitter.im/angular/angular,Gitter Channel,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/@pyas/connect-angular,@pyas/connect-angular,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/arky-js,arky-js,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@daypilot/daypilot-lite-angular,daypilot-lite-angular,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@hexaflexa/timegrid-angular,timegrid-angular,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://medium.com/@netbasal,Netanel Basal,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ng-as,ng-as,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://codewithahsan.dev/ng-book,Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://adminmart.com/templates/angular-dashboard/,Admin Mart,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 520: '<none>'> | reason: <none>
+https://www.npmjs.com/package/@devcycle/openfeature-angular-provider,@devcycle/openfeature-angular-provider,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ngx-number-to-words,ngx-number-to-words,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter,axe Accessibility Linter,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.rxjs-fruits.com/subscribe,rxjs-fruits,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.fabiobiondi.dev/video-courses/,Fabio Biondi,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/@connectrpc/connect,@connectrpc/connect,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@connectrpc/connect-web,@connectrpc/connect-web,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@elastic/apm-rum-angular,@elastic/apm-rum-angular,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.koenig-solutions.com/angularjs-training-certification-courses,Koenig,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811,article,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/angular-material-jalali-datepicker-adapter,angular-material-jalali-datepicker-adapter,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@asadi/angular-date-components,@asadi/angular-date-components,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ngx-cursor,ngx-cursor,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/diff,diff,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@flagpole/angular,flagpole,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@poseclop/ngx-video-player,@poseclop/ngx-video-player,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@berg-layout/angular,Berg Layout for Angular,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/dockview-angular,dockview-angular,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ng-lock,ng-lock,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://vcl.github.io,VCL,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/@interopio/ng,@interopio/ng,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@tomaszatoo/ngx-timer,ngx-timer,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://manifest.build/docs/angular,quick start,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/ngx-network-status,ngx-network-status,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=arul1998.angular-code-quality-toolkit,VS Code extension,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.packtpub.com/en-us/search?query=angular&sort=best-selling,Packt Publishing,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ngx-signal-hub,ngx-signal-hub,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://cursor.directory/?q=angular,cursor.directory,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.npmjs.com/package/simplici-auth-angular-ionic,simplici-auth-angular-ionic,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/npm-mfe-live-reload,npm-mfe-live-reload,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ngx-filesize-pipe,ngx-filesize-pipe,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/angular-intlayer,angular-intlayer,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/ngx-file-helpers,ngx-file-helpers,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@unhead/angular,unhead,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack,Angular Extension Pack,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://medium.com/@rainer-hahnekamp,Rainer Hahnekamp,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://ui.ngverse.dev/,docs,https://github.com/PatrickJS/awesome-angular#readme,Angular error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.yoozsoft.com/ys-ng/home,yoozsoft,https://github.com/PatrickJS/awesome-angular#readme,Angular error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.yoozsoft.com'. (_ssl.c:1018)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.yoozsoft.com'. (_ssl.c:1018)
+https://offering.solutions/trainings/,Offering Solutions,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://leanpub.com/bookstore?type=all&search=angular,LeanPub,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://docs.trustcaptcha.com/en/frontend/integration?frontend=angular,integrate,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://tech-os.org/,Tech OS,https://github.com/PatrickJS/awesome-angular#readme,Angular error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://aws-solutions.github.io/clickstream-analytics-on-aws/en/latest/sdk-manual/web/,Clickstream Web SDK,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/@luzmo/ngx-embed,@luzmo/ngx-embed,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://angular-templates.io/,Angular-Templates,https://github.com/PatrickJS/awesome-angular#readme,Angular error: TimeoutError('The read operation timed out') | reason: 
+https://ngfast.com/,NgFast,https://github.com/PatrickJS/awesome-angular#readme,Angular error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.npmjs.com/package/@cubejs-client/ngx,@cubejs-client/ngx,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@cubejs-client/core,@cubejs-client/core,https://github.com/PatrickJS/awesome-angular#readme,Angular error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://ultimatecourses.com/newsletter,ultimate courses,https://github.com/PatrickJS/awesome-angular#readme,Angular error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions

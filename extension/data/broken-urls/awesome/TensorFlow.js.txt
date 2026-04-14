@@ -1,1 +1,20 @@
+https://towardsdatascience.com/search?q=tensorflow.js,Towards Data Science,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.tensorplayground.com/1.0.0/,TensorPlayground.com,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://youtu.be/iH9CS-QYmZs,TensorFlow.js: ML for the web and beyond,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.youtube.com/watch?v=y4pfTQJaUJU,Rock Paper Scissors!,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.youtube.com/watch?v=X55m9eS5UFU,Color Blind Tensors,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
 https://codepen.io,CodePen,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.tensorflow.org/js,TensorFlow.js,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.tensorflow.org/js/guide,Official Documentation,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://effectivemachinelearning.com/TensorFlow.js,Effective TensorFlow.js,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.tensorflow.org/js/models,Official tfjs models on TensorFlow.js website,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.npmjs.com/search?q=%40tensorflow-models,@tensorflow-models on NPM,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.tensorflow.org/js/demos,Official tfjs demo website,https://github.com/aaronhma/awesome-tensorflow-js#readme,TensorFlow.js error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

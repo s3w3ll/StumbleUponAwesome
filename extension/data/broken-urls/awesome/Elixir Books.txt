@@ -1,5 +1,2 @@
-https://pragprog.com/book/phoenix/programming-phoenix,Programming Phoenix,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://startlearningelixir.com/r/take-off-with-elixir,Take Off With Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-https://youtube.com/c/frathon,Frathon's YouTube Channel,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://pragprog.com/book/jaerlang2/programming-erlang,Programming Erlang,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://startlearningelixir.com/r/etudes-for-elixir,Études for Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://www.packtpub.com/product/elixir-cookbook/9781784397517,Elixir Cookbook,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.packtpub.com/product/learning-elixir/9781785881749,Learning Elixir,https://github.com/sger/ElixirBooks#readme,Elixir Books error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

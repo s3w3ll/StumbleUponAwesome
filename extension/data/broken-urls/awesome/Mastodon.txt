@@ -1,3 +1,7 @@
-https://microblog.pub/,Microblog.pub,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: timeout('The read operation timed out') | reason: 
-https://notabug.org/halcyon-suite/halcyon,Halcyon,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: timeout('The read operation timed out') | reason: 
-https://nowplaying.resynth1943.net,Mastodon #nowplaying Toot Bookmarklet,https://github.com/tleb/awesome-mastodon#readme,Mastodon error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://cloudplane.org,Cloudplane,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://botsin.space/about/,Bots in Space,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://git.mulligrubs.me/planiverse/,Planiverse,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://kbin.social,Kbin,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon error: URLError(ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) | reason: [WinError 10054] An existing connection was forcibly closed by the remote host
+https://social.network.europa.eu/about/,EU Server,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://mastoinstance.info/,MastoInstance.Info,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://botsin.space/@newsbot,News Bot,https://github.com/hyperupcall/awesome-mastodon#readme,Mastodon error: <HTTPError 404: 'Not Found'> | reason: Not Found

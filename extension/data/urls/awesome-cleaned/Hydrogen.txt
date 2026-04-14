@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=qVkRyjSrhXs&t=22990s,Juan Pablo Prieto at Remix Conf 2023,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://shopify.dev/docs/custom-storefronts/hydrogen,Docs,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://hydrogen.shopify.dev/case-studies/patta-x-tommy,Patta x Tommy,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://hydrogen.shopify.dev/case-studies/kamp-grizzly,Kamp Grizzly,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://shopify.dev/docs/custom-storefronts/hydrogen-react,Hydrogen React,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://shopify.dev/docs/custom-storefronts/hydrogen/getting-started/quickstart,Quickstart,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://shopify.dev/docs/custom-storefronts/hydrogen/building,Tutorial,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://discord.gg/shopifydevs,Discord,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://hydrogen.shopify.dev/case-studies/allbirds,AllBirds,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://vercel.com/templates/remix/hydrogen-2,Vercel,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://theheadlessclub.com/tool/hydrogen,The Headless Club,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://vervaunt.com/shopify-hydrogen-oxygen-pros-cons,Headless Shopify - Hydrogen & Oxygen Pros & Cons + Alternative Routes,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://www.youtube.com/watch?v=MbfKZmvefNs,Remixing Hydrogen - Lessons learnt embracing the platform by JP Prieto,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen
+https://www.youtube.com/watch?v=dTh1esIxw1k,Headless commerce with Shopify's Hydrogen with Bret Little,https://github.com/shopify/awesome-hydrogen#readme,Hydrogen

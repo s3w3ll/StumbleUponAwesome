@@ -1,0 +1,196 @@
+https://www.bringthedonuts.com/essays/how-to-listen-to-customers.html,How to Listen to Customers,https://github.com/dend/awesome-product-management#readme,Product Management
+https://microsoft.com,Microsoft,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.ybrikman.com/,Jim Brikman,https://github.com/dend/awesome-product-management#readme,Product Management
+https://substack.com/@karlssonjohanna,Johanna Karlsson,https://github.com/dend/awesome-product-management#readme,Product Management
+https://vaughntan.org/strataffect,Good strategy understands affect, not just cognition,https://github.com/dend/awesome-product-management#readme,Product Management
+https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18,Want To Build An Incredible Product? Strive For The Delta Of "Wow",https://github.com/dend/awesome-product-management#readme,Product Management
+https://en.wikipedia.org/wiki/Steven_Sinofsky,Steven Sinofsky,https://github.com/dend/awesome-product-management#readme,Product Management
+https://brianbalfour.com/essays/patreon-onboarding-growth,Inside the 6 Hypotheses that Doubled Patreon's Activation Success,https://github.com/dend/awesome-product-management#readme,Product Management
+https://blog.ycombinator.com/navigating-mid-success/,Navigating Mid-Success,https://github.com/dend/awesome-product-management#readme,Product Management
+https://logchimp.codecarrot.net,https://logchimp.codecarrot.net,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/,Painless Functional Specifications – Part 1: Why Bother?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.paulgraham.com/,Paul Graham,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/hubertpalan/,Hubert Palan,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.joelonsoftware.com,Joel Spolsky,https://github.com/dend/awesome-product-management#readme,Product Management
+https://productcollective.com/,Product Collective,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/,The Customer-Driven Playbook,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/davegirouard,Dave Girouard,https://github.com/dend/awesome-product-management#readme,Product Management
+https://svpg.com/coaching-tools-the-plan/,Coaching Tools – The Plan,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.thepitch.show/,https://www.thepitch.show/,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.userinterviews.com/blog/ux-research-for-product-managers,The Product Manager's Guide to UX Research,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.tryexponent.com/blog/the-key-to-a-successful-pm-interview-answer-tradeoffs,Great PM Interview Answers Include Tradeoffs. Here's How.,https://github.com/dend/awesome-product-management#readme,Product Management
+https://brianbalfour.com,Brian Balfour,https://github.com/dend/awesome-product-management#readme,Product Management
+https://en.wikipedia.org/wiki/Sam_Altman,Sam Altman,https://github.com/dend/awesome-product-management#readme,Product Management
+https://medium.com/@coachtony,Tony Stubblebine,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.svpg.com/team/marty-cagan/,Marty Cagan,https://github.com/dend/awesome-product-management#readme,Product Management
+https://herman.bearblog.dev/my-product-is-my-garden/,My product is my garden,https://github.com/dend/awesome-product-management#readme,Product Management
+https://davestewart.co.uk/blog/the-work-is-never-just-the-work/,The work is never just "the work",https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/,Painless Functional Specifications – Part 2: What's a Spec?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/,A Comprehensive Guide To Product Design,https://github.com/dend/awesome-product-management#readme,Product Management
+https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value,How to Calculate Customer Lifetime Value,https://github.com/dend/awesome-product-management#readme,Product Management
+https://managershandbook.notion.site/Remote-teams-5ca3f257580040718fde6eb25c47e134,Remote teams,https://github.com/dend/awesome-product-management#readme,Product Management
+https://katryna-balboni.com/,Katryna Balboni,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/vaughntan/,Vaughn Tan,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget,How To Get Media Coverage for Your Brand,https://github.com/dend/awesome-product-management#readme,Product Management
+https://chang.com/,Wayne Chang,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/sushanth-raman/,Sushanth Raman,https://github.com/dend/awesome-product-management#readme,Product Management
+https://longform.asmartbear.com/startup-money/,Startup Exercise: What can't be solved with money?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://herman.bearblog.dev/,Herman Martinus,https://github.com/dend/awesome-product-management#readme,Product Management
+http://www.paulgraham.com/ecw.html,How to Be an Expert in a Changing World,https://github.com/dend/awesome-product-management#readme,Product Management
+https://biru.sh/,BIRU,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/,Painless Functional Specifications – Part 3: But… How?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553,Quality is not a tradeoff,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.mindtheproduct.com/the-dos-and-donts-of-mentoring-in-product/,The Dos and Don'ts of Mentoring in Product,https://github.com/dend/awesome-product-management#readme,Product Management
+https://hellonext.co,Hellonext, Inc.,https://github.com/dend/awesome-product-management#readme,Product Management
+https://vaughntan.org/strategy,Seven strategy tensions … and misunderstandings,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.pedaling4pups.com/,Clint Fontanella,https://github.com/dend/awesome-product-management#readme,Product Management
+https://industryconference.com/,Industry,https://github.com/dend/awesome-product-management#readme,Product Management
+https://grantslatton.com/solution-space-taste,Solution-space taste,https://github.com/dend/awesome-product-management#readme,Product Management
+http://www.shinyfrog.net/,Shiny Frog,https://github.com/dend/awesome-product-management#readme,Product Management
+https://obsidian.md,Obsidian, Inc.,https://github.com/dend/awesome-product-management#readme,Product Management
+https://screeb.app,Screeb, Inc.,https://github.com/dend/awesome-product-management#readme,Product Management
+https://grantslatton.com/,Grant Slatton,https://github.com/dend/awesome-product-management#readme,Product Management
+https://web.archive.org/web/20190714162138/https://clevertap.com/blog/google-heart-framework/,How to Use the Google HEART Framework to Measure and Improve Your App's UX,https://github.com/dend/awesome-product-management#readme,Product Management
+https://jackdanger.com/pyramid-shaped-career/,A Pyramid-shaped Career,https://github.com/dend/awesome-product-management#readme,Product Management
+https://rogermartin.medium.com/is-or-is-not-the-opposite-stupid-on-its-face-ab635b9c5582,Is or Is Not The Opposite Stupid on its Face?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/,Painless Functional Specifications – Part 4: Tips,https://github.com/dend/awesome-product-management#readme,Product Management
+https://tayloramurphy.substack.com/p/analytics-should-be-an-assembly-line,Analytics should be an Assembly Line,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.smashingmagazine.com/author/nickbabich,Nick Babich,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.bringthedonuts.com/essays/the-tools-dont-matter/,The Tools Don't Matter,https://github.com/dend/awesome-product-management#readme,Product Management
+https://productschool.com/blog/product-strategy/product-okrs,Product OKRs: Driving Outcomes Over Outputs,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/jasoncohen,Jason Cohen,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.bringthedonuts.com/,Ken Norton,https://github.com/dend/awesome-product-management#readme,Product Management
+https://jackdanger.com/about/,Jack Danger,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.producttalk.org/2024/04/story-based-customer-interviews/,Story-Based Customer Interviews,https://github.com/dend/awesome-product-management#readme,Product Management
+http://www.paulgraham.com/hp.html,Hackers and Painters,https://github.com/dend/awesome-product-management#readme,Product Management
+https://davestewart.co.uk/,Dave Stewart,https://github.com/dend/awesome-product-management#readme,Product Management
+https://lethain.com/career-advice-2025/,Career advice in 2025,https://github.com/dend/awesome-product-management#readme,Product Management
+https://tability.io,https://tability.io,https://github.com/dend/awesome-product-management#readme,Product Management
+https://rework.fm/,https://rework.fm/,https://github.com/dend/awesome-product-management#readme,Product Management
+https://m.signalvnoise.com/one-door-at-a-time/,One door at a time,https://github.com/dend/awesome-product-management#readme,Product Management
+https://rogermartin.medium.com/,Roger Martin,https://github.com/dend/awesome-product-management#readme,Product Management
+https://zachholman.com/posts/shit-work/,Don't Give Your Users Shit Work,https://github.com/dend/awesome-product-management#readme,Product Management
+https://longform.asmartbear.com/purgatory/,Product Purgatory: When they love it but still don't buy,https://github.com/dend/awesome-product-management#readme,Product Management
+https://substack.com/@tayloramurphy,Taylor A. Murphy,https://github.com/dend/awesome-product-management#readme,Product Management
+https://zachholman.com/posts/positive-feedback/,You Won't Regret Positive Feedback,https://github.com/dend/awesome-product-management#readme,Product Management
+https://lethain.com/about/,Will Larson,https://github.com/dend/awesome-product-management#readme,Product Management
+https://zachholman.com/about,Zach Holman,https://github.com/dend/awesome-product-management#readme,Product Management
+https://world.hey.com/jason,Jason Fried,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/sachinrekhi/,Sachin Rekhi,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.productschool.com/productcon/,ProductCon,https://github.com/dend/awesome-product-management#readme,Product Management
+https://melissaperri.com/blog/2024/7/16/building-a-great-product-management-organization,Building a Great Product Management Organization,https://github.com/dend/awesome-product-management#readme,Product Management
+https://productschool.com/blog/user-experience/product-management-skills-user-research,Product Management Skills: User Research,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.juliezhuo.com/,Julie Zhuo,https://github.com/dend/awesome-product-management#readme,Product Management
+https://waseem.substack.com/p/tech-enabled-services,Don't start a tech-enabled service,https://github.com/dend/awesome-product-management#readme,Product Management
+https://paulgraham.com/pmjob.html,The Product Manager,https://github.com/dend/awesome-product-management#readme,Product Management
+https://zachholman.com,Zach Holman,https://github.com/dend/awesome-product-management#readme,Product Management
+https://substack.com/@waseem,Waseem Daher,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a,Rickover's Lessons,https://github.com/dend/awesome-product-management#readme,Product Management
+https://artofproductpodcast.com/,https://artofproductpodcast.com/,https://github.com/dend/awesome-product-management#readme,Product Management
+https://tenzu.net,https://tenzu.net,https://github.com/dend/awesome-product-management#readme,Product Management
+https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2,The Quintessential Guide For Building An Unforgettable First-time User Experience,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/villaumbrosia/,Carlos Gonzalez de Villaumbrosia,https://github.com/dend/awesome-product-management#readme,Product Management
+https://longform.asmartbear.com/ssebitda/,SSEBITDA—A steady-state profit metric for SaaS companies,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.microsoft.com/,Microsoft,https://github.com/dend/awesome-product-management#readme,Product Management
+https://web.archive.org/web/20200320142602/https://clevertap.com/blog/author/emily/,Emily Bonnie,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.producttalk.org/2021/08/product-discovery/,Product Discovery Basics,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.laproductconf.com/,La Product Conf,https://github.com/dend/awesome-product-management#readme,Product Management
+https://melissaperri.com/,Melissa Perri,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.defmacro.org/2013/09/26/products.html,How to build great products,https://github.com/dend/awesome-product-management#readme,Product Management
+https://substack.com/@voidpoliticstaiwan,Lily Ottinger,https://github.com/dend/awesome-product-management#readme,Product Management
+https://stratechery.com/,Stratechery by Ben Thompson,https://github.com/dend/awesome-product-management#readme,Product Management
+https://cxl.com/blog/6-user-onboarding-flows/,User Onboarding Examples: Analyzing 6 Real-Life Onboarding Flows,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.defmacro.org,Slava Akhmechet,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html,How to Work With Software Engineers,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.producttalk.org/,Teresa Torres,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/ckindel/,Charlie Kindel,https://github.com/dend/awesome-product-management#readme,Product Management
+https://cxl.com/blog/author/shanelle-mullin/,Shanelle Mullin,https://github.com/dend/awesome-product-management#readme,Product Management
+https://substack.com/@charlesyang,Charles Yang,https://github.com/dend/awesome-product-management#readme,Product Management
+https://blog.pragmaticengineer.com/the-product-minded-engineer/,The Product-Minded Software Engineer,https://github.com/dend/awesome-product-management#readme,Product Management
+http://paulgraham.com/ds.html,Do Things that Don't Scale,https://github.com/dend/awesome-product-management#readme,Product Management
+https://posthog.com/product-engineers/aarrr-pirate-funnel,In-depth: The AARRR pirate funnel explained,https://github.com/dend/awesome-product-management#readme,Product Management
+https://usefulfictions.substack.com/p/how-to-be-more-agentic,How to be more agentic,https://github.com/dend/awesome-product-management#readme,Product Management
+http://www.paulgraham.com/makersschedule.html,Maker's Schedule, Manager's Schedule,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/adachen/,Ada Chen Rekhi,https://github.com/dend/awesome-product-management#readme,Product Management
+https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html,If your product is Great, it doesn't need to be Good,https://github.com/dend/awesome-product-management#readme,Product Management
+https://mobbin.design/,Mobbin,https://github.com/dend/awesome-product-management#readme,Product Management
+https://melissaperri.com/blog/2016/07/14/what-is-good-product-strategy,What is Good Product Strategy?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://blog.pragmaticengineer.com/,Gergely Orosz,https://github.com/dend/awesome-product-management#readme,Product Management
+http://www.paulgraham.com/relres.html,Relentlessly Resourceful,https://github.com/dend/awesome-product-management#readme,Product Management
+https://web.archive.org/web/20180629011058/https://a16z.com/2017/02/18/12-things-about-product-market-fit/,12 Things about Product-Market Fit,https://github.com/dend/awesome-product-management#readme,Product Management
+https://taskade.com/about,Taskade Inc.,https://github.com/dend/awesome-product-management#readme,Product Management
+https://substack.com/@usefulfictions,Cate Hall,https://github.com/dend/awesome-product-management#readme,Product Management
+https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/,Is your company product-led, sales-led, or marketing-led?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://medium.com/@brandonmchu,Brandon Chu,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.sachinrekhi.com/how-am-i-going-to-move-my-product-forward-today,How Am I Going To Move My Product Forward Today?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://notejoy.com,https://notejoy.com,https://github.com/dend/awesome-product-management#readme,Product Management
+http://en.wikipedia.org/wiki/Paul_Buchheit,Paul Bucheit,https://github.com/dend/awesome-product-management#readme,Product Management
+https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years,The Art of Persuasion Hasn't Changed in 2,000 Years,https://github.com/dend/awesome-product-management#readme,Product Management
+https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f,Fell in a hole, got out,https://github.com/dend/awesome-product-management#readme,Product Management
+https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent,How to focus on what's important, not just what's urgent,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.sachinrekhi.com/,Sachin Rekhi,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.shopify.com/blog/authors/michael-keenan,Michael Keenan,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.henrikkarlsson.xyz/p/agency,On agency,https://github.com/dend/awesome-product-management#readme,Product Management
+https://noidea.dog/glue,Being Glue,https://github.com/dend/awesome-product-management#readme,Product Management
+http://firstround.com/review/speed-as-a-habit/,Speed as a habit,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.sketchapp.com/about-us/,Bohemian B.V.,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/tren-griffin-50582725/,Tren Griffin,https://github.com/dend/awesome-product-management#readme,Product Management
+https://staysaasy.com/product/2023/05/14/product-sense.html,Finding and Fostering Great Product Sense,https://github.com/dend/awesome-product-management#readme,Product Management
+https://substack.com/@henrikkarlsson,Henrik Karlsson,https://github.com/dend/awesome-product-management#readme,Product Management
+https://notion.so/,Notion Labs,https://github.com/dend/awesome-product-management#readme,Product Management
+http://scripting.com/2024/10/08/155702.html,Guy Kawasaki, proto-evangelist,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.atlassian.com/agile/product-management/remote-product-management,Remote Product Management Tips,https://github.com/dend/awesome-product-management#readme,Product Management
+https://hbr.org/search?term=carmine%20gallo,Carmine Gallo,https://github.com/dend/awesome-product-management#readme,Product Management
+https://philippcannons.com,Philipp Cannons,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.figma.com/blog/,Figma,https://github.com/dend/awesome-product-management#readme,Product Management
+https://en.wikipedia.org/wiki/Dave_Winer,Dave Winer,https://github.com/dend/awesome-product-management#readme,Product Management
+https://review.firstround.com/how-to-craft-your-product-team-at-every-stage-from-pre-product-market-fit-to-hypergrowth/,How to Craft Your Product Management Team Structure at Every Stage,https://github.com/dend/awesome-product-management#readme,Product Management
+https://web.archive.org/web/20151029064330/https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html,How to Deliver More Software Projects on Time,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.productboard.com/,productboard,https://github.com/dend/awesome-product-management#readme,Product Management
+https://staysaasy.com/about.html,Stay SaaSy,https://github.com/dend/awesome-product-management#readme,Product Management
+https://noidea.dog/about,Tanya Reilly,https://github.com/dend/awesome-product-management#readme,Product Management
+https://medium.com/@max.bennett,Max Bennett,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager,Mastering Effective Communication as a Product Manager,https://github.com/dend/awesome-product-management#readme,Product Management
+https://productboard.com,https://productboard.com,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.aliceboyes.com/,Alice Boyes,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/,Do you really understand the concept of product value?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/,PM at Microsoft,https://github.com/dend/awesome-product-management#readme,Product Management
+https://logchimp.codecarrot.net/,LogChimp,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.sachinrekhi.com/about,Sachin Rekhi,https://github.com/dend/awesome-product-management#readme,Product Management
+https://hbr.org/2015/05/the-art-of-evangelism,The Art of Evangelism,https://github.com/dend/awesome-product-management#readme,Product Management
+https://guykawasaki.com/,Guy Kawasaki,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/marksuster/,Mark Suster,https://github.com/dend/awesome-product-management#readme,Product Management
+https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/,Shipping is a Feature: Some Guiding Principles for People That Build Things,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.sachinrekhi.com/top-10-deliverables-of-product-managers,The Top 10 Deliverables of Product Managers,https://github.com/dend/awesome-product-management#readme,Product Management
+https://kaleidos.net/,Kaleidos,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.linkedin.com/in/mcopeland/,Michael Copeland,https://github.com/dend/awesome-product-management#readme,Product Management
+https://taiga.io,https://taiga.io,https://github.com/dend/awesome-product-management#readme,Product Management
+https://web.archive.org/web/20090710004515/https://www.43folders.com/2009/04/28/priorities,Mud Rooms, Red Letters, and Real Priorities,https://github.com/dend/awesome-product-management#readme,Product Management
+https://web.archive.org/web/20201004000942/https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process,A Minimum Viable Product Is Not a Product, It's a Process,https://github.com/dend/awesome-product-management#readme,Product Management
+https://web.archive.org/web/20090707094417/http://www.43folders.com/,Merlin Mann,https://github.com/dend/awesome-product-management#readme,Product Management
+http://creativeselection.io/,Creative Selection,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.oreilly.com/library/view/escaping-the-build/9781491973783/,Escaping The Build Trap,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.oreilly.com/library/view/the-managers-path/9781491973882/,The Manager's Path,https://github.com/dend/awesome-product-management#readme,Product Management
+https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering,The Art of Doing Science and Engineering: Learning to Learn,https://github.com/dend/awesome-product-management#readme,Product Management
+https://lwn.net/Articles/809556/,The dark side of expertise,https://github.com/dend/awesome-product-management#readme,Product Management
+https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/,So You Wanted to be a Product Manager,https://github.com/dend/awesome-product-management#readme,Product Management
+https://stackoverflow.blog/author/sreynolds/,Scott C. Reynolds,https://github.com/dend/awesome-product-management#readme,Product Management
+https://medium.com/@sshubhi/breaking-into-product-management-a-guide-c6fa3bc59449,Breaking into Product Management — Should you even consider it?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://productschool.com/blog/job-search-advice/remote-product-manager,Is It Possible to Work Remotely as a Product Manager?,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.bringthedonuts.com/essays/dual-product-management-career-path/,It's Time to Fight for a Dual Product Management Career Path,https://github.com/dend/awesome-product-management#readme,Product Management
+https://lethain.com/elegant-puzzle/,An Elegant Puzzle,https://github.com/dend/awesome-product-management#readme,Product Management
+https://staffeng.com/book,Staff Engineer,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.intercom.com/resources/books/intercom-product-management,Intercom on Product Management,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.oreilly.com/library/view/building-products-for/9781492024774/,Building Products for the Enterprise,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.stoneandheen.com/difficult-conversations,Difficult Conversations,https://github.com/dend/awesome-product-management#readme,Product Management
+https://productschool.com/resources/ebooks/the-product-book,The Product Book,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.lewis-lin.com/decode-and-conquer,Decode and Conquer,https://github.com/dend/awesome-product-management#readme,Product Management
+https://designdetails.fm,https://designdetails.fm,https://github.com/dend/awesome-product-management#readme,Product Management
+https://podcasts.apple.com/us/podcast/product-hunt-radio/id862714883,https://podcasts.apple.com/us/podcast/product-hunt-radio/id862714883,https://github.com/dend/awesome-product-management#readme,Product Management
+https://facebook.com,Facebook,https://github.com/dend/awesome-product-management#readme,Product Management
+https://www.productschool.com/,Product School,https://github.com/dend/awesome-product-management#readme,Product Management
+https://productcoalition.com/,The Product Coalition,https://github.com/dend/awesome-product-management#readme,Product Management
+https://theworkitem.com,https://theworkitem.com,https://github.com/dend/awesome-product-management#readme,Product Management
+https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787,https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787,https://github.com/dend/awesome-product-management#readme,Product Management
+https://podcasts.apple.com/us/podcast/startup-podcast/id913805339,https://podcasts.apple.com/us/podcast/startup-podcast/id913805339,https://github.com/dend/awesome-product-management#readme,Product Management
+https://basecamp.com/shapeup,Shape Up,https://github.com/dend/awesome-product-management#readme,Product Management

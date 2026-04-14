@@ -1,1 +1,19 @@
-https://muut.io/,MuutIo,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
+https://unzip.dev?ref=github-adf,unzip.dev,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.fine.dev/,Fine,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.tabnine.com/,Tabnine,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.smartystreets.com/,SmartyStreets,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.mailgun.com/,Mailgun,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://revert.dev,Revert,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://adaptable.io/,Adaptable,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.hashicorp.com/products/terraform,Terraform,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.easypost.com/,EasyPost,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://cloudsmith.com/,Cloudsmith,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.propeldata.com/,Propel,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 451: 'Unavailable For Legal Reasons'> | reason: Unavailable For Legal Reasons
+https://www.zenrows.com/,ZenRows,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.qodo.ai/,Qodo,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.applozic.com/,Applozic,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.testim.io/,Testim,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.vonage.com,Vonage,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://pdfblade.com/,PDFBlade,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://www.bazaarvoice.com/ratings-and-reviews/,Bazaarvoice,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://swimm.io/,Swimm,https://github.com/agamm/awesome-developer-first#readme,Developer-First Products error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

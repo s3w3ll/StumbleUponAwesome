@@ -1,0 +1,10 @@
+https://support.torproject.org/glossary/obfs4/,obsf4,https://github.com/polycarbohydrate/awesome-tor#readme,Tor error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.youtube.com/watch?v=eQ2OZKitRwc,Dropping Docs on Darknet,https://github.com/polycarbohydrate/awesome-tor#readme,Tor error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.whonix.org/,Whonix,https://github.com/polycarbohydrate/awesome-tor#readme,Tor error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://www.youtube.com/watch?v=DX46Qv_b7F4,How governments have tried to block Tor,https://github.com/polycarbohydrate/awesome-tor#readme,Tor error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.youtube.com/watch?v=W0NR6M_08oM,2019,https://github.com/polycarbohydrate/awesome-tor#readme,Tor error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://support.torproject.org/glossary/meek/,meek,https://github.com/polycarbohydrate/awesome-tor#readme,Tor error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://support.torproject.org/glossary/obfs3/,obsf3,https://github.com/polycarbohydrate/awesome-tor#readme,Tor error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.youtube.com/watch?v=HQXRURfrf8w,Tor Hidden Services and Deanonyminization,https://github.com/polycarbohydrate/awesome-tor#readme,Tor error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.amnesty.org/en/latest/campaigns/2024/02/what-is-tor-and-how-does-it-advance-human-rights/,What is Tor?,https://github.com/polycarbohydrate/awesome-tor#readme,Tor error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://tb-manual.torproject.org/installation/,Installation,https://github.com/polycarbohydrate/awesome-tor#readme,Tor error: <HTTPError 404: 'Not Found'> | reason: Not Found

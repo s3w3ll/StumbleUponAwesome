@@ -1,0 +1,19 @@
+https://typedb.com,,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://stackoverflow.com/questions/tagged/vaticle-typedb%20vaticle-typeql?sort=Newest&edited=true,Stack Overflow,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.meetup.com/pro/typedb/,Meetup,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/c/vaticle,YouTube,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/discord,Discord,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.linkedin.com/groups/13657731/,LinkedIn,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://www.youtube.com/playlist?list=PLtEF8_xCPklY3P5NLSQb1SyIYLhQssxfY,Orbit,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog,Blog,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/identity-and-access-management-with-typedb-part-i-polymorphism,Identity and access management with TypeDB: Part I, polymorphism,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/docs,TypeDB Documentation Portal,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/the-need-for-subtyping-and-polymorphism-in-databases,The need for subtyping and polymorphism in databases,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/a-new-era-for-typedb,A New Era for TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/inference-in-typedb,Inference in TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/accelerating-drug-discovery-with-applied-knowledge-engineering-and-typedb,Accelerating drug discovery with applied knowledge engineering and TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/modeling-collections-in-databases-relational-sql-vs-typedb,Modeling collections in databases: Relational/SQL vs TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/the-age-of-ai-is-upon-us-where-are-the-smart-databases,The age of AI is upon us - where are the smart databases?,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/building-a-cyber-threat-intelligence-database-with-typedb,Building a Cyber Threat Intelligence database with TypeDB,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://typedb.com/blog/inheritance-and-polymorphism-where-the-cracks-in-sql-begin-to-show,Inheritance and polymorphism: where the cracks in SQL begin to show,https://github.com/vaticle/typedb-awesome#readme,TypeDB
+https://forum.typedb.com,Discussion Forum,https://github.com/vaticle/typedb-awesome#readme,TypeDB

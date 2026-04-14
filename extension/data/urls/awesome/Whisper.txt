@@ -1,0 +1,34 @@
+https://openai.com/research/whisper,Whisper,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://openai.com,OpenAI,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://cdn.openai.com/papers/whisper.pdf,White paper,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://huggingface.co/models?other=whisper,Whisper variants,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://sindresorhus.com/aiko,Aiko,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://goodsnooze.gumroad.com/l/macwhisper,MacWhisper,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://apps.apple.com/app/id6443658039,Whisper Memos,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://apps.apple.com/app/id1671616134,FourYou,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://apps.apple.com/app/id1659864300,Jojo Transcribe,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://store.getwavery.com/l/whisperscript,WhisperScript,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://apps.apple.com/app/id6449008295,Audio Podium,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://superwhisper.com,superwhisper,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://www.fridaygpt.app,FridayGPT,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://easywhisper.io,EasyWhisper,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://audionote.app,Audio Note,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://screenpi.pe,Screenpipe,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://bigwav.app,bigWav,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://freepodcasttranscription.com,Free Podcast Transcription,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://www.gladia.io,Gladia,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://huggingface.co/spaces/openai/whisper,Hugging Faces,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://huggingface.co/spaces/openai/whisper/tree/main,Source,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://whisperui.monsterapi.ai,Monster API,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://whisper.r3d.red,Web Whisper,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://codeberg.org/pluja/web-whisper,Source,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future,Whispers of A.I.'s Modular Future,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://www.assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model/,How to Run Whisper Speech Recognition Model,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://blog.paperspace.com/whisper-openai-flask-application-deployment/,Create your own speech to text app using Flask,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://betterprogramming.pub/openais-whisper-tutorial-42140dd696ee,Convert Podcasts to Text,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://www.youtube.com/watch?v=OCBZtgQGt1I,Open AI's Whisper is Amazing!,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://www.youtube.com/watch?v=msj3wuYf3d8,How to do Free Speech-to-Text Transcription Better Than Google Premium API,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://www.youtube.com/watch?v=ywIyc8l1K1Q,Multilingual AI Speech Recognition Live App,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://discord.com/invite/openai,Discord,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://www.oneai.com/speech-to-text,Whisper+,https://github.com/sindresorhus/awesome-whisper#readme,Whisper
+https://replicate.com/openai/whisper,Replicate,https://github.com/sindresorhus/awesome-whisper#readme,Whisper

@@ -1,0 +1,7 @@
+https://www.slimframework.com,,https://github.com/nekofar/awesome-slim#readme,Slim
+https://www.slimframework.com/docs/v4/,User Guide,https://github.com/nekofar/awesome-slim#readme,Slim
+https://stackoverflow.com/questions/tagged/slim,Stack Overflow,https://github.com/nekofar/awesome-slim#readme,Slim
+https://discourse.slimframework.com,Discussion Forum,https://github.com/nekofar/awesome-slim#readme,Slim
+https://odan.github.io/2021/08/12/slim-graphql.html,Slim 4 - GraphQL,https://github.com/nekofar/awesome-slim#readme,Slim
+https://odan.github.io/2021/08/14/slim-reactphp.html,Slim 4 - ReactPHP,https://github.com/nekofar/awesome-slim#readme,Slim
+https://plugins.jetbrains.com/plugin/18751-slim,IntelliJ Slim,https://github.com/nekofar/awesome-slim#readme,Slim

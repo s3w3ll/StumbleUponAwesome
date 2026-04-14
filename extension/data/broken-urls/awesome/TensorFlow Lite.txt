@@ -1,2 +1,51 @@
+https://medium.com/analytics-vidhya/yolov3-to-tensorflow-lite-conversion-4602cec5c239,YOLOv3 to TensorFlow Lite Conversion,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://medium.com/swlh/icon-classifier-with-tflite-model-maker-9263c0021f72,tutorial 1,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.packtpub.com/product/mobile-deep-learning-with-tensorflow-lite-ml-kit-and-flutter/9781789611212,Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://flatteredwithflutter.com/ml-kit-and-face-detection-in-flutter/,ML Kit and Face Detection in Flutter,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://www.tensorflow.org/lite/models/style_transfer/overview,Overview,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.tensorflow.org/lite,TensorFlow Lite,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
 https://mediapipe.readthedocs.io/en/latest/examples.html,MediaPipe examples,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://tulasi.dev/craft-in-tflite,Blog1-Conversion to TFLite,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)
+https://www.tensorflow.org/lite/models/pose_estimation/overview,Overview,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://medium.com/@farmaker47/android-implementation-of-video-style-transfer-with-tensorflow-lite-models-9338a6d2a3ea,Tutorial,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://tulasi.dev/craft-in-tflite,Blog1-Conversion to TFLite,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.tensorflow.org/lite/models,TensorFlow Lite models,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.tensorflow.org/lite/performance/measurement,Performance measurement,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.tensorflow.org/lite/models/segmentation/overview,Overview,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.tensorflow.org/lite/guide/hosted_models,Pretrained models,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.tensorflow.org/lite/guide/model_maker,Model Maker,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://aqibsaeed.github.io/on-device-activity-recognition,Blog,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://youtu.be/sZayUoWW6nE,Contributing to TensorFlow Lite with Sunit Roy,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.tensorflow.org/lite/microcontrollers,TensorFlow Lite for Microcontrollers,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://youtu.be/ymyYUCrJnxU,Computer Vision with ML Kit - Flutter In Focus,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://youtu.be/m_bEh8YifnQ,Android ML by Hoi Lam,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://youtu.be/ALxWJoh_BHw,Easy on-device ML from prototype to production,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.tensorflow.org/lite/examples,example apps,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.tensorflow.org/lite/convert/metadata,Model Metadata,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.tensorflow.org/lite/inference_with_metadata/codegen,Code Gen and Android Studio ML Model Binding,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://www.tensorflow.org/lite/models/image_classification/overview,Overview,https://github.com/margaretmz/awesome-tensorflow-lite#readme,TensorFlow Lite error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

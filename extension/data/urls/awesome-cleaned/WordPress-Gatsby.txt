@@ -1,0 +1,27 @@
+https://css-tricks.com/my-long-journey-to-a-decoupled-wordpress-gatsby-site/,My Long Journey to a Decoupled WordPress Gatsby Site,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.youtube.com/watch?v=aqEfEuVWqws,Using WordPress with WPGraphQL,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.netlify.com/oreilly-jamstack/,Modern Web Development on the JAMstack,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.gatsbyjs.org/packages/gatsby-image,gatsby-image,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.youtube.com/watch?v=rIg4MHc8elg,WPGraphQL for ACF,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.gatsbyjs.org/packages/gatsby-source-filesystem,gatsby-source-filesystem,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.youtube.com/watch?v=6CuM1PY9ESQ,GraphQL with WordPress and Gutenberg - Jason Bahl - 2018 JavaScript for WordPress Conference,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.reddit.com/r/gatsbyjs/,Reddit,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://stackoverflow.com/questions/tagged/gatsby,Stack Overflow,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.gatsbyjs.org/packages/gatsby-source-wordpress,gatsby-source-wordpress,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://wordpress.org/plugins/wp-gatsby/,WPGatsby,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://metabox.io/,metabox.io,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+http://metabox.io,http://MetaBox.io,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://dev.to/nevernull/overview-guide-to-gatsby-wordpress-starter-advanced-with-previews-i18n-and-more-583l,Guide to Gatsby WordPress Starter Advanced with Previews, i18n and more,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.gatsbyjs.com/blog/wordpress-integration,Announcing Gatsby’s New WordPress Integration,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://wordpress.org/plugins/advanced-custom-fields/,Advanced Custom Fields,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.youtube.com/watch?v=Me_A0HBYXx8,Jason Bahl of WPGraphQL's role in the operating system for the web,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.advancedcustomfields.com/pro/,ACF PRO,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.youtube.com/watch?v=8SAdtU8HAwM,Torque News Drop: Jason Bahl and WPGraphQL,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://dev.to/nevernull/gatsby-with-wpgraphql-acf-and-gatbsy-image-72m,Gatsby with WPGraphQL, ACF and Gatbsy-Image,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://wordpress.org/plugins/headless-mode/,Headless Mode,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://wptavern.com/gatsby-launches-new-wordpress-integration-expanding-support-for-headless-architecture,Gatsby Launches New WordPress Integration, Expanding Support for Headless Architecture,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://wordpress.org/plugins/polylang/,Polylang,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://whatjackhasmade.co.uk/series/gatsby-wordpress-2019/,25+ Videos - Gatsby + WordPress (2019) Complete Course,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.youtube.com/watch?v=DH7I1xRrbxs,Gatsby + WordPress with WPGraphQL (with Jason Bahl) — Learn With Jason,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.youtube.com/watch?v=9KGuI0UmpMw,Crash Course: Headless WordPress with WPGraphQL, ACF, and React,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby
+https://www.wpgraphql.com/2020/11/16/announcing-wpgraphql-v1/,Announcing WPGraphQL v1.0,https://github.com/henrikwirth/awesome-wordpress-gatsby#readme,WordPress-Gatsby

@@ -1,0 +1,5 @@
+https://directusextensions.com,Directus Extensions,https://github.com/directus-community/awesome-directus#readme,Directus error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.npmjs.com/package/@directus/sdk,Official JS SDK,https://github.com/directus-community/awesome-directus#readme,Directus error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/@directus/gatsby-source-directus,Official Gatsby Source Plugin,https://github.com/directus-community/awesome-directus#readme,Directus error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://medium.com/7span/no-code-backend-get-started-with-directus-7876bffdbd1d,Get Started With Directus,https://github.com/directus-community/awesome-directus#readme,Directus error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://nextus.vercel.app/en,Demo,https://github.com/directus-community/awesome-directus#readme,Directus error: <HTTPError 404: 'Not Found'> | reason: Not Found

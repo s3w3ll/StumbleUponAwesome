@@ -1,0 +1,66 @@
+https://pastebin.com/6PVSRckQ,MD5,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://discord.gg/H2UyJXe,Minecraft Computer Mods Discord,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://gitlab.com/Merith-TK/ultron-control,Ultron Control,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://pastebin.com/3LfWxRWh,Bigfont,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://reddit.com/r/computercraft,ComputerCraft's subreddit,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://modrinth.com/resourcepack/computercreate,ComputerCreate,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://youcube.madefor.cc,YouCube,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://computercraft.cc,,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://c3d.madefor.cc/,C3D,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/MD5,MD5,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://web.archive.org/web/20230719181359/https://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/,2,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://pastebin.com/nxEMWHY3,YTP2CCP,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://cash.madefor.cc,ComputerCraft Advanced Shell (cash),https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://pastebin.com/SfL7vxP3,SHA-1,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://emux.cc,CCEmuX,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://consult.madefor.cc,Consult,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://www.lua.org/manual/,Lua's manual,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/SHA-1,SHA-1,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://web.archive.org/web/20190808224502/http://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/,ecc.lua,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/HMAC,HMAC,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://pastebin.com/zSLPYpqs,gist,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://install.leveloper.cc,LevelOS,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/Elliptic-curve_cryptography,elliptic-curve cryptography,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://www.craftos-pc.cc,CraftOS-PC,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://www.craftos-pc.cc/docs/extension,CraftOS-PC for VS Code,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://guih.madefor.cc,GuiH,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://computercraft.info,ComputerCraft,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://phoenix.madefor.cc,Phoenix,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://web.archive.org/web/20230211195528/http://www.computercraft.info/forums2/index.php?/topic/12347-luaide-10-you-might-actually-like-editing-in-game/,LuaIDE,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/Isometric_video_game_graphics,isometric rendering,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://kristify.madefor.cc/,Kristify,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://wiki.vexatos.com/wiki:computronics,Computronics,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://basalt.madefor.cc,Basalt,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://telem.cyberbit.dev,Telem,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://web.archive.org/web/20230719181437/https://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/,3,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://plethora.madefor.cc,Plethora,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://music.madefor.cc,ComputerCraft Music Converter,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/Battleship_(game),Battleship,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://pinestore.cc/projects/115/shrekprint,ShrekPrint,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://pastebin.com/UqVHTht5,DraconicControl,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://pinestore.cc/projects/114/shrekword,ShrekWord,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/Doom_(1993_video_game),Doom shooter,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://modrinth.com/mod/cccbridge,CC:C Bridge,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://pastebin.com/p4zeq7Ma,ReactorControl and TurbineControl,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://cc.alexdevs.me/index.html,Quartz Encoder,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/Yahtzee,Yahtzee,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://modrinth.com/mod/create,Create,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://unicornpkg.madefor.cc,unicornpkg,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://pastebin.com/2ZrbnH5w,ReactorControl patched,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://www.youtube.com/watch?v=wrUHUhfCY5A,Direwolf20's tutorials,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://www.youtube.com/watch?v=DSsx4VSe-Uk,Sethbling's tutorials,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://web.archive.org/web/20230210142049/https://www.computercraft.info/forums2/index.php?/topic/25670-bbs-guide-to-coroutines/,Bomb Bloke's Guide to Coroutines,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://forums.computercraft.cc/index.php?topic=26.0,KingOfGamesYami's event flow chart,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://p.sc3.io/t6ZRrJutrN,shrekflight,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://web.archive.org/web/20200924232302/http://www.computercraft.info/forums2/index.php?/topic/25474-chacha20-encryption-in-computercraft/,Anavrins' ChaCha20,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://docs.google.com/spreadsheets/d/1s4d21cL3QrUyegEzYaVXvqDr1zNorgyZ-fDWeopIC1k/edit?usp=sharing,Emma's ComputerCraft compatibility chart,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://web.archive.org/web/20230211193054/http://www.computercraft.info/forums2/index.php?/topic/8169-sha-256-in-pure-lua/,SHA-256,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/ChaCha20-Poly1305,ChaCha20,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://monitorsize.madefor.cc/,MasonGulu's monitor size calculator,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/SHA-2,SHA-256,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://en.wikipedia.org/wiki/PBKDF2,PBKDF2,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://web.archive.org/web/20170617144334/http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i/,1,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://mcjack123.github.io/AUKit/,AUKit,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://basalt.madefor.cc/,Basalt,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://tweaked.cc,tweaked.cc documentation,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft
+https://forums.computercraft.cc,CC:T's forums,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft

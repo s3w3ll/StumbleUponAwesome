@@ -1,0 +1,45 @@
+https://www.jetbrains.com/rider,JetBrains Rider,https://github.com/fsprojects/awesome-fsharp#readme,F#
+http://www.monodevelop.com/,MonoDevelop,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://www.visualstudio.com/,Visual Studio,https://github.com/fsprojects/awesome-fsharp#readme,F#
+http://ionide.io/,Ionide,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://www.lkokemohr.de/fsharp_godot.html,Godot,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://www.nuget.org/,NuGet,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://thoth-org.github.io/Thoth.Json/,Thoth.Json,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://xunit.net/,xUnit.net,https://github.com/fsprojects/awesome-fsharp#readme,F#
+http://fable.io,Fable, F# |> Babel,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://devblogs.microsoft.com/dotnet/tag/f/,.NET Blog (F# tag),https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://codesuji.com,Codesuji,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://kcieslak.io/,Krzysztof Cieslak,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://blog.ploeh.dk/,Mark Seemann,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://sergeytihon.com/,Sergey Tihon (F# Weekly),https://github.com/fsprojects/awesome-fsharp#readme,F#
+http://tomasp.net/blog/,Tomas Petricek,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://pragprog.com/titles/swdddf/domain-modeling-made-functional/,Domain Modeling Made Functional by Scott Wlaschin,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://fssnip.net/,F# Snips,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://fsprojects.github.io/fsharp-cheatsheet/,F# cheatsheet,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour,F# tour,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://learnxinyminutes.com/docs/fsharp,Learn F# in Y minutes,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://amplifyingfsharp.io,Amplifying F#,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://bsky.app/hashtag/fsharp,F# on BlueSky,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://discord.com/invite/fsharp-196693847965696000,F# on Discord,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://forums.fsharp.org/,F# on Discourse,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://www.reddit.com/r/fsharp/,F# on Reddit,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://t.me/fsharp_chat,F# on Telegram,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://x.com/hashtag/fsharp,F# on Twitter,https://github.com/fsprojects/awesome-fsharp#readme,F#
+http://fsharp.org/community/projects/,F# Community Projects,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://fable.io/resources.html,Fable Resources,https://github.com/fsprojects/awesome-fsharp#readme,F#
+http://c4fsharp.net/,Community for F#,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://dotnetfiddle.net/,DotNetFiddle,https://github.com/fsprojects/awesome-fsharp#readme,F#
+http://fsharp.org/,F# Software Foundation,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://fsharpforfunandprofit.com/,F# for Fun and Profit,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://sharplab.io/,SharpLab,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://try.fsharp.org/,Try F#,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://jindraivanek.gitlab.io/cs2fs-online,cs2fs,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://fsprojects.github.io/fantomas-tools,fantomas-tools,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://www.youtube.com/@amplifyingfsharp,Amplifying F# YouTube Channel,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://www.youtube.com/@fonline6018,F# Online YouTube Channel,https://github.com/fsprojects/awesome-fsharp#readme,F#
+http://usergroup.tv/videos/category/group/austin-f-meetup,Austin F# Meetup Group Recorded Presentations,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://www.youtube.com/watch?v=EIBRoNEpg6c&list=PLqWncHdBPoD4O1sr2Q3W9gAuJ30s09U2r,F# Chats on performance,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://www.youtube.com/watch?v=KMR2y1vcO-s&list=PLqWncHdBPoD4-d_VSZ0MB0IBKQY0rwYLd,Fast Dictionary in F#,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://www.youtube.com/watch?v=1ioGr701c5Q&list=PLqWncHdBPoD4YEWoXQlRj1tiTc96HZxH8,Intro to F#,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://www.youtube.com/playlist?list=PLqWncHdBPoD5hEK31CcfmTHP-7icw2Xd0,Topological Sort,https://github.com/fsprojects/awesome-fsharp#readme,F#
+https://write-yourself-a-scheme.pangwa.com/,Write yourself a scheme in 48 hours using F#,https://github.com/fsprojects/awesome-fsharp#readme,F#

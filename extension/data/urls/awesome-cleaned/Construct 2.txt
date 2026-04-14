@@ -1,0 +1,53 @@
+https://www.reddit.com/r/construct/,Reddit,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDexNbWi0uPBP6buduUZO3Q,thenewboston: Physics Puzzle Game Development,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@gamedesignwithreilly,Game Design with Reilly,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLz66pfeeD4TcPN9kO7JlqiITpgi_WWgn7,LividProductions: Platformer Series,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@gamerz7204,Gamer Z,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://itch.io/c/4077852/-my-c2-plugins,skwp's Plugins,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://itch.io/c/5297919/-my-c2-behaviors,skwp's Behaviors,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK,TodaysTuts: Behaviors,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@MarcosGameDev,Marcos Game Dev,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLuDpKE2ECBovsRiINMYss6iOHJYCN8MNe,Marcos Game Dev: Plataforma Gostosinho - Técnicas de Polimento,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLsJBMeqEdtggBJBiuX8bnF10ewHjdE20e,Nicholas Dingle's Tutorials,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://bsky.app/profile/construct.net,Bluesky,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html,Rex's Plugins Tool,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@Masterpose,Master Pose,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.madewithconstruct.com/,Games made with Construct,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLuDpKE2ECBou-kcov-1DdbnNHLjxGiwDp,Marcos Game Dev: Curso Metroidvania 1.0,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLusL6SZZRaWr4zqm6GrQHmOuShwtypRJ5,English Acorn: Editor,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.facebook.com/ConstructTeam/,Facebook,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://x.com/search?q=%23madewithconstruct&src=typed_query&f=top,Games shared on Twitter,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l,Marcos Game Dev: Curso Beat'em Up,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@PensnPixels,Pens 'N' Pixels,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLusL6SZZRaWqP6UmVPs9Ml8BRo2t-wvnT,English Acorn: Plugins and Objects,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6,Marcos Game Dev: Criando Roguelike,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@lessisgames8555,Lessis Games,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://discord.gg/8RJBHbX,Discord Server,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLq6aUvz66jtfnuyOKnPXO5dZly6CB8naA,John Maksym's Tutorials,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.itch.io,itch.io,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://howtoconstructdemos.com/,How To Construct Demo,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://curious-pixie-60ff1a.netlify.app/,Array Editor for C2,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@Vimlark,Vimlark,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLuDpKE2ECBou7QX1vZa7dFt6n3mTbnYAD,Marcos Game Dev: Super Mario Bros.,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PL59F92017DA9887DB,Lee Stemkoski: Breakout Clone,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://bsky.app/profile/tackertacker.com/lists/3lh4xy2o5nx2q,Bluesky List,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLuDpKE2ECBovmH0TG_ye_Wrg9CATAiB1p,Marcos Game Dev: Recriando Megaman X,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@Learnconstruct2,ArcadEdGames,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@Construct,ScirraVideos,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/watch?v=cvItNHEMB80,Let's Make Games: PONG,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U,Marcos Game Dev: Criando Menu Principal,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@DiegoLizarazo,Diego Lizarazo,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@AJOrdaz,AJ Ordaz,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAfHxsK6bji7trLS-N0nKF-,thenewboston: Game Development w/ Construct,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://bsky.app/starter-pack/tackertacker.com/3lbrn56cxcf2z,Bluesky Starter Pack,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@Jerementor/,Jerementor,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@FoozleCC,FoozleCC,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/watch?v=nYULTk2BpKY,Let's Make Games: ASTEROIDS,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://mp2.dk/chowdren/,Chowdren,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAp287UuTE0-K7Ty-b8rGAX,thenewboston: Platform Game Development,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/@GameDevelopmentChannel,GameDev,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://www.youtube.com/watch?v=eBccn1qMB_U,Let's Make Games: Flappy Bird,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://pipelab.app/,Pipelab,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://reinarte.com.br/,website Reinarte,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://itch.io/c/5333183/construct-addons,piranha305's Addons,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2
+https://itch.io/c/2390490/asset-store-,Master Pose's Addons,https://github.com/ConstructCommunity/awesome-construct#readme,Construct 2

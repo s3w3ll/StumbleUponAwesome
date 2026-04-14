@@ -1,0 +1,43 @@
+https://cryptoconsortium.github.io/CCSS/,CryptoCurrency Security Standard (CCSS),https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://magoo.github.io/Blockchain-Graveyard/,Blockchain Graveyard,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://blog.sigmaprime.io/solidity-security.html,Solidity Security,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://ethereum.org/en/developers/docs/evm/,EVM,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://docs.soliditylang.org/en/v0.8.6/security-considerations.html,Security Considerations in the Solidity documentation,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://consensys.net/blog/developers/solidity-best-practices-for-smart-contract-security/,Solidity Best Practices for Smart Contract Security,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://bitcointalk.org/index.php?topic=576337,List of Bitcoin Heists,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://swcregistry.io/,SWC Registry,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://www.blockthreat.io/,Blockchain Threat Intelligence,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://cer.live/,CERtified,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://leastauthority.com/static/publications/LeastAuthority-Ethereum-2.0-Specifications-Audit-Report.pdf,Ethereum 2.0 Specifications Security Audit Report,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/,246 Findings,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://rekt.news/,Rekt News,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015,Getting Deep Into EVM,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://arxiv.org/pdf/2105.06974.pdf,A Survey of Security Vulnerabilities in Ethereum Smart Contracts,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976,A Crash Course in Mechanism Design for Cryptoeconomic Applications,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf,Ethereum EVM illustrated,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://docs.soliditylang.org/en/v0.8.1/bugs.html,List of Known Bugs,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://docs.forta.network/,Forta,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://cryptosec.info/,CryptoSec.info,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX,Videos to watch on YouTube,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://defiyield.app/rekt-database,DeFiYield's REKT db,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://www.aniccaresearch.tech/blog/ethereum-blockspace-who-gets-what-and-why,Ethereum Blockspace: Who Gets What and Why,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://www.defisafety.com/auditors,List of DeFi auditors,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000,WTF Is QF,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://fravoll.github.io/solidity-patterns/,Solidity Patterns,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://academy.binance.com/en/articles/what-is-uniswap-and-how-does-it-work,What Is Uniswap and How Does It Work?,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://cmichel.io/how-to-become-a-smart-contract-auditor/,How to become a smart contract auditor,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://cryptoscamdb.org/scams,CryptoScamDB,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://capitalgram.com/posts/scaling-evm/,Scaling EVM (Ethereum Virtual Machine),https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://yos.io/2018/11/10/bonding-curves,Bonding Curves Explained,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://mudit.blog/twitter-threads/,Mudit Gupta's Twitter threads,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://l2beat.com/,L2Beat,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://ieeexplore.ieee.org/document/9152675,Flash Boys 2.0 Paper,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://opensea.io/blog/guides/non-fungible-tokens,The Non-Fungible Token Bible,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o,A beginner's guide to DAOs,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://www.defisafety.com/,DeFi Safety,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://saftproject.com/,SAFT Agreements,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://dasp.co/,DASP Top 10 of 2018,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://immunefi.com/severity-updated/,IVSCS,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://securing.github.io/SCSVS/,Smart Contract Security Verification Standard,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://merkle.com/papers/DAOdemocracyDraft.pdf,DAOs, Democracy and Governance,https://github.com/kareniel/awesome-evm-security#readme,EVM Security
+https://nakamotoinstitute.org/shelling-out/,Shelling Out: The Origins of Money,https://github.com/kareniel/awesome-evm-security#readme,EVM Security

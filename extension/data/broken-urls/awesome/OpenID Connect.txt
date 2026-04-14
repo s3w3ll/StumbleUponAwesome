@@ -1,0 +1,3 @@
+https://cloudentity.com/,Cloudentity,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.cyberark.com/,CyberArk Identity,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect error: <HTTPError 520: ''> | reason: 
+https://docs.frontegg.com/docs/configure-frontegg-as-oidc-idp,FrontEgg,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect error: <HTTPError 404: 'Not Found'> | reason: Not Found

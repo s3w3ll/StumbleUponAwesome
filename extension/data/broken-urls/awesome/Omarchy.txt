@@ -1,0 +1,1 @@
+https://learn.omacom.io/2/the-omarchy-manual,Omarchy Documentation,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable

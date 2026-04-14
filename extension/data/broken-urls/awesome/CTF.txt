@@ -1,5 +1,27 @@
-https://sbmlabs.com/notes/snow_whitespace_steganography_tool,Snow,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.magnetforensics.com/downloadaxiom,Magnet AXIOM,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html,PkCrack,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)
-http://captf.com/,Captf,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://honeyourskills.ninja/,Hone Your Ninja Skills,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://captf.com/,Captf,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.packtpub.com/eu/networking-and-servers/kali-linux-ctf-blueprints,Kali Linux CTF Blueprints,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.openhub.net/p/steganabara,Steganabara,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://honeyourskills.ninja/,Hone Your Ninja Skills,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.gnu.org/software/gdb/,GDB,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://linux.die.net/man/1/stegbreak,Stegbreak,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://steghide.sourceforge.net/,Steghide,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://backdoor.sdslabs.co/,Backdoor,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://2019game.picoctf.com,PicoCTF,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://pwn.eonew.cn/,PWN Challenge,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://sourceforge.net/projects/audacity/,Audacity,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://sourceforge.net/projects/ophcrack/files/samdump2/,Bkhive and Samdump2,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project,OWASP ZAP,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://linux.die.net/man/1/exiftool,Exiftool,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://xsser.sourceforge.net/,XSSer,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://exploit-exercises.lains.space/,Exploit Exercises,https://github.com/apsdehal/awesome-ctf#readme,CTF error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://sourceforge.net/projects/image-steg/,Image Steganography,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool,Pin,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.imagemagick.org/script/index.php,ImageMagick,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://extundelete.sourceforge.net/,Extundelete,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://linux.die.net/man/8/fsck.ext3,Fsck.ext4,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://malzilla.sourceforge.net/downloads.html,PDF Streams Inflater,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://cow.cat/cswsh.html,CSWSH,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 521: '<none>'> | reason: <none>
+https://linoxide.com/monitoring-2/monit-linux/,Monit,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.gnu.org/software/binutils/binutils.html,BinUtils,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://ringzer0team.com/,Ringzer0Team,https://github.com/apsdehal/awesome-ctf#readme,CTF error: TimeoutError('The read operation timed out') | reason: 
+http://ophcrack.sourceforge.net/,Ophcrack,https://github.com/apsdehal/awesome-ctf#readme,CTF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

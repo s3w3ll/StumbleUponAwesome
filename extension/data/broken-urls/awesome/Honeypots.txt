@@ -1,17 +1,37 @@
+https://sourceforge.net/projects/honeyperl/,Honeyperl,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://kojoney.sourceforge.net/,Kojoney,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://honeyview.sourceforge.net/,Honeyview,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://longtail.it.marist.edu/honey/,LongTail Log Analysis @ Marist College,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://heipei.io/sigint-hpfriends/,hpfriends - real-time social data-sharing,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.nepenthespharm.com/,PHARM,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://hihat.sourceforge.net/,HIHAT,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://projects.honeynet.org/hflow,HFlow2,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 523: '<none>'> | reason: <none>
+http://monkeyspider.sourceforge.net,MonkeySpider,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://impost.sourceforge.net/,Impost,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://ghh.sourceforge.net,Google Hack Honeypot,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://amunhoney.sourceforge.net,Amun,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 http://threatstream.github.io/mhn/,Modern Honeynet Network,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://projects.honeynet.org/honeywall/,Honeywall,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 523: 'Origin Unreachable'> | reason: Origin Unreachable
+http://baitnswitch.sourceforge.net,Bait and Switch,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.honeynet.org/project/WiresharkExtensions,Wireshark Extensions,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.honeynet.org/project/Trigona,Trigona,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bitbucket.org/zaccone/quechua,Quechua,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.cs.vu.nl/~herbertb/misc/shelia/,Shelia,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
 http://www.honeynet.org/node/773,Honeysink,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://projects.honeynet.org/hflow,HFlow2,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 523: 'Origin Unreachable'> | reason: Origin Unreachable
-https://redmine.honeynet.org/projects/linux-capture-hpc/wiki,Capture-HPC-Linux,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: timeout('The read operation timed out') | reason: 
-https://redmine.honeynet.org/projects/honeeepi/wiki,Honeeepi,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: timeout('The read operation timed out') | reason: 
-https://projects.honeynet.org/capture-hpc,Capture-HPC,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 523: 'Origin Unreachable'> | reason: Origin Unreachable
-https://www.honeynet.org/node/315,Capture BAT,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bruteforcelab.com/honeyd2mysql,Honeyd2MySQL,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')) | reason: EOF occurred in violation of protocol (_ssl.c:1123)
-http://longtail.it.marist.edu/honey/,LongTail Log Analysis @ Marist College,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.secviz.org/node/89,DAVIX,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://projects.honeynet.org/honeysnap/,Honeysnap,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 523: 'Origin Unreachable'> | reason: Origin Unreachable
-https://projects.honeynet.org/honeyc,HoneyC,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 523: 'Origin Unreachable'> | reason: Origin Unreachable
+https://shadowd.zecure.org/overview/introduction/,Shadow Daemon,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://projects.honeynet.org/honeysnap/,Honeysnap,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 523: '<none>'> | reason: <none>
+https://www.honeynet.org/project/Trigona,Trigona,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://man.openbsd.org/cgi-bin/man.cgi?query=spamd%26apropos=0%26sektion=0%26manpath=OpenBSD+Current%26arch=i386%26format=html,spamd,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://projects.honeynet.org/honeywall/,Honeywall,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 523: '<none>'> | reason: <none>
+https://redmine.honeynet.org/projects/honeeepi/wiki,Honeeepi,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://malwr.com/,malwr.com,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None)) | reason: [WinError 10061] No connection could be made because the target machine actively refused it
+https://redmine.honeynet.org/projects/linux-capture-hpc/wiki,Capture-HPC-Linux,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://bitbucket.org/zaccone/quechua,Quechua,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://afterglow.sourceforge.net/,Afterglow,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://artemisa.sourceforge.net,Artemnesia VoIP,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/honeystats/,HoneyStats,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.openhub.net/p/mwcollectd,mwcollectd,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://scadahoneynet.sourceforge.net,SCADA honeynet,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://projects.honeynet.org/capture-hpc,Capture-HPC,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 523: '<none>'> | reason: <none>
+http://honeybrid.sourceforge.net,HoneyBrid,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.honeynet.org/node/315,Capture BAT,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.secviz.org/node/89,DAVIX,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://projects.honeynet.org/honeyc,HoneyC,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: <HTTPError 523: '<none>'> | reason: <none>
+https://cuckoosandbox.org/,Cuckoo,https://github.com/paralax/awesome-honeypots#readme,Honeypots error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network

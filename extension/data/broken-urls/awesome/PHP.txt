@@ -1,5 +1,2 @@
-https://www.serverless.com/open-source/,Serverless Framework,https://github.com/ziadoz/awesome-php#readme,PHP error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.securingphp.com/,Securing PHP,https://github.com/ziadoz/awesome-php#readme,PHP error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
-https://pimple.symfony.com/,Pimple,https://github.com/ziadoz/awesome-php#readme,PHP error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-https://security.symfony.com/,Symfony Security Monitoring,https://github.com/ziadoz/awesome-php#readme,PHP error: <HTTPError 526: ''> | reason: 
-https://pecl.php.net/package/APM,APM,https://github.com/ziadoz/awesome-php#readme,PHP error: timeout('The read operation timed out') | reason: 
+https://new.drupal.org/home,Drupal,https://github.com/ziadoz/awesome-php#readme,PHP error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.zend.com/products/z-ray,Z-Ray,https://github.com/ziadoz/awesome-php#readme,PHP error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network

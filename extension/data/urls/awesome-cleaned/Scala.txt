@@ -1,0 +1,51 @@
+https://underscore.io/books/shapeless-guide/,The Type Astronaut's Guide to Shapeless,https://github.com/lauris/awesome-scala#readme,Scala
+http://colobu.com/ScalaCollectionsCookbook/,Scala Collections Cookbook,https://github.com/lauris/awesome-scala#readme,Scala
+https://alvinalexander.com/scala/fp-book/learning-functional-programming-in-scala/,Functional Programming, Simplified (Scala edition),https://github.com/lauris/awesome-scala#readme,Scala
+https://www.manning.com/books/get-programming-with-scala,Get Programming with Scala,https://github.com/lauris/awesome-scala#readme,Scala
+https://skillcombo.com/topic/scala/free/,Free Scala Courses,https://github.com/lauris/awesome-scala#readme,Scala
+https://index.scala-lang.org/,Scaladex,https://github.com/lauris/awesome-scala#readme,Scala
+https://www.scala-algorithms.com/,Scala Algorithms,https://github.com/lauris/awesome-scala#readme,Scala
+https://bitbucket.org/oscarlib/oscar/wiki/Home,OscaR,https://github.com/lauris/awesome-scala#readme,Scala
+http://appliedscala.com/blog,http://appliedscala.com/blog,https://github.com/lauris/awesome-scala#readme,Scala
+https://leanpub.com/pfp-scala,Practical FP in Scala: A hands-on approach,https://github.com/lauris/awesome-scala#readme,Scala
+https://podcasters.spotify.com/pod/show/julien-truffaut,Scala for Fun & Profit,https://github.com/lauris/awesome-scala#readme,Scala
+http://blog.higher-order.com,http://blog.higher-order.com,https://github.com/lauris/awesome-scala#readme,Scala
+https://functional.works-hub.com/learn/,Functional Works / Learn,https://github.com/lauris/awesome-scala#readme,Scala
+http://lihaoyi.com,http://lihaoyi.com,https://github.com/lauris/awesome-scala#readme,Scala
+http://crunch.apache.org/scrunch.html,Scrunch,https://github.com/lauris/awesome-scala#readme,Scala
+http://ktoso.github.io/scala-types-of-types,http://ktoso.github.io/scala-types-of-types,https://github.com/lauris/awesome-scala#readme,Scala
+https://www.artima.com/shop/programming_in_scala_4ed,Programming in Scala,https://github.com/lauris/awesome-scala#readme,Scala
+https://t.me/scala_ukraine,Scala Ukraine,https://github.com/lauris/awesome-scala#readme,Scala
+http://crunch.apache.org/index.html,Apache Crunch,https://github.com/lauris/awesome-scala#readme,Scala
+https://leanpub.com/pfhais,Pure functional HTTP APIs in Scala,https://github.com/lauris/awesome-scala#readme,Scala
+http://warski.org/blog,http://warski.org/blog,https://github.com/lauris/awesome-scala#readme,Scala
+http://aperiodic.net/phil/scala/s-99,S-99,https://github.com/lauris/awesome-scala#readme,Scala
+http://scalaprof.blogspot.com,http://scalaprof.blogspot.com,https://github.com/lauris/awesome-scala#readme,Scala
+https://www.amazon.com/Reactive-Programming-Scala-Akka/dp/1783984341,Reactive Programming with Scala and Akka,https://github.com/lauris/awesome-scala#readme,Scala
+https://hackr.io/tutorials/learn-scala,Programming Community Curated Resources for Learning Scala,https://github.com/lauris/awesome-scala#readme,Scala
+https://atnos-org.github.io/eff,https://atnos-org.github.io/eff,https://github.com/lauris/awesome-scala#readme,Scala
+https://scalameta.org/scalafmt/,Scalafmt,https://github.com/lauris/awesome-scala#readme,Scala
+https://degoes.net/articles,https://degoes.net/articles,https://github.com/lauris/awesome-scala#readme,Scala
+https://underscore.io/books/essential-scala/,Essential Scala,https://github.com/lauris/awesome-scala#readme,Scala
+https://horstmann.com/scala/,Scala for the Impatient,https://github.com/lauris/awesome-scala#readme,Scala
+https://www.manning.com/books/functional-and-reactive-domain-modeling,Functional and Reactive Domain Modeling,https://github.com/lauris/awesome-scala#readme,Scala
+https://underscore.io/books/scala-with-cats/,Scala With Cats,https://github.com/lauris/awesome-scala#readme,Scala
+https://alvinalexander.com,https://alvinalexander.com,https://github.com/lauris/awesome-scala#readme,Scala
+https://typelevel.org/cats/,Cats,https://github.com/lauris/awesome-scala#readme,Scala
+http://allaboutscala.com/,http://allaboutscala.com/,https://github.com/lauris/awesome-scala#readme,Scala
+http://enear.github.io/,http://enear.github.io/,https://github.com/lauris/awesome-scala#readme,Scala
+https://pchiusano.github.io,https://pchiusano.github.io,https://github.com/lauris/awesome-scala#readme,Scala
+https://danielwestheide.com/tags/scala,https://danielwestheide.com/tags/scala,https://github.com/lauris/awesome-scala#readme,Scala
+https://leanpub.com/fpmortals/read,Functional Programming for Mortals,https://github.com/lauris/awesome-scala#readme,Scala
+https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg,Scala Days Conferences,https://github.com/lauris/awesome-scala#readme,Scala
+https://www.manning.com/books/functional-programming-in-scala,Functional Programming in Scala,https://github.com/lauris/awesome-scala#readme,Scala
+http://debasishg.blogspot.com,http://debasishg.blogspot.com,https://github.com/lauris/awesome-scala#readme,Scala
+https://medium.com/disney-streaming/tagged/thisweekinscala,https://medium.com/disney-streaming/tagged/thisweekinscala,https://github.com/lauris/awesome-scala#readme,Scala
+https://scalatimes.com/,Scala Times,https://github.com/lauris/awesome-scala#readme,Scala
+https://www.47deg.com/blog/,47 Degrees,https://github.com/lauris/awesome-scala#readme,Scala
+https://exercism.org/tracks/scala/exercises,Exercism - Scala Exercises,https://github.com/lauris/awesome-scala#readme,Scala
+http://docs.scala-lang.org/tour/tour-of-scala.html,A Tour of Scala,https://github.com/lauris/awesome-scala#readme,Scala
+http://www.cs.trinity.edu/~mlewis/,Dr. Mark Lewis,https://github.com/lauris/awesome-scala#readme,Scala
+http://www.programmingusingscala.net/,Website,https://github.com/lauris/awesome-scala#readme,Scala
+https://www.youtube.com/user/DrMarkCLewis/playlists,Youtube Playlists,https://github.com/lauris/awesome-scala#readme,Scala
+https://stepik.org/course/2294/,Introduction to programming with dependent types in Scala,https://github.com/lauris/awesome-scala#readme,Scala

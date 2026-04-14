@@ -1,0 +1,31 @@
+https://plato.stanford.edu/entries/abduction/index.html,Abduction,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://plato.stanford.edu/entries/scientific-explanation/,Scientific Explanation,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://plato.stanford.edu/entries/scientific-reduction/,Scientific Reduction,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=11864820390497230588,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=3089358487428261042,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://plato.stanford.edu/entries/logic-nonmonotonic/,Non-monotonic Logic,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://link.springer.com/book/10.1007%2F978-3-642-03631-6,Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://4lib.org/book/702071/e8ffe8,Philosophical Writings of Peirce,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=967127146748155733,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://link.springer.com/article/10.1007/s11229-007-9223-4,Patterns of abduction,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=8707351442527595188,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://psycnet.apa.org/record/2018-03972-001,Best, second-best, and good-enough explanations: How they matter to reasoning,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=3917019015464129592,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=15230540023076470385&hl=en&as_sdt=0,5,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=3067550385175104201,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf,Explanation and Abductive Inference,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=17834260152484836885&hl=en&as_sdt=2005&sciodt=0,5,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=15240531165875981526,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=16126850654692681562,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=7816050625957759346&hl=en&as_sdt=2005&sciodt=0,5,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=13895790050138832555&hl=en&as_sdt=0,5,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12857321660837478492,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=5097986614430666854,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://cognition.princeton.edu/sites/default/files/cognition/files/tics_explanation.pdf,The structure and function of explanations,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://link.springer.com/article/10.1007/s11229-009-9709-3,On the distinction between Peirce's abduction and Lipton's Inference to the best explanation,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=7865291004729010145&hl=en&as_sdt=0,5,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://link.springer.com/book/10.1007/978-94-017-1733-5,Abductive Reasoning and Learning,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=2849189270394400667,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=12074269365138058159,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.princeton.edu/sites/default/files/cognition/files/explanatory_prefs_tics.pdf,Explanatory Preferences Shape Learning and Inference,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci
+https://scholar.google.com/scholar?cluster=2040551538203889465,All Versions,https://github.com/YuzheSHI/awesome-agi-cocosci#readme,AGI & CoCoSci

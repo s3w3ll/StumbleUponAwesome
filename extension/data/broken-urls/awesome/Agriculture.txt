@@ -1,0 +1,2 @@
+https://terraref.org,TERRA REF,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture error: <HTTPError 436: 'status code 436'> | reason: status code 436
+https://ecoterrabot.com/,EcoTerra Bot,https://github.com/brycejohnston/awesome-agriculture#readme,Agriculture error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

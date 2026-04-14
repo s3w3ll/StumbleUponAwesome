@@ -1,0 +1,17 @@
+https://www.quora.com/What-is-competitive-programming-2,What is competitive programming? - Quora,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+http://codeforces.com/blog/entry/13529,Good Blog Post Resources about Algorithm and Data Structures - Codeforces,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+http://e-maxx.ru/algo/,E-Maxx (Russian),https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+http://cp-algorithms.com/,(English),https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+http://codeforces.com/blog/entry/57282,All of the good tutorials found on codeforces - Codeforces,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/,Algorithms - GeeksforGeeks,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/,How to prepare for ACM - ICPC? - GeeksforGeeks,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+http://wcipeg.com/wiki/Special:AllPages,PEGWiki,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+https://www.hackerearth.com/practice/notes/trending/,Notes - HackerEarth,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+https://www.hackerearth.com/practice/codemonk/,Code Monk,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+https://algo.sk/ioi-syllabus/,IOI Syllabus,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+http://www.usaco.org/,USA Computing Olympiad (USACO),https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit,Programming Camp Syllabus,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+https://medium.com/basecs,basecs,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+https://goo.gl/unDETI,Juniors Training Sheet,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+https://sites.google.com/site/mostafasibrahim/,Mostafa Saad Ibrahim,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming
+https://www.topcoder.com/community/data-science/data-science-tutorials/,Topcoder Data Science Tutorials,https://github.com/lnishan/awesome-competitive-programming#readme,Competitive Programming

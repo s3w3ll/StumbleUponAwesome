@@ -1,9 +1,18 @@
-http://www.cybercom.net/~dcoffin/dcraw/,DCRaw,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://pexels.com/,Pexels.com,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://ufraw.sourceforge.net/,UFRaw,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.pexels.com/photo-license/,licensed,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.cybercom.net/~dcoffin/dcraw/,DCRaw,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://pixabay.com/en/service/faq/,licensed,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://www.shutterography.com,Shutterography.com,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://www.kornelix.com/fotoxx.html,Fotoxx,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.digikam.org/drupal/about?q=about/overview,DigiKam/ShowFoto,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.darktable.org/,Darktable,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.shutterography.com,Shutterography.com,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.imagemagick.org/,ImageMagick,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://sourceforge.net/projects/cinepaint/files/CinePaint/,Cinepaint,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://magiclantern.fm/,Magic Lantern,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://openfx.sourceforge.net/,OpenFX,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://nikonhacker.com/wiki/Main_Page,Nikon Hacker,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.hughski.com/index.html,Hughski,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://photivo.org/photivo/start?redirect=1,Photivo,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://geeqie.sourceforge.net/,Geeqie,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.kornelix.com/fotoxx.html,Fotoxx,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: TimeoutError('timed out') | reason: 
+http://pfstools.sourceforge.net/,PFS Tools,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://hugin.sourceforge.net/,Hugin,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://yorba.org/shotwell/,Shotwell,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+http://www.digikam.org/drupal/about?q=about/overview,DigiKam/ShowFoto,https://github.com/ibaaj/awesome-OpenSourcePhotography#readme,Open Source Photography error: <HTTPError 404: 'Not Found'> | reason: Not Found

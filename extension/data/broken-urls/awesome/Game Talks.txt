@@ -1,5 +1,57 @@
-http://www.linkedin.com/pub/joseph-burchett/10/677/50b,Joseph Burchett,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 999: 'Request denied'> | reason: Request denied
-http://infiniteammo.ca/podcast,Infinite Ammo Podcast,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.linkedin.com/pub/joseph-burchett/10/677/50b,Joseph Burchett,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 999: '<none>'> | reason: <none>
+http://www.ted.com/talks/seth_priebatsch_the_game_layer_on_top_of_the_world,The Game Layer On Top Of The World,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
 http://www.dicesummit.org/video_gallery/video_gallery_2012.asp,dicesummit,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.dicesummit.org/video_gallery/video_gallery_2011.asp,dicesummit,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.ted.com/topics/gaming,http://www.ted.com/topics/gaming,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://infiniteammo.ca/podcast,Infinite Ammo Podcast,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.ted.com/talks/peter_molyneux_demos_milo_the_virtual_boy,Meet Milo, The Virtual Boy,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.brainygamer.com/the_brainy_gamer/podcast/,Brainy Gamer,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.ted.com/talks/cosmin_mihaiu_physical_therapy_is_boring_play_a_game_instead,Physical Therapy Is Boring — Play A Game Instead,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
 https://www.digipen.edu/news-and-events/podclass-the-digipen-podcast/,Podclass,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.ted.com/talks/shimpei_takahashi_play_this_game_to_come_up_with_original_ideas,Play This Game To Come Up With Original ideas,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world?language=en,Gaming Can Make A Better World,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling,Massively Multi-Player… Thumb-Wrestling?,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/scott_kim_takes_apart_the_art_of_puzzles,The Art of Puzzles,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life?language=en,The Game That Can Give You 10 Extra Years Of Life,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital,Play is More than Just Fun,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games,Your Brain On Video Games,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/brenda_laurel_on_making_games_for_girls,Games for Girls,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/brenda_brathwaite_gaming_for_understanding,Gaming For Understanding,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/will_wright_makes_toys_that_make_worlds,Spore, Birth of a Game,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter,How Games Make Kids Smarter:,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/david_perry_on_videogames?language=en,Are Games Better than Liife?,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://www.ted.com/talks/tom_chatfield_7_ways_games_reward_the_brain,7 Ways Games Reward The Brain,https://github.com/hzoo/awesome-gametalks#readme,Game Talks error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect

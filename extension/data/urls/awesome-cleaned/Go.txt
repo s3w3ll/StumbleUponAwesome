@@ -1,0 +1,206 @@
+https://gocql.github.io,gocql,https://github.com/avelino/awesome-go#readme,Go
+https://developer.apple.com/documentation/devicecheck,iOS DeviceCheck API,https://github.com/avelino/awesome-go#readme,Go
+https://go-gilbert.github.io,gilbert,https://github.com/avelino/awesome-go#readme,Go
+https://waveterm.dev,Wave Terminal,https://github.com/avelino/awesome-go#readme,Go
+https://myanimelist.net/apiconfig/references/api/v2,MyAnimeList API,https://github.com/avelino/awesome-go#readme,Go
+https://tools.ietf.org/html/rfc959,RFC 959,https://github.com/avelino/awesome-go#readme,Go
+https://go101.org,Go 101,https://github.com/avelino/awesome-go#readme,Go
+https://www.loggly.com/,Loggly,https://github.com/avelino/awesome-go#readme,Go
+https://awesome-go.com/,,https://github.com/avelino/awesome-go#readme,Go
+https://docs.gradle.org/,Gradle,https://github.com/avelino/awesome-go#readme,Go
+https://maven.apache.org/,Maven,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/goireland/,Go Ireland - Dublin,https://github.com/avelino/awesome-go#readme,Go
+https://git.mills.io/prologic/zs,zs,https://github.com/avelino/awesome-go#readme,Go
+http://todotxt.org/,todo.txt,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/GolangCWB/,Golang Curitiba - Brazil,https://github.com/avelino/awesome-go#readme,Go
+https://docs.python.org/3/library/ipaddress.html,ipaddress,https://github.com/avelino/awesome-go#readme,Go
+https://gotemplate.io/,gotemplate.io,https://github.com/avelino/awesome-go#readme,Go
+https://labix.org/gocheck,gocheck,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golang-amsterdam/,Golang Amsterdam,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Go-Stockholm/,Golang Stockholm,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/skilstak/code/go/uniq,uniq,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/fr-FR/Golang-Marseille/,Golang Marseille,https://github.com/avelino/awesome-go#readme,Go
+https://pkg.go.dev/fmt,fmt library,https://github.com/avelino/awesome-go#readme,Go
+https://cirello.io/dynamolock,dynamolock,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/greyxor/slogor,slogor,https://github.com/avelino/awesome-go#readme,Go
+https://onsi.github.io/gomega/,gomega,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-DC/,Golang DC, Arlington, VA,https://github.com/avelino/awesome-go#readme,Go
+https://www.manning.com/books/effective-go,Effective Go: Elegant, efficient, and testable code,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golanguagenewyork/,Go Language NYC,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/gitlab-org/cli,cli,https://github.com/avelino/awesome-go#readme,Go
+https://sr.ht/~jamesponddotco/acopw-go/,acopw-go,https://github.com/avelino/awesome-go#readme,Go
+https://gophers.slack.com/messages/awesome,,https://github.com/avelino/awesome-go#readme,Go
+https://gophercon.eu/,GopherCon Europe,https://github.com/avelino/awesome-go#readme,Go
+https://cirello.io/pglock,pglock,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golang-syd/,Golang Sydney, AU,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-Argentina/,Golang Argentina,https://github.com/avelino/awesome-go#readme,Go
+https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html,ipaddr,https://github.com/avelino/awesome-go#readme,Go
+https://www.malshare.com/,malshare.com,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golang-mel/,Golang Melbourne,https://github.com/avelino/awesome-go#readme,Go
+https://developer.mapquest.com/documentation/api/geocoding/,MapQuest,https://github.com/avelino/awesome-go#readme,Go
+https://confetti-framework.github.io/docs/,Confetti Framework,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/so_literate/genmock,genmock,https://github.com/avelino/awesome-go#readme,Go
+https://pkg.go.dev/golang.org/x/crypto/acme/autocert,autocert,https://github.com/avelino/awesome-go#readme,Go
+https://gopherconindia.org/,GopherCon India,https://github.com/avelino/awesome-go#readme,Go
+https://app.netlify.com/sites/awesome-go/deploys,,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golang-dorset/,Golang Dorset, UK,https://github.com/avelino/awesome-go#readme,Go
+https://gocon.connpass.com/,GoCon,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/pjrpc/pjrpc,pjrpc,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golangbr/,Golang São Paulo - Brazil,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golang-milano/,Golang Milano,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Go-London-User-Group/,Go London User Group,https://github.com/avelino/awesome-go#readme,Go
+https://code.pfad.fr/swift/,swift,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Athens-Gophers/,Golang Athens,https://github.com/avelino/awesome-go#readme,Go
+https://www.gophercon.org.il/,GopherCon Israel,https://github.com/avelino/awesome-go#readme,Go
+https://www.trackawesomelist.com/avelino/awesome-go/,,https://github.com/avelino/awesome-go#readme,Go
+https://learning.getpostman.com/docs/postman/collections/creating-collections/,Postman Collections,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-Estonia/,Golang Estonia,https://github.com/avelino/awesome-go#readme,Go
+https://webservices.amazon.com/paapi5/documentation/,Amazon Product Advertising API 5.0,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/en-AU/Golang-North-East/,Golang North East,https://github.com/avelino/awesome-go#readme,Go
+https://pkg.go.dev/cirello.io/oversight,oversight,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Go-Remote-Meetup/,Go Remote Meetup,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/BaltimoreGolang/,Golang Baltimore, MD,https://github.com/avelino/awesome-go#readme,Go
+https://redocly.com/,ReDoc,https://github.com/avelino/awesome-go#readme,Go
+https://bitfieldconsulting.com/books/love,For the Love of Go,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golang-taipei-meetup/,Golang Taipei,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/verygoodsoftwarenotvirus/blanket,blanket,https://github.com/avelino/awesome-go#readme,Go
+https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf,Learning Go,https://github.com/avelino/awesome-go#readme,Go
+https://bifroest.engity.org/,Engity's Bifröst,https://github.com/avelino/awesome-go#readme,Go
+https://www.godays.io/,GoDays,https://github.com/avelino/awesome-go#readme,Go
+https://nominatim.org/release-docs/latest/api/Overview/,Nominatim,https://github.com/avelino/awesome-go#readme,Go
+https://wide.b3log.org/login,Wide,https://github.com/avelino/awesome-go#readme,Go
+https://lesiw.io/moxie,moxie,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Gurgaon-Go-Meetup/,Golang Gurgaon, India,https://github.com/avelino/awesome-go#readme,Go
+https://wiki.archlinux.org/index.php/XDG_user_directories,XDG user directories,https://github.com/avelino/awesome-go#readme,Go
+https://plugins.jetbrains.com/plugin/9568-go,Go plugin for JetBrains IDEs,https://github.com/avelino/awesome-go#readme,Go
+https://gioui.org,gio,https://github.com/avelino/awesome-go#readme,Go
+https://nsq.io/,nsq,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/go-toronto/,Go Toronto,https://github.com/avelino/awesome-go#readme,Go
+https://opensky-network.org/,OpenSKY Network,https://github.com/avelino/awesome-go#readme,Go
+https://resgate.io/,resgate,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/thessaloniki-golang-meetup/,Golang Thessaloniki,https://github.com/avelino/awesome-go#readme,Go
+https://www.manning.com/books/go-in-practice-second-edition,Go in Practice, Second Edition,https://github.com/avelino/awesome-go#readme,Go
+https://at.line.me/en,Line,https://github.com/avelino/awesome-go#readme,Go
+https://countrylayer.com/,REST Countries API,https://github.com/avelino/awesome-go#readme,Go
+https://git.mills.io/prologic/bitcask,Bitcask,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-Paris/,Golang Paris,https://github.com/avelino/awesome-go#readme,Go
+https://lets-go.alexedwards.net,Lets-Go,https://github.com/avelino/awesome-go#readme,Go
+https://lets-go-further.alexedwards.net,Lets-Go-Further,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-Bangalore/,Golang Bangalore,https://github.com/avelino/awesome-go#readme,Go
+https://mattn.github.io/go-gtk/,go-gtk,https://github.com/avelino/awesome-go#readme,Go
+https://golab.io/,GoLab,https://github.com/avelino/awesome-go#readme,Go
+https://jan.newmarch.name/golang/,Network Programming With Go,https://github.com/avelino/awesome-go#readme,Go
+https://goplay.tools,Better Go Playground,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Go-User-Group-Hamburg/,Golang Hamburg - Germany,https://github.com/avelino/awesome-go#readme,Go
+https://invite.slack.golangbridge.org/,form here to join,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-Poland/,Golang Poland,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/opennota/re2dfa,re2dfa,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/cosban/di,cosban/di,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/alcastle/dyndns,dyndns,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golang-torino/,Golang Torino,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Go-Users-Group-Atlanta/,Go User Group Atlanta,https://github.com/avelino/awesome-go#readme,Go
+https://www.gopl.io/,The Go Programming Language,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/go-belo-horizonte/,Golang Belo Horizonte - Brazil,https://github.com/avelino/awesome-go#readme,Go
+https://bitbucket.org/rj/goey/src/master/,Goey,https://github.com/avelino/awesome-go#readme,Go
+https://www.gophercon-russia.ru,GopherCon Russia,https://github.com/avelino/awesome-go#readme,Go
+https://goblin.run,goblin,https://github.com/avelino/awesome-go#readme,Go
+https://eclipse.org/paho/clients/golang/,mqttPaho,https://github.com/avelino/awesome-go#readme,Go
+https://wails.io,Wails,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Go-Israel/,Golang Israel,https://github.com/avelino/awesome-go#readme,Go
+https://www.mapbox.com/developers/api/geocoding/,Mapbox,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-Pune/,Golang Pune,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Basel-Go-Meetup/,Basel Go Meetup,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/GoBandung/,GoBandung,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/tymonx/go-formatter,go-formatter,https://github.com/avelino/awesome-go#readme,Go
+https://compilerbook.com,Writing A Compiler In Go,https://github.com/avelino/awesome-go#readme,Go
+https://golang.org/pkg/text/template/,text/template,https://github.com/avelino/awesome-go#readme,Go
+https://www.freebsd.org/cgi/man.cgi?query=fail,failpoints,https://github.com/avelino/awesome-go#readme,Go
+https://golang.org/x/net,net,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/bostongo/,Golang Boston,https://github.com/avelino/awesome-go#readme,Go
+https://periph.io/,periph,https://github.com/avelino/awesome-go#readme,Go
+https://www.gophercon.com/,GopherCon,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-Kathmandu/,Golang Kathmandu,https://github.com/avelino/awesome-go#readme,Go
+https://xuri.me/toml-to-go,TOML-to-Go,https://github.com/avelino/awesome-go#readme,Go
+https://golang.yandex/hasql,hasql,https://github.com/avelino/awesome-go#readme,Go
+https://gophercon.sg,GopherCon Singapore,https://github.com/avelino/awesome-go#readme,Go
+https://kommunity.com/goturkiye,Golang Turkey,https://github.com/avelino/awesome-go#readme,Go
+https://www.gomponents.com,gomponents,https://github.com/avelino/awesome-go#readme,Go
+https://sv443.net/jokeapi/v2/,JokeAPI,https://github.com/avelino/awesome-go#readme,Go
+https://mholt.github.io/json-to-go/,JSON-to-Go,https://github.com/avelino/awesome-go#readme,Go
+https://www.producthunt.com/posts/awesome-go?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-go,,https://github.com/avelino/awesome-go#readme,Go
+https://jetbrains.com/go,GoLand,https://github.com/avelino/awesome-go#readme,Go
+https://www.lastpass.com/,LastPass,https://github.com/avelino/awesome-go#readme,Go
+https://browscap.org/,Browser Capabilities Project,https://github.com/avelino/awesome-go#readme,Go
+https://bartventer.github.io/go-template-playground/,go-template-playground,https://github.com/avelino/awesome-go#readme,Go
+http://ltsv.org/,LTSV (Labeled Tab Separated Value),https://github.com/avelino/awesome-go#readme,Go
+https://json-to-proto.github.io/,JSON-to-Proto,https://github.com/avelino/awesome-go#readme,Go
+https://wiki.openstreetmap.org/wiki/Nominatim,OpenStreetMap,https://github.com/avelino/awesome-go#readme,Go
+https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt,https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt,https://github.com/avelino/awesome-go#readme,Go
+https://blitiri.com.ar/p/chasquid,chasquid,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golangvan/,Golang Vancouver, BC,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/qosenergy/squalus,Squalus,https://github.com/avelino/awesome-go#readme,Go
+https://htmgo.dev,htmgo,https://github.com/avelino/awesome-go#readme,Go
+https://www.gophercon.co.uk/,GopherCon UK,https://github.com/avelino/awesome-go#readme,Go
+http://snowball.tartarus.org/,Snowball native,https://github.com/avelino/awesome-go#readme,Go
+https://interpreterbook.com,Writing An Interpreter In Go,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/gobridge/,GoBridge, San Francisco, CA,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Belfast-Gophers/,Belfast Gophers,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-Bulgaria/,Golang Bulgaria,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golangroma/,Golang Roma,https://github.com/avelino/awesome-go#readme,Go
+https://sourceware.org/libffi/,libffi,https://github.com/avelino/awesome-go#readme,Go
+https://gvisor.dev/,gVisor,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/viennago/,Golang Vienna, Austria,https://github.com/avelino/awesome-go#readme,Go
+https://airtable.com/api,Airtable API,https://github.com/avelino/awesome-go#readme,Go
+https://glmatrix.net/,glMatrix,https://github.com/avelino/awesome-go#readme,Go
+https://codeberg.org/anaseto/goal,goal,https://github.com/avelino/awesome-go#readme,Go
+https://gophercon.vn/,GopherCon Vietnam,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golang-rotterdam/,Golang Rotterdam,https://github.com/avelino/awesome-go#readme,Go
+https://gophercon.africa/,GopherCon Africa,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golang-serbia/,Belgrade Golang Meetup,https://github.com/avelino/awesome-go#readme,Go
+https://developers.google.com/closure/templates/,official spec,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Cardiff-Go-Meetup/,Golang Cardiff, UK,https://github.com/avelino/awesome-go#readme,Go
+http://technology.chtsai.org/mmseg/,MMSEG,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/tozd/go/errors,errors,https://github.com/avelino/awesome-go#readme,Go
+https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/index.html,AWS Encryption SDK,https://github.com/avelino/awesome-go#readme,Go
+https://gitea.com/xorm/xorm,XORM,https://github.com/avelino/awesome-go#readme,Go
+https://www.freetds.org,FreeTDS,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/GoCracow/,GoCracow - Krakow, Poland,https://github.com/avelino/awesome-go#readme,Go
+https://gophercon.com.au/,GopherCon Australia,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golangsg/,Golang Singapore,https://github.com/avelino/awesome-go#readme,Go
+https://jujucharms.com/,Juju,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Go-Cph/,Golang Copenhagen,https://github.com/avelino/awesome-go#readme,Go
+https://www.unicode.org/reports/tr29/,Unicode Standard Annex #29,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-Peru/,Golang Lima - Peru,https://github.com/avelino/awesome-go#readme,Go
+https://pkg.go.dev/modernc.org/sqlite,sqlite,https://github.com/avelino/awesome-go#readme,Go
+https://rawg.io/,RAWG Video Games Database,https://github.com/avelino/awesome-go#readme,Go
+https://apitest.dev,apitest,https://github.com/avelino/awesome-go#readme,Go
+https://www.manning.com/books/100-go-mistakes-how-to-avoid-them,100 Go Mistakes: How to Avoid Them,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/GoJakarta/,GoJakarta,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/golang-users-berlin/,Berlin Golang,https://github.com/avelino/awesome-go#readme,Go
+https://cloud.google.com/bigquery,Google BigQuery,https://github.com/avelino/awesome-go#readme,Go
+https://leanpub.com/GoNotebook/read,A Go Developer's Notebook,https://github.com/avelino/awesome-go#readme,Go
+https://pkg.go.dev/embed,embed,https://github.com/avelino/awesome-go#readme,Go
+https://gopherconbr.org,GopherCon Brazil,https://github.com/avelino/awesome-go#readme,Go
+https://onsi.github.io/ginkgo/,ginkgo,https://github.com/avelino/awesome-go#readme,Go
+https://nostarch.com/blackhatgo,Black Hat Go,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Golang-Lyon/,Golang Lyon,https://github.com/avelino/awesome-go#readme,Go
+https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/,Build Web Application with Golang,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/Brisbane-Golang-Meetup/,Brisbane Gophers,https://github.com/avelino/awesome-go#readme,Go
+https://ctop.sh,Top-like,https://github.com/avelino/awesome-go#readme,Go
+https://cihar.com/software/enca/,libenca,https://github.com/avelino/awesome-go#readme,Go
+https://layli.app,Layli,https://github.com/avelino/awesome-go#readme,Go
+https://cachethq.io/,Cachet (open source status page system),https://github.com/avelino/awesome-go#readme,Go
+https://limetext.github.io,limetext,https://github.com/avelino/awesome-go#readme,Go
+https://www.meetup.com/berner-go-meetup/,Bärner Go Meetup - Berne, Switzerland,https://github.com/avelino/awesome-go#readme,Go
+https://gophercon.com.cn,GopherCon China,https://github.com/avelino/awesome-go#readme,Go
+https://tsuru.io/,tsuru,https://github.com/avelino/awesome-go#readme,Go
+https://swagger.io/tools/swagger-ui/,Swagger UI,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/toby3d/telegraph,go-telegraph,https://github.com/avelino/awesome-go#readme,Go
+https://www.atlassian.com/enterprise/cloud,Atlassian Cloud,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/adrienK/go-yapla,go-yapla,https://github.com/avelino/awesome-go#readme,Go
+https://mesos.github.io/chronos/,Chronos,https://github.com/avelino/awesome-go#readme,Go
+https://open.feishu.cn/,Feishu,https://github.com/avelino/awesome-go#readme,Go
+https://open.larksuite.com/,Lark,https://github.com/avelino/awesome-go#readme,Go
+https://gitlab.com/tozd/go/fun,fun,https://github.com/avelino/awesome-go#readme,Go
+https://www.cncf.io/,CNCF,https://github.com/avelino/awesome-go#readme,Go
+https://joe-bot.net,go-joe,https://github.com/avelino/awesome-go#readme,Go

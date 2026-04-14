@@ -1,6 +1,5 @@
+http://forum.autoitbrasil.com/,Brazilian Forum,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
 https://ohtejera.github.io/ImperiusAutoIt/,ImperiusAutoIt,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.emesn.com/autoitforum/,Spanish Forum,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: RemoteDisconnected('Remote end closed connection without response') | reason: 
 https://www.autoitscript.com/forum/files/file/224-firefox-profile-backup/,FireFox Profile Backup 1.0 (by careca),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://teenyscript.tarre.nu/documentation,TeenyScript (by tarretarretarre),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://qbnz.com/highlighter/,GeSHi - Generic Syntax Highlighter,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('timed out') | reason: 
-http://autoitvn.com/,Vietnamese Forum,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: timeout('The read operation timed out') | reason: 
-http://forum.autoitbrasil.com/,Brazilian Forum,https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://teenyscript.tarre.nu/documentation,TeenyScript (by tarretarretarre),https://github.com/J2TeaM/awesome-AutoIt#readme,AutoIt error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

@@ -1,0 +1,137 @@
+https://itsleeds.github.io/UK2GTFS/,UK2GTFS,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.bing.com/maps/transitcontentproviders,Bing Maps Transit - Add your transit data to Bing Maps,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.opentripplanner.org/,OpenTripPlanner,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://gitlab.com/publictransitanalytics-pub/readme,BusGraphs Access Analyzer,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://gtfs.org,GTFS.org,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://developers.google.com/transit/gtfs/reference/extended-route-types,extended GTFS route types,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://addtransit.com/gtfs-transit-file.php,AddTransit,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://docs.google.com/document/d/19j-f-wZ5C_kYXmkLBye1g42U-kvfSVgYLkkG5oyBauY/edit,draft specification,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://transport.data.gouv.fr/,transport.data.gouv (France),https://github.com/MobilityData/awesome-transit#readme,Transit
+https://bitbucket.org/enroute-mobi/ara,Ara SaaS,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.kcata.org/,KCATA’s,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://git.sr.ht/~mil/transito,Transito,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.syncromatics.com/,Syncromatics API,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://mobilitydatabase.org/,Mobility Database,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://thetransitclock.github.io/,GTFS-realtime VehiclePositions to GTFS-realtime TripUpdates (TransitClock),https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.rust-lang.org/,Rust,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://instabus.org,Instabus,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://transitapp.com/,Transit,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://gtfs.studio,GTFS Studio,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://metro.kingcounty.gov/,King County Metro's,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://developers.google.com/maps/documentation/directions/,Google Maps Directions API,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.transportapi.com/,Transport API,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.localtransit.app,Local Transit,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://api.citybik.es,CityBikes,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://dcmetrohero.net,DC MetroHero,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://josm.openstreetmap.de/wiki/Rules,JOSM Validator Rules,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.opentripplanner.org/otp-ui,Storybook,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.mapnificent.net/,Mapnificent,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://munin-monitoring.org/,Munin,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://bustime.mta.info/wiki/Developers/SIRIIntro,MTA Bus Time API,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://codeberg.org/dancingCycle/gtfs-display,GTFS Display,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://transport.data.gouv.fr/validation/,French National Access Point,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://apps.kde.org/itinerary/,KDE Itinerary,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://enroute.atlassian.net/wiki/spaces/PUBLIC/pages/539426886/Chouette+Convert,Chouette,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://mittransportanalyst.github.io/,MIT COAXS,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://citymapper.com/,CityMapper,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://transitous.org,Transitous,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://transport.data.gouv.fr/tools/gtfs_diff,GTFS Diff,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping,World Bank - "Intro. to GTFS" online course,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://netex-cen.eu/,NeTex,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://laidig.github.io/gtfs-rt-autodoc/index.html,GTFS-realtime Autodoc,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://wiki.openstreetmap.org/wiki/Relatify,OSM Relatify,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.hacon.de,HaCon,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.nagios.org/,Nagios,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.vagrantup.com/,Vagrant,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://transit.land/,Transitland,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://public-transport.github.io/gtfs-rt-inspector/,gtfs-rt-inspector,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://transitdatatoolkit.com/,Open Transit Data Toolkit,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://developers.google.com/maps/pricing-and-plans/,Google Maps APIs Premium Plan license,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://gtfs.pleasantprogrammer.com,GTFS.html,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://gitlab.com/oeffi/oeffi,Offi Directions,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.swingbe.de/activity/gtfs-display/,Example instances,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://trimet.org/imi/program.htm,an FTA IMI project,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://transmodel-cen.eu/index.php/netex/,NeTEX,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.cencenelec.eu/european-standardization/european-standards/,CEN standards process,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot,Android,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.septa.org/,SEPTA's,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://motis-project.de/,MOTIS,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://bison.dova.nu/standaarden/nederlands-siri-profiel,BISON,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot,Fire Phone,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://api.busobservatory.org/,Bus Observatory API,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://docs.external.citymapper.com/api/,Citymapper API,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://gitlab.com/cutr-at-usf/transi,Transi,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://osm-simple-route-editor.kyle.kiwi/,OpenStreetMap Route Editor,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis,PTNA,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://codeberg.org/dancingCycle/gtfs-rt-display,GTFS Realtime Display,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://developer.tripgo.com,TripGo API,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.openstreetmap.org/,OpenStreetMap.org,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://mobilitydata.org/,MobilityData,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://itunes.apple.com/us/app/onebusaway/id329380089,iOS,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://ods.calitp.org/,TODS,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://europe.motis-project.de/,visualization,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://bdferris.github.io/kml-to-gtfs-shapes/,here,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/,Alexa skill,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.overpass-api.de/public_transport.html,Sketch Line,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://sparelabs.com/en/spare-gtfs-flex-builder,Spare GTFS-Flex Builder,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.swingbe.de/activity/gtfs-rt-display/,Example instances,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb,MBTA GTFS Onboarding,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/,GTNS,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.gov.uk/government/publications/transxchange-publisher,TXC TransXChange publisher (UK Department for Transport),https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.siri.org.uk/,SIRI format,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://laidig.github.io/siri-20-java/doc/,SIRI 2.0 Autodoc,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://de.wikipedia.org/wiki/HAFAS,HAFAS,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://gtfs-explorer.org,GTFS Explorer,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://goswift.ly/,Swiftly,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://transitdisplay.com/,Transit Display,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.citylines.co,Citylines.co,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.transitchicago.com/,CTA's,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.tyleragreen.com/maps/new_york/,MTA Frequency,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://ualabee.com/company/,Ualabee,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://gtfstohtml.com,GTFS-to-HTML,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://bitbucket.org/enroute-mobi/chouette-core,Chouette SaaS,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://busti.me,Bustime,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.citylines.co/data,citylines.co/data,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://apps.phor.net/septa/,SEPTA Rail OTP Report,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.allianceforparkingdatastandards.org/,APDS,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.vta.org/,Santa Clara Valley Transportation Authority,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://linkedconnections.org/,Linked Connections,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://catenarymaps.org,Catenary Maps,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.transitchicago.com/developers/traintracker.aspx,Train Tracker data,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://navigatorapp.net/,ÖPNV Navigator,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf,NextBus API format,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://tripgo.com/,TripGo,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://tarifazerobh.org/cade-meu-busao/,Cadê Meu Busão,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://transitscreen.com/,TransitScreen,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543,NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated),https://github.com/MobilityData/awesome-transit#readme,Transit
+http://articles.sae.org/15799/,SAE Shared and Digital Mobility Committee,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.mecatran.com/,Mecatran,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.parking.org/,International Parking Institute (IPI),https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.transitvis.com/,here,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://sr.ht/~mil/mobroute,Mobroute,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://database.mobilitydata.org/,Mobility Database,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Bus-Schedules,DDOT's,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://ebongo.org,Bongo,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120,TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress),https://github.com/MobilityData/awesome-transit#readme,Transit
+https://link.springer.com/article/10.1007/s12469-022-00291-7,this paper,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.britishparking.co.uk/,British Parking Association (BPA),https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.montgomerycountymd.gov/dot-transit/,Ride On's,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://citymapper.com/nyc,CityMapper Webapp,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://transit-lens.com/gtfs-map-viewer/,TransitLens,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://wiki.openstreetmap.org/wiki/OpenStop,OpenStop,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.soundtransit.org/,Sound Transit,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.navitia.io/,Navitia.io,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.transsee.ca/,TransSee,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://tracker.geops.ch/,TRAVIC Transit Visualization Client,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://wiki.openstreetmap.org/wiki/JOSM/Plugins/PT_Assistant,JOSM Plugins - PT Assistant,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://onebusaway.org/,OneBusAway,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://courses.planetizen.com/course/building-transit-map-app,Planetizen "Building a Transit Map Web App" course,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://developers.google.com/transit/gtfs/,Google Transit Developers,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://traze.app/,Traze,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://resources.transitapp.com/article/458-guidelines-for-producing-gtfs-static-data-for-transit,Transit app Guidelines for Producing GTFS Static Data,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://www.europeanparking.eu/,European Parking Association (EPA),https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.veridict.com,Veridict,https://github.com/MobilityData/awesome-transit#readme,Transit
+http://mbtaviz.github.io/,Visualizing MBTA Data,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://datex2.eu/,DATEX,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://gbfs.org/,GBFS,https://github.com/MobilityData/awesome-transit#readme,Transit
+https://www.openmobilityfoundation.org/,Open Mobility Foundation,https://github.com/MobilityData/awesome-transit#readme,Transit

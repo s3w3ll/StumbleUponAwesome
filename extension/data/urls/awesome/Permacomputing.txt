@@ -1,0 +1,118 @@
+https://permacomputing.net/,,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://permacomputing.net/permacomputing/,Permacomputing,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.lowtechmagazine.com/,Low-tech Magazine,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://monoskop.org/,Monoskop,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://damaged.bleu255.com/,Damaged Earth Catalog,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://wiki.xxiivv.com/,XXIIVV,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://theluddite.org/,The Luddite,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://frugalcomputing.neocities.org/,Frugal Computing,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://moddingfridays.bleu255.com/,Modding Fridays,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.notechmagazine.com/,No tech Magazine,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://simplifier.neocities.org/,Simplifier,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://blog.deathtobullshit.com/,Death to Bullshit,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://dothemath.ucsd.edu/,Do the Math,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://branch.climateaction.tech/,Branch Magazine,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://pluralistic.net/,Pluralistic,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+http://viznut.fi/files/texts-en/permacomputing.html,Permacomputing,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://wiki.xxiivv.com/site/permacomputing.html,A holistic approach to computing and sustainability inspired from permaculture,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://limits.pubpub.org/pub/6loh1eqi/release/1,Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://networkcultures.org/performanceofcode/2023/09/05/the-dance-of-repair-amid-the-vestiges-of-digital-obsolescence/,Permacomputing and the Dance of Repair Amid the Vestiges of Digital Obsolescence,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.autoluminescence.institute/resources/library/intro-oceanic_provenance_permacomputing_codework/,The Oceanic provenance of Permacomputing and Computational poetics,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://josem.co/the-beauty-of-finished-software/,The Beauty of Finished Software,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/,What might degrowth computing look like?,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.ultratechnology.com/lowfat.htm,Low Fat Computing,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/,The Staggering Ecological Impacts of Computation and the Cloud,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://arxiv.org/abs/2410.05460,It's Not Easy Being Green: On the Energy Efficiency of Programming Languages,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.vox.com/the-highlight/2019/10/1/20887003/tech-technology-evolution-natural-inevitable-ethics,The biggest lie tech people tell themselves — and the rest of us,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://arxiv.org/pdf/2409.14160,Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://medium.com/data-ai-masters/redefining-our-needs-permacomputing-and-vernacular-computing-ba703bb0f1d9,Redefining our needs: permacomputing and vernacular computing,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.ursulakleguin.com/dispossessed,The Dispossessed,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://starhawk.org/writing/books/the-fifth-sacred-thing/,The Fifth Sacred Thing,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+http://www.catb.org/esr/writings/taoup/html/index.html,The Art of Unix Programming,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://collections.dartmouth.edu/teitexts/meadows/diplomatic/meadows_ltg-diplomatic.html,The Limits to Growth,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://xkcd.com/2347/,Dependency,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.stuartmcmillen.com/comic/energy-slaves/,Energy Slaves,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://thesolargrid.net/Read,The Solar Grid,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.imdb.com/title/tt11873472/,Neptune Frost,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.imdb.com/title/tt0087544/,Nausicaä of the Valley of the Wind,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.imdb.com/title/tt5693890/,Death by Design,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.imdb.com/title/tt11464826/,The Social Dilemma,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.imdb.com/title/tt1462014/,Surviving Progress,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.imdb.com/title/tt27434317/,Low-Tech,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.youtube.com/watch?v=T3u7bGgVspM,An Approach to Computing and Sustainability Inspired from Permaculture,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://piped.video/watch?v=OOppK1or6RY&t=3036s,From appropriate technology to permacomputing: a glossary of counternarratives and practices,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://archive.org/details/blow_20191208,Preventing the Collapse of Civilization,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+http://collapseos.org/,Collapse OS,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+http://tinycorelinux.net/,Tiny Core Linux,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://alpinelinux.org/,Alpine Linux,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://9p.io/plan9/,Plan 9,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://micro-editor.github.io/,Micro,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.geany.org/,Geany,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.nano-editor.org/,Nano,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://wiki.xxiivv.com/site/left,Left,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://suckless.org/,Suckless,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://linrunner.de/tlp/,TLP,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://gohugo.io/,Hugo,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://twtxt.readthedocs.io/en/stable/,twtxt,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://sqlite.org/,sqlite,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.argosopentech.com/,Argos Translate,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://noscript.net/,NoScript,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://developers.thegreenwebfoundation.org/co2js/overview/,CO2.js,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://tauri.app/,Tauri,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+http://roland65.free.fr/xfe/,XFE,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://festival.pm/,Festival,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+http://fox-toolkit.org/,FOX,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.getzola.org/,Zola,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://100r.co/site/uxn.html,Uxn,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://geminiprotocol.net/,Gemini,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.torproject.org/,Tor,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://dat-ecosystem.org/,Dat Ecosystem,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://ipfs.tech/,IPFS,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://meshtastic.org/,Meshtastic,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://dillo.org/,Dillo,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://w3m.sourceforge.net/,w3m,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://gmi.skyjake.fi/lagrange/,Lagrange,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://lite.duckduckgo.com/lite,DuckDuckGo Lite,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.mojeek.com/,Mojeek,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://scuttlebutt.nz/,Scuttlebutt,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://join-lemmy.org/,Lemmy,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://piped.video/,Piped,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://mastodon.social/,Mastodon,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.olimex.com/Products/OLinuXino/open-source-hardware,OLinuXino,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://frame.work/,Framework,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.fairphone.com/,Fairphone,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://pine64.org/,pine64,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.greenarraychips.com/,Green Arrays,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://rc2014.co.uk/,RC2014,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.shift.eco/en/,SHIFT,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.ifixit.com/Guide,iFixit,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.repaircafe.org/en/,Repair Café,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://therestartproject.org/,The Restart Project,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://unbina.re/,Unbinare,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://solarprotocol.net/,Solar Protocol,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://permacomputingasapracticefordigitalgraphicdesign.com/,Permacomputing as a practice,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://reclaimed.systems/,Reclaimed Systems,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.designlife-cycle.com/,Designlife-cycle.com,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://limits.pubpub.org/,Computing within Limits,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://freifunk.net/en/,Freifunk,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://repair.eu/,Right to Repair,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://greensoftware.foundation/,Green Software Foundation,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://climateaction.tech/,ClimateAction.tech,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.admscentre.org.au/electronics-ecologies/,Electronics < > Ecologies,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://lurk.org/,LURK,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.sustainablewebmanifesto.com/,Sustainable Web Manifesto,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.thegreenwebfoundation.org/,The Green Web Foundation,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://varia.zone/en/,Varia,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://smallfile.ca/,Small File Media Festival,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.demoscene.info/,Demoscene,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.pixeljoint.com/,Pixel Joint,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://itch.io/jam/lowrezjam-2024,LOWREZJAM,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.datagarden.org/,Data Garden,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://www.fiber-space.nl/,Fiber Space,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://unthinking.photography/projects/smallfile/,Small File Photo Festival,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://tcc.lovebyte.party/,Tiny Code Christmas,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://wattwise.games/,Watt-Wise Game Jam,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://digicam.love/,digicam.love,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://slrpnk.net/c/permacomputing,Permacomputing on the SLRPNK Lemmy instance,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://lemmy.sdf.org/c/permacomputing,Permacomputing on the SDF Chatter Lemmy instance,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing
+https://lobste.rs/,Lobsters,https://github.com/idematos/awesome-permacomputing#readme,Permacomputing

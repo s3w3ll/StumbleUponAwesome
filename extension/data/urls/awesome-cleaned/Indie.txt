@@ -1,0 +1,44 @@
+https://www.reddit.com/r/indiebiz/,r/IndieBiz,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.reddit.com/r/EntrepreneurRideAlong/,/r/EntrepreneurRideAlong,https://github.com/mezod/awesome-indie#readme,Indie
+https://everyday.app,everyday.app,https://github.com/mezod/awesome-indie#readme,Indie
+https://vimeo.com/user12790628/videos,Talks from the MicroConf,https://github.com/mezod/awesome-indie#readme,Indie
+http://www.benorenstein.com/,Ben Orenstein,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.foundercafe.com/,FounderCafe,https://github.com/mezod/awesome-indie#readme,Indie
+http://baconbiz.com/,Talks from the BaconBizConf,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.indiehackers.com/businesses,IndieHackers,https://github.com/mezod/awesome-indie#readme,Indie
+https://wip.chat,Work In Progress,https://github.com/mezod/awesome-indie#readme,Indie
+https://levels.io/12-startups-12-months/,I’m Launching 12 Startups in 12 Months,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.indiehackers.com/blog,how he built it,https://github.com/mezod/awesome-indie#readme,Indie
+https://itunes.apple.com/us/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336?mt=2,Mixergy,https://github.com/mezod/awesome-indie#readme,Indie
+http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/,Don't Call Yourself A Programmer, And Other Career Advice,https://github.com/mezod/awesome-indie#readme,Indie
+http://webchat.freenode.net/?channels=%23%23passiveincome&uio=d4,##passiveincome,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.npr.org/podcasts/510313/how-i-built-this,How I Built This,https://github.com/mezod/awesome-indie#readme,Indie
+https://nugget.one/,Nugget.one,https://github.com/mezod/awesome-indie#readme,Indie
+http://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/,Running A Software Business On 5 Hours A Week,https://github.com/mezod/awesome-indie#readme,Indie
+https://saas.transistor.fm/,Build your SaaS,https://github.com/mezod/awesome-indie#readme,Indie
+https://tylertringas.com/storemapper-bootstrapped-to-50000year-in-2-years-with-live-metrics/,Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics),https://github.com/mezod/awesome-indie#readme,Indie
+https://news.ycombinator.com/,HackerNews,https://github.com/mezod/awesome-indie#readme,Indie
+https://bootstrap.money,Bootstrap Money,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.youtube.com/watch?v=0CDXJ6bMkMY,David Heinemeier Hansson at Startup School 08,https://github.com/mezod/awesome-indie#readme,Indie
+https://getmakerlog.com,Makerlog,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.reddit.com/r/Entrepreneur/,r/Entrepreneur,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.youtube.com/watch?v=i3d1asTrWUQ,Tyler Tringas on Storemapper and MicroSaaS,https://github.com/mezod/awesome-indie#readme,Indie
+https://bootstrapped.slack.com,Bootstrapped Slack,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.youtube.com/watch?v=m3nb_Qj3mRA,Bootstrapping Side Projects To Profit by Pieter Levels,https://github.com/mezod/awesome-indie#readme,Indie
+https://unicornfree.com/2013/why-you-should-do-a-tiny-product-first,Why You Should Do A Tiny Product First,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.reddit.com/r/SideProject/,r/SideProject,https://github.com/mezod/awesome-indie#readme,Indie
+https://sideprojectxyz.slack.com,Sideprojectxyz,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.youtube.com/watch?v=J8UwcyYT3z0,Talking about CoderPad and business at Dropbox,https://github.com/mezod/awesome-indie#readme,Indie
+http://www.productpeople.tv/,Product People,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.youtube.com/watch?v=EZxP0i9ah8E,Paul Buchheit at Startup School 08,https://github.com/mezod/awesome-indie#readme,Indie
+http://bootstrapped.fm/,bootstrapped.fm,https://github.com/mezod/awesome-indie#readme,Indie
+http://bootstrappedweb.com,Bootstrapped Web,https://github.com/mezod/awesome-indie#readme,Indie
+http://thesaasbootstrapper.com/,The SaaS Bootstrapper,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.reddit.com/r/startups/,r/Startups,https://github.com/mezod/awesome-indie#readme,Indie
+https://www.smartpassiveincome.com/podcasts/,Smart Passive Income,https://github.com/mezod/awesome-indie#readme,Indie
+https://bootstrappers.io/,Bootstrappers.io,https://github.com/mezod/awesome-indie#readme,Indie
+https://justinjackson.ca/indie/,Indie,https://github.com/mezod/awesome-indie#readme,Indie
+http://thesaasbootstrapper.com/resources/,The SaaS Bootstrapper,https://github.com/mezod/awesome-indie#readme,Indie
+http://giantrobots.fm/,Giant Robots,https://github.com/mezod/awesome-indie#readme,Indie
+http://macmartine.com/,Mac Martine,https://github.com/mezod/awesome-indie#readme,Indie
+https://hackerpreneur.co/,Hackerpreneur,https://github.com/mezod/awesome-indie#readme,Indie

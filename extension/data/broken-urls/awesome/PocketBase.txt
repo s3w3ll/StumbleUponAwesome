@@ -1,0 +1,1 @@
+https://pocodex.dev,pocodex.dev,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

@@ -1,0 +1,18 @@
+https://payloadcms.com/blog,Blog,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://payloadcms.com/posts/guides,Payload Guides & Tutorials,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.youtube.com/@payloadcms,YouTube,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://discord.gg/payload,Discord,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.reddit.com/r/PayloadCMS/,Reddit,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.youtube.com/@AaronSaundersCI,Aaron Saunders,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.youtube.com/@AllAboutPayload,All About Payload,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.youtube.com/@DanailMinchev,Danail Minchev,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.youtube.com/@LearnPayload,Learn Payload with Colyn,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.youtube.com/@nlv_codes,NLV Codes,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.youtube.com/@SamThoyre,Sam Thoyre,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.youtube.com/watch?v=MIJRgfRYHSU&list=PLmIBeoKTwgwlVxmmzU3L03v4Iq2mZ_tcR,Studio Monty,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.youtube.com/watch?v=7PNGNqqFlu0,Payload and Clerk example,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://www.youtube.com/watch?v=egKaeOuddFA,Payload and Clerk advanced integration,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://adrianmaj.com/en/blog,Adrian Maj,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://thelastcode.substack.com/p/the-listener-pattern-in-payloadcms,The Listener Pattern in Payload,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://zarif.dev/blogs/payload-cms-2fa-implementation,Payload: 2FA Implementation,https://github.com/DanailMinchev/awesome-payload#readme,Payload
+https://medium.com/@mleg1234/creating-a-color-picker-for-payload-cmss-rich-text-editor-lexical-a2ec3528669c,Creating a Color Picker,https://github.com/DanailMinchev/awesome-payload#readme,Payload

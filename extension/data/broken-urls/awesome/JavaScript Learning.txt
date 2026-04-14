@@ -1,0 +1,1 @@
+http://speakingjs.com,Speaking JavaScript,https://github.com/micromata/awesome-javascript-learning#readme,JavaScript Learning error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed

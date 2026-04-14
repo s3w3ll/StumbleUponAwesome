@@ -1,0 +1,18 @@
+https://www.construct.net/,Construct,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.shadertoy.com/view/XdV3Dc,Fast Solid 2D Outline,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f,Fuzzy Meshes,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.autodesk.com/products/3ds-max/,3DS Max,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.flaticon.com,Flaticon,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.freepik.com,Freepik,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.midjourney.com/home/,Midjourney,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.shadertoy.com/view/MllfDn,Simplex 3D Noise,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://phaser.io,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/irrlicht/,Irrlicht,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://irrlicht.sourceforge.io/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0,Soft Particles,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://lmms.io,LMMS,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://www.khronos.org/opengl/wiki/Fragment_Shader,Fragment Shaders,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.scratchapixel.com,Scratchapixel,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fbetterprogramming.pub%2Fmaking-a-verlet-physics-engine-in-javascript-1dff066d7bc5,Making a Verlet Physics Engine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://glide.sourceforge.net/,Glide Open Source Project,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.rpginabox.com,RPG in a Box,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development error: TimeoutError('The read operation timed out') | reason: 

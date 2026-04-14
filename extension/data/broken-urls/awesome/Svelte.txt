@@ -1,1 +1,6 @@
-https://routify.dev/,Routify,https://github.com/TheComputerM/awesome-svelte#readme,Svelte error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://www.skeleton.dev/docs/get-started,Skeleton,https://github.com/TheComputerM/awesome-svelte#readme,Svelte error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/svelte-check,svelte-check,https://github.com/TheComputerM/awesome-svelte#readme,Svelte error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode,Svelte for VS Code,https://github.com/TheComputerM/awesome-svelte#readme,Svelte error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets,Svelte 3 Snippets,https://github.com/TheComputerM/awesome-svelte#readme,Svelte error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://quaff.dev,Quaff,https://github.com/TheComputerM/awesome-svelte#readme,Svelte error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://ui.lomer.dev,lomer-ui,https://github.com/TheComputerM/awesome-svelte#readme,Svelte error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

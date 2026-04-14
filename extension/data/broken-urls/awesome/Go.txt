@@ -1,12 +1,12 @@
-https://www.gophercon.in/,GopherCon India,https://github.com/avelino/awesome-go#readme,Go error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gophercon.in'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gophercon.in'. (_ssl.c:1123)
-https://travis-ci.com/avelino/awesome-go,,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://lille-gophers.loscrackitos.codes/,Lille Gophers,https://github.com/avelino/awesome-go#readme,Go error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.meetup.com/Golang-Mountain-View/,Golang Mountain View,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://go-lint.appspot.com/,Golint online,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-https://www.meetup.com/nycgolang/,Golang New York,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://goway.io/,GoWayFest,https://github.com/avelino/awesome-go#readme,Go error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://codeplayground.app,Go Playground for iOS,https://github.com/avelino/awesome-go#readme,Go error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.meetup.com/Joinville-Go-Meetup/,Golang Joinville - Brazil,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.goin5minutes.com/,Go In 5 Minutes,https://github.com/avelino/awesome-go#readme,Go error: timeout('The read operation timed out') | reason: 
-https://about.sourcegraph.com/handbook/engineering/go_style_guide,Sourcegraph,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en,Sophos UTM REST API,https://github.com/avelino/awesome-go#readme,Go error: timeout('The read operation timed out') | reason: 
+https://docs.openproject.org/api/,OpenProject,https://github.com/avelino/awesome-go#readme,Go error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator,gitea-github-migrator,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
+https://gitlab.com/fruitygo/pnutmux,Pnutmux,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://msdn.microsoft.com/en-us/library/ff701715.aspx,Bing,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof,goprofiling,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_list.htm,Salesforce REST API,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://api.igdb.com/,Internet Game Database API,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://newsapi.org/,NewsAPI,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gowestconf.com/,GoWest Conference,https://github.com/avelino/awesome-go#readme,Go error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html,GNU cp,https://github.com/avelino/awesome-go#readme,Go error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.golang-book.com/,An Introduction to Programming in Go,https://github.com/avelino/awesome-go#readme,Go error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en,Sophos UTM REST API,https://github.com/avelino/awesome-go#readme,Go error: TimeoutError('The read operation timed out') | reason: 

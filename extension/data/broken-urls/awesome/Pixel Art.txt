@@ -1,2 +1,6 @@
+http://cyangmou.deviantart.com/,Thomas Feichtmeir,https://github.com/Siilwyn/awesome-pixel-art#readme,Pixel Art error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.devolverdigital.com/games/minit,Minit,https://github.com/Siilwyn/awesome-pixel-art#readme,Pixel Art error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
 https://vimeo.com/68038321,Pixel Paul - An Interview with Pixel Artist and Animator Paul Veer,https://github.com/Siilwyn/awesome-pixel-art#readme,Pixel Art error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://hello.eboy.com/eboy/,eBoy,https://github.com/Siilwyn/awesome-pixel-art#readme,Pixel Art error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://heartmachine.com/hyper-light,Hyper Light Drifter,https://github.com/Siilwyn/awesome-pixel-art#readme,Pixel Art error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://betterin2d.com/2014/08/02/pixel-art-tutorial-creating-a-colour-palette/,Creating a color palette,https://github.com/Siilwyn/awesome-pixel-art#readme,Pixel Art error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

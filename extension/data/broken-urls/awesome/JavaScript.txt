@@ -1,0 +1,6 @@
+http://w2ui.com/,w2ui,https://github.com/sorrycc/awesome-javascript#readme,JavaScript error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://medium.com/@pedropolisenso/o-javasscript-que-voc%C3%AA-deveria-conhecer-b70e94d1d706,The JavaScript that you should know,https://github.com/sorrycc/awesome-javascript#readme,JavaScript error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/,this keyword in JavaScript,https://github.com/sorrycc/awesome-javascript#readme,JavaScript error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.tensorflow.org/js/,TensorFlow.js,https://github.com/sorrycc/awesome-javascript#readme,JavaScript error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

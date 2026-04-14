@@ -1,12 +1,87 @@
-http://g.oswego.edu/pub/misc/malloc.c,dlmalloc,https://github.com/inputsh/awesome-c#readme,C error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://g.oswego.edu/pub/misc/malloc.c,dlmalloc,https://github.com/inputsh/awesome-c#readme,C error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://mcpp.sourceforge.net/,mcpp,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://bitbucket.org/MDukhan/yeppp,Yeppp!,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://cunit.sourceforge.net/,CUnit,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/libmicrohttpd/,libmicrohttpd,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/gperf/,GNU gperf,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.mpfr.org/index.html,GNU MPFR,https://github.com/inputsh/awesome-c#readme,C error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://sourceforge.net/projects/giflib/,giflib,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://cedet.sourceforge.net/,CEDET,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.gnu.org/licenses/lgpl-3.0.html,GNU LGPL3,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://directory.fsf.org/wiki/License:BSD-3-Clause,3-clause BSD,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://notabug.org/koz.ross/awesome-c,new platform,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.gnu.org/software/libffcall/,GNU Libffcall,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/mpria/,GNU MPRIA,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.pcre.org/,PCRE,https://github.com/inputsh/awesome-c#readme,C error: RemoteDisconnected('Remote end closed connection without response') | reason: 
 http://valloric.github.io/YouCompleteMe/,YouCompleteMe,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://computing.llnl.gov/tutorials/openMP/,OpenMP tutorial,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://lionet.info/asn1c/compiler.html,asnlc,https://github.com/inputsh/awesome-c#readme,C error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-https://fakenmc.github.io/cf4ocl/,cf4ocl,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://bstring.sourceforge.net/,bstrlib,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://astyle.sourceforge.net/,Artistic Style,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://unqlite.org/,UnQLite,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.gnu.org/software/gsl/,GSL,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/kissfft/,KISS FFT,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/complexity/,Complexity,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.gnu.org/licenses/gpl-3.0.html,GNU GPL3 or later,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://ccodearchive.net/,CCAN,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 520: '<none>'> | reason: <none>
+http://apophenia.info/,apophenia,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://math-atlas.sourceforge.net/,ATLAS,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/autoconf/autoconf.html,Autoconf,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://ccodearchive.net/list.html,here,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 520: '<none>'> | reason: <none>
+https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup,libsoup,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://freeglut.sourceforge.net/,FreeGLUT,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.quicklz.com/index.php,quicklz,https://github.com/inputsh/awesome-c#readme,C error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://www.gnu.org/software/libunistring/,libunistring,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/automake/automake.html,Automake,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/gnulib/,gnulib,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/libiconv/,libgiconv,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/ddd/ddd.html,DDD,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/gnu-c-manual/,GNU C Reference Manual,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://xmlsoft.org/,libxml2,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
 https://www.gtk.org/gtk-doc/,GTK-Doc,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://git.mpich.org/mpich.git/blob_plain/6aab201f58d71fc97f2c044d250389ba86ac1e3c:/COPYRIGHT,MPICH licence,https://github.com/inputsh/awesome-c#readme,C error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
-http://users.jyu.fi/~sapekiis/cheat/,CHEAT,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.gnu.org/software/gdb/,GDB,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://gmsl.sourceforge.io/,GMSL,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://proprogramming.org/some-unknown-features-or-tricks-in-c-language/,Some unknown features or tricks in C language,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.gnu.org/software/adns/,GNU adns,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/licenses/old-licenses/fdl-1.1.html,GNU FDL1.1,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.gnu.org/software/libc/,glibc,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/global/,GNU Global,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/libtool/,Libtool,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/gsasl/,GNU SASL,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/licenses/agpl-3.0.html,GNU AGPLv3,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.gnu.org/software/binutils/,gprof,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.mcs.anl.gov/petsc/,PETSc,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://users.jyu.fi/~sapekiis/cheat/,CHEAT,https://github.com/inputsh/awesome-c#readme,C error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://www.gnu.org/software/libxmi/,libxmi,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://cppinstitute.com/study-resources,C Programming Language Certified Associate preparation course,https://github.com/inputsh/awesome-c#readme,C error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1018)
+https://blogs.oracle.com/linux/8-gdb-tricks-you-should-know-v2,8 gdb tricks you should know,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://software.schmorp.de/pkg/libev.html,libev,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://250bpm.com/blog:56,Advanced metaprogramming in C,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.gnu.org/software/indent/,indent,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://fakenmc.github.io/cf4ocl/,cf4ocl,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.gnu.org/software/glpk/,GLPK,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/gss/,libgss,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://lwan.ws/,lwan,https://github.com/inputsh/awesome-c#readme,C error: TimeoutError('The read operation timed out') | reason: 
+https://dl.acm.org/citation.cfm?id=179241,Expert C Programming: Deep C Secrets,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://directory.fsf.org/wiki/License:BSD-4-Clause,Original BSD,https://github.com/inputsh/awesome-c#readme,C error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+https://sourceforge.net/projects/gjrand/,gjrand,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://directory.fsf.org/wiki/License:X11,X11,https://github.com/inputsh/awesome-c#readme,C error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+https://www.gnu.org/software/osip/,oSip,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/freeipmi/index.html,GNU FreeIPMI,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://p99.gforge.inria.fr/,P99,https://github.com/inputsh/awesome-c#readme,C error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
 https://hughes.com.au/products/libhttpd/,libhttpd,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.perforce.com/documentation/jam-documentation,Jam,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://blogs.oracle.com/linux/8-gdb-tricks-you-should-know-v2,8 gdb tricks you should know,https://github.com/inputsh/awesome-c#readme,C error: timeout('The read operation timed out') | reason: 
+http://git.mpich.org/mpich.git/blob_plain/6aab201f58d71fc97f2c044d250389ba86ac1e3c:/COPYRIGHT,MPICH licence,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.gnu.org/software/libidn/,libidn,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/pth/,pth,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/ncurses/,ncurses,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://directory.fsf.org/wiki/License:OLDAP-2.7,OpenLDAP License,https://github.com/inputsh/awesome-c#readme,C error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+https://directory.fsf.org/wiki/License:EPL-1.0,EPL,https://github.com/inputsh/awesome-c#readme,C error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+https://directory.fsf.org/wiki/License:Apache-2.0,Apache 2.0,https://github.com/inputsh/awesome-c#readme,C error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+https://www.gnu.org/software/recutils/,recutils,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://directory.fsf.org/wiki/License:NCSA,NCSA,https://github.com/inputsh/awesome-c#readme,C error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html,GNU GPL2.1 or later,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html,LGPL-2.1,https://github.com/inputsh/awesome-c#readme,C error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://yasm.tortall.net/,yasm,https://github.com/inputsh/awesome-c#readme,C error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://directory.fsf.org/wiki/License:MPL-1.1,MPLv1.1,https://github.com/inputsh/awesome-c#readme,C error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+https://directory.fsf.org/wiki/License:ISC,ISC,https://github.com/inputsh/awesome-c#readme,C error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+https://directory.fsf.org/wiki/License:BSD-2-Clause,2-clause BSD,https://github.com/inputsh/awesome-c#readme,C error: URLError(PermissionError(13, 'An attempt was made to access a socket in a way forbidden by its access permissions', None, 10013, None)) | reason: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions

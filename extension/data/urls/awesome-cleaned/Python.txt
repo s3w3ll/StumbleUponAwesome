@@ -1,0 +1,40 @@
+https://docs.python.org/3/library/pdb.html,pdb,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/datetime.html,datetime,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/zoneinfo.html,zoneinfo,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/logging.html,logging,https://github.com/vinta/awesome-python#readme,Python
+https://en.wikipedia.org/wiki/CERN,CERN,https://github.com/vinta/awesome-python#readme,Python
+https://pythonbytes.fm,Python Bytes,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/argparse.html,argparse,https://github.com/vinta/awesome-python#readme,Python
+https://en.wikipedia.org/wiki/Tz_database,tz database,https://github.com/vinta/awesome-python#readme,Python
+https://docs.djangoproject.com/en/dev/topics/db/models/,ORM,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/configparser.html,configparser,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/sqlite3.html,sqlite3,https://github.com/vinta/awesome-python#readme,Python
+https://realpython.com/podcasts/rpp/,The Real Python Podcast,https://github.com/vinta/awesome-python#readme,Python
+https://docs.djangoproject.com/en/dev/ref/contrib/gis/,Django,https://github.com/vinta/awesome-python#readme,Python
+https://x.com/vinta,@vinta,https://github.com/vinta/awesome-python#readme,Python
+https://www.riverbankcomputing.com/static/Docs/PyQt6/,PyQt,https://github.com/vinta/awesome-python#readme,Python
+https://gitlab.com/team-simpy/simpy,simpy,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/unittest.html,unittest,https://github.com/vinta/awesome-python#readme,Python
+https://pycoders.com/,Pycoder's Weekly,https://github.com/vinta/awesome-python#readme,Python
+https://www.reportlab.com/opensource/,reportlab,https://github.com/vinta/awesome-python#readme,Python
+https://realpython.com/python-tricks/,Python Tricks,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/tomllib.html,tomllib,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/mimetypes.html,mimetypes,https://github.com/vinta/awesome-python#readme,Python
+https://www.qt.io/,Qt,https://github.com/vinta/awesome-python#readme,Python
+https://selenium.dev/,Selenium,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/pathlib.html,pathlib,https://github.com/vinta/awesome-python#readme,Python
+https://selenium.dev/documentation/webdriver/,WebDriver,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/tkinter.html,tkinter,https://github.com/vinta/awesome-python#readme,Python
+https://www.pythonweekly.com/,Python Weekly,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/unittest.mock.html,mock,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/curses.html,curses,https://github.com/vinta/awesome-python#readme,Python
+https://www.pythonware.com/products/pil/,PIL,https://github.com/vinta/awesome-python#readme,Python
+https://djangochat.com/,Django Chat,https://github.com/vinta/awesome-python#readme,Python
+https://pypodcats.live,PyPodcats,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/difflib.html,difflib,https://github.com/vinta/awesome-python#readme,Python
+https://openpyxl.readthedocs.io/en/stable/,openpyxl,https://github.com/vinta/awesome-python#readme,Python
+https://www.imagemagick.org/script/magick-wand.php,MagickWand,https://github.com/vinta/awesome-python#readme,Python
+https://musicbrainz.org/,MusicBrainz,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/functools.html,functools,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/concurrent.futures.html,concurrent.futures,https://github.com/vinta/awesome-python#readme,Python
+https://docs.python.org/3/library/multiprocessing.html,multiprocessing,https://github.com/vinta/awesome-python#readme,Python

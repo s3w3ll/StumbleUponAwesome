@@ -1,0 +1,1 @@
+https://shipping-40.sharevent.it/,Shipping 4.0,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,2 @@
+https://search.maven.org/artifact/com.badlogicgames.gdx/gdx,,https://github.com/rafaskb/awesome-libgdx#readme,libGDX error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html,Sub-pixel Perfect Smooth Scrolling,https://github.com/rafaskb/awesome-libgdx#readme,libGDX error: <HTTPError 404: 'Not Found'> | reason: Not Found

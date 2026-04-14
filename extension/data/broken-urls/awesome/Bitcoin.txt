@@ -1,3 +1,9 @@
-https://block.io,block.io,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-https://river.com/learn,River Learn,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://bitkit.live,Bitkit,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://blockexplorer.com,Blockexplorer.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://messari.io/api,Messari.io,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://insight.is,Insight,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 520: '<none>'> | reason: <none>
+https://knowingbitcoin.com/,Knowing Bitcoin,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://developers.particle.network/reference/introduction-to-btc-connect,BTC Connect,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://chain.so,Chain.so,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://blockchair.com/bitcoin,Blockchair.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://block.io,block.io,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://blockchair.com/,blockchair.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized

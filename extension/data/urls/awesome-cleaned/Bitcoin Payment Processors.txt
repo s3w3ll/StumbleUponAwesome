@@ -1,0 +1,32 @@
+https://btcpayserver.org/,BTCPay Server,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://coinremitter.com/,Coinremitter,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://redbtc.org/flows/integrations/kraken-exchange/,Exchange Integration,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://mynode.alexkaul.com/gh-backer/top/1/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://utrust.com/,Utrust,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://www.cryptowoo.com/,CryptoWoo,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://nowpayments.io/,NOWPayments,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://mynode.alexkaul.com/gh-backer/top/2/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://elenpay.tech,ElenPAY,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://tryspeed.com/,Speed,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://confirmo.net/,Confirmo,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://bitcartcc.com,BitcartCC,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://www.blockonomics.co/merchants,Blockonomics,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://mynode.alexkaul.com/gh-backer/top/3/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://www.sheepy.com/,Sheepy,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://www.sheepy.com/faq/what-documents-are-required-to-verify-my-merchant-account,KYB documents,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://coingate.com/accept,CoinGate,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://mynode.alexkaul.com/gh-backer/top/4/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://www.alfacoins.com/,ALFAcoins,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://blog.coingate.com/2019/05/verify-merchant-account-faq,a lot of information and business documents,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://mynode.alexkaul.com/gh-backer/top/5/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://apirone.com/,Apirone,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://mynode.alexkaul.com/gh-backer/top/0/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://mynode.alexkaul.com/gh-backer/top/6/profile,,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://www.opennode.co/,OpenNode,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://mynode.alexkaul.com/gh-donate,Donate,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://help.opennode.com/en/articles/3654899-kyc-and-kyb-requirements,KYC/KYB documents,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://strike.me/business/,Strike,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://bitrequest.io/,Bitrequest,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://strike.me/faq/how-do-i-sign-up-for-a-strike-business-account/,basic business info, documents, identity verifications of owners and operators,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://zaprite.com/,Zaprite,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors
+https://paymento.io/,Paymento,https://github.com/alexk111/awesome-bitcoin-payment-processors#readme,Bitcoin Payment Processors

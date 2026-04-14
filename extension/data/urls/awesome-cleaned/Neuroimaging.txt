@@ -1,0 +1,73 @@
+https://firmm.readthedocs.io,FIRMM,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://clpipe.readthedocs.io/en/latest/,clpipe,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://fooof-tools.github.io/fooof/index.html,fooof,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://lncd.github.io/lncdtools/BIDS/,dcmdirtab, dcmtab_bids,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system,PACS,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/afniandafni/gui_guide/main_toc.html,AFNI,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://afni.nimh.nih.gov/pub/dist/doc/program_help/Dimon.html,Dimon,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.humanconnectome.org/software/hcp-mr-pipelines,HCP Pipeline,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://mattermost.brainhack.org/,brainhack,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.nitrc.org/projects/robex,ROBEX,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+http://doi.org/10.7554/eLife.55684,Trakoshis et al, eLife, 2020,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://openneuro.org/,openneuro,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://mriqc.readthedocs.io/,MRIQC,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://lncd.github.io/lncdtools/tat2/,tat2,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dQwarp.html,3dQwarp,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.siemens-healthineers.com/en-us/digital-health-solutions/syngo-carbon,Siemens Healthineers Syngo Carbon,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://surfer.nmr.mgh.harvard.edu/fswiki/FreeviewGuide/FreeviewIntroduction,freeview,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://afni.nimh.nih.gov/,AFNI,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://nipy.org/,nipy,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.documents.philips.com/assets/20240227/5a788a79bbdd4e1986f1b12300b0e534.pdf,Phillips Vue PACS,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://git.fmrib.ox.ac.uk/wclarke/pymapvbvd,pymapVBVD,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://nda.nih.gov/,NDA,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+http://www.ncbi.nlm.nih.gov/pubmed/23668970,Glasser et al. 2013,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.gehealthcare.com/products/healthcare-it/true-pacs,GE HealthCare True PACS,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://dsi-studio.labsolver.org/,dsi-studio,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://andysbrainblog.com/,Andy's brain blog,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.nitrc.org/,NITRC,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FNIRT/UserGuide,flirt, fnirt,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLeyes,fsleyes,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki,FSL,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://qsiprep.readthedocs.io/,qsiprep,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.templateflow.org/,templateflow,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://handbook.datalad.org/,DataLad handbook,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.xnat.org/,XNAT,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+http://www.ncanda.org/,NCANDA,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://learn-neuroimaging.github.io/hitchhackers_guide_brain/,Hitchhacker's guide to the brain,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://freesurfer.net/,Freesurfer,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.nitrc.org/projects/mricron,mricron,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://dsi-studio.labsolver.org/doc/gui_t1.html,dsistudio,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://neuroimaging-core-docs.readthedocs.io/,U of A: Neuroimaging Core Documentation,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.fil.ion.ucl.ac.uk/spm/,SPM,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://mcin.ca/technology/loris/,LORIS,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://mcin.ca/technology/civet/,CIVET,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009,MNI152,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://neurostars.org/,neurostars,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://pydicom.github.io/,pydicom,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.frontiersin.org/articles/10.3389/fninf.2016.00002/full,make,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dcalc.html,3dcalc,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.med.upenn.edu/bbl/philadelphianeurodevelopmentalcohort.html,PNC,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://brainlife.io,brainlife.io,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://afni.nimh.nih.gov/pub/dist/doc/program_help/dicom_hinfo.html,dicom_hinfo,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://qunex.yale.edu/,Qu|Nex,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dNotes.html,3dNotes,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.osirix-viewer.com/,osirix,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://mcin.ca/technology/cbrain/,cbrain,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://enigma.ini.usc.edu/,ENIGMA,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://montilab.psych.ucla.edu/fmri-wiki/optibet/,optibet,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://fmriprep.org/,fmriprep,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.freesurfer.net/pub/dist/freesurfer/dev_binaries/centos6_x86_64/fscalc.fsl,fscalc,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html,3dSkullStrip,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://afni.nimh.nih.gov/pub/dist/doc/program_help/afni_proc.py.html,afni_proc.py,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDeconvolve.html,3dDeconvolve,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://qmenta.com,QMENTA,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://xcp-d.readthedocs.io/en/latest/,XCP-D,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://www.humanconnectome.org/software/connectome-workbench,wb_view,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://dbic-handbook.readthedocs.io/en/latest/mri/reproin.html,reproIn,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://bids-specification.readthedocs.io/en/stable/,BIDS,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide,bet,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FEAT,FEAT,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://dpaniukov.github.io/2016/06/06/brain-extraction-with-ants.html,antsBrainExtraction.sh,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+http://stnava.github.io/ANTs/,ANTs,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed,mri-watershed,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL-MRS,FSL-MRS,https://github.com/NPACore/awesome-neuroimaging#readme,Neuroimaging

@@ -1,0 +1,6 @@
+https://addons.mozilla.org/firefox/addon/pr-monitor/,,https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme,Browser Extensions error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://addons.mozilla.org/firefox/addon/gitpod/,,https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme,Browser Extensions error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://addons.opera.com/extensions/details/octolinker/,,https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme,Browser Extensions error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://addons.mozilla.org/firefox/addon/github-vscode-icons/,,https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme,Browser Extensions error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://apps.apple.com/app/octolinker/id1549308269,,https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme,Browser Extensions error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://addons.mozilla.org/firefox/addon/hide-files-on-github-/,,https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme,Browser Extensions error: <HTTPError 404: 'Not Found'> | reason: Not Found

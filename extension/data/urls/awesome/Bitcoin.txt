@@ -1,28 +1,62 @@
 https://bitkey.io,BitKey,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://www.lopp.net/bitcoin-information.html,Jameson Lopp Bitcoin Resource List,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://bitgo.github.io/bitgo-docs/,BitGo,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-http://dumps.webbtc.com/bitcoin/,WebBTC,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://developers.coinbase.com,Coinbase,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://deadhandprotocol.com,Deadhand Protocol,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://yogh.io/landing/,Mining visualization,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://www.btctooling.com/,Live Demo,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://chartscout.io,Chartscout,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://3xpl.com/,3xpl.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://bitquery.io/,Bitquery.io,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://block.io,block.io,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://blockchair.com/,blockchair.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://www.blockcypher.com,BlockCypher,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://www.blockchain.com/api,Blockchain.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://gem.co,Gem.co,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://www.blocktrail.com/BTC,BlockTrail,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-http://bip32.org,BIP32,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://insight.is,Insight,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://blockexplorer.com,Blockexplorer.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://chain.com,Chain.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://wallet.coinbase.com/,Coinbase Wallet,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://cryptocurrencyalerting.com/blockchain-alerts.html,Cryptocurrency Alerting,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://developers.particle.network/reference/introduction-to-btc-connect,BTC Connect,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://tatum.io/blockchain-api,Tatum,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://mempool.space/docs/api/rest,mempool.space,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://bitview.space/,Bitview,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://www.gomaestro.org/,Maestro,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://docs.coinmetrics.io/,CoinMetrics.io,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://api.coinpaprika.com,CoinPaprika,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://messari.io/api,Messari.io,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://developers.bitgo.com,BitGo,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://developers.coinbase.com,Coinbase,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://www.blockchain.com/api,Blockchain.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+http://bip32.org,BIP32,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://www.pinestreetlabs.com/walletos/,walletOS,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://bluewallet.io/,Blue Wallet,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://copay.io/,CoPay by BitPay,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://coinb.in,Coinb.in,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://chain.com,Chain.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://coin.space/,Coin Wallet,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://electrum.org/,Electrum,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8,A Gentle Introduction to Bitcoin Core Development,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://wallet.coinbase.com/,Coinbase Wallet,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://www.smartbit.com.au,Smartbit,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://blockstream.com/green/,Green,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://sparrowwallet.com/,Sparrow,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://wasabiwallet.io/,Wasabi Wallet,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://jamapp.org/,Jam,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://3xpl.com/bitcoin,3xpl.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 http://chain.so,Chain.so,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://blockchain.com,Blockchain.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://docs.coinmetrics.io/api/v2/,CoinMetrics.io,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://blockchair.com/bitcoin,Blockchair.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://blockstream.info,Blockstream.info,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://blockexplorer.com,Blockexplorer.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://www.smartbit.com.au,Smartbit,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://mempool.space/,mempool.space,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://libbitcoin.info/,Libbitcoin,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://libauth.org/,Libauth,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://bitcoindevkit.org/,Bitcoin Dev Kit (BDK),https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://lightningdevkit.org/,Lightning Dev Kit (LDK),https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://bitcoinj.github.io,BitcoinJ,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://bitcoin-s.org,Bitcoin-S,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://www.crmarsh.com/script-playground/,Script Playground,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://bitcore.io/playground/,Bitcore Playground,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://iancoleman.io/bip39/,Mnemonic Code generator,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://ide.bitauth.com/,Bitauth IDE,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://chainquery.com,ChainQuery Bitcoin RPC,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://bithoven-lang.github.io/bithoven/ide/,Bithoven IDE,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://bitcoincore.org/,Bitcoin Core,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8,A Gentle Introduction to Bitcoin Core Development,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://www.manning.com/books/grokking-bitcoin,Grokking Bitcoin,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://messari.io/api,Messari.io,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://bitcoin.stackexchange.com,Bitcoin Stackexchange,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/,Elliptic Curve Cryptography A Gentle Introduction,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://btcinformation.org/en/developer-documentation,btcinformation.org / Developer Documentation,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
@@ -30,9 +64,9 @@ http://bitcoinbook.cs.princeton.edu/,Bitcoin & Cryptocurrency,https://github.com
 https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/,Practical Bitcoin Info - Google Sheets,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://www.youtube.com/watch?v=ZfFNce6CVsE,A brief history of Bitcoin development...,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
 https://bitcoin-resources.com/,bitcoin-resources.com,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://libauth.org/,Libauth,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://bitcoinj.github.io,BitcoinJ,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://bitcoin-s.org,Bitcoin-S,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://www.crmarsh.com/script-playground/,Script Playground,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://bitcore.io/playground/,Bitcore Playground,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
-https://iancoleman.io/bip39/,Mnemonic Code generator,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://www.lopp.net/bitcoin-information.html,Jameson Lopp Bitcoin Resource List,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://svrgnty.com/,Svrgnty.com: Everything Bitcoin,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://river.com/learn,River Learn,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://learnmeabitcoin.com/,Learn me a Bitcoin - Greg Walker,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://bennet.org/,Bennet.org,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin
+https://knowingbitcoin.com/,Knowing Bitcoin,https://github.com/igorbarinov/awesome-bitcoin#readme,Bitcoin

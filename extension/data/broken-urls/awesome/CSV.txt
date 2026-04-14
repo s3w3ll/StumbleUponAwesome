@@ -1,2 +1,8 @@
-http://www.csvstudio.com/,csvstudio,https://github.com/secretGeek/awesomeCSV#readme,CSV error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
-http://csvkit.readthedocs.org/en/0.7.3/,CSVKit,https://github.com/secretGeek/awesomeCSV#readme,CSV error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://data.gov.au/dataset?res_format=CSV,Australian Government Open Data,https://github.com/secretGeek/awesomeCSV#readme,CSV error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.gnu.org/software/sed/manual/sed.html,sed (gnu tool),https://github.com/secretGeek/awesomeCSV#readme,CSV error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.csvstudio.com/,csvstudio,https://github.com/secretGeek/awesomeCSV#readme,CSV error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)
+https://www.gnu.org/software/gawk/manual/gawk.html,gawk (gnu tool),https://github.com/secretGeek/awesomeCSV#readme,CSV error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://blog.datacite.org/thinking-about-csv/,Thinking about CSV,https://github.com/secretGeek/awesomeCSV#readme,CSV error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://usopendata.org/2015/03/10/csv,In Praise of CSV,https://github.com/secretGeek/awesomeCSV#readme,CSV error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv,VS Code,https://github.com/secretGeek/awesomeCSV#readme,CSV error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.w3.org/TR/tabular-data-model/,W3C: Model for Tabular Data and Metadata on the Web,https://github.com/secretGeek/awesomeCSV#readme,CSV error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

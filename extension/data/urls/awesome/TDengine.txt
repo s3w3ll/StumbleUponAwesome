@@ -1,0 +1,4 @@
+https://tdengine.com,,https://github.com/taosdata/awesome-tdengine#readme,TDengine
+https://gitee.com/chunanyong/zorm,ZORM,https://github.com/taosdata/awesome-tdengine#readme,TDengine
+https://www.nuget.org/packages/IoTSharp.Data.Taos/,IoTSharp.Data.Taos,https://github.com/taosdata/awesome-tdengine#readme,TDengine
+https://www.nuget.org/packages/IoTSharp.HealthChecks.Taos/,IoTSharp.HealthChecks.Taos,https://github.com/taosdata/awesome-tdengine#readme,TDengine

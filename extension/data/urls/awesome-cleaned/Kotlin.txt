@@ -1,0 +1,4 @@
+https://kotlin.link,https://kotlin.link,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://slack.kotlinlang.org/,Kotlin Slack,https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://kotlin.link/rss.xml,RSS Feed of articles, videos, slides, updates (20 latest articles),https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin
+http://kotlin.link/rss-full.xml,RSS Feed of articles, videos, slides, updates (full archive),https://github.com/KotlinBy/awesome-kotlin#readme,Kotlin

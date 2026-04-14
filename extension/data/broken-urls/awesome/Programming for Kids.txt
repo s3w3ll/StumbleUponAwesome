@@ -1,0 +1,1 @@
+https://codekidz.ai/,CodeKidz,https://github.com/HollyAdele/awesome-programming-for-kids#readme,Programming for Kids error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable

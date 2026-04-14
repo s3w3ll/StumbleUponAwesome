@@ -1,13 +1,19 @@
-http://online.swiftplayground.run,Online Swift Playground,https://github.com/matteocrippa/awesome-swift#readme,Swift
-https://pypi.org/project/fastimage/0.2.1/,fastimage,https://github.com/matteocrippa/awesome-swift#readme,Swift
-https://swiftweeklybrief.com/,Swift Weekly Brief,https://github.com/matteocrippa/awesome-swift#readme,Swift
-https://bustoutsolutions.github.io/siesta/,Siesta,https://github.com/matteocrippa/awesome-swift#readme,Swift
-http://khan.github.io/Prototope/,Prototope,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://codemo.tech/partners,,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://ossp-updates.beehiiv.com/,Open Source Updates for Swift Projects,https://github.com/matteocrippa/awesome-swift#readme,Swift
 https://www.swift.org/documentation/api-design-guidelines/,API Design Guidelines,https://github.com/matteocrippa/awesome-swift#readme,Swift
-https://books.apple.com/us/book/the-swift-programming-language-swift-5-5/id881256329,Apple eBook,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://books.apple.com/us/book/the-swift-programming-language-swift-5-7/id881256329,Apple eBook,https://github.com/matteocrippa/awesome-swift#readme,Swift
 https://www.swift.org/getting-started/,Getting Started,https://github.com/matteocrippa/awesome-swift#readme,Swift
 https://developer.apple.com/tutorials/swiftui,Introducing SwiftUI,https://github.com/matteocrippa/awesome-swift#readme,Swift
 https://google.github.io/swift/,Google,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780,Developing iOS Apps with Swift,https://github.com/matteocrippa/awesome-swift#readme,Swift
 https://www.hackingwithswift.com,Hacking With Swift,https://github.com/matteocrippa/awesome-swift#readme,Swift
-https://swiftdoc.org/,SwiftDoc,https://github.com/matteocrippa/awesome-swift#readme,Swift
-https://theswiftwebdeveloper.com,The Swift Web Developer,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://www.kodeco.com,Ray Wenderlich Tutorials, Videos, Podcasts and books,https://github.com/matteocrippa/awesome-swift#readme,Swift
+http://ww1.janeshswift.com,Swift & SwiftUI Tutorials,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://sosumi.ai/,SwiftDoc,https://github.com/matteocrippa/awesome-swift#readme,Swift
+http://online.swiftplayground.run,Online Swift Playground,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://swiftfiddle.com,SwiftFiddle,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/,SwiftGodot,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://pypi.org/project/fastimage/0.2.1/,fastimage,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://stringswitch.com,StringSwitch,https://github.com/matteocrippa/awesome-swift#readme,Swift
+https://bustoutsolutions.github.io/siesta/,Siesta,https://github.com/matteocrippa/awesome-swift#readme,Swift
+http://khan.github.io/Prototope/,Prototope,https://github.com/matteocrippa/awesome-swift#readme,Swift

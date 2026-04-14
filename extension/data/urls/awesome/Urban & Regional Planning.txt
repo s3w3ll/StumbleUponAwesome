@@ -1,186 +1,305 @@
-https://leafletjs.com/,Leaflet,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.cdc.gov/places/index.html,CDC Places,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://joss.theoj.org/papers/10.21105/joss.03414,JOSS Article,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.esri.com/en-us/home,,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
 https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html,Article,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://leafletjs.com/examples/quick-start/,Quickstart Guide,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.esri.com/en-us/arcgis/about-arcgis/overview,ArcGIS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://hifld-geoplatform.opendata.arcgis.com/,HIFLD,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.wudapt.org/,WUDAPT,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.streetlightdata.com/,StreetLight Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link,https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://lehd.ces.census.gov/,Longitudinal Employer-Household Dynamics (LEHD),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.atsdr.cdc.gov/placeandhealth/svi/index.html,CDC Social Vulnerability Index,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.itdp.org/rapid-transit-database/,Rapid Transit Database,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889,Medium Article,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.who.int/data,WHO Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://qgis.org/en/site/,QGIS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://turfjs.org/,Turf.js,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://shiny.rstudio.com/,R Shiny,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://testfit.io/,TestFit,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.polleverywhere.com/,PollEverywhere,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://carto.com/,CARTO,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://developers.strava.com/,Strava,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/podcast/,APA Podcast,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.nccs.nasa.gov/services/climate-data-services,NCCS Data Services,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.nps.gov/subjects/nationalregister/data-downloads.htm,National Register of Historic Places,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://shiny.rstudio.com/tutorial/,Shiny Tutorial,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://data-usdot.opendata.arcgis.com/,BTS Open Data Site,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.sidewalklabs.com/products/delve,Delve,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://dashboard.transitcenter.org/,Transit Equity Dashboards,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview,ArcGIS Urban,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html,Download,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.census.gov/programs-surveys/acs,American Community Survey (ACS),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://numina.co/,Numina,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.teralytics.net/,Teralytics,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://onthemap.ces.census.gov/,On The Map Download Page,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.interline.io/osm/extracts/,MetroExtracts,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://cran.r-project.org/web/packages/sf/index.html,simplefeatures(sf),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/,US specific resources,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://engage.njtpa.org/,NJTPA Engage,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/pas/memo,PAS Memo,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.bls.gov/,Bureau of Labor Statistics,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://kepler.gl/,kepler.gl,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://whc.unesco.org/en/list/,UNESCO World Heritage Sites,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/,Esri's Python For Everyone,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148,Why CurbLR was built,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.strongtowns.org/podcast,Strong Towns Podcast,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html,Geodata Download,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://urbanfootprint.com/,UrbanFootPrint,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://overpass-turbo.eu/,Overpass Turbo,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/certification/,AICP Get Certified! Webpage,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://ctpp.transportation.org/,CTPP,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510,NCDC Storm Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://developers.google.com/transit/gtfs,GTFS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://inrix.com/,Inrix,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.socialpinpoint.com/,Social Pinpoint,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup,Esri Tapestry Segmentation,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://pandas.pydata.org/,Pandas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.hotosm.org/tools-and-data,Humanitarian OpenStreetMap Tools & Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/pas/quicknotes,PAS QuickNotes,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://data.census.gov/cedsci/,Table Data Access,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://urbansim.com/urbancanvas,UrbanCanvas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.gigitheplanner.com/podcast,The Urban Planner's Podcast,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.hellolamppost.co.uk/,Hello Lamp Post,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview,CityEngine,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.data-axle.com/,Data Axle,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/lbcs/standards/,LBCS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://safety.transoftsolutions.com/,Transoft,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.sketchup.com/,SketchUp,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.remix.com/,Remix,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/policy/guides/,Policy Guides,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/knowledgebase/,APA Knowledge Base,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.mapillary.com/,Mapillary,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://export.hotosm.org/en/v3/,Export Tool,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://courses.planetizen.com/course/coding-for-planners-python,Coding for Planners: Up and Running with Python,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://landscape.uc.foundation/,Landscape,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://nassgeodata.gmu.edu/CropScape/,CropScape,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://docs.kepler.gl/docs/api-reference,API Reference,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm,Arcpy,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.epa.gov/ejscreen/understanding-ejscreen-results,EJ Screen,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://censusreporter.org/,Census Reporter,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://tasks.hotosm.org/,Tasking Manager,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://streetmix.net/,Streetmix,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/planning/2020/oct/art-of-learning-by-example/,Art of Learning by Example,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.rhino3d.com/,Rhino,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.data.gov/,Data.Gov,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://developers.arcgis.com/python/api-reference/,ArcGIS Python API,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.adobe.com/creativecloud.html,Adobe Creative Suite,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/,American Planning Assoication's,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.automotus.co/,Automotus,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://flowmap.blue,flowmap-blue,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://censusreporter.org/examples/embed-charts/,embedded as HTML,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.usgs.gov/centers/eros/science/national-land-cover-database,NLCD,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.ecopiatech.com/,Ecopia,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://dataverse.harvard.edu/,Harvard Dataverse,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.gimp.org/,GIMP,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://rosap.ntl.bts.gov/welcome,Repository and Open Science Access Portal (ROSA P),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://sites.google.com/site/housefactsdatastandard/home,HouseFacts,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-http://scapetoad.choros.place/index.php,ScapeToad,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.abstreet.org,A/B Street,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.corelogic.com/,CoreLogic,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://courses.planetizen.com/course/urban-informatics,Introduction to Urban Informatics,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.curbflow.com/,curbFlow,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory,NOAA Severe Weather Inventory,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.sharedstreets.io,SharedStreets,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.omnisci.com/,Omnisci,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://transit.land,Transitland,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.spacesyntax.net/software/,Space Syntax,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://geopandas.org/,Geopandas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://electionlab.mit.edu/data,MIT Election Lab,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.curblr.org,CurbLR,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://law.unc.edu/academics/centers-and-programs/ai-dr-program/clearinghouse/,Automated Decision-Making and the Law Clearinghouse Project,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.interline.io/,Interline,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planetizen.com/features/115081-top-websites-urban-planning-2021,Civic Tech Field Guide,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.itreetools.org/,iTree,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://demo.curblr.org/,map and example feed,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://land.copernicus.eu/pan-european/corine-land-cover,Corine Land Cover,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.fema.gov/flood-maps/products-tools/hazus,HAZUS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://partridge.readthedocs.io/en/stable/readme.html,Partridge,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://coast.noaa.gov/slr/,Sea Level Rise Viewer,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.epa.gov/ejscreen/download-ejscreen-data,Download,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://udst.github.io/pandana/,Pandana,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planningprep.com/,PlanningPrep,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html,ACS 2019 1-year and 5-year estimates.,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.costar.com/,CoStar,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planetizen.com/planopedia,Planopedia,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://icleiusa.org/temperate-adaptation-planner/,Temperate,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://htaindex.cnt.org/,H+T Index,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planetizen.com/,Planetizen,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-http://www.earthdefine.com/,EarthDefine,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.bts.gov/geospatial/national-transportation-noise-map,National Noise Map,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://censusreporter.org/about/,About Page.,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://land.copernicus.eu/,Copernicus,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://inkscape.org/,Inkscape,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.whiteboxgeo.com/manual/wbt_book/intro.html,WhiteboxTools,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://cityenergyanalyst.com/,City Energy Analyst,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.openstreetmap.org/,OpenStreetMap,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.ngdc.noaa.gov/hazard/earthqk.shtml,Earth Quake Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.bangthetable.com/,bangthetable,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://leafmap.org/,leafmap.org,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/,APA Florida Exam Prep Webpage,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.urbanismnext.org/the-nexus,The Nexus,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.hudexchange.info/programs/location-affordability-index/,Location Affordability Index,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://nsrdb.nrel.gov/,NREL Solar Radiation,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://uli.org/,ULI,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.nhgis.org/,IPUMS National Historic GIS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.transit.dot.gov/ntd/ntd-data,National Transit Database,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://download.bbbike.org/osm/bbbike/,BBBike,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://metroquest.com/,Metroquest,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://firststreet.org/flood-factor/,FloodFactor,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-http://datastandards.directory/,Data Standards Directory,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.opportunityatlas.org/,Opportunity Atlas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-http://download.geofabrik.de/,Geofabrik,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-http://www.trb.org/NCHRP/NCHRP.aspx,NCHRP,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about,Temperature Severity Indicators,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.streetsblog.org/,Streetsblog,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://nces.ed.gov/datalab/index.aspx,National Center for Educational Statistics,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://dsl.richmond.edu/panorama/redlining/,Mapping Inequality,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://digital.gov/,Digital.Gov,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-http://www.trb.org/TCRP/TCRP.aspx,TCRP,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://99percentinvisible.org/,99% Invisible,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim,ITHIM,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB,Urban Heat Disparities Project,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://tfresource.org/,TFResource,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.countyhealthrankings.org/,County Health Rankings,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://geoffboeing.com/publications/street-network-models-indicators-world/,Global Urban Street Networks,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/pas/,Planning Advisory Service (PAS),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016,paper,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://healthdata.gov/,HealthData.gov,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.planning.org/pas/reports,PAS Reports,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ,Geopackage Download,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html,tidytext,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://climate.northwestknowledge.net/MACA/,MACA,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://getbootstrap.com/,Bootstrap,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://getbootstrap.com/docs/5.0/getting-started/introduction/,Documentation,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.hec.usace.army.mil/confluence/nsi/technicalreferences/2022/technical-documentation,National Structures Inventory,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://disgeoportal.egs.anl.gov/ClimRR/,ClimRR,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
 https://interactive-atlas.ipcc.ch/,IPCC Atlas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.fema.gov/flood-maps/products-tools/national-risk-index,National Risk Index,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.chartjs.org/,Chart.js,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.usgs.gov/landsat-missions/landsat-us-analysis-ready-data,LANDSAT Products,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://climate.northwestknowledge.net/MACA/,MACA,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://swcweb.epa.gov/stormwatercalculator/,National Stormwater Calculator,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.nccs.nasa.gov/services/climate-data-services,NCCS Data Services,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510,NCDC Storm Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.ncei.noaa.gov/products/severe-weather-data-inventory,NOAA Severe Weather Inventory,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about,Temperature Severity Indicators,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB,Urban Heat Disparities Project,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016,paper,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.wudapt.org/,WUDAPT,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.census.gov/programs-surveys/acs,American Community Survey (ACS),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html,Geodata Download,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://data.census.gov/cedsci/,Table Data Access,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://censusreporter.org/,Census Reporter,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://censusreporter.org/examples/embed-charts/,embedded as HTML,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html,ACS 2019 1-year and 5-year estimates.,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://censusreporter.org/about/,About Page.,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.nhgis.org/,IPUMS National Historic GIS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://ghsl.jrc.ec.europa.eu/download.php?ds=pop,Global Human Settlement Layer,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://nces.ed.gov/programs/edge/Home,Education Demographics & Geographic Estimates (EDGE),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://nces.ed.gov/datalab/index.aspx,National Center for Educational Statistics,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://lehd.ces.census.gov/,Longitudinal Employer-Household Dynamics (LEHD),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://onthemap.ces.census.gov/,On The Map Download Page,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.bls.gov/,Bureau of Labor Statistics,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.conservation.gov/pages/atlas-and-data,American Conservation and Stewardship Atlas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://nassgeodata.gmu.edu/CropScape/,CropScape,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.epa.gov/enviroatlas,EnviroAtlas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.usgs.gov/tools/national-biogeographic-map,National Biogeographic Map,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.usgs.gov/news/technical-announcement/new-species-habitat-distribution-maps-now-support-conservation-planning,More Information about the Tool,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
 https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products,National Hydrography,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
-https://www.fws.gov/wetlands/index.html,National Wetland Inventory,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.fws.gov/program/national-wetlands-inventory,National Wetland Inventory,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
 https://www.tpl.org/parkscore,Park Score,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
 https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/,Tree Canopy,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
 https://geospatial.tnc.org/,Geospatial Conservation Atlas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://ngmdb.usgs.gov/mapview/,National Geologic Map Database,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.energy.gov/scep/low-income-energy-affordability-data-lead-tool-and-community-energy-solutions,Low-Income Energy Affordability Data (LEAD),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://maps.nrel.gov/slope/,State and Local Planning for Energy (SLOPE) Platform,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://nsrdb.nrel.gov/,NREL Solar Radiation,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.atsdr.cdc.gov/place-health/php/svi/index.html,CDC Social Vulnerability Index,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html,Download,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.epa.gov/ejscreen/understanding-ejscreen-results,EJ Screen,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.epa.gov/ejscreen/download-ejscreen-data,Download,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://liheap-and-extreme-heat-hhs-acf.hub.arcgis.com/,Extreme Heat Dashboard,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://htaindex.cnt.org/,H+T Index,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.hudexchange.info/programs/location-affordability-index/,Location Affordability Index,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.opportunityatlas.org/,Opportunity Atlas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://dsl.richmond.edu/panorama/redlining/,Mapping Inequality,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://screeningtool.geoplatform.gov/en/methodology,Justice40,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://experience.arcgis.com/experience/0920984aa80a4362b8778d779b090723/page/ETC-Explorer---Homepage/,USDOT Equitable Transportation Community Explorer,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://maps.dot.gov/fhwa/steap/,STEAP,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.treeequityscore.org/,Tree Equity Score,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://screening-tools.com/,Screening Tools,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.countyhealthrankings.org/,County Health Rankings,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://healthdata.gov/,HealthData.gov,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://ephtracking.cdc.gov/Applications/heatTracker/,Heat and Health Tracker,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.cdc.gov/places/index.html,CDC Places,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html,USALEEP,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.who.int/data,WHO Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.nps.gov/subjects/nationalregister/data-downloads.htm,National Register of Historic Places,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://whc.unesco.org/en/list/,UNESCO World Heritage Sites,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.fhfa.gov/DataTools/Downloads,FHFA Public Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://preservationdatabase.org/,National Housing Preservation Database,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.usgs.gov/centers/eros/science/national-land-cover-database,NLCD,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://land.copernicus.eu/pan-european/corine-land-cover,Corine Land Cover,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://land.copernicus.eu/,Copernicus,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.zoningatlas.org/,National Zoning Atlas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.youtube.com/watch?v=XBWAXHDPM8Q&ab_channel=PlanningWebcast,here,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.youtube.com/watch?v=WjWe2U313gE&ab_channel=PlanningWebcast,here,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.openstreetmap.org/,OpenStreetMap,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://download.bbbike.org/osm/bbbike/,BBBike,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+http://download.geofabrik.de/,Geofabrik,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.interline.io/osm/extracts/,MetroExtracts,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://overpass-turbo.eu/,Overpass Turbo,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.hotosm.org/tools-and-data,Humanitarian OpenStreetMap Tools & Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://export.hotosm.org/en/v3/,Export Tool,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://overturemaps.org/,Overture Maps,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://gerrymander.princeton.edu/,OpenPrecincts,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://electionlab.mit.edu/data,MIT Election Lab,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.adaptationclearinghouse.org/,Adaptation Clearinghouse,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.census.gov/data/experimental-data-products/cre-heat.html,Community Resilience Estimates for Heat,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.ngdc.noaa.gov/hazard/earthqk.shtml,Earthquake Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.earthdata.nasa.gov/learn/pathfinders/disasters/extreme-heat-data-pathfinder,Extreme Heat Data Pathfinder,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://hifld-geoplatform.opendata.arcgis.com/,HIFLD,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.fema.gov/flood-maps/products-tools/national-risk-index,National Risk Index,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://rapt-fema.hub.arcgis.com/pages/data,RAPT,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://coast.noaa.gov/slr/,Sea Level Rise Viewer,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+http://access.umn.edu/data/datasets/,Accessibility Observatory,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://data-usdot.opendata.arcgis.com/,BTS Open Data Site,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.cityaccessmap.com/,City Access Map,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://ctpp.transportation.org/,CTPP,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.fhwa.dot.gov/policyinformation/hpms.cfm,HPMS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://transit.land,Transitland,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.interline.io/,Interline,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.bts.gov/geospatial/national-transportation-noise-map,National Noise Map,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.transit.dot.gov/ntd/ntd-data,National Transit Database,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://geoffboeing.com/publications/street-network-models-indicators-world/,Global Urban Street Networks,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ,Geopackage Download,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.itdp.org/rapid-transit-database/,Rapid Transit Database,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html,TIGER,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://dashboard.transitcenter.org/,Transit Equity Dashboards,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.cybercity3d.com/,CyberCity3d,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://plwmodelworks.com/industries/,PLW Model Works,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup,Esri Tapestry Segmentation,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.data-axle.com/,Data Axle,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.mapillary.com/,Mapillary,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.ecopiatech.com/,Ecopia,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://geomate.ca/en/,Geomate,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.cyclomedia.com/us,Cyclomedia,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.cotality.com/,Cotality,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://regrid.com/,Regrid,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.costar.com/,CoStar,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+http://www.earthdefine.com/,EarthDefine,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://climateengine.com/,Climate Engine,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://firststreet.org/risk-factor/,RiskFactor,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://firststreet.org/data-access/,Access Census Tract Risk Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://firststreet.org/,First Street Foundation Website,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://jupiterintel.com/,Jupiter Intelligence,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://numina.co/,Numina,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://safety.transoftsolutions.com/,Transoft,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/planning/2020/oct/art-of-learning-by-example/,Art of Learning by Example,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.automotus.co/,Automotus,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.curbflow.com/,curbFlow,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
 https://www.streetsimplified.com/,StreetSimplified,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.eco-counter.com/,EcoCounter,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://vivacitylabs.com/north-america/,VivaCity,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://airsage.com/,AirSage,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
 https://replicahq.com/platform,Replica,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
 https://www.safegraph.com/,SafeGraph,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
 https://www.wejo.com/,WeJo,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.streetlightdata.com/,StreetLight Data,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://developers.strava.com/,Strava,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.teralytics.net/,Teralytics,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://inrix.com/,Inrix,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.unacast.com/,Unacast,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.placer.ai/,PlacerAI,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.ogc.org/standards/citygml,CityGML,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/lbcs/standards/,LBCS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/,American Planning Association's,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://sites.google.com/site/housefactsdatastandard/home,HouseFacts,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://technical.buildingsmart.org/standards/ifc/,IFC,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.epa.gov/data-standards,EPA Data Standards,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.sharedstreets.io,SharedStreets,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.curblr.org,CurbLR,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://demo.curblr.org/,map and example feed,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148,Why CurbLR was built,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://developers.google.com/transit/gtfs,GTFS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://developers.google.com/transit/gtfs-realtime,GTFS-RT,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://netex-cen.eu/,NeTEx,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.transmodel-cen.eu/siri-standard/,SIRI,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.asam.net/standards/detail/opendrive/,OpenDrive,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://dotbts.github.io/BPA/,GATIS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://gofs.org/,GOFS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://pandas.pydata.org/,Pandas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm,Arcpy,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://developers.arcgis.com/python/api-reference/,ArcGIS Python API,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://geopandas.org/,Geopandas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://partridge.readthedocs.io/en/stable/readme.html,Partridge,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://udst.github.io/pandana/,Pandana,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.whiteboxgeo.com/manual/wbt_book/intro.html,WhiteboxTools,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://leafmap.org/,leafmap.org,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://joss.theoj.org/papers/10.21105/joss.03414,JOSS Article,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889,Medium Article,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://pysal.org,PySAL,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cityseer.benchmarkurbanism.com/,city-seer-api,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://residentmario.github.io/geoplot/,Geoplot,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://xarray-spatial.org/,Xarray-spatial,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+http://docs.momepy.org/en/stable/,Momepy,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://pypi.org/project/TerraVide/,TerraVide,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://dash.plotly.com/,Dash,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://shiny.rstudio.com/,R Shiny,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://shiny.rstudio.com/tutorial/,Shiny Tutorial,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cran.r-project.org/web/packages/sf/index.html,simplefeatures(sf),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://ggplot2.tidyverse.org/,ggplot2,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html,tidytext,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cran.r-project.org/web/packages/motif/index.html,Motif,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cran.r-project.org/web/packages/raster/index.html,Raster,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cran.r-project.org/web/packages/sfnetworks/index.html,Sfnetworks,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cran.r-project.org/web/packages/stars/index.html,Stars,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cran.r-project.org/web/packages/stplanr/index.html,stplanr,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cran.r-project.org/web/packages/tmap/,Tmap,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cran.r-project.org/web/packages/tidytransit/vignettes/introduction.html,tidytransit,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://walker-data.com/tidycensus/,tidycensus,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://getbootstrap.com/,Bootstrap,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://getbootstrap.com/docs/5.0/getting-started/introduction/,Documentation,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.chartjs.org/,Chart.js,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://leafletjs.com/examples/quick-start/,Quickstart Guide,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://turfjs.org/,Turf.js,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/,Esri's Python For Everyone,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://courses.planetizen.com/course/coding-for-planners-python,Coding for Planners: Up and Running with Python,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://courses.planetizen.com/course/urban-informatics,Introduction to Urban Informatics,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://apa-technology-division.github.io/2023-ai-ethics-letter,open letter,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://apa-technology-division.github.io/like-a-planner,Act Like a Planner,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.anthropic.com/,Anthropic,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.hlplanning.com/euclidhl/,EuclidHL,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.youtube.com/watch?v=AItBaYwfMOQ&ab_channel=PlanningWebcastSeries,here,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://blogs.uoregon.edu/artificialintelligence/ai-software/,University of Oregon, AI Software List,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://oecd.ai/en/,OECD AI Policy Observatory,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://lmstudio.ai/,LM Studio,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://lmstudio.ai/terms,free for personal use,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://studio.tune.app/,Tune Studio,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://roboflow.com/,Roboflow,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://docs.vllm.ai/en/latest/,vLLM,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/publications/document/9209455/,smart city digital twins,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://ertis-research.github.io/opentwins/,OpenTwins,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.nvidia.com/en-us/omniverse/,NVIDIA Omniverse,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.remi.com/,Remi,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://livingatlas.arcgis.com/assessment-tool/home,CMRA Assessment Tool,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.itreetools.org/,iTree,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.fema.gov/flood-maps/products-tools/hazus,HAZUS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://icleiusa.org/temperate-adaptation-planner/,Temperate,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://cityenergyanalyst.com/,City Energy Analyst,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.epa.gov/warm,EPA WARM Model,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://encore.naturalcapital.finance/en,ENCORE,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://icleiusa.org/LEARN/,LEARN,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://explorer.natureserve.org/,NatureServe Explorer,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.esri.com/en-us/arcgis/about-arcgis/overview,ArcGIS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://qgis.org/en/site/,QGIS,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://carto.com/,CARTO,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://kepler.gl/,kepler.gl,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://docs.kepler.gl/docs/api-reference,API Reference,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://flowmap.blue,flowmap-blue,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+http://scapetoad.choros.place/index.php,ScapeToad,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.heavy.ai/,Heavy.AI,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://felt.com/,Felt,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.arkio.is/,Arkio,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.incitu.us/,InCitu,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://poly.cam/,Polycam,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.spatial.io,Spatial,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.spectracities.com/,Spectracities,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.twinmotion.com/en-US,TwinMotion,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.unrealengine.com/en-US/,Unreal Engine,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.encodeplus.com/,Encode Plus,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.mygovernmentonline.org/,MyGovernmentOnline,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://digeplan.com/,Digiplan,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://opengov.com/products/citizen-services/,OpenGov,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://geocivix.com/state-local-government-agencies/,GeoCivix,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.notion.com/,Notion,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://youtu.be/sxwsThQP9to?t=2277,Technology Division webinar,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.bangthetable.com/,bangthetable,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://metroquest.com/,Metroquest,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.polleverywhere.com/,PollEverywhere,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.viewprogis.com/geocomment,GeoComment,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://engage.njtpa.org/,NJTPA Engage,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.socialpinpoint.com/,Social Pinpoint,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.hellolamppost.co.uk/,Hello Lamp Post,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.maptionnaire.com,Maptionnaire,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.surveymonkey.com/mp/take-a-tour/,SurveyMonkey,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://formware.io/,Formware,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview,CityEngine,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.sketchup.com/,SketchUp,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.rhino3d.com/,Rhino,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.adobe.com/creativecloud.html,Adobe Creative Suite,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.gimp.org/,GIMP,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://inkscape.org/,Inkscape,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://testfit.io/,TestFit,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.sidewalklabs.com/products/delve,Delve,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://enscape3d.com/,Enscape,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.autodesk.com/products/forma/overview,Forma,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview,ArcGIS Urban,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://urbanfootprint.com/,UrbanFootPrint,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://urbansim.com/urbancanvas,UrbanCanvas,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.remix.com/,Remix,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://streetmix.net/,Streetmix,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.abstreet.org,A/B Street,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.spacesyntax.net/software/,Space Syntax,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim,ITHIM,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/,US specific resources,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.nrel.gov/transportation/openpath.html,OpenPath,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.3dstreet.org/,3D Street,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.arcgis.com/home/item.html?id=c0d520baa30d4b47ab36232231c17875,models,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/certification/,AICP Get Certified! Webpage,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/knowledgebase/,APA Knowledge Base,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planningprep.com/,PlanningPrep,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/,APA Florida Exam Prep Webpage,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+http://www.trb.org/NCHRP/NCHRP.aspx,NCHRP,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+http://www.trb.org/TCRP/TCRP.aspx,TCRP,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://tfresource.org/,TFResource,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/pas/,Planning Advisory Service (PAS),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/pas/reports,PAS Reports,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/pas/memo,PAS Memo,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/pas/quicknotes,PAS QuickNotes,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/policy/guides/,Policy Guides,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://rosap.ntl.bts.gov/welcome,Repository and Open Science Access Portal (ROSA P),https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://law.unc.edu/academics/centers-and-programs/ai-dr-program/clearinghouse/,Automated Decision-Making and the Law Clearinghouse Project,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planetizen.com/planopedia,Planopedia,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planetizen.com/,Planetizen,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://uli.org/,ULI,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.streetsblog.org/,Streetsblog,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://99percentinvisible.org/,99% Invisible,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planning.org/podcast/,APA Podcast,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.strongtowns.org/podcast,Strong Towns Podcast,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://podcasts.apple.com/us/podcast/the-urban-planners-podcast/id1502943446,The Urban Planner's Podcast,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://landscape.uc.foundation/,Landscape,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.data.gov/,Data.Gov,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://dataverse.harvard.edu/,Harvard Dataverse,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.planetizen.com/features/115081-top-websites-urban-planning-2021,Civic Tech Field Guide,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://www.urbanismnext.org/the-nexus,The Nexus,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+http://datastandards.directory/,Data Standards Directory,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://digital.gov/,Digital.Gov,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning
+https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link,https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link,https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme,Urban & Regional Planning

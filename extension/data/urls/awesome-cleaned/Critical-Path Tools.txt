@@ -1,0 +1,6 @@
+https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent,recommends,https://github.com/addyosmani/critical-path-css-tools#readme,Critical-Path Tools
+http://addyosmani.github.io/basket.js/,basket.js,https://github.com/addyosmani/critical-path-css-tools#readme,Critical-Path Tools
+https://jonassebastianohlsson.com/criticalpathcssgenerator/,Penthouse online,https://github.com/addyosmani/critical-path-css-tools#readme,Critical-Path Tools
+https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en,PageSpeed Insights DevTools extension,https://github.com/addyosmani/critical-path-css-tools#readme,Critical-Path Tools
+https://chrome.google.com/webstore/detail/pagespeed-insights-checke/mkjmodmicmpjedhoekkmafdgpocdkbna?hl=en,PageSpeed Insights Checker for mobile extension,https://github.com/addyosmani/critical-path-css-tools#readme,Critical-Path Tools
+https://addyosmani.com/blog/removing-unused-css/,other,https://github.com/addyosmani/critical-path-css-tools#readme,Critical-Path Tools

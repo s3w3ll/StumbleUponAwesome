@@ -1,0 +1,25 @@
+https://eosauthority.com/tools,Tools from EOS Authority,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosio.stackexchange.com/,StackExchange for Q&A,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.alohaeos.com/tools,EOSIO Tools and Info,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eospowerup.io/,EOS PowerUp,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.alohaeos.com/vote,EOS Block Producer Research Portal,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://google.qwiklabs.com/catalog_lab/3743,Block.one: Getting Started with the EOSIO Blockchain and Smart Contracts,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://waxsweden.org/testnet/,Account Creation and Faucet,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://guide.eoscostarica.io/,EOS Learning Resources - EOS Costa Rica,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.gitpod.io/,Gitpod.io,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosio.github.io/eosio-java/,eosiojava API,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosio.github.io/eosio-swift/,EOSIO SDK for Swift,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://jungletestnet.io/,Jungle Testnet,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://academy.moralis.io/courses/eos-programming-101,EOS Programming 101,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://battles.eos.io/,Elemental Battles,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://objectcomputing.com/services/training/catalog/blockchain/building-dapps-with-eos-workshop,Building DApps on EOS: A Hands-On Workshop,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://greymass.com/en/anchor/,Anchor Wallet,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosflare.io/,eosflare,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eostoolkit.io/,EOS Toolkit,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosrio.io/simpleos/,SimplEOS,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosauthority.com/dashboard,EOS Authority Web Wallet,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://all-access.wax.io/,Wax Cloud Wallet,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://eosauthority.com/alerts,Get alerts for transactions on an account - EOS Authority,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://bloks.io/,Bloks,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.alohaeos.com/vote/proxy,EOS Vote Proxy Research Portal,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO
+https://www.eosgo.io/,EOS GO,https://github.com/DanailMinchev/awesome-eosio#readme,EOSIO

@@ -1,0 +1,19 @@
+https://medium.com/x8-the-ai-community/a-reading-list-and-mini-survey-of-conversational-ai-32fceea97180,An Annotated Reading List of Conversational AI,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://rasa.com/,Rasa,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://www.oreilly.com/library/view/designing-bots/9781491974810/,Designing Bots,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://www.conversationdesigninstitute.com/,Conversation Design Institute,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://www.youtube.com/playlist?list=PL_kEIZJfQ6lIALEhtaFYuIsPtzeKtJ4_h,Creating AI Conversations Panel Series,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://cai.tools.sap/,SAP Conversational AI,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://www.oreilly.com/library/view/designing-voice-user/9781491955406/,Designing Voice User Interfaces,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://developer.amazon.com/,Alexa,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://www.voiceflow.com/,Voiceflow,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://developers.line.biz/,LINE,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://aws.amazon.com/lex/,Amazon Lex,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://developers.facebook.com/docs/messenger-platform/,Messenger,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://chai.ml/,Chai,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://developer.microsoft.com/microsoft-teams,MS Teams,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://dasha.ai/,Dasha,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://opendialog.ai/,OpenDialog,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://api.slack.com/,Slack,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://core.telegram.org/,Telegram,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI
+https://developers.facebook.com/docs/whatsapp/,WhatsApp,https://github.com/jyguyomarch/awesome-conversational-ai#readme,Conversational AI

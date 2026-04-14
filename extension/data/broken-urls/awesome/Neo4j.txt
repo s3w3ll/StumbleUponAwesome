@@ -1,4 +1,5 @@
-http://yum.neo4j.org/stable/,Yum Repo,https://github.com/neueda/awesome-neo4j#readme,Neo4j error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://m2.neo4j.org/index.html,Maven repositories,https://github.com/neueda/awesome-neo4j#readme,Neo4j error: <HTTPError 503: 'Service Unavailable: Back-end server is at capacity'> | reason: Service Unavailable: Back-end server is at capacity
-http://graphgist.neo4j.com/,Gists,https://github.com/neueda/awesome-neo4j#readme,Neo4j error: RemoteDisconnected('Remote end closed connection without response') | reason: 
-https://www.graphstory.com/,GraphStory,https://github.com/neueda/awesome-neo4j#readme,Neo4j error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
+https://m2.neo4j.org/index.html,Maven repositories,https://github.com/neueda/awesome-neo4j#readme,Neo4j error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://neo4j.com/graphacademy/online-training/getting-started-graph-databases-using-neo4j/,Getting Started with Neo4j,https://github.com/neueda/awesome-neo4j#readme,Neo4j error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+http://graphgist.neo4j.com/,Gists,https://github.com/neueda/awesome-neo4j#readme,Neo4j error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently

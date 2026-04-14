@@ -1,0 +1,11 @@
+https://www.npmjs.com/package/strip-html,strip-html,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages
+https://www.npmjs.com/package/terminal-menu,terminal-menu,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages
+https://www.npmjs.com/package/torrent-mount,torrent-mount,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages
+https://www.npmjs.com/package/convex-hull,convex-hull,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages
+https://www.npmjs.com/~tmpvar,Elijah Insua,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages
+https://www.npmjs.com/package/franc,franc,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages
+https://www.npmjs.com/package/jslinux,jslinux,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages
+https://www.npmjs.com/package/webtorrent,webtorrent,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages
+https://www.npmjs.com/package/delaunay-triangulate,delaunay-triangulate,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages
+http://feross.org,Feross Aboukhadijeh,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages
+https://trackingjs.com/,trackingjs,https://github.com/feross/awesome-mad-science#readme,Mad Science npm Packages

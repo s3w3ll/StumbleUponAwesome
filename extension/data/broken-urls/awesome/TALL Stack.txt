@@ -1,0 +1,2 @@
+https://www.juststeveking.uk/embracing-the-tall-stack-with-event-sourcing-an-adventure-into-the-unknown/,Embracing The Tall Stack with Event Sourcing, an adventure into the unknown,https://github.com/livewire/awesome-tall-stack#readme,TALL Stack error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://fullstackbelgium.be,fullstackbelgium.be,https://github.com/livewire/awesome-tall-stack#readme,TALL Stack error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

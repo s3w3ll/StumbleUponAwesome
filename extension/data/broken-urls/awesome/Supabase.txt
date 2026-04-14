@@ -1,0 +1,1 @@
+https://migrate.supabase.com/,Heroku to Supabase Importer,https://github.com/lyqht/awesome-supabase#readme,Supabase error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

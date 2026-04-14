@@ -1,4 +1,14 @@
-http://www.isohill.com/,website,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://www.flasheffnano.com/,FlashEffNano,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://greensock.com/TransformManager,TransformManager,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.isohill.com/,website,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.libspark.org/wiki/saqoosha/FLARToolKit/en,website,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://sourceforge.net/projects/openflashchart/,Open Flash Charts,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://desuade.com/partigen,Desuade Partigen,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: RemoteDisconnected('Remote end closed connection without response') | reason: 
 https://greensock.com/gsap-as,GreenSock GSAP,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://eval.hurlant.com/,AS3eval,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.flasheff.com/,FlashEff2,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+http://www.flasheffnano.com/,FlashEffNano,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://greensock.com/TransformManager,TransformManager,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.adobe.com/products/animate.html,Adobe Animate CC,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: TimeoutError('The read operation timed out') | reason: 
+https://www.adobe.com/products/air.html,,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: TimeoutError('The read operation timed out') | reason: 
+http://wiki.starling-framework.org/start,help,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: <HTTPError 502: 'Bad Gateway'> | reason: Bad Gateway
+https://www.adobe.com/products/flash-builder.html,Adobe Flash Builder,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: TimeoutError('The read operation timed out') | reason: 
+https://www.adobe.com/products/scout.html,Adobe Scout,https://github.com/robinrodricks/awesome-actionscript3#readme,ActionScript 3 error: TimeoutError('The read operation timed out') | reason: 

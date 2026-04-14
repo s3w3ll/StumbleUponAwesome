@@ -1,0 +1,108 @@
+https://en.wikipedia.org/wiki/Supercomputer,High Performance Computing (HPC),https://github.com/dstdev/awesome-hpc#readme,HPC
+https://grendel.readthedocs.io/,Grendel,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://github.com%60ubccr/grendel,Source Code,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://xcat.org/,XCat,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://warewulf.hpcng.org/,Warewulf,https://github.com/dstdev/awesome-hpc#readme,HPC
+http://www.rocksclusters.org/,Rocks,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://cobbler.github.io/,Cobbler,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://docs.nvidia.com/base-command-manager/index.html,Base Command Manager,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.penguinsolutions.com/computing/products/software/scyld-clusterware/,Scyld,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://bluebanquise.com,BlueBanquise,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://slurm.schedmd.com/documentation.html,Slurm,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.ibm.com/products/hpc-workload-management,LSF,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://adaptivecomputing.com/moab-hpc-suite/,Moab,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://en.wikipedia.org/wiki/TORQUE,Torque,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://en.wikipedia.org/wiki/OpenLava,OpenLava,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://en.wikipedia.org/wiki/Univa_Grid_Engine,UGE/SGE,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://volcano.sh/,Volcano,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.mhpcc.hpc.mil/,Maui,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.openpbs.org/,OpenPBS,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://nextflow.io,Nextflow,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://cromwell.readthedocs.io/en/stable/,Cromwell,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://pegasus.isi.edu/,Pegasus,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://spack.io,Spack,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://easybuild.io/,EasyBuild,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://developer.nvidia.com/hpc-compilers,Nvidia,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.pgroup.com/index.htm,Portland Group,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://bluewaters.ncsa.illinois.edu/cray-compiler,Cray,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://gcc.gnu.org/,GNU,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://gcc.gnu.org/git.html,Source Code,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://llvm.org/,LLVM,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.open-mpi.org/,OpenMPI,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.mpich.org/,MPICH,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://mvapich.cse.ohio-state.edu/,MVAPICH,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.intel.com/content/www/us/en/developer/tools/oneapi/mpi-library.html,Intel-MPI,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://arrayfire.org/docs/index.htm,ArrayFire,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.openmp.org/,OpenMP,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://mvapich.cse.ohio-state.edu/benchmarks/,OSU Benchmarks,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-benchmarks.html,Intel MPI Benchmarks,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://hpccsystems.com/,HPCC Systems,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.netlib.org/linpack/,LINPACK,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.iozone.org/,IOzone,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.vi4io.org/tools/benchmarks/ior,IOR,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.vi4io.org/tools/benchmarks/mdtest,MDtest,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://fio.readthedocs.io/en/latest/fio_doc.html,FIO,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://git.kernel.dk/cgit/fio/,Source Code,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://openondemand.org/,OpenOnDemand,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://open.xdmod.org,Open XDMod,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://coldfront.readthedocs.io/en/latest/,Coldfront,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://pavilion2.readthedocs.io/,Pavilion2,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://reframe-hpc.readthedocs.io/en/stable/,Reframe,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://olcf.github.io/olcf-test-harness/,OLCF Test Harness,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://totalview.io/products/totalview,TotalView,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.cs.uoregon.edu/research/tau/home.php,Tau,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.valgrind.org/,Valgrind,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://sourceware.org/git/?p=valgrind.git,Source Code,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://tools.bsc.es/paraver,Paraver,https://github.com/dstdev/awesome-hpc#readme,HPC
+http://icl.cs.utk.edu/papi,PAPI,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://bitbucket.org/icl/papi/src/master/,Source Code,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://linux.die.net/man/1/pdsh,pdsh,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://clustershell.readthedocs.io/en/latest/intro.html,ClusterShell,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://apptainer.org,Apptainer,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://hpc.github.io/charliecloud/,Charliecloud,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.docker.com/,Docker,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://indigo-dc.github.io/udocker/,uDocker,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.nersc.gov/research-and-development/user-defined-images/,Shifter,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://singularity-hpc.readthedocs.io,Singularity HPC,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://lmod.readthedocs.io/en/latest/,Lmod,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://modules.readthedocs.io/en/latest/,Environment Modules,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.anaconda.com/,Anaconda,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://mamba.readthedocs.io/en/latest/,Mamba,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://visit-dav.github.io/visit-website/,Visit,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.paraview.org/,Paraview,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.ibm.com/docs/en/gpfs/4.1.0.4?topic=guide-introducing-general-parallel-file-system,GPFS,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.quobyte.com/storage-for/high-performance-computing-hpc?gclid=EAIaIQobChMI-fv1pfKG8wIV5x6tBh367Q5CEAAYASABEgJTgPD_BwE,Quobyte,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://ceph.io/en/,Ceph,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.weka.io/,Weka,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.lustre.org/,Lustre/Exascaler,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://git.whamcloud.com/fs/lustre-release.git,Source Code,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.beegfs.io/c/,BeeGFS,https://github.com/dstdev/awesome-hpc#readme,HPC
+http://www.orangefs.org/,OrangeFS,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://moosefs.com/,MooseFS,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://julialang.org/,Julia,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://futhark-lang.org/,Futhark,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://chapel-lang.org/,Chapel,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.springer.com/journal/11227,Journal of Super Computing,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.intersect360.com/media/podcasts/,This week in HPC,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.exascaleproject.org/podcast/,Exascaler Project,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://insidehpc.com/category/resources/hpc-podcast/,@HPCpodcast,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.hpcwire.com/,HPCWire,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://insidehpc.com/,InsideHPC,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.nextplatform.com/category/hpc/,The Next Platform,https://github.com/dstdev/awesome-hpc#readme,HPC
+http://www.theregister.co.uk/data_centre/hpc/,The Register HPC,https://github.com/dstdev/awesome-hpc#readme,HPC
+http://hpcatdell.com,HPC at Dell,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://pearc.acm.org/,Pearc,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://supercomputing.org/,Supercomputing (SC),https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.isc-hpc.com/,Supercomputing International (ISC),https://github.com/dstdev/awesome-hpc#readme,HPC
+https://dl.acm.org/conference/ccgrid,CCGrid,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://ieee-hpec.org/,IEEE-HPEC,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://hotchips.org,Hot Chips,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://hoti.org,Hot Interconnects,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://sites.google.com/view/essa-2024/,ESSA,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.ipdps.org/,IEEE-IPDPS,https://github.com/dstdev/awesome-hpc#readme,HPC
+http://nowlab.cse.ohio-state.edu/espm2/,ESPM2 Workshop,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://linuxclustersinstitute.org/workshops/,LCI Workshops,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://www.hpc-carpentry.org/,HPC Carpentry,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://top500.org,Top500,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://mug.mvapich.cse.ohio-state.edu/,MVAPICH,https://github.com/dstdev/awesome-hpc#readme,HPC
+https://slurm.schedmd.com/slurm_ug_agenda.html,Slurm,https://github.com/dstdev/awesome-hpc#readme,HPC

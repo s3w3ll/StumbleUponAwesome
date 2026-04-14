@@ -1,4 +1,23 @@
-https://deeplearning4j.org,Deeplearning4j,https://github.com/akullpp/awesome-java#readme,Java error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://jade.tilab.com,JADE,https://github.com/akullpp/awesome-java#readme,Java error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-https://virtualjug.com,VirtualJUG,https://github.com/akullpp/awesome-java#readme,Java error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://azure.microsoft.com/en-us/,Microsoft Azure,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://code.visualstudio.com/docs/languages/java,Visual Studio Code,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://commons.apache.org/proper/commons-chain/,Chain,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://developers.redhat.com/products/openjdk/overview,RedHat Open JDK,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://junit.org/junit5/,JUnit,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://commons.apache.org/proper/commons-proxy/,Proxy,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.functionaljava.org,Functional Java,https://github.com/akullpp/awesome-java#readme,Java error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://community.jaspersoft.com/project/jasperreports-library,JasperReports,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://ini4j.sourceforge.net,ini4j,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://atomix.io,Atomix,https://github.com/akullpp/awesome-java#readme,Java error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://labs.carrotsearch.com/hppc.html,HPPC,https://github.com/akullpp/awesome-java#readme,Java error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+http://commons.apache.org/proper/commons-ognl/,OGNL,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://opencsv.sourceforge.net,opencsv,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://commons.apache.org/proper/commons-functor/,Functor,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://bazel.build,Bazel,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://jade.tilab.com,JADE,https://github.com/akullpp/awesome-java#readme,Java error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://java.libhunt.com,java.libhunt.com,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://community.oracle.com/community/java,Java.net,https://github.com/akullpp/awesome-java#readme,Java error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://blog.overops.com,OverOps Blog,https://github.com/akullpp/awesome-java#readme,Java error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'blog.overops.com'. (_ssl.c:1018)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'blog.overops.com'. (_ssl.c:1018)
+https://discu.eu/weekly/java/,Java Weekly,https://github.com/akullpp/awesome-java#readme,Java error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)

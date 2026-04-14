@@ -1,0 +1,165 @@
+https://gamemaker.io/,,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.yoyogames.com/gamemaker,,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://steamdb.info/tech/Engine/GameMaker/,Check out this list.,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://manual.gamemaker.io/,GameMaker Manual,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://gms.yoyogames.com/ReleaseNotes.html,GameMaker Release Notes,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://marketplace.gamemaker.io/,GameMaker Marketplace,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP,Beginner GameMaker Tutorials,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2,Advanced GameMaker Tutorials,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.aseprite.org/,Aseprite,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-bit-buffers,Bit Buffers,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-sprite-add-gif,sprite_add_gif,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://foxyofjungle.itch.io/managix,Managix,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-zlib,zlib functions,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-window-taskbar,Window Taskbar,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://samuel-venable.itch.io/gamemaker-extension-collection,Extension Collection,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/,Video Player Extension,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://marketplace.yoyogames.com/assets/9529/gmescapi,GMESCAPI,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://gitlab.com/rousr-release/,Rousr Release,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-window-shape,window_shape,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-winwin,Windows' windows,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-winmenu,winMenu,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/window-set-icon,window_set_icon,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-file-dropper,file_dropper,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-window-commands,Window Commands,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-web-dyn-textures,Web Dynamic Textures,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://topherlicious.itch.io/gmwinbackdrop,GMWinBackdrop,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://mors-games.itch.io/wtimer,wTimer,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://pixelatedpope.itch.io/twerp,Twerp,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://trixelized.itch.io/trixscript,Trixscript,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://avis.itch.io/motion-scripts,Motion Scripts,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://xgasoft.itch.io/gmlp,GML+,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-live,GMLive,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://marketplace.visualstudio.com/items?itemName=bscotch.bscotch-stitch-vscode,Stitch for VSCode,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://sahaun.itch.io/yyp-maker,YYP Maker,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://manta-ray.itch.io/gmsnip,GMSnip,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-haxe,sfGML,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gm2024-win7-patcher,Win7 patcher for GM2024.11+,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-reroute-audio,RerouteAudio,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://mulfok.itch.io/gamemaker-deerlog,DeerLog,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://dragonite.itch.io/fps-speedometer-for-gamemaker,FPS Speedometer,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://topherlicious.itch.io/gmpulse,GMPulse,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://codeberg.org/offalynne/Input,Input,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/,XeroInput,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-native-cursors,Native Cursors,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-native-mouselock,Native Mouselock,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-raw-input,Raw Input,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://pixelatedpope.itch.io/scripture,Scripture,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://pkgames.itch.io/easy-and-fast-menus-for-gms-23,Easy And Fast Menu,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://jasontomlee.itch.io/pause-menu-gamemaker-1-2,Pause Menu,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://dragonite.itch.io/magpie,Magpie,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://rousr.itch.io/imguigml,ImGuiGML,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://niris.itch.io/gui-framework,GUI Framework,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1,Menu Tutorial,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=RbBgE3cUShc,Smart Clickable GUI,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://manta-ray.itch.io/gooey,gooey,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yellowafterlife.itch.io/gamemaker-cmn-loc,cmnLoc,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://mythloco.co.uk,MythLoco,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://krug-dev.itch.io/localize-system-for-gamemaker,Krug's Localize System,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/,On Slopes and Grids,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://benal.itch.io/basic-modern-platforming-system,GMS2 Platforming System,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2,Verlet Integration Library,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles,Top-Down Movement & Collision,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://bytecauldron.itch.io/gmphysx,GMPhysX,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://sahaun.itch.io/asesync,ASESync,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2,Echo/Delay Effect,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://topherlicious.itch.io/synthengine,SynthEngine,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://topherlicious.itch.io/musictheorylib,MusicTheoryLib,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://topherlicious.itch.io/waveform,WaveForm,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://topherlicious.itch.io/wavewrite,WaveWrite,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://topherlicious.itch.io/gmmidi,GMMidi,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://topherlicious.itch.io/ezafx,EZAFX,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://topherlicious.itch.io/gmsync,GMSync,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://topherlicious.itch.io/micvol,MicVol,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://shynif.itch.io/ldtk-to-gms,LDtk to GMS,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://quadolorgames.itch.io/wfc-gml-demo,Wave Function Collapse,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://alessiogamedev.itch.io/gms-cellular-automata-algorithm,Cellular Automata Caves,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://gamemakercasts.itch.io/particle-editor,Particle Editor,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://limekys.itch.io/advanced-particle-system,Advanced Particles,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy,Lighting Systems,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://foxyofjungle.itch.io/crystal-2d-lighting-engine,Crystal,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://short-bread.itch.io/transfx,TransFX,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://foxyofjungle.itch.io/post-processing-fx,Post-Processing FX,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://foxyofjungle.itch.io/lens-distortion-fov-shader,Lens Distortion FOV,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://foxyofjungle.itch.io/foxey-blur-area,Fast Blur Area,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://foxyofjungle.itch.io/foxey-transitions-pro,Transitions Pro,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://foxyofjungle.itch.io/sketch-cartoon-shader,Sketch Cartoon Shader,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://foxyofjungle.itch.io/water-reflective,2D Water Reflections,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://zikbakguru.itch.io/bjrtfx,BJRTFX,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://odditica.itch.io/bktglitch,bktGlitch,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://gizmo199.itch.io/horri-fi,H O R R I - F I,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://pixelatedpope.itch.io/depth-sorted-silhouette-example,Depth Sorted Silhouettes,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://gmshaders.com/,GMShaders.com,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://xordev.itch.io/halftone,Xor's Halftone,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://terohannula.itch.io/jump-flooding-algorithm,Jump Flooding,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P,Shader Tutorials,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa,Shader Tutorials,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/,ColMesh,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://cdlegasse.itch.io/ozarq-bsp-4-gms,BSP 4 GMS,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://lemontoast-games.itch.io/dopefish-respawned,DopeFish Respawned,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://dragonite.itch.io/penguin,Penguin,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://marketplace.yoyogames.com/assets/7299/spart-3d-particle-system,sPart,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://dragonite.itch.io/terrain,Terrain Editor,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://dragonite.itch.io/snowy-snow,Snowy Snow,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://dragonite.itch.io/collisions,Collisions,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://danieldavis.itch.io/ddg-point-light-shader-system,3D Fragment Point Lights,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V,3D GameMaker Playlist,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC,3D Collisions Playlist,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t,3D Optimization Playlist,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://bitbucket.org/tijit/gltf-parser-for-gamemaker-lts/src/main/,glTF parser,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://medium.com/@avsnoopy/beginners-guide-to-sprite-stacking-in-gamemaker-studio-2-and-magica-voxel-part-1-f7a1394569c0,Beginners Guide to Sprite Stacking,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://gizmo199.itch.io/fauxton3d,Fauxton3D,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j,Sprite Stacking Tutorials,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://jasontomlee.itch.io/easy-gms-networking-platformer-build,EZ Networking,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626,Multiplayer Networking Tutorial,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://springrollgames.itch.io/ggmr,Good GameMaker Rollback,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://marketplace.gamemaker.io/assets/11424/rocket-networking-engine,Rocket Networking Engine,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://marketplace.yoyogames.com/assets/9526/nekopresence,NekoPresence,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=_g1LQ6aIJFk,GameMaker Cameras: As Simple as Possible,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://maddestudiosgames.com/gms2-meet-the-camera-system/,Camera System Guide,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://maddestudios.itch.io/gms2-project-dynamic-splitscreen,Dynamic Splitscreen,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://jasontomlee.itch.io/allinone-camera,Camera All-In-One,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://foxyofjungle.itch.io/rezol,REZOL,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=WO6gzhrx5b8,Sequences Tutorial,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=hTh5UpFxx1E,Making Splash Screen Sequences,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://mors-games.itch.io/wfsm,wFSM,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://pixelatedpope.itch.io/truestate,True State,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://dragonite.itch.io/aquila,Aquila,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://proton-squid.itch.io/pathfinding,Grid-based Pathfinding Scripts,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://delfos1.itch.io/pathplus-for-gamemaker/devlog/1115089/pathplus-220-follower-and-spriter,PathPlus,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://all-x.itch.io/gms2-mouse-trail-effect,Mouse Trail Effect,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.gmlscripts.com/script/index,GMLScripts.com,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://gm48.net/resources,GM48 Resources,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.gamemakerkitchen.com/,GameMaker Kitchen,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yal.cc/gamemaker-2-3-syntax-in-details/,2.3 Syntax in Detail,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/,GitHub Yacc to GML Fix,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC,Source Control with Git & GameMaker,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO,Game Resolution & Aspect Ratio Management,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=cK5k1_zN4eM,Setting up a Virtual Machine for GameMaker,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/watch?v=RWkMsD2WUz8,Making Attacks Feel Good,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://cowcat.itch.io/brokvn-engine,BROKVN,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://forum.gamemaker.io/index.php?threads/the-ultimate-gamemaker-optimization-tier-list.122141/,Ultimate Optimization Tier List,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://refreshertowelgames.wordpress.com/category/tutorial/,RefresherTowel,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://tonystr.net/,Tony Str,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.katsaii.com/content/blog/posts.html,Katsaii,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://meseta.dev/,Meseta on Game Dev,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://yal.cc/category/gm/,YellowAfterlife,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/channel/UCBmOLRTaPrfOxnTqpCLrwdQ,Jordan Guillou,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/DragoniteSpam,DragoniteSpam,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/ShaunSpalding,Shaun Spalding,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/FriendlyCosmonaut,FriendlyCosmonaut,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/PixelatedPope,Pixelated Pope,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/XorDev,Xor,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/GamingEngineer,GamingEngineer,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/TheSnidr,TheSnidr,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/channel/UCfh2Q3TsvlxM1S2GvXQ4eeQ,Peyton Burnham,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/channel/UC7fkptPD1FHQyDc9Fnm9S_A,Gaming Reverends,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/LetsLearnThisTogether,Let's Learn This Together,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/GameMakerStationMatharoo,Matharoo,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/SlasherXGAMES/,GravityShift Games,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/c/Slyddar/,Slyddar,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/@SamSpadeGameDev,SamSpadeGameDev,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.youtube.com/playlist?list=PLks6h7R6jAUGrofUAQB178r6K8h43Ml5-,gentoo's iceberg Playlist,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://forum.yoyogames.com/index.php,,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://www.reddit.com/r/gamemaker/,,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker
+https://discord.gg/gamemaker,,https://github.com/bytecauldron/awesome-gamemaker#readme,GameMaker

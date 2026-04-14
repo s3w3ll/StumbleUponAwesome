@@ -1,0 +1,104 @@
+https://www.vbforums.com/showthread.php?871695-VB6-VBA-JSON-parsing-to-built-in-VBA-Collections-with-JSON-Path-support,mdJSON,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.vbforums.com/showthread.php?738845-VB6-JsonBag-Another-JSON-Parser-Generator,JSONBag,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.vbforums.com/showthread.php?834515-Simple-and-fast-lightweight-HashList-Class-(no-APIs),cHashList,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.vbforums.com/showthread.php?834579-Wrapper-for-VB6-Collections,CollectionEx,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.vbforums.com/showthread.php?788247-VB6-Hash-table,clsTrickHashTable,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.vbforums.com/showthread.php?777021-VB6-TaskDialogIndirect-Complete-class-implementation-of-Vista-Task-Dialogs,vbforums,https://github.com/sancarn/awesome-vba#readme,VBA
+http://addinbox.sakura.ne.jp/Breakthrough_P-Ctrl_Arrays_Eng.htm,Pseudo Control Arrays,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.vbforums.com/showthread.php?875635-VB6-VBA-Timer-class,forum post,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.vbforums.com/showthread.php?847773-VB6-elevated-IE-Control-usage-with-HTML5-elements-and-COM-Event-connectors,Late-bound WebBrowser Control Events,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.kubiszyn.co.uk/,Mark's userform tools,https://github.com/sancarn/awesome-vba#readme,VBA
+https://jkp-ads.com/Articles/treeview.asp,MSForms (Pure VBA) Treeview Control,https://github.com/sancarn/awesome-vba#readme,VBA
+https://app.monstercampaigns.com/c/fxzxd8wfvl4mnf4zmnp3/,MSForms (Pure VBA) ListBox Control,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.youtube.com/watch?v=QYW1SlKfKdM,this video,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.mrexcel.com/board/threads/multicolor-drag-n-drop-listbox-class-win32.1206334/,Multi-color ListBox class,https://github.com/sancarn/awesome-vba#readme,VBA
+https://arkham46.developpez.com/articles/office/clgdiplus/,Use of GDIPlus in VBA,https://github.com/sancarn/awesome-vba#readme,VBA
+https://arkham46.developpez.com/articles/office/clgdi32/,GDI32,https://github.com/sancarn/awesome-vba#readme,VBA
+https://arkham46.developpez.com/articles/office/vbaopengl/?page=Page_1,Use of OpenGL in VBA,https://github.com/sancarn/awesome-vba#readme,VBA
+https://vb6awards.blogspot.com/2017/11/vb6-graph-control.html,VB6 Graph Control,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.mrexcel.com/board/threads/intercepting-resetting-of-vba-editor-as-well-as-unhandled-errors-for-safe-subclassing.1024295/,Safe Subclassing,https://github.com/sancarn/awesome-vba#readme,VBA
+https://codereview.stackexchange.com/questions/274532/low-level-vba-hacking-making-private-functions-public,Greedo's code review,https://github.com/sancarn/awesome-vba#readme,VBA
+http://www.vbforums.com/showthread.php?781595-VB6-Call-Functions-By-Pointer-(Universall-DLL-Calls),Universal DLL Calls,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.reddit.com/r/vba/comments/1qrf29m/update_to_vbastack_can_now_work_in_vba6_as_well/,pure VBA native version,https://github.com/sancarn/awesome-vba#readme,VBA
+https://web.archive.org/web/20100703220609/http://digilander.libero.it/foxes/mathparser/MathExpressionsParser.htm,Volpi's Math Expression Parser,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.codeproject.com/Tips/5307593/Automate-Chrome-Edge-using-VBA,Edge Automation,https://github.com/sancarn/awesome-vba#readme,VBA
+https://dev.to/michaelneu/to-vba-and-beyond---building-a-restful-backend-using-plain-microsoft-excel-macros-76n,article,https://github.com/sancarn/awesome-vba#readme,VBA
+https://rubberduckvba.com/,Rubberduck,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.andypope.info/vba/ribboneditor_2010.htm,RibbonX,https://github.com/sancarn/awesome-vba#readme,VBA
+https://yoursumbuddy.com/ribbon-customui-xml-editor/,Custom UI XML Editor,https://github.com/sancarn/awesome-vba#readme,VBA
+https://ribboncreator2021.de/en/,Ribbon Creator,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.mztools.com/,MZ-Tools,https://github.com/sancarn/awesome-vba#readme,VBA
+http://leandroascierto.com/blog/vba-resource-file-editor/,VBA Resource File Editor,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.everythingaccess.com/vbwatchdog.asp,vbWatchDog,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.mrexcel.com/board/threads/dll-export-viewer-vba-based.1220909/,DLL Function Viewer,https://github.com/sancarn/awesome-vba#readme,VBA
+http://www.xbeat.net/vbspeed/,VBSpeed,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.accessribbon.de/en/,Access Ribbon,https://github.com/sancarn/awesome-vba#readme,VBA
+https://jkp-ads.com/rdb/,Ron de Bruin - Ribbons/QAT,https://github.com/sancarn/awesome-vba#readme,VBA
+http://www.spreadsheet1.com/office-excel-ribbon-imagemso-icons-gallery-page-01.html,Office MSO Icons,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.mrexcel.com/board/threads/excel-screen-reader-upon-navigating-with-the-mouse-with-vba-alone.1162338/,Excel Screen Reader,https://github.com/sancarn/awesome-vba#readme,VBA
+https://yoursumbuddy.com/blog/menurighter/,MenuRighter,https://github.com/sancarn/awesome-vba#readme,VBA
+http://samradapps.com/datepicker/,Sam Rad's DatePicker,https://github.com/sancarn/awesome-vba#readme,VBA
+https://jkp-ads.com/excel-name-manager.asp,Excel Name Manager,https://github.com/sancarn/awesome-vba#readme,VBA
+https://jkp-ads.com/excel-flexfind.asp,Excel Flex Find,https://github.com/sancarn/awesome-vba#readme,VBA
+https://youtu.be/RFdCM2kHL64,video,https://github.com/sancarn/awesome-vba#readme,VBA
+https://s0lly.itch.io/cellivization,Cellivization,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.youtube.com/watch?v=PzETBRcr_i8,video,https://github.com/sancarn/awesome-vba#readme,VBA
+http://leandroascierto.com/blog/juego-arkanoid-en-excel/,Arkanoid,https://github.com/sancarn/awesome-vba#readme,VBA
+https://twinbasic.com/,twinBasic,https://github.com/sancarn/awesome-vba#readme,VBA
+https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp,VBA Pro,https://github.com/sancarn/awesome-vba#readme,VBA
+https://winvba.com/,WinVBA,https://github.com/sancarn/awesome-vba#readme,VBA
+https://rubberduckvba.wordpress.com/2021/05/29/rubberduck-style-guide/,RubberDuck's style guide,https://github.com/sancarn/awesome-vba#readme,VBA
+https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/aa240822(v%3dvs.60),VB6 Coding conventions,https://github.com/sancarn/awesome-vba#readme,VBA
+http://www.forestmoon.com/birthofvb/birthofvb.html,Thunder - The birth of Visual Basic,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/,My First Bill Gates Review,https://github.com/sancarn/awesome-vba#readme,VBA
+http://bbs.vbstreets.ru/viewtopic.php?f=101&t=56551,VBStreets article,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.vbforums.com/showthread.php?884919-pcode-internals,PCode Internals,https://github.com/sancarn/awesome-vba#readme,VBA
+http://bbs.vbstreets.ru/viewtopic.php?f=101&t=56633,How many lines of code in EB,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.vbforums.com/showthread.php?895566-RESOLVED-SAFEARRAY-Structure-for-an-Array,SAFEARRAYS,https://github.com/sancarn/awesome-vba#readme,VBA
+https://sancarn.github.io/vba-articles,Articles by Sancarn,https://github.com/sancarn/awesome-vba#readme,VBA
+https://jkp-ads.com/Articles/apideclarations.asp,JKP API Declarations,https://github.com/sancarn/awesome-vba#readme,VBA
+https://docs.microsoft.com/en-us/previous-versions/office/office-2010/ee833946(v=office.14),Microsoft Office Code Compatibility Inspector,https://github.com/sancarn/awesome-vba#readme,VBA
+https://exceldevelopmentplatform.blogspot.com/,Excel Development Platform Blog,https://github.com/sancarn/awesome-vba#readme,VBA
+https://msdn.microsoft.com/en-us/vba/office-vba-reference,MSDN VBA Documentation,https://github.com/sancarn/awesome-vba#readme,VBA
+https://docs.microsoft.com/en-gb/openspecs/microsoft_general_purpose_programming_languages/ms-vbal/d5418146-0bd2-45eb-9c7a-fd9502722c74,MS-VBAL Language Spec,https://github.com/sancarn/awesome-vba#readme,VBA
+https://web.archive.org/web/20230806005811/https://www.rondebruin.nl/index.htm,Ron de Bruin,https://github.com/sancarn/awesome-vba#readme,VBA
+https://bytecomb.com/vba-reference/,Bytecomb VBA Reference,https://github.com/sancarn/awesome-vba#readme,VBA
+http://www.cpearson.com/excel,Chip Pearson's website,https://github.com/sancarn/awesome-vba#readme,VBA
+http://www.snb-vba.eu/inhoud_en.html,VBA for smarties,https://github.com/sancarn/awesome-vba#readme,VBA
+https://rubberduckvba.wordpress.com/,Rubberduck Blog,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.slipstick.com/,Slipstick,https://github.com/sancarn/awesome-vba#readme,VBA
+https://techniclee.wordpress.com/,TechnicLee,https://github.com/sancarn/awesome-vba#readme,VBA
+https://pptvba.com/,PowerPoint VBA,https://github.com/sancarn/awesome-vba#readme,VBA
+https://sancarn.github.io/vba-articles/,Sancarn's vba-articles,https://github.com/sancarn/awesome-vba#readme,VBA
+https://nolongerset.com,No Longer Set,https://github.com/sancarn/awesome-vba#readme,VBA
+https://isladogs.co.uk/,Isladogs on Access,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.devhut.net/,DevHut,https://github.com/sancarn/awesome-vba#readme,VBA
+https://analystcave.com/,AnalystCave,https://github.com/sancarn/awesome-vba#readme,VBA
+https://classicvb.net/hardweb/mckinney.htm,Hard Core Visual Basic,https://github.com/sancarn/awesome-vba#readme,VBA
+https://jeffpar.github.io/kbarchive/kb/173/Q173840/,Comments and corrections,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.academia.edu/29801473/VBA_Developers_Handbook_Second_Edition,The VBA Developer's Handbook,https://github.com/sancarn/awesome-vba#readme,VBA
+https://pdfcoffee.com/advanced-visual-basic-6-power-techniques-for-everyday-programs978020170712024922-pdf-free.html,Advanced Visual Basic 6,https://github.com/sancarn/awesome-vba#readme,VBA
+https://oiipdf.com/download/professional-excel-development-the-definitive-guide-to-developing-applications-using-microsoft-excel-vba-and-net,Professional Excel Development,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.google.com/search?q=Excel+VBA+Programming+For+Dummies+book,Excel VBA Programming For Dummies,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.wiley.com/en-us/Excel+2019+Power+Programming+with+VBA-p-9781119514916,Power Programming with VBA,https://github.com/sancarn/awesome-vba#readme,VBA
+https://goalkicker.com/VBABook/,(E-Book) VBA beginners,https://github.com/sancarn/awesome-vba#readme,VBA
+https://goalkicker.com/ExcelVBABook/,(E-Book) Excel VBA beginners,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.youtube.com/c/Excelmacromastery,Excel Macro Mastery,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.youtube.com/c/SigmaCoding,Sigma Coding,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.youtube.com/playlist?list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5,WiseOwl's VBA tutorials,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.youtube.com/c/VBAA2Z,VBA A2Z,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.youtube.com/c/ExcelVbaIsFun,Excel VBA Is Fun,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.youtube.com/c/ExcelForFreelancers,Excel for Freelancers,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.youtube.com/c/LeilaGharani,Leila Gharani,https://github.com/sancarn/awesome-vba#readme,VBA
+https://youtu.be/MFR_XARJjoY,Get to know VBA,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.youtube.com/channel/UC9lSC6AT4d0qour-aIbMjFQ,D Pineault - Tech, Programming and more,https://github.com/sancarn/awesome-vba#readme,VBA
+http://reddit.co.uk/r/vba,Reddit,https://github.com/sancarn/awesome-vba#readme,VBA
+https://stackoverflow.com/questions/tagged/vba,Stack Overflow,https://github.com/sancarn/awesome-vba#readme,VBA
+https://chandoo.org/wp/,Chandoo,https://github.com/sancarn/awesome-vba#readme,VBA
+https://discord.gg/gpcSue9f,Visual Basic Discord,https://github.com/sancarn/awesome-vba#readme,VBA
+https://discord.gg/PU2vVDeb,Excel Discord,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.mrexcel.com/board/,MrExcel,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.excelforum.com/,Excel Forum,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.forums.slipstick.com,Slipstick,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.vbforums.com/forumdisplay.php?37-Office-Development,VBForums - Office Development,https://github.com/sancarn/awesome-vba#readme,VBA
+https://www.access-programmers.co.uk/forums/forums/modules-vba.12/,Access World,https://github.com/sancarn/awesome-vba#readme,VBA

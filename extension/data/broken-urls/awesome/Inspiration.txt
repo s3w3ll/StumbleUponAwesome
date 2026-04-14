@@ -1,1 +1,8 @@
-http://ionicons.com,Ionicons,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://codepen.io,CodePen,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.siteinspire.com/,SiteInspire,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://unsplash.com,Unsplash,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://redpen.io,Red Pen,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.inserthtml.com,Insert HTML,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+http://jxnblk.com/Spectral/,Spectral,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.google.com/fonts,Google Fonts,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://iconscout.com,Icon Scout,https://github.com/NoahBuscher/Inspire#readme,Inspiration error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

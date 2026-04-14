@@ -1,0 +1,107 @@
+https://jbe2277.github.io/dotnetpad/,Waf DotNetPad,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://fsprojects.github.io/Paket/,https://fsprojects.github.io/Paket/,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://poi.apache.org/,https://poi.apache.org/,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://roadmap.sh/aspnet-core,ASP.NET Core Developer Roadmap,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.jetbrains.com/resharper/,Resharper,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://consulo.io,Consulo,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions,C# Coding Conventions,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://elmah.io/sponsorship/opensource,Free for OSS,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://ilspy.net/,ILSpy,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://docs.sharpsnmp.com/,SharpSnmpLib,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://fakeiteasy.github.io,https://fakeiteasy.github.io,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://cloudmersive.com/pdf-api,Cloudmersive PDF,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://bitbucket.org/Starnick/assimpnet,AssimpNet,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.identityserver.com/products/saml2p,SAML IdentityServer,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://gitlab.com/SiLA2/vendors/sila_tecan,Tecan SiLA2 SDK,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.gemboxsoftware.com/bundle,GemBox.Bundle,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://tabsstudio.com/,Tabs Studio,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://bunifuframework.com,Bunifu UI Framework,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://docs.bugsnag.com/platforms/dotnet/,BugSnag,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://deviq.com/design-patterns/repr-design-pattern,Request-Endpoint-Response,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.ncrunch.net/,NCrunch,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://bitmiracle.com/pdf-library/,Docotic.Pdf,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://fslab.org/,FsLab,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://referencesource.microsoft.com,https://referencesource.microsoft.com,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.mathdotnet.com/,MathNet,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://sqlkata.com,SqlKata,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://fsprojects.github.io/FSharp.Formatting/,F# Formatting,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://suave.io/,Suave.IO,https://github.com/quozd/awesome-dotnet#readme,.NET
+http://www.n-fluent.net,NFluent,https://github.com/quozd/awesome-dotnet#readme,.NET
+http://materialdesigninxaml.net/,MaterialDesignInXamlToolkit,https://github.com/quozd/awesome-dotnet#readme,.NET
+http://www.dimastr.com/redemption/home.htm,Outlook Redemption,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.altimesh.com/hybridizer-essentials/,Hybridizer,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://visualprogramming.net,vvvv,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://virtocommerce.com,https://virtocommerce.com,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.goparamore.io/,https://www.goparamore.io/,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://bitmiracle.com/pdf-library/free-pdf-library.aspx,Free for OSS,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://core.telegram.org/methods,Telegram Client API,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://nsubstitute.github.io/,NSubstitute,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.alglib.net/,ALGLIB,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://ikvm.org,IKVM,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://silverback-messaging.net,Silverback,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://breeze.github.io/doc-net/,Breeze,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.openiddictcomponents.com/home/,SAML OpenIddict,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://imageresizing.net/,ImageResizer,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://stratdev3.github.io/SimpleW,SimpleW,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.jetbrains.com/teamcity/,TeamCity,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://brightsec.com/,Bright,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://cslanet.com/,https://cslanet.com/,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://simpleitk.org/,SimpleITK,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://docs.microsoft.com/en-us/aspnet/core/grpc,Docs Microsoft,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.nrecosite.com/pivot_data_library_net.aspx,NReco PivotData,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://fusion.actuallab.net/,Documentation,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://pdfium.patagames.com/,Pdfium.Net SDK,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://jasperfx.github.io/lamar/,Lamar,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://reportportal.io,ReportPortal,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://elmah.github.io/,ELMAH,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://elmah.io/tools/json-formatter/,JSON Formatter and Validator,https://github.com/quozd/awesome-dotnet#readme,.NET
+http://crontab.org/,crontab,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.extensionmethod.net/csharp,ExtensionMethods.Net,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.emptykeys.com/ui_library/,Empty Keys UI,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.myget.org/,MyGet,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://logging.apache.org/log4net/,Log4Net,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization,Microsoft ASP.NET Web Optimization Framework,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.nuget.org/packages/Pdfium.Net.SDK/,NuGet package,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://openfeature.dev,OpenFeature,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://crosser.io/,Crossertech,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://onloupe.com,Loupe,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://piranhacms.org,https://piranhacms.org,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://bouncycastle.org/,BouncyCastle,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://elmah.io,elmah.io,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://uglytoad.github.io/PdfPig/,PdfPig,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.quantconnect.com/lean/,https://www.quantconnect.com/lean/,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://lucenenet.apache.org/,Lucene.net,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://nugettrends.com,NuGet Trends,https://github.com/quozd/awesome-dotnet#readme,.NET
+http://www.dotlesscss.org,http://www.dotlesscss.org,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.litedb.org,https://www.litedb.org,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://fsprojects.github.io/FSharp.Data/,F# Data,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.syncfusion.com/document-processing/word-framework/net,Syncfusion .NET Word Framework,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://stackoverflow.com/questions/4678178/style-guide-for-c,C# Style Guide,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.identityserver.com/products/enforcer,Enforcer,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.questpdf.com/,QuestPDF,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://html-agility-pack.net/?z=codeplex,HtmlAgilityPack,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.dnnsoftware.com/community/download,DotNetNuke,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://stocksharp.com,https://stocksharp.com,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.syncfusion.com/products/communitylicense,Free for Individuals and Small Businesses,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://ironpdf.com/,IronPDF,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://sass-lang.com/libsass,libSass,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://waveengine.net/Engine,Wave Engine,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://pvs-studio.com/en/pvs-studio/,PVS-Studio,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://pvs-studio.com/en/order/open-source-license/,Free for OSS,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.osmsharp.com/,OsmSharp,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://realm.io/docs/dotnet/latest/,https://realm.io/docs/dotnet/latest/,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://gitextensions.github.io/,https://gitextensions.github.io/,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.ndepend.com,NDepend,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://nodatime.org/,https://nodatime.org/,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://products.aspose.com/drawing/net,Aspose.Drawing,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://efplayground.io,Entity Framework Playground,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.syncfusion.com/document-processing/pdf-framework/net,Syncfusion .NET PDF Framework,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.syncfusion.com/document-processing/excel-framework/net,Syncfusion .NET Excel Framework,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.eiffel.org/doc/solutions/The_Eiffel_for_.NET_language,Eiffel,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.cs-script.net/,CSScript,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.syncfusion.com/document-processing/powerpoint-framework/net,Syncfusion .NET PowerPoint Framework,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://stackexchange.github.io/,StackExchange,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.linqpad.net,LINQPad,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://docs.microsoft.com/en-us/dotnet/framework/mef/,Managed Extensibility Framework (MEF),https://github.com/quozd/awesome-dotnet#readme,.NET
+https://www.llblgen.com,LLBLGen Pro,https://github.com/quozd/awesome-dotnet#readme,.NET
+https://automapper.org,https://automapper.org,https://github.com/quozd/awesome-dotnet#readme,.NET

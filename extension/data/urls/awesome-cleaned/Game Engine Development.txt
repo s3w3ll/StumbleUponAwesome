@@ -1,0 +1,447 @@
+https://kronbits.itch.io/texatool,TexaTool,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://doc.mapeditor.org/en/stable/,Tiled,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://dragonbones.github.io/en/index.html,DragonBones,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://pixijs.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://vkguide.dev/docs/gpudriven/gpu_driven_engines/,GPU Driven Rendering,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://rubyonrails.org,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://threejs.org/examples/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://melonjs.org,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://anuraghazra.dev/Verly.js/,Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://dawn.googlesource.com/dawn,Dawn,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://entity-systems.wikidot.com,What's an Entity System,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://jons.website/projects/guify/,Demo,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.ronja-tutorials.com/,Ronja Tutorials,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://jquery.com,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.boost.org/users/license.html,Boost,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.holmes3d.net/graphics/subdivision/,Subdivision Surfaces,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.gameenginebook.com,Game Engine Architecture,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://yogalayout.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Public-domain-equivalent_license,Public Domain License,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/List_of_game_engines,Wikipedia: List of Game Engines,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gitlab.com/mbitsnbites/soundbox,Sound Box,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://kronbits.itch.io/vecmaker,Vec Maker,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://blogs.love2d.org/content/let-it-glow-dynamically-adding-outlines-characters,Let it glow!,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.apple.com/metal/,Metal,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://learnopengl.com/Guest-Articles/2020/OIT/Introduction,Intro to Order-Independent Transparency,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://esotericsoftware.com/,Spine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://eloquentjavascript.net,Eloquent JavaScript,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://pixwlk.itch.io/pixelbox,Download,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://texgenjs.org,Texgen.js,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://dart.dev,Dart,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.reddit.com/r/godot/comments/8g067a/the_perfect_outline_shader_atleast_close/,Outline Shader,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu,Fluid Simulation on the GPU,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://superguigui.github.io/guigui/,Demo,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.boost.org,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.thegamecreators.com/product/dark-basic-pro-open-source,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://lo-th.github.io/neo/,Demo,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://flutter.dev,Flutter,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://paletton.com,Paletton,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.gimp.org,GIMP,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://shoesrb.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.gamedev.net/,GameDev.net,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://webglfundamentals.org/webgl/lessons/webgl-qna-drawing-many-different-models-in-a-single-draw-call.html,Model Batching,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.freesoundeffects.com/,Free Sound Effects,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.valvesoftware.com/wiki/Source_SDK_2013,Wiki,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.freepascal.org/,Free Pascal,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://keithclark.github.io/ZzFXM/tracker/,ZzFXM,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/List_of_WebGL_frameworks,WebGL Frameworks,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Copyleft,Copyleft License,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://unity.com,Unity,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/,What Every Coder Should Know About Gamma,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://learnopengl.com/Advanced-Lighting/Bloom,LearnOpenGL Tutorial,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.renderhjs.net/?doc=texToolsBlender,TexTools for Blender,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://web.dev/progressive-web-apps/,Progressive Web Apps,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://webkit.org/demos/webgpu/,WebGPU Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ptsjs.org,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://research.activision.com/,Activision Research,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.remotion.dev/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://lib.haxe.org/all,HaxeLibs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://corgi-engine.moremountains.com/,Corgi Engine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.programiz.com/c-programming,Learn C Programming,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://haxiomic.github.io/GPU-Fluid-Experiments/html5/,GPU Fluid Experiments,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ziglang.org/,Zig,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://omar-shehata.medium.com/better-outline-rendering-using-surface-ids-with-webgl-e13cdab1fd94,Outlines w/Surface IDs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://discoverthreejs.com,Discover Three.js,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://defold.com,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://teeworlds.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://iquilezles.org/articles/distfunctions/,3D SDFs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://flame-engine.org/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gamefromscratch.com,GameFromScratch.com,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.cppreference.com/w/cpp,cppreference.com,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics,Intro to Physics,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.angelcode.com/angelscript/,AngelScript,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.rigzsoft.co.uk,TimelineFX,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.albertford.com/shadowcasting/,Symmetric Shadowcasting,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.soundsnap.com,Soundsnap,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://casual-effects.blogspot.com/2015/03/implemented-weighted-blended-order.html,Weighted, Blended,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.apple.com/metal/sample-code/,Samples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://itch.io,itch.io,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://jerosoler.github.io/Drawflow/,Demo,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://joecreates.github.io/napephys/,Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Creative_Commons_license,CC,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://paveldogreat.github.io/WebGL-Fluid-Simulation/,WebGL Fluid Simulation,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://fsharp.org,F#,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ldtk.io,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://piqnt.com/stage.js/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://renderhjs.net/shoebox/,ShoeBox,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://lettier.github.io/3d-game-shaders-for-beginners/outlining.html,Sketchy Outling,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.unrealengine.com,Unreal Engine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://webrtc.org/,WebRTC,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/DALL-E,DALL·E,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://reactnative.dev/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gfx.cs.princeton.edu/proj/trimesh2/,Trimesh2,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://bitbucket.org/renderhjs/textools-blender/src/master/,Source,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.bfxr.net,Bfxr,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-17-efficient-soft-edged-shadows-using,Efficient Soft-Edged Shadows,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://phasereditor2d.com,Phaser Editor 2D,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.learncpp.com,Learn C++,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.nvidia.com/cuda-zone,CUDA,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://starlingbuilder.github.io,Editor,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.rust-lang.org/learn,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://blitiri.com.ar/p/bola/,BOLA,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://pmndrs.github.io/cannon-es/,Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.tapirgames.com/blog/open-source-physics-engines,Open Source Physics Engines,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://jasmcole.com/2019/10/03/signed-distance-fields/,CSG w/SDFs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gitlab.com/eidheim/tiny-process-library,Tiny-Process-Library,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/GNU_General_Public_License,GPL,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Constructive_solid_geometry,Constructive Solid Geometry,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://domeengine.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://simonschreibt.de/game-art-tricks/,Game Art Tricks,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.w3schools.com/default.asp,W3 Schools,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://sfbgames.itch.io/chiptone,ChipTone,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://panoskarabelas.com/posts/screen_space_shadows/,Screen Space Shadows,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ardour.org,Ardour,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://go.dev/,Go,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.tutorialspoint.com/pascal/index.htm,Pascal Tutorials,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://c4engine.com,C4 Engine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://icculus.org/gtkradiant/,Radiant,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.ronja-tutorials.com/post/034-2d-sdf-basics/,Basic 2D SDFs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/,Unity Tutorial,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.audacityteam.org,Audacity,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://armorpaint.org,ArmorPaint,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.ea.com/technology/research,EA Technology,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://evanw.github.io/csg.js/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ziglang.org/documentation/master/,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://sbcode.net/threejs/,SBcode Three.js Tutorials,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://lazyfoo.net/tutorials/SDL/,Lazy Foo' Tutorials,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/WTFPL,WTFPL,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/DirectCompute,DirectCompute,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://rxi.itch.io/sfxia,sfxia,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://prideout.net/marching-squares,Info,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.aseprite.org,Aseprite,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://gleanerheights.blogspot.com/2017/05/lighting-in-2d-games-shader-glsl.html?m=1,Gleaner Heights: 2D Lighting,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders,Pixel Art Shaders,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License,LGPL,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ultralig.ht/,Ultralight,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://superpowers-html5.com/index.en.html,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://animate.style/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://playcanvas.com,PlayCanvas,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://felgo.com/games,Felgo,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://makepad.dev/,Editor,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://pkg.go.dev/github.com/fogleman/ln/ln,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://inqlude.org,Inqlude,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.dotnetperls.com,Dot Net Perls,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://vladjuckov.github.io/beziers-sdf/,Bezier Strokes,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.gamedeveloper.com/programming/adding-languages-to-game-engines,Adding Languages to Game Engines,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Id_Tech,idTech,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://haxe.org,Haxe,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://libcinder.org,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://castle-engine.io/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://stemkoski.github.io/Three.js/,Stemkoski Three.js Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://winterveil.itch.io/ditherdragon,Ditherdragon,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://prideout.net/blog/octasphere/,Info,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://hexmachina.org/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://machengine.org/gpu/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://tamats.com/projects/litegraph/editor/,Demo,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://killedbyapixel.github.io/ZzFX/,ZzFX,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.codeandweb.com/spriteilluminator,Sprite Illuminator,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Unlicense,Unlicense,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/List_of_widget_toolkits,List of Widget Toolkits,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Mozilla_Public_License,MPL,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://alex-charlton.com/posts/Dithering_on_the_GPU/,Dithering on the GPU,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://learnopengl.com/Lighting/Basic-Lighting,Basic Lighting,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.python.org,Python.org,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://zimjs.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://trenchbroom.github.io,TrenchBroom,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://docs.rs/tao/latest/tao/,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://fabioarnold.itch.io/mini-pixel,Download,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://prideout.net/shapes,Info,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.cppreference.com/w/cpp/links/libs,List of Open Source C++ Libraries,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://tools.kenney.nl/kenshape/,Ken Shape,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://codemanu.itch.io/fluid-fx,Fluid FX,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ephtracy.github.io,MagicaVoxel,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Hqx,hqx,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.codeandweb.com/texturepacker,Texture Packer,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://boscaceoil.net,Bosca Ceoil,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.python.org/doc/,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gamua.com/starling/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.m.wikipedia.org/wiki/Shadow_mapping,Shadow Mapping,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games,Intro to AI,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://blend2d.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Permissive_software_license,Permissive License,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.bandlab.com/products/cakewalk,Cakewalk,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.gamedeveloper.com/design/how-to-create-2d-physics-games-with-box2d-library,2D Physics Games,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://prideout.net/blog/par_streamlines/,Info,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.raywenderlich.com/7475-metal-tutorial-getting-started,Metal Tutorial,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://codemanu.itch.io/juicefx,Juice FX,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://quakeengines.github.io/,Quake Engines,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developers.google.com/blockly,Blockly,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://box2d.org/documentation/,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://discodiffusion.com/,Disco Diffusion,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.game-guru.com/,GameGuru,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.mapeditor.org,Tiled,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://colormind.io,Colormind,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games,Fire Shader in GLSL,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.ambiera.com/irrklang/,irrKlang,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.piskelapp.com,Piskel,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://observablehq.com/@d3/gallery,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.cryengine.com,CRYENGINE,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.modd.io,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.khronos.org/opencl/,OpenCL,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://jeromeetienne.github.io/threex.volumetricspotlight/examples/basic.html,Threex Volumetric Spotlight,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://paulbourke.net/geometry/,Geometry, Surfaces, Curves, Polyhedra,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://kotlinlang.org/,Kotlin,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://floooh.github.io/sokol-html5/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673,Auto-Tile,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.flipcode.com/archives/Implementing_A_Scripting_Engine-Part_1_Overview.shtml,Implementing a Scripting Engine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://fyrox.rs/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/MIT_License,MIT/Expat,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://famistudio.org,FamiStudio,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://research.tri-ace.com/,tri-Ace Research,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gamedevelopment.tutsplus.com/articles/forward-rendering-vs-deferred-rendering--gamedev-12342,Forward Rendering vs. Deferred Rendering,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://emscripten.org/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://discourse.threejs.org/t/three-js-bookshelf/2468,Three.js Bookshelf,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://bevyengine.org,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.goblinphysics.com/,Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.panda3d.org,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://kronbits.itch.io/pixatool,PixaTool,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.bigocheatsheet.com,Big-O Cheat Sheet,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://philippegroarke.com/posts/2018/c++_ui_solutions/,List of C++ UI Libraries,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://store.steampowered.com/app/9500/Gish/,Steam,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.yoyogames.com/en/gamemaker,GameMaker Studio,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ceramic-engine.com/examples/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://rbwhitaker.wikidot.com/,RB Whitaker's Wiki,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://skia.org/docs/user/modules/canvaskit/,Samples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.geeksforgeeks.org,Geeks for Geeks,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://korge.org/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://caiorss.github.io/C-Cpp-Notes/embedded_scripting_languages.html,Embedded Scripting Languages,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.microsoft.com/en-us/microsoft-edge/webview2/,WebView2,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ambiera.com/copperlicht/,CopperLicht,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gamedevelopment.tutsplus.com/series/basic-2d-platformer-physics--cms-998,Basic 2D Platformer Physics,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/,2D Water Shader,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.coplay.dev?ref=github&utm_source=stevinz_awesome_game_engine_dev,Coplay,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://flatredball.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://jrouwe.github.io/JoltPhysics.js/,Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.filterforge.com,Filter Forge,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://codemanu.itch.io/particle-fx-designer,Pixel FX,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://assetforge.io,Asset Forge,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://chipmunk-physics.net/documentation.php,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://opengameart.org,Open Game Art,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ciechanow.ski/mesh-transforms/,Mesh Transforms,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Curses_%28programming_library%29,Curses-like,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://replicate.com/,Replicate,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://lettier.github.io/3d-game-shaders-for-beginners/index.html,3D Game Shaders For Beginners,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://sluglibrary.com,Slug,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://fabmax.github.io/kool/kool-js/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/List_of_Euclidean_uniform_tilings,List of Eucliden Uniform Tilings,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/BSD_licenses,BSD,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking,Source Multiplayer Networking,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.fmod.com,fmod,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months,Haxe Blog: Game Engine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.ubisoft.com/en-us/company/how-we-make-games/technology,Ubisoft Technology,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://citrusengine.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://itch.io/game-assets/free,Top Free Game Assets,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://docs.microsoft.com/en-us/microsoft-edge/webview2/,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://minddesk.com/,Qubicle,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://caiorss.github.io/C-Cpp-Notes/index.html,C++ Papyrus,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://muffinman.io/blog/draw-svg-rope-using-javascript/,Draw SVG rope using JavaScript,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://codemanu.itch.io/smear-fx,Smear FX,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://rosebud.ai,Rosebud AI,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/MonoGame,MonoGame,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://dreamfusion3d.github.io/,Dream Fusion,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.bandlab.com/sounds/home,BandLab Sounds,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gamesalad.com,GameSalad,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://mattdesl.svbtle.com/drawing-lines-is-hard,Drawing Lines,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://brm.io/matter-js/,Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://createjs.com/,CreateJS,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://kirastudio.org/,KiraStudio,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.colourlovers.com,COLOURlovers,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Delphi_(software),Delphi,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Zlib_License,ZLIB/LIBPNG,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://learnopengl.com/In-Practice/2D-Game/Particles,Particles,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/,Flat and Wireframe Shading,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ambiera.com/coppercube/index.html,CopperCube Editor,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/,Beginner's Guide to Game AI,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.egui.rs/,Demo,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://fna-xna.github.io/,FNA,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://hofk.de/main/discourse.threejs/,Three.js Discourse Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://nv-tlabs.github.io/GET3D/,GET3D,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.3dgep.com/forward-plus/,Forward+ Rendering / Tiled Forward Shading,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.blender.org,Blender,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.valvesoftware.com/,Valve Software,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://windmillart.net/?p=jsplacement,JSplacement,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://inventwithpython.com/pygcurse/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://thebookofshaders.com,Book of Shaders,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://windowjs.org/,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://evergine.com,Evergine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://lo-th.github.io/Oimo.js,Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://slint-ui.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://paperjs.org/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/ISC_license,ISC,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://sketchpunklabs.github.io/irregular_grid/,Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gafferongames.com/post/fix_your_timestep/,Fix Your Timestep!,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://thebookofshaders.com/11/,Book of Shaders: Noise,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://rodolphe-vaillant.fr/entry/70/laplacian-smoothing-c-code-to-smooth-a-mesh,Laplacian Smoothing,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://krita.org/en/,Krita,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://piqnt.com/planck.js/,Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Microsoft_XNA,XNA,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://greensock.com,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.qt.io,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://mathworld.wolfram.com/Space-FillingPolyhedron.html,Space-Filling Polyhedron,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.maxon.net/en/zbrush,ZBrush,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://coolors.co,Coolors,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://isadorasophia.com/murder/,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.bensound.com/royalty-free-music,Bensound,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://handmadehero.org/,Handmade Hero,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://oframe.github.io/ogl/examples,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.3dgep.com,3D Game Engine Programming,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://research.nvidia.com/labs/dir/magic3d/,Magic3D,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Source_(game_engine),Info,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://luxeengine.com/,Luxe,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.tiobe.com/tiobe-index/,TIOBE Index,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://huemint.com,Huemint,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://unity.com/products/muse,Unity Muse,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://shader-tutorial.dev/advanced/color-banding-dithering/,Color Banding,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.71squared.com/particledesigner,Particle Designer,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://pencil.js.org/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.matthewtancik.com/nerf,NeRF,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://giderosmobile.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://graphics.stanford.edu/~mdfisher/subdivision.html,Subdivision at Matt's Webcorner,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://mikke89.github.io/RmlUiDoc/,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Apache_License,Apache,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d,Fixed Time-Step,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://aframe.io,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://deepnight.net/tutorial/using-my-gamebase-to-create-a-heaps-game/,Tutorial,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.redblobgames.com/articles/visibility/,2D Visibility,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://haxeflixel.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://pixijs.io/sound/examples/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://iquilezles.org/articles/distfunctions2d/,2D SDFs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://brm.io/game-physics-for-beginners/,Game Physics from Scratch,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.gamedeveloper.com/design/ropes-in-contraption-maker,Ropes in Contraption Maker,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer,How to Become a Game Engine Developer,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ambientcg.com,AmbientCG,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://manu-vgm.itch.io/,MANU,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.gamedeveloper.com/programming/flash-is-dead-long-live-openfl-,Haxe Blog: OpenFL,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://three-nebula.org/examples/custom-renderer,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Category:Space-filling_polyhedra,Polyhedra,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.gamebryo.com,Gamebryo,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html,Oryol Example,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.lighthouse3d.com/tutorials/,Lighthouse3d.com,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://poly.pizza,Poly Pizza,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://nicolas-van.github.io/sonant-x-live/,Online Composer,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://pixi3d.org/,Examples,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.iforce2d.net/b2dtut/introduction,Tutorials,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Adobe_Flash,Adobe Flash,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://quaternius.com,Quaternius,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.materialmaker.org,Material Maker,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.mesa3d.org/,Mesa 3D,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.openfl.org/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://protectwise.github.io/troika/troika-three-utils/createDerivedMaterial/,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://kivy.org/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.jeremyong.com/paperbug/,Paper Bug,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.stride3d.net/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://threejs.org,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://rapier.rs,Docs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.webgamedev.com,Web Game Dev,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://crawl.develz.org/,Play,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://heaps.io,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://projectchrono.org/gallery/,Gallery,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.opengl.org/,OpenGL,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.ruby-lang.org/en/,Ruby,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://cascadeur.com,Cascadeur,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://threejs.org/editor/,Editor,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://adrianb.io/2014/08/09/perlinnoise.html,Understanding Perlin Noise,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Physically_based_rendering,physically-based rendering,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.q7basic.org/index.html,Basic for Qt,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://incompetech.com/wordpress/,Incompetech,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://google.github.io/liquidfun/,Demos,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://love2d.org,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965,Art of Game Design,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://away3d.com,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.opengl-tutorial.org,OpenGL Tutorial,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://dittytoy.net/,Dittytoy,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://cordova.apache.org,Apache Cordova,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://docs.microsoft.com/en-us/dotnet/visual-basic/,Visual Basic,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://cowboyprogramming.com/2007/01/05/blob-physics/,Blob Physics,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://store.steampowered.com/app/428980/Ethereal_Legends/,Steam,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.geeks3d.com/shader-library/,Geeks3D Shader Library,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://rapier.rs/docs/user_guides/javascript/getting_started_js,Rapier,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.cocos.com/en/creator,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://capacitorjs.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://floooh.github.io/oryol-samples/wasm/BulletPhysicsCloth.html,Oryol: Bullet Cloth,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://dev.java,Java,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gdevelop.io/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://boundingboxsoftware.com/materialize/,Materialize,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.melodyloops.com/music/free/,Melody Loops,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://nwjs.io,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.steelpillow.com/polyhedra/five_sf/five.html,5 Space-Filling Polyhedra,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://store.unity.com/,Unity,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://gameprogrammingpatterns.com,Game Programming Patterns,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.webtoolkit.eu/wt,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.gamedeveloper.com,Game Developer,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.ode.org/,ODE,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Java_virtual_machine,Java virtual machines,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.gamedeveloper.com/programming/fast-2d-shadows-in-unity-using-1d-shadow-mapping,Fast 2D shadows in Unity,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://docs.microsoft.com/en-us/windows/win32/directx,DirectX,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.monogame.net/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://sketchfab.com,Sketchfab,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://wxwidgets.org,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.vulkan.org,Vulkan,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://dev.java/learn/,Learn Java,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.neoaxis.com,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://ncase.me/sight-and-light/,Sight & Light,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://webglfundamentals.org,WebGL Fundamentals,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://devblogs.microsoft.com/directx/,Blog,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://libgdx.com/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://impactjs.com/documentation/weltmeister,2D Level Editor,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://avaloniaui.net/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://soundimage.org/looping-music/,Soundimage,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://unigine.com,Unigine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://web.archive.org/web/20260201143258/https://alain.xyz/blog/a-review-of-shader-languages,Review of Shader Languages,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.pixplant.com/index.php,PixPlant,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.directxtutorial.com/default.aspx,DirectXTutorial.com,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://prime31.github.io/water2d-part1/,2D Water,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://webgl2fundamentals.org,WebGL 2 Fundamentals,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://xproger.info/projects/OpenLara/,Play,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Glide_(API),Glide,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.appgamekit.com/studio,AppGameKit,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://platform.uno/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransparency.pdf,Depth Peeling,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://en.wikipedia.org/wiki/Mantle_(API),Mantle,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox,flexbox,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.rpgmakerweb.com,RPG Maker,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/,How to Choose Colors Procedurally,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://freesound.org/browse/,Freesound,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.buildbox.com,Buildbox,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial,WebGL Tutorial,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.unbound.io/,Unbound,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://daveeddy.com/2014/07/01/red-yellow-and-blue/,Red, Yellow, and Blue,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://benmorris.itch.io/plugin-based-scene-editor,Simulation Starter Kit,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://austinmorlan.com/posts/entity_component_system/,A Simple Entity Component System,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://web.archive.org/web/20260203162531/https://alain.xyz/blog/comparison-of-modern-graphics-apis,Comparison of Modern Graphics APIs,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://esenthel.com/,Titan Engine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/,Evolve Your Hierarchy,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://geod.itch.io/3dnes,3dSen,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.fragmentbuffer.com/gpu-performance-for-game-artists/,GPU Performance for Game Artists,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://cowboyprogramming.com,Cowboy Programming,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.nvidia.com/gpugems/gpugems/contributors,GPU Gems,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+http://www.geodstudio.net,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.nvidia.com/gpugems/gpugems2/copyright,GPU Gems 2,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://lemontoast-games.itch.io/dopefish,DopeFish,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://developer.nvidia.com/gpugems/gpugems3/contributors,GPU Gems 3,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://robvansaaze.itch.io/platforming-engine,Platforming Engine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.cs.unm.edu/~angel/,Interactive Computer Graphics,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.renpy.org/,Website,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.pbrt.org,Physically-Based Rendering,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://www.raywenderlich.com/2806-introduction-to-component-based-architecture-in-games,Intro to Component-Based Architecture in Games,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development
+https://savas.ca/nomad,Nomad Game Engine,https://github.com/stevinz/awesome-game-engine-dev#readme,Game Engine Development

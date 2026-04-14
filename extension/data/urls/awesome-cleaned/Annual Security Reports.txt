@@ -1,0 +1,306 @@
+https://www.recordedfuture.com/research/h1-2025-malware-and-vulnerability-trends,Recorded Future,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.cyera.com,Cyera,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.ibm.com,IBM,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.catonetworks.com,Cato Networks,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.datadog.com,Data Dog,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.nisc.go.jp/eng/,Japan National Center of Incident Readiness and Strategy for Cybersecurity (NISC),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://get.chainguard.dev/cost-of-cves-2025-report,Chainguard,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.darktrace.com/resources,Darktrace,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.darktrace.com/the-state-of-ai-cybersecurity-2025,Darktrace,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://durin.ai/blogs/press-releases/durin-releases-2025-holiday-travel-home-security-report-revealing-78-of-travelers-will-share-access-codes-this-season-most-will-never-change-them,Durin,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.biocatch.com/press-release/banking-scams-up-65-globally-in-last-year,Bio Catch,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.chainalysis.com,Chainalysis,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.paloaltonetworks.com/blog/2026/02/unit-42-global-ir-report/,Palo Alto,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cyble.com/resources/research-reports/global-threat-landscape-report-h1-2025/,Cyble,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.cyberark.com/resources/ebooks/2025-identity-security-landscape,CyberArk,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://resources.anthropic.com/2026-agentic-coding-trends-report,Anthropic,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.altitudecyber.com/resources/altitude-cyber-market-reviews,Altitude,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.proofpoint.com/us/blog/corporate-news/cyber-insecurity-healthcare-2025-why-cyber-safety-now-patient-safety,Proofpoint,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://content.salt.security/OstermanReport_LP.html,Salt,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.proofpoint.com/us/resources/threat-reports/data-security-landscape-report,Proofpoint,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.biocatch.com/white-paper-digital-banking-fraud-trends-latam-2024-en,BioCatch,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://blog.checkpoint.com/executive-insights/the-2026-tech-tsunami-ai-quantum-and-web-4-0-collide/,Check Point,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.fortinet.com/blog/industry-trends/inside-industrialization-of-cybercrime-what-to-expect-in-2026,Fortinet,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://virustotal.com/,Virus Total,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.recordedfuture.com/research/cloud-threat-hunting-defense-landscape,Recorded Future,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.howdengroupholdings.com/sites/default/files/2025-09/howden-2025-cyber-report-rebooting-growth.pdf,Howden,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.sonatype.com,Sonatype,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.idc.com/,International Data Corporation (IDC),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.ensigninfosecurity.com/resources/threat-insights/cyber-threat-landscape-report-2025,Ensign,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.deepinstinct.com/voice-of-secops-reports,DeepInstinct,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://resources.prophetsecurity.ai/state-of-ai-in-security-operations,Prophet,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.blackduck.com/resources/analyst-reports/state-of-embedded-software-quality-and-safety.html,Black Duck,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://deepstrike.io/blog/vulnerability-statistics-2025,Deepstrike,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cloud.google.com/resources/content/roi-of-ai-2025,Google,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://strategyofsecurity.com/themes-from-momentum-cybers-2022-cybersecurity-almanac,Momentum,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.isc2.org/,The International Information System Security Certification Consortium (ISC)²,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://investor.cisco.com/news/news-details/2026/Splunk-Report-Agentic-AI-Takes-Center-Stage-in-CISOs-Path-to-Digital-Resilience/default.aspx,Splunk,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://research.checkpoint.com/2026/cyber-security-report-2026/,Checkpoint,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://digital.ai/resource-center/whitepapers/2025-application-security-threat-report/,Digital AI,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.eff.org/,Electronic Frontier Foundation (EFF),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://telefonicatech.com/en/blog/linux-and-the-vulnerability-paradox-more-reports-more-security,Telefonicatech,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.ibm.com/security/data-breach,IBM,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://resources.dataminr.com/dataminr-for-cyber-defense/dataminr-2026-cyber-threat-landscape-report,Dataminr,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.sisainfosec.com/infosec-reports/threat-report-h1-2025-by-sisa-sappers/,SISA Sappers,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://orca.security/lp/2025-state-of-cloud-security-report/,Orca,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.descope.com/press-release/2025-state-of-customer-identity,Descope,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://delinea.com/resources/2025-ai-in-identity-security,Delinea,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.kuppingercole.com/,KuppingerCole,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.traceable.ai/2025-state-of-api-security,Traceable,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.europol.europa.eu/publications-events/main-reports/iocta-report,Europool,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.hackerone.com/resources/reporting/8th-hacker-powered-security-report,HackerOne,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.instagram.com/p/DRRAGoAkmLw/,Rapid7,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.intel471.com/resources/whitepapers/uk-2025-threat-landscape-report,Intel471,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.idtheftcenter.org/wp-content/uploads/2025/07/ITRC-H1-2025-Data-Breach-Analysis.pdf,Identity Theft Resource Center,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.aon.com/cyber-risk-report//,Aon,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.yubico.com/resource/global-state-of-authentication-survey-2025-perception-vs-reality/,Yubico,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://nmfta.org/newsroom-articles/nmfta-releases-2026-transportation-industry-cybersecurity-trends-report/,NMFTA,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.picussecurity.com/red-report,Picus,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://services.google.com/fh/files/misc/cybersecurity-forecast-2026-en.pdf,Google,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.nozominetworks.com/ot-iot-cybersecurity-trends-insights-february-2025,Nozomi,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://info.deepinstinct.com/2025_cyber_threat_landscape_report,Deep Instinct,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.linkedin.com/in/stiennon,Richard Stiennon,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.duha.co/reports/state-of-security-vendors-rsac-2026/,Duha,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://duo.com/blog/research-insights-4-trends-reshaping-identity-security-in-2025,Duo,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.kelacyber.com/resources/research/2025-ai-threat-report/,Kela,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://sysdig.com/2025-cloud-native-security-and-usage-report/,Sysdig,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.go.nametag.co/2026-workforce-impersonation-report,Nametag,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.vulncheck.com/blog/state-of-exploitation-2026,Vuln Check,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.symantec.com,Symantec,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cyberint.com/resource/travel-threat-landscape-2025/,Cyber Int,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://mkto.deloitte.com/rs/712-CNF-326/images/DI_Tech-trends-2026.pdf,Deloitte,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://industrialcyber.co/reports/pwcs-2026-global-digital-trust-insights-report-flags-ot-iiot-and-talent-gaps-as-top-cybersecurity-challenges/,PWC,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.riskrecon.com,Riskrecon,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.infoblox.com/resources/report/infoblox-2025-dns-threat-landscape-report/,Infoblox,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.reco.ai/state-of-shadow-ai-report,Reco,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.blackduck.com/blog/ai-in-devsecops-balancing-innovation-and-security.html,Black Duck,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.edgescan.com/stats-report/,Edgescan,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.rpclegal.com/thinking/insurance-reviews/annual-insurance-review-2026/,RPC,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.softwareseni.com/shadow-ai-and-the-governance-gap-enterprises-are-not-measuring/,Gravitee,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://latio.com,Latio,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.hypr.com/resources/report-state-of-passwordless,Hypr,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.elastic.co/resources/security/report/global-threat-report,Elastic,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://fluidattacks.com/reports,Fluid Attacks,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.mitre.org/,MITRE Corporation,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.grfcpa.com/resource/2026-top-risks-report/,GRF,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://dashboard.it-harvest.com/,IT Harvest,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cybersecurity.arcticwolf.com/2025-Trends-Report.html,Artic Wolf Labs,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.gitguardian.com/state-of-secrets-sprawl-report-2025,Git Guardian,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.ncsc.gov.uk/,National Cyber Security Centre (NCSC),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://netdiligence.com/cyber-claims-study-2025-report/,Net Diligence,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/2025-healthcare-cybersecurity-threats-insights-from-the-trustwave-risk-radar-report/,Trustwave,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.greynoise.io/resources/2026-state-of-the-edge-report,GreyNoise,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://team8.vc/rethink/enterprise/ciso-survey-2025/,Team8,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.hiddenlayer.com,Hidden Layer,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.grip.security/saas-security-risks-report-2025,Grip,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.k7computing.com/us/threat-reports,K7 Security,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.secureworld.io/industry-news/state-of-cybersecurity-canada-2025,Canada,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.deloitte.com/us/en/services/consulting/articles/cybersecurity-report-2025.html,Deloitte,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.okta.com/reports/the-secure-sign-in-trends-report/,Okta,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://waterfall-security.com/ot-insights-center/ot-cybersecurity-insights-center/webinar-2026-ot-cyber-threat-report/,Waterfall Security,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.wiz.io/reports/ciso-security-budget-benchmark-2026,Wiz,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.sans.org/,SANS Institute,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.clairfieldinternational.com,ClairfieldInternational,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.zscaler.com/blogs/security-research/threatlabz-2025-vpn-report-why-81-organizations-plan-adopt-zero-trust-2026,Zscaler,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.aryaka.com/reports-and-guides/state-of-network-security-transportation-logistics/,Gatepoint Research,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.rapid7.com/lp/initial-access-brokers-report/,Rapid7,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://drata.com/resources/reports/grc-trends,Drata,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.recordedfuture.com,RecordedFuture,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.kodemsecurity.com/lp/report/appsec/workflows,Kodem,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.vulncheck.com,VulnCheck,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.elastic.co/security-labs/state-of-detection-engineering-at-elastic-2025,Elastic,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://unosecure.com,Unosecure,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.sans.org/white-papers/sans-2025-threat-hunting-survey-advancements-threat-hunting-amid-ai-cloud-challenges,SANS,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://blog.cloudflare.com/2026-threat-report/,Cloudflare,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.prnewswire.com/news-releases/hyperproof-releases-2026-benchmark-report-revealing-how-ai-is-reshaping-grc-302686406.html,Hyperproof,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.iconiqcapital.com/growth/reports/2025-state-of-ai,ICONIQ,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.arkoselabs.com/resource/2026-agentic-ai-security-report/,Arkose Labs,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.at-bay.com/2025-insursec-report/,At Bay,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.chainguard.dev/2026-engineering-reality-report,Chainguard,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.netscout.com/threatreport/,Netscout,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.veeam.com/blog/ransomware-trends.html,Veeam,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://us.aicpa.org/,American Institute of CPAs,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.biocatch.com/resources,BioCatch,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.playhousesquare.org/,Elvish,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cybercanon.org/,Cyber Cannon,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.sailpoint.com/horizons,Sail Point,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.mnp.ca/en/insights/directory/risk-trends-in-2026-and-beyond,MNP,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://info.varonis.com/en/state-of-data-security-report-2025,Varonis,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.crowdstrike.com/en-us/resources/reports/frost-sullivan-recognizes-adaptive-shield-saas-security-innovation/,Crowd Strike,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.newswire.com/news/health-isac-releases-annual-report-on-current-and-emerging-cyber-21986323,Health ISAC,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.legitsecurity.com/blog/announcing-2025-state-of-application-risk-report,Legit Security,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.dhs.gov/publication/homeland-threat-assessment,Department of Homeland Security,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/get-ready-for-the-2025-trustwave-risk-radar-report-hospitality-sector/,Trustwave,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://isalliance.org/,The Internet Security Alliance (ISA),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://intuitionlabs.ai/articles/cybersecurity-requirements-ai-medical-devices,Intuition Lab,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.sans.org/white-papers/sans-2025-soc-survey,SANS,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://web.coalitioninc.com/webinar-2026-Cyber-Claims-Report-2026-03-05.html,Coalition,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.chainguard.dev/unchained/the-state-of-trusted-open-source-december-2025,Chainguard,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://arcticwolf.com/arctic-wolf-labs-2025-cybersecurity-predictions/,Artic Wolf Labs,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://vipre.com/resources/q2-2025-email-threat-report/,Vipre,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.digicert.com/campaigns/digicert-ultraddos-2025-biannual-report,DigiCert,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://newsroom.gendigital.com/norton-cyber-safety-report-2025,Norton,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.nist.gov/cybersecurity,National Institute of Standards and Technology (NIST),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.fortinet.com,Fortinet,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.telecomtv.com/content/security/nokia-report-reveals-alarming-extent-of-telco-cybersecurity-threats-53994/,Nokia,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cloudsecurityalliance.org/,The Cloud Security Alliance (CSA),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://spycloud.com/resource/report/identity-threat-report-2025/,Spy Cloud,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.enisa.europa.eu/publications/enisa-threat-landscape-2025,ENISA,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://apwg.org/,The Anti-Phishing Working Group (APWG),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://atis.org/resources/enhanced-5g-and-zero-trust-cloud-and-operational-security-aspects/,ATIS,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.ietf.org/,The Internet Engineering Task Force (IETF),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.opswat.com/resources/reports/ponemon-state-of-file-security,Opswat,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.verizon.com/business/resources/reports/dbir/,Verizon,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.wiz.io/reports/cloud-data-security-report-2025,Wiz,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://redcanary.com/threat-detection-report,Red Canary,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cloud.google.com/security/resources/cybersecurity-forecast,Google,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.picussecurity.com/blue-report,Picus,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cybersecurityventures.com/cybersecurity-almanac-2025/,Cybersecurity Ventures,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.sans.org/webcasts/sans-2025-detection-and-response-survey-webcast-forum,SANS,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://owasp.org/,The Open Web Application Security Project (OWASP),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://resource.cobalt.io/state-of-pentesting-2025,Cobalt,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.trmlabs.com/resources/blog/2026-crypto-crime-report-key-insights-trm-identifies-record-usd-158-billion-in-illicit-crypto-flows-in-2025-reversing-a-multi-year-decline,TRM Labs,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.ajg.com/news-and-insights/,Gallagher,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.hitchpartners.com/ciso-survey-results-26,Hitch Partners,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://bigid.com/discovery-foundation/,Big ID,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://kpmg.com/ee/en/insights/2026/01/kpmg-global-tech-report-2026.html,KPMG,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.securityforum.org/,The Information Security Forum (ISF),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.reversinglabs.com/sscs-report,Reversing Labs,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.kiteworks.com/report-2025-forecast-for-managing-private-content-exposure-risk/,Kiteworks,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.imperva.com/resources/resource-library/reports/2025-bad-bot-report/,Imperva,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.fairinstitute.org/state-of-crm-2025,FAIR Institute,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.expel.com,Expel,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.pillar.security/resources/the-state-of-attacks-on-genai,Pillar,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.gsma.com/solutions-and-impact/technologies/security/gsma_resources/pq-05-post-quantum-cryptography-for-5g-roaming-use-case/,GSMA,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.trmlabs.com/reports-and-whitepapers/global-crypto-policy-review-outlook-2025-26,TRM Labs,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.anthropic.com/news/detecting-countering-misuse-aug-2025,Anthropic,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.pindrop.com/research/report/voice-intelligence-security-report/,Pindrop,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://content.salt.security/state-api-report.html,Salt,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://prowler.com/state-of-cloud-security-2026,Prowler,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://nsm.no/en/,Norwegian National Security Authority (NSM),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.cisa.gov/icsjwg,Industrial Control Systems Joint Working Group (ICSJWG),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.sans.org/blog/sans-2025-state-ics-security-report-progress-pressure-path-resilience,SANS,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.iso.org/,The International Organization for Standardization (ISO),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.wiz.io/state-of-ai-in-the-cloud,Wiz,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.reco.ai/state-of-shadow-ai-report-form,Reco,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://info.flexera.com/SVM-REPORT-Annual-Vulnerability-Review?lead_source=Organic%20Search,Flexera,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.kibu.com,Kibu,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://info.processunity.com/resources-reports-state-of-third-party-risk-assessments-2026.html,Process Unity,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.dnsfilter.com,DNS Filter,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.kroll.com/en/reports/cyber/threat-intelligence-reports/threat-landscape-report-lens-on-crypto,Kroll,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.f5.com/labs/articles/2025-advanced-persistent-bots-report,F5,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.kiteworks.com,Kiteworks,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.greynoise.io/blog/greynoise-uncovers-early-warning-signals-emerging-vulnerabilities,Greyn Noise,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.comptia.org/content/research/cybersecurity-trends-research,CompTIA,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://openssf.org/,The Open Source Security Foundation (OpenSSF),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.dragos.com/ot-cybersecurity-year-in-review/,Dragos,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://internationalaisafetyreport.org/publication/international-ai-safety-report-2025,Crown,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.zscaler.com/campaign/threatlabz-ransomware-report,ZScaler,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://upstream.auto/reports/global-automotive-cybersecurity-report/,Upstream,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://delinea.com/resources/2025-ransomware-survey-report,Delinea,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/m-trends-2026-report-cybersecurity/,Mandiant,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.binalyze.com/cybersecurity-investigations-report-2025,Binalyze,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.forrester.com/report/the-forrester-wave-tm-iot-security-solutions-q3-2025/RES185467,Forrester,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.proofpoint.com/us/resources/white-papers/voice-of-the-ciso-report,Proofpoint,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.hiscoxgroup.com/hiscox-cyber-readiness-report-2025,Hiscox,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.isaca.org/,The Information Systems Audit and Control Association (ISACA),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.genetec.com/a/physical-security-report,Genetec,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.csa.gov.sg/,Singapore Cyber Security Agency (CSA),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.hornetsecurity.com/en/cyber-security-report/,Hornet,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+http://www.webappsec.org/,Web Application Security Consortium (WASC),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://corporate.visa.com/content/dam/VCOM/corporate/solutions/documents/visa-perc-biannual-report-spring-2025.pdf,Visa,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.seqrite.com/india-cyber-threat-report-2026/,Seqrite,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.first.org/,The Forum of Incident Response and Security Teams (FIRST),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools/,Google,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.intruder.io/downloads/exposure-management-index,Intruder,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.comptia.org/en-us/resources/research/state-of-the-tech-workforce-2026/,CompTIA,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://flashpoint.io/resources/report/flashpoint-global-threat-intelligence-report-2026/,Flashpoint,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://abnormal.ai/about/news/employee-engagement-vendor-email-compromise-threat-report,Abnormal,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.semperis.com/ransomware-risk-report/,Semperis,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.zscaler.com/campaign/threatlabz-ai-security-report,ZScaler,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.guidewire.com/resources/blog/technology/2025-cyber-market-unveiled-cyence-and-guy-carpenter-deliver-industry-exposure-database-insights,Guy Carpenter,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.eset.com/us/business/threat-report/,Eset,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.getastra.com/blog/security-audit/cyber-security-statistics/,Astra,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.isaca.org/resources/state-of-cybersecurity,ISACA,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.fortinet.com/content/dam/fortinet/assets/reports/2025-cybersecurity-skills-gap-report.pdf,Fortinet,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://it-harvest.com/,IT Harvest,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://globalcyberalliance.org/,The Global Cyber Alliance (GCA),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://unlock.cyberresilience.com/2025midyear_risk_report,Resilience,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.nctech.org/_files/_pdf/talent/NC%20Tech%20State%20of%20the%20Technology%20Industry%20Report%202025.pdf,NC Tech,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.zimperium.com/global-mobile-threat-report/,Zimperium,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.recordedfuture.com/blog/introducing-the-2025-state-of-threat-intelligence-report,Recorded Future,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.fortinet.com/blog/threat-research/key-takeaways-from-the-2025-global-threat-landscape-report,Fortinet,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.blackduck.com/resources/analyst-reports/open-source-security-risk-analysis.html,Black Duck,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.kiteworks.com/data-security-compliance-risk-annual-report/,Kiteworks,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.axur.com/en-us/threat-landscape-report,Axur,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.biocatch.com/report-2025-digital-banking-fraud-trends-in-the-united-states,Biocatch,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.cyfirma.com/research/tracking-ransomware-jan-2026/,Cyfirma,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.contrastsecurity.com/software-under-siege-2025-report,Contrast Security,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cyberexchange.uk.net/news/cyber-security-sectoral-analysis-report-2025,UKCyber,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.gendigital.com/blog/insights/reports/threat-report-q3-2025,Gen Digital,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.m3aawg.org/,The Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.imperva.com/resources/resource-library/reports/the-state-of-api-security-in-2024/,Imperva,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://shieldworkz.com/2025-ot-ics-iot-cybersecurity-threat-landscape-report,Shieldworkz,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.bitdefender.com,Bitdefender,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.gendigital.com/blog/insights/reports/threat-report-q2-2025,Gen Digital,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.sonicwall.com/threat-report/,SonicWall,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://appomni.com/reports/state-of-saas-security/,AppOmni,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.isaca.org/resources/reports/state-of-privacy-2025,ISACA,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.memcyco.com/library/state-of-digital-impersonation-fraud-resilience-report/,Memcyco,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.ponemon.org/,Ponemon Institute,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://news.blackduck.com/2026-02-04-Black-Duck-Releases-BSIMM16-Revealing-AI-and-Regulatory-Compliance-Reshaping-Application-Security-Processes,BlackDuck,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://guardz.com/blog/small-business-cyberattacks-rise-in-2025-guardz-mid-year-findings/,Guardz,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.bitsight.com/blog/uncovering-cyber-risks-global-supply-chain,Bitsight,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.rand.org/,The Rand Corporation,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://siliconangle.com/2026/02/17/wallarm-warns-apis-fueling-ai-era-breaches-machine-speed/,Wallarm,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.withsecure.com/en/expertise/research-and-innovation/research/monthly-threat-highlights-report,With Secure,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.n2k.com/wicys,N2K,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cyber.gc.ca/en/,Canadian Centre for Cyber Security,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.honeywell.com/us/en/reports/2025/honeywell-cyber-threat-report,Honeywell,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://konghq.com/resources/reports/api-security-ai-threats-it-leader-insights-2025,Kong,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.splunk.com/en_us/campaigns/state-of-security.html,Splunk,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.cisecurity.org/,Center for Internet Security (CIS),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.cisa.gov/,Cybersecurity and Infrastructure Security Agency (CISA),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://intezer.com/2026-ai-soc-report-for-cisos/,Intezer,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://deepstrike.io/blog/cybersecurity-statistics-2025-threats-trends-challenges,Deepstrike,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.accenture.com/us-en/insights/security/state-cybersecurity-2025,Accenture,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.wiz.io/reports/state-of-code-security-2025,Wiz,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://spaces.okta.com/story/ai-at-work/page/1,Okta,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.huntress.com/resources/2025-cyber-threat-report,Huntress,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://content.salt.security/AI-Agentic-Survey-2025_LP-AI-Agentic-Survey-2025.html,Salt,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://tailscale.com/resources/report/zero-trust-report-2025,Tailscale,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.csfi.us/,Cybersecurity Forum Initiative (CSFI),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://mixmode.ai/state-of-ai-in-cyber-2025,Mix Mode,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://bell-sw.com/state-of-container-security-2025/,Bellsoft,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.sans.org/white-papers/sans-2025-ai-survey-measuring-ai-impact-security-three-years-later,SANS,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.datadoghq.com/state-of-cloud-security/,Data Dog,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://cyberpeaceinstitute.org/,Cyber Peace Institute,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.crowdstrike.com/resources/reports/overwatch-threat-hunting-report/,Crowd Strike,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.wiz.io/reports/ai-security-readiness,Wiz,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.enisa.europa.eu/,European Union Agency for Cybersecurity (ENISA),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://connecteurope.org/insights/reports/state-digital-communications-2025,ConnectEU,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.451research.com/,451 Research,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://inthecloud.withgoogle.com/security-threat-intel/subscribe.html,Google,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://vmblog.com/news/connectwise-2026-msp-threat-report-spotlights-how-identity-abuse-is-redefining-msp-risk/,Connectwise,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://delinea.com/resources/cyberedge-cyberthreat-defense-report,Cyber Edge,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.abetterinternet.org/,Internet Security Research Group (ISRG),https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.abiresearch.com/,ABI Research,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.akto.com,Akto,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.prnewswire.com/news-releases/new-apono-report-reveals-98-of-cybersecurity-leaders-are-slowing-agentic-ai-adoption-due-to-insufficient-security-controls-302696914.html,Apono,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.forrester.com/,Forrester Research,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.soprasteria.com,SopraSteria,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.appdome.com,Appdome,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.aicd.com.au/innovative-technology/digital-business/artificial-intelligence/governance-of-ai.html,Australian Institute of Company Directors,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://home.bigid.com/download-ai-risk-report,Big ID,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.vanta.com/state-of-trust/global,Vanta,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.verizon.com/business/resources/reports/mobile-security-index/,Verizon,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.vikingcloud.com/resources/the-2025-cyber-threat-landscape-report-cyber-risks-opportunities-resilience,Viking Cloud,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://calypsoai.com/content-download-pages/the-insider-ai-threat-report/,Calypso AI,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.wef.com,WEF,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.trendmicro.com/vinfo/us/security/news/threat-landscape/trend-2025-cyber-risk-report,Trend Micro,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.clutch.security/blog/mcp-servers-what-we-found-when-we-actually-looked,Clutch Security,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.wipro.com/cybersecurity/reports/state-of-cybersecurity-report-2025/,Wipro,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.truesec.com/threat-intelligence-report-2025,Truesec,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.watchguard.com/wgrd-resource-center/security-report-q1-2025,WatchGuard,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.withsecure.com/en/expertise/research-and-innovation/research/monthly-threat-highlights-report/february-2025,With Secure,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports
+https://www.cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2025-2026,Canada,https://github.com/jacobdjwilson/awesome-annual-security-reports#readme,Annual Security Reports

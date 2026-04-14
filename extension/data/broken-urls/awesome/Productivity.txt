@@ -1,0 +1,9 @@
+https://todo.microsoft.com/tasks/,Microsoft To Do,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.onenote.com/,OneNote,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.43folders.com/izero,Inbox Zero,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)
+https://standardnotes.org/,Standard Notes,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity error: <HTTPError 526: '<none>'> | reason: <none>
+https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page,Getting Things Done,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://lifehacker.com/5924093/five-best-to-do-list-managers,Lifehacker,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity error: <HTTPError 410: 'Gone'> | reason: Gone
+https://tasker.dinglisch.net/,Tasker,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://onedrive.live.com,OneDrive,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.paymoapp.com/,Paymo,https://github.com/jyguyomarch/awesome-productivity#readme,Productivity error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network

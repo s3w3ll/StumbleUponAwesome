@@ -1,0 +1,9 @@
+https://go.warp.dev/awesome-for-beginners,,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://kentcdodds.com/blog/first-timers-only,First Timers Only,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://gitlab.com/exosphere/exosphere,Exosphere,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://gitlab.com/purelb/purelb,PureLB,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://jira.xwiki.org/issues,XWiki,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+http://dev.xwiki.org/xwiki/bin/view/Onboarding/,onboarding wiki,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://gitlab.com/rawsec/rawsec-cybersecurity-list,Rawsec Cybersecurity Inventory,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://harmonydata.ac.uk/doxa/,this LLM training competition,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects
+https://gitlab.com/veloren/veloren,Veloren,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects

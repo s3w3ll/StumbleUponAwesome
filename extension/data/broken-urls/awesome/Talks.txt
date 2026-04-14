@@ -1,1 +1,5 @@
-https://vimeo.com/181409251,5 WTFs in 6 LOCs,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: <HTTPError 410: 'Gone'> | reason: Gone
+http://vimeo.com/68320415,Adopting Continuous Delivery,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://vimeo.com/97415346,Becoming an Outlier: Career Reboot for the Developer Mind,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://vimeo.com/43598193,Crafting Wicked Domain Models,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://vimeo.com/12529436,10 Things I Learned from the jQuery Source,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://vimeo.com/97507575,Domain modelling with the F# type system,https://github.com/JanVanRyswyck/awesome-talks#readme,Talks error: <HTTPError 404: 'Not Found'> | reason: Not Found

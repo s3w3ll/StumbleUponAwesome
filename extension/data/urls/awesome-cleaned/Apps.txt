@@ -1,0 +1,289 @@
+https://www.jetbrains.com/dataspell/,DataSpell,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.codeedit.app/,CodeEdit,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.conduktor.io,Conduktor,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.sourcetreeapp.com/,SourceTree,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://rancherdesktop.io,Rancher Desktop,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://codedogqby.github.io/ReadAny/,ReadAny,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://dbpro.app,DB Pro,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6476400184,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.jetbrains.com/go/,GoLand,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/woodpecker/id1333548463?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6745227444,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://quicknoteapp.com,Quick Note,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://skyfonts.com/,SkyFonts,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://koala-app.com,Koala,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://mac.getutm.app/,UTM,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://screensage.pro/,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://noteship.com,Noteship,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.vandyke.com/products/securecrt/,SecureCRT,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6670696072?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/cubicbezier/id1228492117?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://coteditor.com,CotEditor,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://highlightsapp.net,Highlights,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.jetbrains.com/webstorm/,WebStorm,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://getlightpaper.com/,LightPaper,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/id497799835?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://garrylachman.github.io/ElectroCRUD/,ElectroCRUD,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://cursor.com/,Cursor,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://ridiculousfish.com/hexfiend/,Hex Fiend,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/id1287445660?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.libreoffice.org,LibreOffice,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6472593276,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://nova.app/,Nova,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6743841447,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://ip.im/,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://git-fork.com/,Fork,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.spyder-ide.org/,Spyder,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.literatureandlatte.com/scrivener/overview/,Scrivener,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/noteship/id1571711347?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6670167443,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://ranchero.com/netnewswire/,NetNewsWire,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://sindresorhus.com/plain-text-editor,Plain Text Editor,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.scribus.net/,Scribus,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://goobapp.com/,Gooba,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac,PDF Auditor,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://cutter.re/,Cutter,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/hex-fiend/id1342896380?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6470879005,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://git-cola.github.io/,Git Cola,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.sublimemerge.com/,Sublime Merge,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6744690194,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6758053530,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://marked2app.com/,Marked 2,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://thorn.so,THORN,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.cunningo.com/locastudio/index.html,Loca Studio,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://ricks-apps.com/osx/sitesucker/,Site Sucker,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.zeplin.io/,zeplin,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://x.com/jaywcjlove,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://doughnutapp.com/,Doughnut,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://app.vnote.fun/,VNote,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://sindresorhus.com/icon-preview,Icon Preview,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://sigil-ebook.com/,Sigil,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://bananafishsoftware.com/products/spillo/,Spillo,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.katalon.com,Katalon Studio,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6503953628?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/apple-store/id6738956506?pt=127483661&ct=GitHub&mt=8&platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/id1572202501?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6757317079,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://maestro.dev/,Maestro,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://products.office.com/en-us/mac/microsoft-office-for-mac,Microsoft Office,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6743495172,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://updf.com/,UPDF,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://haskellformac.com,Haskell for Mac,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://wangchujiang.com/DevHub/,DevHub,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac,Nib Unlocker,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/in/app/sitesucker/id442168834?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://veertu.com,Veertu,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://mockoon.com/,Mockoon,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.git-tower.com/,Tower2,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://marp.app,Marp,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac,Simple Comic,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://anytype.io/,Anytype,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/id6480373509?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6471227008?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/haskell-development-platform/id841285201?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/Deskmark/6755948110,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.linqpad.net/,LINQPad,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.onlyoffice.com/,OnlyOffice,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.renfei.org/snippets-lab/,SnippetsLab,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6742680573,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/devhub/id6476452351?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://getbookshelves.app/,BookShelves,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://dayoneapp.com/,Day One,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/id1619925971?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://gitfinder.com/,GitFinder,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6479819388?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://en.toolinbox.net/iHosts/,iHosts,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://staruml.io,StarUML,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.publicspace.net/BetterRename/,BetterRename,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://outlineedit.com,OutlineEdit 3,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/Keyzer/6500434773,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.vmware.com/,VMware Fusion,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://marxi.co/,Marxico,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://elytra.app,Elytra,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://pdfexpert.com/,PDF Expert,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.appflowy.io/,AppFlowy,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6740425504,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://fastonosql.com/,FastoNoSQL,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://oldj.github.io/SwitchHosts/,SwitchHosts,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://marginnote.com/,MarginNote 4,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://subethaedit.net/,SubEthaEdit,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://namequick.app,NameQuick,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/id1102004240?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6479194014?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://readkitapp.com/,ReadKit,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://pdfpals.com,PDF Pals,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://clearview-reader.github.io/clearview-x/index.html,Clearview,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.mweb.im/,MWeb,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/better-rename-11/id1501308038?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://npmjs.org/package/awesome-mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/VidCrop/6752624705,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.getpostman.com,Postman,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/day-one/id1055511498?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=awesomemac&mt=8&platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6739052447,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://deeplinkbuddy.com,Deeplink Buddy,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://krillapps.com/patterns/,Patterns,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6478772538,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/id6758722045?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://journey.cloud/,Journey,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.pdfgear.com/,PDFgear,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.gitfox.app,Gitfox,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/clearview/id557090104?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/Vidwall/6747587746,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://netbeans.org/,NetBeans IDE,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://collate.one/get-started,Collate,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://directory.apache.org/studio/,Apache Directory Studio,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://motionobj.com/regex/,Regex,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://sourcegear.com/diffmerge/,DiffMerge,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://nimbalyst.com/,Nimbalyst,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://macromates.com,TextMate,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6739444407,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/journey-diary-journal/id1300202543?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://sanehosts.com,SaneHosts,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://wangchujiang.com/mousio-hint/,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.amazon.com/l/16571048011,Kindle App,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.paintcodeapp.com/,PaintCode,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://mmattozzi.github.io/cocoa-rest-client/,Cocoa Rest Client,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.ericli.io/scratch,Scratch,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/gitfox/id1475511261?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://directory.apache.org/sources.html,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://furnacecreek.org/testpiler/,Testpiler,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6478511402?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.softmaker.com/en/softmaker-office,SoftMaker Office,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://imhex.werwolv.net/,ImHex,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/collateai/id6447429913?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://krillapps.com/feedy/,Feedy,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://masscode.io/,massCode,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.gitkraken.com/,GitKraken,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6737160756,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://tot.rocks/,Tot,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://klib.me/,Klib,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.typora.io/,Typora,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6746747327,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://miaoyan.app/,MiaoYan,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.flyenv.com,FlyEnv,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.scootersoftware.com/,Beyond Compare,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.bear-writer.com/,Bear Writer,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/id1499215709?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6476924627,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://reederapp.com,Reeder 5,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.zoho.com/notebook/notebook-for-mac.html,Notebook,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://echolon.app,Echolon,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://panic.com/,Panic,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://johnste.github.io/finicky/,Finicky,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.pdfreaderpro.com,PDF Reader Pro,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://process-spy.app/,ProcessSpy,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://mylifenote.ai,Life Note,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6476452351,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/6723903021,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://httpie.io/,HTTPie,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/app/id1196268448?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://gitup.co/,GitUp,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://revu.cards/,Revu,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.wps.com/mac,WPS,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://helix-editor.com/,Helix,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://weibo.com/pc175,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://rowanj.github.io/gitx/,GitX-dev,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/tot/id1491071483?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://retrotype.ink/,Retrotype,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://vershd.io/,Vershd,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://itsypad.app,Itsypad,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.getbidbar.com,Bidbar,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://docs.hoppscotch.io/documentation/clients/desktop,Hoppscotch,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.trae.ai/,Trae,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.versionsapp.com/,Versions,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.koodoreader.com/en,Koodo Reader,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://macpaw.com/gemini,Gemini,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://reqable.com,Reqable,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://saber.adil.hanney.org/,Saber,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://rela.dev/,RelaGit,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://insomnia.rest/,Insomnia,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://furnacecreek.org/archimedes/,Archimedes,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://pushmate.app,PushMate,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://menial.co.uk/base/,Base 2,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://peacockmedia.software/mac/integrity/free.html,Integrity,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://reqresapp.com/,ReqRes,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://lapce.dev/,Lapce,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.texstudio.org,TeXstudio,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://pdfsail.com/,PDFsail,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://hub.docker.com/r/wcjiang/awesome-mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.syntevo.com/smartgit/,SmartGit,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://responsively.app,Responsively,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.get-notes.com/,Notes,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://developer.apple.com/xcode/,Xcode,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/saber/id1671523739?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.rockysandstudio.com/,Leaf,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.goldenhillsoftware.com/unread/,Unread,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://arietan.github.io/lite-edit/,LiteEdit,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://requestly.io,Requestly,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.cacher.io/,Cacher,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.kaleidoscopeapp.com/,Kaleidoscope,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://naden.co,MacVirtue,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/unread-an-rss-reader/id1363637349?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://micro-editor.github.io,micro,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.ulyssesapp.com/features/,Ulysses,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://dataflare.app,Dataflare,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://trayce.dev,Trayce,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://codekitapp.com/,CodeKit,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.woodpeck.cn,Woodpecker,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://affine.pro/,Affine,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.vim.org/,Vim,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://tabletool.io/,TableTool,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://noteplan.co/,NotePlan 3,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://ia.net/writer/,iA Writer,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://sqlitebrowser.org/,DB Browser for SQLite,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://heynote.com/,Heynote,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://viennarss.github.io/,Vienna,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.swifdoo.com/,SwifDoo PDF,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.macexplorer.co/en/mdb-explorer.php,MDB Explorer,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://bootstrapstudio.io/,Bootstrap Studio,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/en/app/noteplan-3/id1505432629?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.obdev.at/products/littlesnitch/download.html,Little Snitch,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://extiri.com/codemenu.html,CodeMenu,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.craft.do/,Craft,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://getmedis.com,Medis,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://brackets.io,Brackets,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.apptorium.com/sidenotes,SideNotes,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://gcollazo.github.io/mongodbapp/,mongoDB.app,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://noteplus.com/,NotePlus,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://vimr.org/,Vimr,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://proxie.app,Proxie,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://multipass.run/,Multipass,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://coderunnerapp.com,CodeRunner,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://orbstack.dev/,OrbStack,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://standardnotes.com/,Standard Notes,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://coilpad.com,CoilPad,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.parallels.com/,Parallels,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.decoide.org,Deco IDE,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://podman-desktop.io/,Podman Desktop,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://neo4j.com,neo4j,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.apidog.com/,Apidog,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://guillim.github.io/products/paul,Paul,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://emailmeapp.net/,Email Me,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://espressoapp.com/,Espresso,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://appjs.com/,AppJS,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac,,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.qownnotes.org/,QOwnNotes,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.jetbrains.com/toolbox/,JetBrains Toolbox App,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://fsnot.es/,FSNotes,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.jetbrains.com/objc/,AppCode,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://electron.atom.io,Electron,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.jetbrains.com/clion/,CLion,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://ionicframework.com/,ionic,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://macgapproject.github.io/,MacGap,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.jetbrains.com/datagrip/,DataGrip,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://nwjs.io,nw.js,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://reactdesktop.js.org,react-desktop,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://www.jetbrains.com/student/,here,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+https://microsoft.github.io/reactxp/,ReactXP,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.zennaware.com/cornerstone/,Cornerstone,https://github.com/jaywcjlove/awesome-mac#readme,Apps
+http://www.hewbo.com/chm-reader.html,CHM Reader,https://github.com/jaywcjlove/awesome-mac#readme,Apps

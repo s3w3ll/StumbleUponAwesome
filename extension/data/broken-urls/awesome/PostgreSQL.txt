@@ -1,2 +1,2 @@
-https://azure.microsoft.com/en-us/services/postgresql/,Azure Database for PostgreSQL,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://omnidb.org/en/,OmniDB,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://numeracy.co/,Numeracy,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.datarow.com/,DataRow,https://github.com/dhamaniasad/awesome-postgres#readme,PostgreSQL error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

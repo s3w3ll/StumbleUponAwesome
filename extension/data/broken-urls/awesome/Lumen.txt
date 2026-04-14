@@ -1,3 +1,6 @@
-http://wern-ancheta.com/blog/2015/05/09/getting-started-with-lumen/,Getting Started with Lumen,https://github.com/unicodeveloper/awesome-lumen#readme,Lumen error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.codementor.io/seyiadeleke42/creating-your-first-artisan-command-in-lumen-5-5-cvi59gmgl,Creating Your First Artisan Command in Lumen 5.5,https://github.com/unicodeveloper/awesome-lumen#readme,Lumen error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.udemy.com/lumen-restful-api-and-homestead-for-lumen-by-laravel-and-php/,Lumen Restful API and Homestead,https://github.com/unicodeveloper/awesome-lumen#readme,Lumen error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.codetutorial.io/lumen-first-tutorial/,Lumen by Laravel - First tutorial,https://github.com/unicodeveloper/awesome-lumen#readme,Lumen error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://wern-ancheta.com/blog/2015/05/09/getting-started-with-lumen/,Getting Started with Lumen,https://github.com/unicodeveloper/awesome-lumen#readme,Lumen error: TimeoutError('timed out') | reason: 
 http://laravelista.com/build-an-api-with-lumen-and-fractal/,Build an API with Lumen and Fractal,https://github.com/unicodeveloper/awesome-lumen#readme,Lumen error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://laravelista.com/posts/json-web-token-authentication-for-lumen,Json Web token authentication for Lumen,https://github.com/unicodeveloper/awesome-lumen#readme,Lumen error: <HTTPError 404: 'Not Found'> | reason: Not Found

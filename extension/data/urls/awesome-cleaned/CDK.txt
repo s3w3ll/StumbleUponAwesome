@@ -1,0 +1,16 @@
+https://aws.amazon.com/blogs/compute/getting-started-with-the-aws-cloud-development-kit-for-amazon-ecs/,Getting started with AWS CDK for Amazon ECS,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://create-react-app.dev,create-react-app,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://mvnrepository.com/artifact/software.amazon.awscdk,AWS CDK Java,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://medium.com/allermedia-techblog/aws-re-invent-2018-best-of-show-cloud-development-kit-cdk-ad1755561ade,AWS re:Invent 2018, best of show: CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://hub.docker.com/r/udondan/jsii-publish,Docker image,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://gitlab.com/verbose-equals-true/django-postgres-vue-gitlab-ecs,django-postgres-vue-gitlab-ecs,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://youtu.be/IIiIoMGTJec,AWS Cloud Development Kit introduction with Live Demos,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://cdkworkshop.com/,CDK Serverless Workshop,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://youtu.be/Lh-kVC2r2AU,Infrastructure is Code with the AWS CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://gitlab.com/josef.stach/aws-cdk-lambda-asset,Lambda packaging asset,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://www.slideshare.net/ranguard/aws-cdk-introduction-191140240,Introduction to how and why CDK,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://garbe.io/blog/2019/03/26/construct-your-own-cdk-construct-library/,How to Build a CDK Construct Library,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://aws.amazon.com/blogs/developer/aws-cdk-developer-preview/,AWS CDK Developer Preview Announcement,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://aws.amazon.com/blogs/developer/contributing-to-the-aws-cloud-development-kit/,Contributing to the AWS Cloud Development Kit,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://garbe.io/blog/2018/08/17/first-look-into-cdk/,First look into AWS Cloud Development Kit,https://github.com/kolomied/awesome-cdk#readme,CDK
+https://www.slideshare.net/philippgarbe/boost-your-aws-infrastructure-with-cdk,Boost your AWS Infrastructure with the CDK,https://github.com/kolomied/awesome-cdk#readme,CDK

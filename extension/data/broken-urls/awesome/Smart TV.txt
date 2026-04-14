@@ -1,3 +1,8 @@
+http://webostv.developer.lge.com/sdk/download/download-sdk/,webOS TV IDE + SDK,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+http://www.svlconnectsdk.com/,Connect SDK,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://webostv.developer.lge.com/sdk/using-webos-tv-cli/,CLI,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+http://openlgtv.org.ru,openlgtv.org.ru,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://marketplace.visualstudio.com/items?itemName=tizensdk.tizentv,vscode-extension-tizentv,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://developer.android.com/training/tv/start/start.html,Android TV Developers site,https://github.com/vitalets/awesome-smart-tv#readme,Smart TV error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Found

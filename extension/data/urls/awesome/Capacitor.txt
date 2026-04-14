@@ -1,0 +1,1 @@
+https://www.capacitorjs.com/,Capacitor,https://github.com/riderx/awesome-capacitor#readme,Capacitor

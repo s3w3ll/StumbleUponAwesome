@@ -1,7 +1,11 @@
-https://chessprogramming.wikispaces.com/,chessprogramming.wikispaces.com,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://chessprogramming.wikispaces.com/,chessprogramming.wikispaces.com,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.flaticon.com/search/chess,Icons on flaticons,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 http://chess.eusa.ed.ac.uk/Chess/Rules/notation.html,Tutorial on Chess Notations,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.chesscity.com/PDF/Sicilian_Dragon_Black_Attacks_ssd.pdf,Sicilian Dragon,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://www6.chessclub.com/help/PGN-spec,PNG,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(OSError(65, 'No route to host')) | reason: [Errno 65] No route to host
-http://play.chessbase.com/js/apps/playchess/,chessbase.com,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-https://www.chesscademy.com/,chesscademy.com,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-http://www6.chessclub.com/chessviewer/smith.html,Smith Chess Notation,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(OSError(65, 'No route to host')) | reason: [Errno 65] No route to host
+http://www6.chessclub.com/help/PGN-spec,PNG,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www6.chessclub.com/chessviewer/smith.html,Smith Chess Notation,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.chesscity.com/PDF/Sicilian_Dragon_Black_Attacks_ssd.pdf,Sicilian Dragon,https://github.com/hkirat/awesome-chess#readme,Chess error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://www.npmjs.com/package/chess,npm chess package,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://chess24.com/en/play/chess,chess24.com,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://play.chessbase.com/js/apps/playchess/,chessbase.com,https://github.com/hkirat/awesome-chess#readme,Chess error: TimeoutError('timed out') | reason: 
+http://www.chess.com/,chess.com,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 521: '<none>'> | reason: <none>
+https://www.chesscademy.com/,chesscademy.com,https://github.com/hkirat/awesome-chess#readme,Chess error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

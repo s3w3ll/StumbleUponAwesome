@@ -1,0 +1,2 @@
+https://detections-digest.rulecheck.io,Detections Digest | Sergey Polzunov,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc,Threat Detection Maturity Framework | Haider Dost of Snowflake,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

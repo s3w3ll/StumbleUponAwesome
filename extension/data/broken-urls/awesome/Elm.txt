@@ -1,4 +1,17 @@
-https://elmtown.github.io/,Elm Town,https://github.com/sporto/awesome-elm#readme,Elm error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)
-http://www.fullstackradio.com/44,Full Stack Radio 44,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://parceljs.org/elm.html,Parcel,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://elmjapan.org/,Elm Japan,https://github.com/sporto/awesome-elm#readme,Elm error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode,ElmLS,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=necinc.elmmet,Elmmet: Emmet for Elm (Visual Studio Code),https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm,HTML to Elm for Visual Studio Code,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://elmbits.com/,Elm Bits,https://github.com/sporto/awesome-elm#readme,Elm error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.udemy.com/course/elm-the-complete-guide/,Elm The Complete Guide,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://osloelmday.no/,Oslo Elm day,https://github.com/sporto/awesome-elm#readme,Elm error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://elmnarrativeengine.com,elmnarrativeengine.com,https://github.com/sporto/awesome-elm#readme,Elm error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://arisgarden.theiceshelf.com/,site,https://github.com/sporto/awesome-elm#readme,Elm error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://pragmaticstudio.com/elm,Elm: Building Reactive Web Apps,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://dennisreimann.de/articles/elm.html,Elm: Functional frontend development,https://github.com/sporto/awesome-elm#readme,Elm error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view,Functional Programming for Web Frontend by Jan Luxemburk,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://medium.com/p/elm-components-3d9c00c6c612,Elm & Components,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://medium.com/@debois/elm-guarantees-92a66679f7bd,Elm & Guarantees,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://elm-playground.maciejsmolinski.com/,Elm Playground,https://github.com/sporto/awesome-elm#readme,Elm error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://courses.knowthen.com/courses/elm-for-beginners,Elm For Beginners - Video Course,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://2019.elmeurope.org/,Elm Europe,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 530: '<none>'> | reason: <none>
+https://dotnet.microsoft.com/languages/fsharp,F#,https://github.com/sporto/awesome-elm#readme,Elm error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

@@ -1,2 +1,3 @@
-http://www.gif.gf/labs/face,Gif.gf,https://github.com/davisonio/awesome-gif#readme,GIF error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://bitbucket.org/snippets/rbarnesatl/6jRB,Roger Barnes,https://github.com/davisonio/awesome-gif#readme,GIF error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://imagemagick.org/script/index.php,ImageMagick,https://github.com/davisonio/awesome-gif#readme,GIF error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://sourceforge.net/projects/qgifer/,Qgifer,https://github.com/davisonio/awesome-gif#readme,GIF error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://giflr.com/,Giflr,https://github.com/davisonio/awesome-gif#readme,GIF error: TimeoutError('The read operation timed out') | reason: 

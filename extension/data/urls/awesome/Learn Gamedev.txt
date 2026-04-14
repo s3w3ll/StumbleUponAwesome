@@ -1,0 +1,231 @@
+https://linktr.ee/dawdledoodles,Hazel Kennedy,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://allurious.itch.io/cheatsheets2018,New to game development? Start here,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn,My mega-playlist of great gamedev videos,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml,GameDev Contacts,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=Pb5oIIPO62g&list=PLZQDJJp3vTmB6awcmhFc9V6HG2bd9vofo&index=58,Game Design Stuff,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic,FOSS GameDev,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit,VGDC at UCI Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://docs.google.com/document/d/1G0YTvNM8pzqjy_paxvEyVQSfb7KAJFGxJ5fY2ui8FEI/edit,Game Industry Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers,38 Great Resources for Game Developers,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948,Free & Cheap Indie GameDev Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://letsmakegames.info/game-dev-resources,Game Dev Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://web.archive.org/web/20220815084025/https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/,The Ultimate List of Free and Low-Cost Developer Tools and Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.tomlooman.com/game-development-learning-resources/,Game Development Learning Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/,Free Unity Assets,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.reddit.com/r/gamedev/wiki/index/,r/GameDev Wiki Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.reddit.com/r/gamedesign/wiki/index/,r/GameDesign Wiki Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://interestingengineering.com/innovation/how-game-engines-work,How Game Engines Work,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gamedev.tv/p/godot-complete-2d/?coupon_code=BLIMEY,Complete Godot 4 Game Deveoper by GameDev.tv,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.udemy.com/course/unrealcourse/,Unreal Engine 5 C++ Developer,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.udemy.com/course/unitycourse2/,Complete Unity Game Developer by GameDev.tv,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/,Intro to Computer Science and Programming in Python,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://web.archive.org/web/20220604184602/https://www.ics.uci.edu/~thornton/ics45c/Schedule.html,Programming in C++ as a Second Language,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://web.archive.org/web/20220405031903/https://www.ics.uci.edu/~thornton/ics46/Schedule.html,Data Structure Implementation and Analysis,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.redblobgames.com/,Redblob,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://mitpress.mit.edu/9780262046305/,Introduction to Algorithms,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://gamemath.com/book/intro.html,Math for Game Programmers,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://larstofus.com/2024/10/19/a-pragmatic-approach-to-optimizing-cpu-performance/,A Pragmatic Approach to Optimizing CPU Performance,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://larstofus.com/2024/12/30/how-to-build-an-optimization-toolbox/,How to Build an Optimization Toolbox,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://carlos.bueno.org/optimization/,Mature Optimization,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.dataorienteddesign.com/dodbook/dodmain.html,Data Oriented Design,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www2.math.upenn.edu/~wilf/DownldGF.html,generatingfunctionology,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.jacksondunstan.com/articles/5530,C++ for C# Developers,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gameenginebook.com/,Game Engine Architecture,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.git-scm.com/book/en/v2,Pro Git,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://refactoring.guru/design-patterns/,Design Patterns,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://blog.codinghorror.com/rethinking-design-patterns/,Rethinking Design Patterns,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT,Making a Game Engine,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.robmiles.com/c-yellow-book,C# for Beginners,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=pZ45O2hg_30&list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d,Tool Dev,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://diveintosystems.org,Dive Into Systems,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://blog.demofox.org,DemoFox,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://www.bit-101.com/blog/,Bit101,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=MOYiVLEnhrw&list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V,Math for Game Devs,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab,Essence of Linear Algebra,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://laroldsjubilantjunkyard.com/tutorials/how-to-make-a-gameboy-game/,How to make Games for Gameboy,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/,Understanding ECS,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://web.archive.org/web/20220830175614/https://images.response.unity3d.com/Web/Unity/%7B5dc4de9b-9e59-4860-b933-eb6daae82ecd%7D_Unity_Games_Optimization_Best_Practices-v5.pdf,Optimization tips for Unity,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://laroldsretrogameyard.com/,Larold's Retro Gameyard,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://laroldsretrogameyard.com/category/tutorials/gba/,Game Boy Advance,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.mrventures.net/get-into-gamedev.html,the future-proof link,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://www.gameaipro.com/,Game AI Pro,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/,AI Game Dev.com,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://guerilla-tactics.com/hats/graphics/,Graphics,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/,How do I become a graphics programmer?,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://simonschreibt.de/gat/renderhell/,Render Hell,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/,Rendering Course,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/,A Trip Through the Graphics Pipeline 2011,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/c/InigoQuilez,"Painting with maths",https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://therealmjp.github.io/posts/gpu-memory-pool/,GPU Memory pools in D3D12,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://alain.xyz/blog/comparison-of-modern-graphics-apis,A comparison of modern graphics APIs,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://liu.diva-portal.org/smash/get/diva2:462098/FULLTEXT01.pdf,A comparison of 3D file formats,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/,Ray Marching and SDFs,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://kosmonautblog.wordpress.com/,Kosmonaut's Blog,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://mamoniem.com/category/behind-the-pretty-frames/,Behind the Pretty Frames,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.udemy.com/course/unrealmultiplayer/,Unreal Multiplayer by GameDev.tv,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.udemy.com/course/unity-multiplayer/,Unity Multiplayer by GameDev.tv,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://gafferongames.com,GafferOnGames,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization,Latency Compensating Methods,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/,Replication -
+Part 1,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/,Part 2,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/,Part 3,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/,Part 4,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://yal.cc/preparing-your-game-for-deterministic-netcode/,Deterministic Netcode,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gamedevs.org/uploads/tribes-networking-model.pdf,The TRIBES Engine Networking Model,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gabrielgambetta.com/client-server-game-architecture.html,Fast-Paced Multiplayer - Part 1,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html,Part 2,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gabrielgambetta.com/entity-interpolation.html,Part 3,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gabrielgambetta.com/lag-compensation.html,Part 4,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gabrielgambetta.com/client-side-prediction-live-demo.html,Live Demo,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://musicforprogramming.net/latest/,Music for Programming,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.techwell.com/techwell-insights/2013/12/why-best-programmers-are-lazy-and-act-dumb,Good,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://blogoscoped.com/archive/2005-08-24-n14.html,Advice,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://kilon.org/why-good-programmers-are-lazy-and-dumb/,Repeated,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/,Ad nauseum,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.bungie.net/en/Explore/Detail/News/50140,The Case of the Missing Rewards,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://queue.acm.org/detail.cfm?id=3212479,C is not a Low-Level Language,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://sigbovik.org,Sigbovik,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d,Tech Art Learning Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://tech-artists.org,Tech Artists,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://simonschreibt.de/gat/tech-art-course/,Tech Art Course,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/,Making Crash Bandicoot,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1,Proc Gen / HyperDec: Part 1,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2,Part 2,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://calebkruse.com/10-projects/seeing-blue/,Seeing Blue,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=kfM-yu0iQBk&list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z,Shaders for Game Devs,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://thebookofshaders.com/00/,The Book of Shaders,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://catlikecoding.com/unity/tutorials/,Catlike Coding,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.shadertoy.com/,Shadertoy,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://renderdoc.org/,Render Doc,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.cyanilux.com/tutorials/intro-to-shader-graph/,Intro to Shader Graph,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.cyanilux.com/contents/,Cyanilux,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://halisavakis.com/category/shaderquest/,Shaderquest,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://www.cultofrig.com,Cult of Rig,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://jasonschleifer.com/afr/,Animator Friendly Rigging,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.pluralsight.com/courses/procedural-rigging-python-maya-2283,Procedural Rigging Python,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.amazon.com/Stop-Staring-Facial-Modeling-Animation/dp/0470609907,Stop Staring: Facial Modeling and Animation Done Right,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.thegnomonworkshop.com/tutorials/master-rigging-python-scripting-in-maya,Mastering Rigging and Python Scripting in Maya,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415,Getting Started in Real Time VFX,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv,VFX Talks Playlist,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://chluaid.gumroad.com/l/bcafx,BiteyCastle Academy 2DFX Animation Course,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.vfxapprentice.com,VFX Apprentice,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=Tsv8UGqDibc&list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W&index=5,Houdini Isnt Scary - Part 1: Basics,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3,Art Industry Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://saint11.org/blog/pixel-art-tutorials/,Saint11: Tutorials,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://saint11.org/pixel_articles/,Articles,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=7BWr2tlK-4c&list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_,Pixel Art Class,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://cubebrush.co,CubeBrush,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://genevieverouthier.art.blog/,Genevieve Routhier,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.thegnomonworkshop.com,The Gnomon Workshop,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.si.edu/openaccess,Smithsonian Open Access,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.nadiaxel.com/post/free-ressources-for-commission-artists,Resources for Commission Artists,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.cherubicsoft.com/en/projects/sagethumbs/,SageThumbs,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1,How To Draw,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.brendanmeachen.com/soloartist,Radiorunner's Curriculum for the Solo Artist,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://drawabox.com/,DrawABox,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM,Proko Figure Drawing Fundamentals,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=iwRa5qTnr8o,How to Learn Digital Painting (Beginners),https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.vishopper.com/cut-out-people,Cut-Out People,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://ia601608.us.archive.org/8/items/andrew-loomis-drawing-the-head-hands/andrew-loomis-drawing-the-head-hands.pdf,Drawing the Head and Hands,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://archive.org/details/loomis_FIGURE_draw,Figure Drawing for All its Worth,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=NBE-RTFkXDk,Digital Inking Tips,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=2T7cDY7YDsg,Human Anatomy for the Head,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://bryan-sturm.github.io/articles/lines-and-edges/,Lines and Edges,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=j38HRF17YMA,What Level Is Your Art?,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=whPWKecazgM,World Building in Blender by Ian Hubert,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro,Sculpting in Blender,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=R1-Ef54uTeU,Photorealism Explained,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://flippednormals.com/product/realtime-hair-tutorial-29017,Realtime Hair Tutorial,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.textures.com/,Textures,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://publicdomaintextures.com/,More Textures,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://polyhaven.com/,HDRIs, Textures, and Models,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://www.theanimatorssurvivalkit.com,The Animator's Survival Kit,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd,The 12 Principles of Animation,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://oninationsquad.gumroad.com/l/hybrid02,Hybrid 02 Maya Rig,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://cjones.gumroad.com/l/JJuKG,Universal Human Body & Face Rig,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://www.kenney.nl/,2D and 3D assets,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://game-icons.net/,Game Icons,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/,100% free assets,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.schellgames.com/art-of-game-design/,The Art of Game Design,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf,The Design of Everyday Things,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://gameaccessibilityguidelines.com/,Game Accessibility Guidelines,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/,Game Design,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gamedesigning.org/learn/game-design-document/,How to make a Game Design Document,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://patternlanguageforgamedesign.com/,Pattern Language for Game Design,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://ncase.me/trust/,The Evolution of Trust,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=zQvWMdWhFCc,Extra Credits: So You Want To Be a Game Designer,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://gmtk.itch.io/platformer-toolkit,The Platformer Toolkit,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://designoriented.net/wheel,Design Oriented Topic Wheel,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://gdkeys.com/,GDKeys,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://cwpat.me/misc/puzzle-level-idea-strategies/,Puzzle Ideation Strategies,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://users.cs.northwestern.edu/~hunicke/MDA.pdf,MDA,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive,Hooked,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the,Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://etodd.io/2017/11/28/poor-mans-3d-camera/,The Poor Man's 3D Camera,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/,Level Design and How To Get Into It,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://book.leveldesignbook.com/,The Level Design Book,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://trenchbroom.github.io/manual/latest/,Trenchbroom Manual,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://qodotplugin.github.io/,Qodot,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.slipseer.com/index.php?threads/bals-quake-mapping-tips-tricks.100/,Quake Mapping Tips,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.mapeditor.org/,Tiled,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1,WE CAN FIX IT IN UI,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gameuidatabase.com/index.php,Game UI Database,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://lawsofux.com/en/,Laws of UX,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.dailyui.co/,Daily UI,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://gamedocs.org/category/design-document/,Game Docs,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://www.cand.land/destiny,Destiny,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://web.archive.org/web/20180219004603/https://samandmax.co.uk/wp-content/uploads/Hit%20the%20Road%20design%20document.pdf,Hit the Road GDD,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://drive.google.com/file/d/0BxMevjNSr2EjbDBpZ2ZMdmNnc28/view?resourcekey=0-2-ybLxFeJk2R5ROLOAB3oQ,Wasteland 2 Vision Document,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.dirtybomb.com/news/the-design-of-dirty-bomb/,The Design of Dirty Bomb,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://web.archive.org/web/20220815160634/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/dirty_bomb-game_design_document.pdf,Design,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://web.archive.org/web/20220815160724/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/the_art_of_dirty_bomb.pdf,Art,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://web.archive.org/web/20220815160819/https://www.giantsparrow.com/blog/news/wp-content/uploads/2018/04/Finch-Original-Concept-Doc.pdf,Finch Concept Doc,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://gridpaper-maps.tumblr.com/,Grid Paper,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf,The Sound Effects Bible,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://sfxr.me/,SFXR,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.beepbox.co/,Beep Box,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://boscaceoil.net/,Bosca Ceoil,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://pixabay.com/music/,Pixabay,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/c/DOVASYNDROMEYouTubeOfficial,DOVA-SYNDROME,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://sashakirlee.com/game-narrative-resources,Game Narrative Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.inklestudios.com/ink/,Inkle,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://gutefabrik.com/craft-writing-better-dialogue-a-2-day-workshop/,Writing Better Dialogue,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://emshort.blog/,Emily Short's Interactive Storytelling,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.screenskills.com/job-profiles/browse/games/production/games-producer-games/,What is a Games Producer?,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.breakingthewheel.com/video-game-production-resources/,Video Game Production Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gameproducersguide.com/Home_home.html,Game Producer's Guide,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gameindustrycareerguide.com/how-to-become-a-video-game-associate-producer/,How to Become a Video Game Producer,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://ltpf.ramiismail.com,Leveling the Playing Field,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://howtomarketagame.com,How to Market a Game,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.victoriatran.com,Community Dev Newsletter and Blog,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.derek-lieu.com/blog/,Blog by Derek Lieu,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://deviantlegal.com/guide/game-developers-guide-publishing-agreements/,The Game Developer's Guide to Publishing Agreements,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.pushtotalk.gg/about,Push to Talk,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/,Video Game Job Hunt,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit,Career Documents from Jean Leggett,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc,Game Dev LFW Resources,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/,Interview Placemat,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs,The Complete List of Gaming Jobs,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.plusonewisdom.com/post/industry-portfolios,Industry Portfolios,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit,GameDev Jobs (2022),https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://claudiasnotes.notion.site/claudiasnotes/Career-Advice-Collected-560272eab6ce4069ada95d0852dbb1c9,Career Advice Collected,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://lindenreidblog.com/2020/05/21/questions-to-ask-game-studios-youre-interviewing-with/,Questions to ask game studios you're interviewing with,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings,Guide to Game Art Applications,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit,The Bible of Getting a Job in Game Audio,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84,How to Get an Internship,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gamesindustry.biz/how-to-get-a-job-as-a-game-producer,How to Get a Job as a Game Producer,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gamedevmap.com,GameDevMap,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1,A series of game jam post-mortems,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://ellaguro.blogspot.com/2023/02/the-california-problem.html,The California Problem,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://thecoppercompendium.co.uk/so-you-want-to-make-a-ttrpg,So, you want to make a TTRPG?,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://www.gamedeveloper.com/,Game Developer (previously known as Gamasutra),https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://fguillen.github.io/PapersPleaseDevlogScrap/,Papers Please Devlog,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://ea-spouse.livejournal.com/274.html,EA Spouse,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://johnnemann.medium.com/where-the-water-tastes-like-wine-postmortem-211a1f9d791a,Where the Water Tastes Like Wine Postmortem,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://ssd.eff.org/en,Surveillance Self-Defense,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://tinytools.directory/,Tiny Tools,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://paulgraham.com/articles.html,Paul Graham,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://opendyslexic.org/,Open Dyslexic,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+https://isthatarabic.com,Is This Arabic?,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev
+http://www.zen134237.zen.co.uk/Stranger_Things/Stranger_Things_-_Bible.pdf,The Stranger Things (or Montauk) pitch bible,https://github.com/notpresident35/awesome-learn-gamedev#readme,Learn Gamedev

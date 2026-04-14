@@ -1,0 +1,7 @@
+https://marketplace.visualstudio.com/items?itemName=lemmmy.computercraft-extension-pack,VSCode Extensions for ComputerCraft,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/cc-restitched,ComputerCraft: Restitched,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals,Advanced Peripherals,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://ftb.fandom.com/wiki/Getting_Started_(ComputerCraft),The FTB Wiki's Getting Started guide for ComputerCraft,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/turtlematic,Turtlematic,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks,UnlimitedPeripheralWorks,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://computercraft.info/forums2,CC's forums,https://github.com/tomodachi94/awesome-computercraft#readme,ComputerCraft error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,14 @@
+http://phillipadsmith.com/2015/09/github-gitdown.html,a session proposal,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+http://bl.ocks.org/,Blocks,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+http://bost.ocks.org/mike/block/,here,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+http://blockbuilder.org/,Block Builder,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+https://try.github.io/levels/1/challenges/1,Code School's Try Git,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+https://huboard.com/,HuBoard,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+http://githubuniverse.com/,GitHub Universe,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+http://electron.atom.io/,Electron,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+https://ghbtns.com/,GitHub Buttons,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+http://resume.github.io/,Resume,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+https://speakerdeck.com/,Speaker Deck,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+http://gitify.io/,gitify,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+https://gitential.com,Gitential.com,https://github.com/phillipadsmith/awesome-github#readme,GitHub
+https://www.octotree.io/,Octotree,https://github.com/phillipadsmith/awesome-github#readme,GitHub

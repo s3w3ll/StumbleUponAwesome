@@ -1,1 +1,96 @@
-https://www.superfightgame.com/,SuperFight,https://github.com/edm00se/awesome-board-games#readme,Board Games error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.superfightgame.com'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.superfightgame.com'. (_ssl.c:1123)
+https://boardgamegeek.com/boardgame/624/quoridor,Quoridor,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/216132/clans-of-caledonia,Clans of Caledonia,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/148949/istanbul,Istanbul,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/291453/scout,SCOUT,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/1608/ambush,Ambush!,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/339789/welcome-to-the-moon,Welcome to the Moon,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/70919/takenoko,Takenoko,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/317985/beyond-the-sun,Beyond the Sun,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/289351/gorgasali-battle-royale,Gorgasali: Battle Royale,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/84876/the-castles-of-burgundy,The Castles of Burgundy,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/8098/jungle-speed,Jungle Speed,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/220700/cobra-paw,Cobra Paw,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/366161/wingspan-asia,Wingspan Asia,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/266810/paladins-of-the-west-kingdom,Paladins of the West Kingdom,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/150997/shadows-of-brimstone-swamps-of-death,Shadows of Brimstone: Swamps of Death,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/224517/brass-birmingham,Brass: Birmingham,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/209010/mechs-vs-minions,Mechs vs. Minions,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/364073/splendor-duel,Splendor Duel,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/35677/le-havre,Le Havre,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/324856/the-crew-mission-deep-sea,The Crew: Mission Deep Sea,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/331106/the-witcher-old-world,The Witcher: Old World,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/28720/brass-lancashire,Brass: Lancashire,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/199561/sagrada,Sagrada,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/281259/the-isle-of-cats,The Isle of Cats,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-for-the-galaxy,Eclipse: Second Dawn Galaxy,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/230802/azul,Azul,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/22626/the-book-of-pop-up-board-games,The Book of Pop-Up Board Games,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/96848/mage-knight-board-game,Mage Knight Board Game,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/287954/azul-summer-pavilion,Azul: Summer Pavilion,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/163412/patchwork,Patchwork,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/263918/cartographers,Cartographers,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/303954/pax-viking,Pax Viking,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/173346/7-wonders-duel,7 Wonders Duel,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/244522/thats-pretty-clever,That's Pretty Clever,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/3354/tide-of-fortune,Tide of Fortune,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/31260/agricola,Agricola,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/316554/dune-imperium,Dune: Imperium,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/125153/the-gallerist,The Gallerist,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/266192/wingspan,Wingspan,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/714/talisman,Talisman,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/366013/heat-pedal-to-the-metal,Heat: Pedal to the Metal,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2,Shabadabada,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/249381/the-estates,The Estates,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/251247/barrage,Barrage,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/316624/stationfall,Stationfall,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/131357/coup,Coup,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/104955/antike-duellum,Antike Duellum,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/365717/clank-catacombs,Clank!: Catacombs,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/247763/underwater-cities,Underwater Cities,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/83195/ghost-blitz,Ghost Blitz,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/192135/too-many-bones,Too Many Bones,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/5168/queens-guard,Agon | Queen Guard | Royal Guard,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak,Lost Ruins of Arnak,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/182874/grand-austria-hotel,Grand Austria Hotel,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://mindclashgames.com/game-worlds/anachrony/,Anachrony,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://boardgamegeek.com/boardgame/159675/fields-of-arle,Fields of Arle,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/18602/caylus,Caylus,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/19254/blue-and-gray,Blue and Gray,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/22877/fields-of-fire,Field of Fire,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/139952/clockwork-wars,Clockwork Wars,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition,Pax Pamir: Second Edition,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/5043/the-forever-war,The Forever War,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/164928/orleans,Orléans,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/256916/concordia-venus,Concordia Venus,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/170216/blood-rage,Blood Rage,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/188188/complots,Complots,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/234190/unstable-unicorns,Unstable Unicorns,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/123540/tokaido,Tokaido,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/295947/cascadia,Cascadia,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/194655/santorini,Santorini,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/59946/dungeons-and-dragons-castle-ravenloft-board-game,Dungeons & Dragons: Castle Ravenloft,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/144865/sushi-draft,Sushi Draft,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/203420/exit-the-game-the-abandoned-cabin,Exit The Game the Abandoned Cabin,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/314040/pandemic-legacy-season-0,Pandemic Legacy: Season 0,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/266524/parks,PARKS,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/217372/the-quest-for-el-dorado,The Quest for El Dorado,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/199792/everdell,Everdell,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/245271/forbidden-sky,Forbidden Sky,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/204583/kingdomino,Kingdomino,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/193738/great-western-trail,Great Western Trails,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/284083/the-crew-the-quest-for-planet-nine,The Crew: The Quest for Planet Nine,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/173064/leaving-earth,Leaving Earth,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/2407/sorry,Sorry,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/3076/puerto-rico,Puerto Rico,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/342942/ark-nova,Ark Nova,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/165722/klask,Klask,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/284378/kanban-ev,Kanban EV,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/5878/loteria,Lotería,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://commonspoly.cc,Commonspoly,https://github.com/edm00se/awesome-board-games#readme,Board Games error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://boardgamegeek.com/boardgame/126163/tzolkin-the-mayan-calendar,Tzolk'in: The Mayan Calendar,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/231733/obsession,Obsession,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/521/crokinole,Crokinole,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/34635/stone-age,Stone Age,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/233867/welcome-to,Welcome To,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/157969/sheriff-of-nottingham,Sheriff of Nottingham,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://boardgamegeek.com/boardgame/148228/splendor,Splendor,https://github.com/edm00se/awesome-board-games#readme,Board Games error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

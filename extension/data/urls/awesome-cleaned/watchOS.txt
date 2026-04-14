@@ -1,0 +1,2 @@
+https://developer.apple.com/library/ios/documentation/General/Conceptual/WatchKitProgrammingGuide/index.html,Apple Watch Programming Guide,https://github.com/yenchenlin/awesome-watchos#readme,watchOS
+https://developer.apple.com/videos/wwdc/2015/?id=802,Designing for Apple Watch,https://github.com/yenchenlin/awesome-watchos#readme,watchOS

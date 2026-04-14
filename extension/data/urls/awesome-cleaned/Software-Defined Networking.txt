@@ -1,0 +1,44 @@
+https://trema.github.io/trema/,Trema,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://code.google.com/archive/p/nice-of/,nice-of,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://en.wikipedia.org/wiki/Software-defined_networking,Software-Defined Networking,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.juniper.net/documentation/en_US/junos/topics/concept/mpls-pcep-overview.html,Path Computation Element Protocol, PCEP,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://fd.io/,FD.IO,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://cumulusnetworks.com,Cumulus Linux,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://lagopus.github.io,Lagopus,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://dpdk.org/browse/apps/nff-go/,http://dpdk.org/browse/apps/nff-go/,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.opennetworking.org/aether/,Aether Project,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://openvswitch.org/,Open vSwitch,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://spot.incubator.apache.org/,Apache Spot,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.opensdncore.org/,OpenSDNCore,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://openiris.etri.re.kr/,IRIS,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.cs.princeton.edu/~jrex/papers/pisces16.pdf,PISCES,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.redhat.com/en/blog/what-geneve,GENEVE,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://snaproute.com/,FlexSwitch,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://pnda.io/,PNDA,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://tools.ietf.org/html/draft-sridharan-virtualization-nvgre-00,NVGRE,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://opennetlinux.org,Open Network Linux, ONL,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://en.wikipedia.org/wiki/Virtual_Extensible_LAN,VXLAN,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.snas.io/,SNAS,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.opennetworking.org/sdn-resources/openflow,OpenFlow,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://bird.network.cz/,Bird,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.opennetworking.org/technical-communities/areas/specification/of-config/,OF-Config,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://tools.ietf.org/html/rfc7047,OVSDB,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://en.wikipedia.org/wiki/NETCONF,NETCONF,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://freerouter.nop.hu/,FreeRouter,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://frrouting.org/,FRRouting,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://mininet.spear.narmox.com,Mininet Spear Narmox,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.openmul.org/openmul-controller.html,Open MUL,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://openwrt.org/,OpenWrt,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.opendaylight.org,OpenDaylight,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.openvswitch.org//support/slides/OVN-Vancouver.pdf,OVN,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://ryu-sdn.org/,Ryu,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://maxinet.github.io,MaxiNet,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://mininet.org/,Mininet,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://stratumproject.org/,Stratum,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.nsnam.org/,ns-3,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://osm.etsi.org/welcome/,Open Source MANO Community, OSM,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://dpdk.org/,DPDK,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://en.wikipedia.org/wiki/Remote_direct_memory_access,RDMA,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+http://www.frenetic-lang.org/pyretic/,Pyretic,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://bitbucket.org/openflowj/openflowj,OpenFlowJ,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking
+https://www.iovisor.org/technology/xdp,XDP,https://github.com/sdnds-tw/awesome-sdn#readme,Software-Defined Networking

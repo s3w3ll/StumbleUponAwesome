@@ -1,2 +1,4 @@
-https://www.hadevices.com/,Home Assistant Device Database,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant error: timeout('The read operation timed out') | reason: 
-https://thanksmister.com/wallpanel-android/,WallPanel,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant,Home Assistant Config Helper for VSCode,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.ozerov.de/fully-kiosk-browser/,Fully Kiosk Browser,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://play.google.com/store/apps/details?id=com.surodev.ariela,Ariela,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://philhawthorne.com/homeautomation,Phil Hawthorne,https://github.com/frenck/awesome-home-assistant#readme,Home Assistant error: <HTTPError 404: 'Not Found'> | reason: Not Found

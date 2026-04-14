@@ -1,5 +1,9 @@
-http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm,Introduction to Color Theory,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.randoma11y.com,Random A11y,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-http://www.lolcolors.com/palettes/popular,LOL Colors,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.pictaculous.com/,Pictaculous,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.ifweassume.com/2013/05/cubehelix-or-how-i-learned-to-love.html,Cubehelix, or How I Learned to Love Black & White Printers,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.palettable.io/,Palettable,https://github.com/Siddharth11/Colorful#readme,Colorful error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://uxplanet.org/a-guide-to-color-and-conversion-rates-f3a28e8e32bb,A Guide to Color and Conversion Rates,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.randoma11y.com,Random A11y,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 526: '<none>'> | reason: <none>
+http://colours.neilorangepeel.com/,Colour Names,https://github.com/Siddharth11/Colorful#readme,Colorful error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+http://brandcolors.net/,BrandColors,https://github.com/Siddharth11/Colorful#readme,Colorful error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+http://focuslabllc.com/digest/picking-a-color-for-your-brand,Picking a color for your brand,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://croma.app,Croma,https://github.com/Siddharth11/Colorful#readme,Colorful error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.0to255.com/,0to255,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.shutterstock.com/labs/spectrum/,Shutterstock Spectrum,https://github.com/Siddharth11/Colorful#readme,Colorful error: <HTTPError 403: 'HTTP Forbidden'> | reason: HTTP Forbidden

@@ -1,0 +1,26 @@
+https://webassembly.org/,,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://developer.mozilla.org/en-US/docs/WebAssembly,WebAssembly MDN,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://webassembly.github.io/spec/,WebAssembly Specification,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6,What is WebAssembly?,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://auth0.com/blog/7-things-you-should-know-about-web-assembly/,7 Things You Should Know About WebAssembly,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://floooh.github.io/2017/06/09/webassembly-demystified.html,WebAssembly Demystified,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://medium.com/dfinity/why-webassembly-f21967076e4,Why WebAssembly?,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://medium.com/free-code-camp/webassembly-with-golang-is-fun-b243c0e34f02,The world's easiest introduction to WebAssembly,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/,The Future of Programming: WebAssembly & Life After JavaScript,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf,The Web Assembles,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://dlehmann.eu/publications/WasmBench-www2021.pdf,An Empirical Study of Real-World WebAssembly Binaries,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://www.usenix.org/system/files/atc19-jangda.pdf,Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://www.usenix.org/system/files/sec22-bosamiya.pdf,Provably-Safe Multilingual Software Sandboxing using WebAssembly,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://software-lab.org/publications/asplos2019_Wasabi.pdf,Wasabi: A Framework for Dynamically Analyzing WebAssembly,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://pragprog.com/titles/khrust/programming-webassembly-with-rust/,Programming WebAssembly with Rust,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://nostarch.com/art-webassembly,The Art of WebAssembly,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://www.youtube.com/watch?v=NhAPPQqKCi8,WebAssembly,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://www.youtube.com/watch?v=HktWin_LPf4,What is WebAssembly?,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://www.youtube.com/watch?v=iTrx0BbUXI4,Get Going with WebAssembly,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://www.youtube.com/watch?v=pBYqen3B2gc,WebAssembly and the Death of JavaScript,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://wasmtime.dev/,Wasmtime,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://wasmer.io/,Wasmer,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://mbebenita.github.io/WasmExplorer/,Wasm Explorer,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://blazor.net/,Blazor,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://www.w3.org/wasm/,W3C WebAssembly Group,https://github.com/idematos/awesome-webassembly#readme,WebAssembly
+https://www.reddit.com/r/webassembly/,WebAssembly Subreddit,https://github.com/idematos/awesome-webassembly#readme,WebAssembly

@@ -1,0 +1,3 @@
+https://apps.apple.com/app/id1671616134,FourYou,https://github.com/sindresorhus/awesome-whisper#readme,Whisper error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://whisper.r3d.red,Web Whisper,https://github.com/sindresorhus/awesome-whisper#readme,Whisper error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://codeberg.org/pluja/web-whisper,Source,https://github.com/sindresorhus/awesome-whisper#readme,Whisper error: <HTTPError 404: 'Not Found'> | reason: Not Found

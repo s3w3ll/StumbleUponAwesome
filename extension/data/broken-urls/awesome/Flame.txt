@@ -1,2 +1,0 @@
-https://kevinomyonga.com,Kevin Omyonga,https://github.com/flame-engine/awesome-flame#readme,Flame error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
-https://www.linkedin.com/in/sourabhgupta811/,Sourabh Gupta,https://github.com/flame-engine/awesome-flame#readme,Flame error: <HTTPError 999: 'Request denied'> | reason: Request denied

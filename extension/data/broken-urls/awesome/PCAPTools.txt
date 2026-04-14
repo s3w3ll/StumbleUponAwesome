@@ -1,5 +1,18 @@
-https://www2.sonycsl.co.jp/person/kjc/papers/freenix2000/,Traffic Data Repository at the WIDE Project,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.tcpdump.org/other/bpfext42.tar.Z,BPF for Ultrix,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://wiki.wireshark.org/Tools,Wireshark suit,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: timeout('The read operation timed out') | reason: 
-https://www.snort.org/,Snort,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-http://www.xplot.org/,Xplot,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
+https://www.brimsecurity.com/,Brim,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/jnettop/,Jnettop,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.snort.org/,Snort,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.tcpdump.org/other/bpfext42.tar.Z,BPF for Ultrix,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 410: 'Gone'> | reason: Gone
+http://netdude.sourceforge.net/,NetDude,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://suricata-ids.org,Suricata,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://sourceforge.net/projects/jnetpcap/,jNetPcap,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://tcpick.sourceforge.net/,Tcpick,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://tcpxtract.sourceforge.net/,Tcpxtract,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.ntop.org/products/traffic-recording-replay/n2disk/,n2disk,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www2.sonycsl.co.jp/person/kjc/papers/freenix2000/,Traffic Data Repository at the WIDE Project,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://research.wand.net.nz/,WAND,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://www.dpdk.org/,DPDK,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://etherape.sourceforge.io/,EtherApe,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.secdev.org/projects/scapy/,Scapy,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+http://libnids.sourceforge.net/,Libnids,https://github.com/caesar0301/awesome-pcaptools#readme,PCAPTools error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

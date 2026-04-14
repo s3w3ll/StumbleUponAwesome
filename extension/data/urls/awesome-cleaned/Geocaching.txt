@@ -1,0 +1,32 @@
+https://www.cachesleuth.com/,CacheSleuth,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://play.google.com/store/apps/details?id=cgeo.geocaching,c:geo,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://www.cachly.com/,Cachly,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://caching-on-kai.com/,Caching on Kai,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://apps.garmin.com/apps/624aed67-b068-45b4-92af-cbc1885b7e1d,Cacher,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://pypi.org/project/pycaching,pycaching,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://www.geocaching.com,,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://blog.gcwizard.net/about/,GC Wizard,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://en.wikipedia.org/wiki/Geocaching,Geocaching,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://gcbuddy.com/,Geocaching Buddy,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://www.geocaching.com/,Geocaching.com,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://shop.geocaching.com/,Shop Geocaching,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://www.lonelycache.com/,LonelyCache,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://project-gc.com/,Project-GC,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://tbscan.com/,TBScan,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://apps.apple.com/us/app/raccoon-geocaching-tool/id424398764,Raccoon,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://geocheck.org/,GeoCheck,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://gcwizard.net/,GC Wizard Web View,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://geocaching4locus.eu/,Geocaching4Locus,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://solvedjigidi.com/,SolvedJigidi,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://certitudes.org/,Certitude,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://www.webwigo.net/,Webwigo,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://www.geoget.cz/doku.php/start,GeoGet,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://gsak.net/index.php/,GSAK (Geocaching Swiss Army Knife),https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://thea-team.net/souvenir,The A-Team Caching - Souvenirs,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://geocaching.su/,Geocaching.su,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://logicweave.com/,CacheStats,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://www.logthemall.org/,Log Them All!,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://www.geocaching.com/play/mobile,Geocaching®,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://www.geocachingtoolbox.com/,Geocaching Toolbox,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://apps.apple.com/us/app/wherigo/id1538051913,Wherigo,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching
+https://mygeocachingprofile.com/,My Geocaching Profile,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching

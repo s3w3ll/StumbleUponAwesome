@@ -1,0 +1,51 @@
+https://en.wikipedia.org/wiki/Regression_testing,Wikipedia: Regression testing,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://css-tricks.com/automating-css-regression-testing/,Garris Shipon: Automating CSS Regression Testing,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://happo.io/,Happo,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://www.browserling.com,browserling,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://www.browserstack.com,BrowserStack,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://youtu.be/CBBiJ6YlXLc,Visual Regression Testing with Shoov,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://www.lambdatest.com/,LambdaTest,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://youtu.be/l8lGj8Zh0k4,Visual Regression Testing: Sanity Checks With BackstopJS,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://www.chromatic.com/,Chromatic,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://davidwalsh.name/visual-regression-testing-angular-applications,Garris Shipon: Visual Regression Testing For Angular Applications,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/,Visual regression testing for Hugo with Github-CI and BackstopJS,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://meticulous.ai,Meticulous.ai,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+http://creativecommons.org/licenses/by-sa/4.0/,,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://youtu.be/6KDLJBcutQE,Video,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://www.viswiz.io/help/tutorials/puppeteer,Visual Regression Testing with Puppeteer & Jest,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://pixeleye.io/home,Pixeleye,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://diffy.website,Diffy,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+http://www.creativebloq.com/features/the-5-best-visual-regression-testing-tools,Kevin Lamping: The 5 best visual regression testing tools,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://youtu.be/gE_19L0l2q0,CSS Regression Testing with Wraith,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://www.youtube.com/watch?v=BQqzfHQkREo&ab_channel=Fireship,Cypress in 100 Seconds,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://preflight.com,Preflight,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://vimeo.com/ghostinspector/intro,introduction video,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737,Make visual regression testing easier,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://reflect.run,Reflect,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://youtu.be/vTyoQuC0To8,Look-alike - visual regression testing tool,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://youtu.be/AqQ2bNPtF60,Screencast on CSS critic - a lightweight testing framework for CSS,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://screener.io,screener.io,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://www.sitepoint.com/visual-regression-testing-with-phantomcss,Pavels Jelisejevs: Visual Regression Testing with PhantomCSS,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://youtu.be/Zy8y_dGzZXI,Screenster Tutorial,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://vidiff.com,Vidiff,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://medium.com/@philgourley/making-visual-regression-useful-acfae27e5031,Phillip Gourley: Making visual regression useful,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process,Visual Regression Testing - from a tool to a process,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://idkshite.com/posts/compare-visual-changes,Poor man's visual regression testing,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+http://screenster.io,screenster.io,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://testrigor.com,testRigor,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://youtu.be/Vp8vnXMjIfw,Visual Regression Testing with PhantomCSS,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9,UI Visual Regression Testing with Micoo,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://www.viswiz.io,VisWiz.io,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://bleech.de/en/products/visual-regression-tests/,VRTs - Visual Regression Tests,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://www.metaltoad.com/blog/visual-regression-testing-backstopjs,Angela Riggs: Visual Regression Testing with BackstopJS,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://jakobzanker.de/blog/automated-screenshot-comparison-test-with-headless-chrome-in-bitbucket-pipeline/,Automated screenshot comparison tests with headless Chrome, Puppeteer and Pixelmatch, in Bitbucket pipeline,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://meowni.ca/posts/2017-puppeteer-tests/,Automatic visual diffing with Puppeteer,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907,Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://codelift.ai/resources/tech-articles/introduction-diffy-visual-regression-testing,CodeLift: Introduction to Diffy for Visual Regression Testing,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f,Everything you need to know about Visual Regression Testing in 2022,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://bffless.app,BFFless,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://emberjs.com/,Ember,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://www.npmjs.com/package/pixelmatch,pixelmatch,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+http://karma-runner.github.io/latest/index.html,Karma,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://mochajs.org/,Mocha,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing
+https://applitools.com,applitools,https://github.com/mojoaxel/awesome-regression-testing#readme,Visual Regression Testing

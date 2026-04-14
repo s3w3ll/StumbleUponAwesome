@@ -1,3 +1,8 @@
+https://akepinski.me,Antoni Kepinski,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.codementor.io/azeezolaniran2016/a-simple-calculator-app-using-react-and-node-a0ubeooxk,Simple calculator app using React & Node.js,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://play.google.com/store/apps/details?id=dk.andsen.hp41&hl=en,a41cv,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://winaero.com/download.php?view.1795,Old Windows 7/8 Calculator in Windows 10,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.hpmuseum.org/hp41.htm,HP-41CV,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://hiperdevelopment.wixsite.com/hipercalc,HiPER Scientific Calculator (Windows Edition),https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu&hl=en,Wabbitemu,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://material-calculator.netlify.com/,Calculator.js,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://winaero.com/download.php?view.1795,Old Windows 7/8 Calculator in Windows 10,https://github.com/xxczaki/awesome-calculators#readme,Calculators error: <HTTPError 404: 'Not Found'> | reason: Not Found

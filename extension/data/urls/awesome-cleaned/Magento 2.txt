@@ -1,0 +1,2 @@
+https://vshymanskyy.github.io/StandWithUkraine,,https://github.com/DavidLambauer/awesome-magento2#readme,Magento 2
+https://en.wikipedia.org/wiki/Magento,en.wikipedia.org/wiki/Magento,https://github.com/DavidLambauer/awesome-magento2#readme,Magento 2

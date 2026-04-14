@@ -1,0 +1,4 @@
+http://www.infoworld.com/article/3062703/devops/how-chatops-can-revolutionize-your-business.html,How ChatOps can revolutionize your business,https://github.com/exAspArk/awesome-chatops#readme,ChatOps
+https://orangematter.solarwinds.com/2015/12/16/8-reasons-why-chatops-isnt-working-at-your-company/,8 Reasons Why ChatOps Isn't Working At Your Company,https://github.com/exAspArk/awesome-chatops#readme,ChatOps
+https://web.archive.org/web/20180323063754/http://blog.librato.com/posts/chatops-critical,When ChatOps Goes From Cool to Critical,https://github.com/exAspArk/awesome-chatops#readme,ChatOps
+https://medium.com/ibm-garage/better-living-through-chatops-df66872893e7,Better Living Through ChatOps,https://github.com/exAspArk/awesome-chatops#readme,ChatOps

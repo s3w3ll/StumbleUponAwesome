@@ -1,0 +1,123 @@
+https://www.reddit.com/r/userscripts/,r/userscripts on Reddit,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://brave.com,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/498145/Youtube%20HD%20Premium.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/24204/Picviewer%20CE%2B.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://microsoftedge.microsoft.com/addons/detail/scriptcat/liilgpjgabokdklappibcjfablkpcekh,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://gitlab.com/ironfox-oss/IronFox/-/releases,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://app.devactivity.com/public/?organizationLogin=awesome-scripts,Public Dashboard,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://gm.chatgptinfinity.com,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://addons.mozilla.org/firefox/addon/scriptcat/,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://pagetual.hoothin.com,Pagetual,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.chrome.com,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/424595-night-mode/feedback,Discuss,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/438684/Pagetual.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://download.mozilla.org/?product=firefox-beta-stub,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.autoclearchatgpt.com,Autoclear ChatGPT History,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://vivaldi.com,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://devactivity.com/?ref=public_widget,devActivity,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://pagetual.hoothin.com/infinite-scrolling-auto-page.html,Readme,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/zh-CN/scripts/522083,Sort Github Commits By Last Edited,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.chatgptwidescreen.com,ChatGPT Widescreen,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/498145-youtube-hd-premium/feedback,Discuss,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.microsoft.com/edge/download,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://download.mozilla.org/?product=firefox-nightly-stub,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/522083/sort-github-commits-by-last-edited.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://browser.qq.com,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.waterfox.net,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/428243/Don%27t%20track%20me%20Google.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://gm.chatgptwidescreen.com,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://chromewebstore.google.com/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://gm.autoclearchatgpt.com,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/4255/Linkify%20Plus%20Plus.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.google.com/chrome/beta/,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.microsoft.com/edge/download/insider,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html,Greasemonkey Hacks,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.mises.site,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.google.com/chrome/dev/,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://ghostbrowser.com,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.mises.site/download,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://play.google.com/store/apps/details?id=com.microsoft.emmx,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.google.com/chrome/canary/,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.chatgptautocontinue.com,ChatGPT Auto-Continue,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://play.google.com/store/apps/details?id=com.microsoft.emmx.beta,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://librewolf.net,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/32-show-password-onmouseover,Show Password onMouseOver,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/564339-chatgpt-play-sound-when-finish-generating,ChatGPT play sound when finish generating,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+http://hayageek.com/greasemonkey-tutorial/,Greasemonkey Tutorial for Beginners,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://gm.chatgptautocontinue.com,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/32/Show%20Password%20onMouseOver.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/564339/ChatGPT%20play%20sound%20when%20finish%20generating.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://play.google.com/store/apps/details?id=com.microsoft.emmx.dev,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://play.google.com/store/apps/details?id=org.mozilla.firefox,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/453320-simple-sponsor-skipper,Simple Sponsor Skipper,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://whale.naver.com,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.youtube.com/watch?v=hAeWOOJPp0o,Video - GreaseMonkey Userscript Development,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.apple.com/safari/,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.firefox.com,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+http://userscripts-mirror.org/,UserScripts Mirror,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/528895,Fandom Focus,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://immersivetranslate.com/,Immersive Translate,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://play.google.com/store/apps/details?id=org.mozilla.fenix,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.lemurbrowser.com,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/528895/Fandom%20Focus.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/536284/Ultimate-Text-Selection-Translator.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.duckduckgpt.com,DuckDuckGPT,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.chatgptautorefresh.com,ChatGPT Auto Refresh,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.quetta.net,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://codeberg.org/mthsk/userscripts/raw/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://apps.apple.com/app/stay-for-safari/id1591620171,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://play.google.com/store/apps/details?id=net.waterfox.android.release,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/469594-double-click-image-downloader,Double-click Image Downloader,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.opera.com,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://addons.mozilla.org/firefox/addon/tampermonkey/,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/,Greasy Fork,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/469594/Double-click%20Image%20Downloader.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://apps.apple.com/app/orion-browser-by-kagi/id1484498200,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://gm.chatgptautorefresh.com,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://apps.apple.com/app/userscripts/id1463298887,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://addons.mozilla.org/firefox/addon/violentmonkey/,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://gm.ddgpt.com,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/462804/KeepChatGPT.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://f-droid.org/packages/org.mozilla.fennec_fdroid/,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/536284-ultimate-text-selection-translator-instantly-translate-any-selected-text/feedback,Discuss,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://victornpb.github.io/undiscord/,Undiscord,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/406540/Undiscord.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://openuserjs.org/,OpenUserJS,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/528895/feedback,Discuss,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.chatgptautotalk.com,ChatGPT Auto-Talk,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://codeberg.org/mthsk/userscripts,Discuss,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/416688/%E5%AD%97%E4%BD%93%E6%B8%B2%E6%9F%93%EF%BC%88%E8%87%AA%E7%94%A8%E8%84%9A%E6%9C%AC%EF%BC%89.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/469594-double-click-image-downloader/feedback,Discuss,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://stackoverflow.com/questions/tagged/userscripts,Stack Overflow,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.opera.com/gx,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/381682/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC%EF%BC%9A%E6%97%A0%E6%9E%81%E8%B0%83%E9%80%9F%7C%E5%80%8D%E9%80%9F%E5%BF%AB%E5%AD%A6%7C%E5%BF%AB%E4%B9%90%E5%88%B7%E5%89%A7%7C%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%7C%E7%94%BB%E9%9D%A2%E6%88%AA%E5%9B%BE%E7%AD%89%E3%80%8C%E9%80%82%E7%94%A8%E5%A4%A7%E9%83%A8%E5%88%86%E7%BD%91%E7%AB%99%E3%80%8D.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/526153/GitHub%20Commit%20Labels.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/394820/Mouseover%20Popup%20Image%20Viewer.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.microsoft.com/edge,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://gm.chatgptautotalk.com,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js,Install Stable Build,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/424595-night-mode,Night Mode,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+http://webchat.freenode.net/?channels=greasemonkey,#greasemonkey on Freenode,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/456055/ChatGPT%20Exporter.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/424595/Night%20Mode.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.ytclassic.com,YouTube Classic,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://gm.ytclassic.com,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.chatgptinfinity.com,ChatGPT Infinity,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/498145-youtube-hd-premium,YouTube HD Premium,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/24204-picviewer-ce,Picviewer CE+,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://amazongpt.kudoai.com,AmazonGPT,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.opera.com/air,,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/scripts/22194,GitHub Make Tooltips,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://userscripts.adtidy.org/beta/adguard-extra/1.0/adguard-extra.user.js,Install Beta Build,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://update.greasyfork.org/scripts/22194/GitHub%20Make%20Tooltips.user.js,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://adsbypasser.github.io,AdsBypasser,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/en/scripts/22194-github-make-tooltips,Readme,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://www.bravegpt.com,BraveGPT,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://greasyfork.org/en/scripts/22194-github-make-tooltips/feedback,Discuss,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts
+https://gm.bravegpt.com,Install,https://github.com/bvolpato/awesome-userscripts#readme,Userscripts

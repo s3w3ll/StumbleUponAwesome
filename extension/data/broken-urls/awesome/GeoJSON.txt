@@ -1,2 +1,7 @@
+http://wiki.fasterxml.com/JacksonHome,Jackson,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.npmjs.com/package/geojson2ndjson,geojson2ndjson,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/geobuf/v/0.2.1,geobuf,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=swallow.geojson-io-for-vscode,geojson.io-for-vscode,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/geojson-validation,geojson-validation,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://mapstarter.com/,mapstarter,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)
 http://www.macwright.org/strava-geojson/,on the web,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://wiki.fasterxml.com/JacksonHome,Jackson,https://github.com/tmcw/awesome-geojson#readme,GeoJSON error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

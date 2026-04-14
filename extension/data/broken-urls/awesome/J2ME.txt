@@ -1,0 +1,9 @@
+https://sourceforge.net/projects/pspkvm/,PSPKvm,https://github.com/hstsethi/awesome-j2me#readme,J2ME error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.speedrun.com/games?platform=nzel5r6q,J2ME Games Speedruns,https://github.com/hstsethi/awesome-j2me#readme,J2ME error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://j2me.fandom.com/wiki,J2ME Fandom,https://github.com/hstsethi/awesome-j2me#readme,J2ME error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://dl.acm.org/doi/abs/10.5555/507165,Developing Jini applications using J2ME technology,https://github.com/hstsethi/awesome-j2me#readme,J2ME error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.mooreds.com/midp/midp.htm,Networked J2ME Applications,https://github.com/hstsethi/awesome-j2me#readme,J2ME error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://j2megamescript.sourceforge.net/,J2ME Game Script Engine,https://github.com/hstsethi/awesome-j2me#readme,J2ME error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.hecl.org,Hecl,https://github.com/hstsethi/awesome-j2me#readme,J2ME error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)
+https://dl.acm.org/doi/abs/10.1145/1462802.1462805,Soap ME,https://github.com/hstsethi/awesome-j2me#readme,J2ME error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npci.org.in/what-we-do/upi-123pay/product-overview,UPI 123PAY,https://github.com/hstsethi/awesome-j2me#readme,J2ME error: TimeoutError('timed out') | reason: 

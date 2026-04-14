@@ -1,0 +1,4 @@
+https://www.npmjs.com/package/@gd-com/utils,gd-com npm package,https://github.com/godotengine/awesome-godot#readme,Godot error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode,C# Tools for Godot Visual Studio Code Extension,https://github.com/godotengine/awesome-godot#readme,Godot error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=EddieDover.gdscript-formatter-linter,gdformat Visual Studio Code Extension,https://github.com/godotengine/awesome-godot#readme,Godot error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools,godot-tools Visual Studio Code Extension,https://github.com/godotengine/awesome-godot#readme,Godot error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

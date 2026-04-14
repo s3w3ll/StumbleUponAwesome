@@ -1,4 +1,4 @@
 http://jayfields.com/expectations/,Expectations,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://facebook.github.io/react/,React.js,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://infernojs.org,Inferno,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://nerv.aotu.io/,Nerv,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nerv.aotu.io'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nerv.aotu.io'. (_ssl.c:1123)
+http://clojurevalidations.info/,Validateur,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.packtpub.com/web-development/learning-clojurescript,Learning ClojureScript,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://docs.caudate.me/ribol/,Ribol,https://github.com/hantuzun/awesome-clojurescript#readme,ClojureScript error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

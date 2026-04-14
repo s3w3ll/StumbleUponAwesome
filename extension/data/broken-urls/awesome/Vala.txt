@@ -1,0 +1,14 @@
+https://gitlab.gnome.org/GNOME/connections,Connections,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/gnome-boxes,GNOME Boxes,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/gitg,GitG,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/World/highscore,High Score (GNOME Games),https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/neithern/g4music,g4music,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/raggesilver/blackbox,Blackbox,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/geary,geary,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/gnome-calculator,GNOME Calculator,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.com/kosmospredanie/gpseq,gpseq,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://gitlab.gnome.org/GNOME/libgee,Libgee,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/BZHDeveloper/vul,vul (Vala Utility Libraries),https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/template-glib,template-glib,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/gxml/,GXML,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/json-glib/,Json-GLib,https://github.com/desiderantes/awesome-vala#readme,Vala error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable

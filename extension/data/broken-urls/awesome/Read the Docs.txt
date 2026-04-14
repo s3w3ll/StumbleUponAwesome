@@ -1,0 +1,1 @@
+https://torchio.readthedocs.io/,TorchIO,https://github.com/readthedocs-examples/awesome-read-the-docs#readme,Read the Docs error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network

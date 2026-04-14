@@ -1,7 +1,20 @@
-https://aquaagro.smartcube.pk/,AquaAgro,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
-http://www.cleantechfinland.com/web/cleantech,Clean Tech Finland,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://ewally.com.mx/,Ewally,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)
-https://phytoponics.com/,Phytoponics,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.mattermore.io/,Mattermore.io,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://aquaagro.smartcube.pk/,AquaAgro,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.b-t.energy/,Breakthrough Energy Ventures,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://kheyti.com/,Kheyti,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.bostonmetal.com/,Boston Metal,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://cellugy.com/,Cellugy,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)
+https://www.mcc-berlin.net/en.html,Mercator Research Institute on Global Commons and Climate Change,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://www.windcores.de/en/homepage/,WindCORES,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://phytoponics.com/,Phytoponics,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://carbonengineering.com/,Carbon Engineering,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://openclimatefix.github.io,Open Climate Fix,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://redflow.com/,Redflow,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 526: '<none>'> | reason: <none>
+https://www.chargepoint.com/,ChargePoint,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://ecosia.org/,Ecosia,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.vultus.io/,Vultus,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.heurafoods.com/en-GB/home,Foods for Tomorrow / Heura,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.happycow.net/,HappyCow,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://toogoodtogo.com/en,Too Good To Go,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.tesla.com/solarpanels,Solar City,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.marcel.cab/engagements-rse/,Marcel,https://github.com/nglgzz/awesome-clean-tech#readme,Clean Tech error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

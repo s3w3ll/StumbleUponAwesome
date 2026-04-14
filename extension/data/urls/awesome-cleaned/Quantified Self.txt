@@ -1,0 +1,115 @@
+https://everyday.app/,Everyday,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.last.fm/,Last.fm,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://emojilog.rosano.ca,Emoji Log,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://en.wikipedia.org/wiki/Quantified_Self,Quantified Self,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.swarmapp.com/,Swarm,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://janerob.com/rTracker/rTracker/iPhone/pages/rTracker-main.html,RTracker,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.goalsontrack.com/,GoalsOnTrack,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://activitywatch.net/,ActivityWatch,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://gum.co/everydaydata,(cheaper PDF version),https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://lifetick.com/,Lifetick,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://iotool.io/,IoTool,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.wired.com/tag/quantified-self/,QS on Wired,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.missionmate.team/,MissionMate,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.myfitnesspal.com/,MyFitnessPal,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://ouraring.com/,Oura Ring,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://trakt.tv/,Trakt,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918,Arc,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://hourly-app.com,Hourly,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.fitbit.com/,Fitbit,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.beeminder.com/,Beeminder,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.apple.com/ios/health/,Apple Health,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.livescience.com/topics/quantified-self,QS on LiveScience,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.wellnessfx.com/,Wellness FX,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://habitica.com,Habitica,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.aidlab.com/,Aidlab,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.google.com/fit,Google Fit,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://arbtt.nomeata.de/,arbtt,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.fatsecret.com/,Fat Secret,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://quantifiedself.com/,Quantified Self,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://buy.garmin.com/en-US/US/wearables/c10002-p1.html,Garmin,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.youtube.com/watch?v=FESv2CgyJag,Tedx Talk: Wearable Tech Expands Human Potential,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://tictrac.com/,Tictrac,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://flowingdata.com/category/self-surveillance/,Flowing Data,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://sleep.urbandroid.org/,Sleep as Android,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://gadgetbridge.org/,Gadgetbridge,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://cronometer.com/,Cronometer,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://gyrosco.pe/,Gyroscope,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://humanapi.co/,Human API,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en,KeepTrack,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.personalcapital.com/,Personal Capital,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.youtube.com/watch?v=EaYsr_ir1R8,Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.youneedabudget.com/,You Need A Budget (YNAB),https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.habitbull.com/,HabitBull,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.sleepcycle.com/,Sleep Cycle,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://getpocket.com/,Pocket,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en,Tasker,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.gwern.net/,Gwern,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://support.apple.com/guide/shortcuts/welcome/ios,Apple Shortcuts,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://zapier.com/,Zapier,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.foundmyfitness.com/genetics,FoundMyFitness,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.gnucash.org/,GNU Cash,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.azumio.com/s/instantheartrate/index.html,Instant Heart Rate,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://devices.wolfram.com/,Wolfram Connected Devices Project,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://exist.io/,Exist,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://dreem.com/,Dreem,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.creditkarma.com/,Credit Karma,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.stridesapp.com/,Strides,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://beepb00p.xyz,beepb00p,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.hrv4training.com/,HRV4Training,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://wordcounterapp.com/,WordCounter,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.zerofasting.com/,Zero,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.askmeevery.com/,AskMeEvery,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.withings.com/,Withings,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://dogsheep.github.io/,Dogsheep,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://neybox.com/pillow/,Pillow,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://zenobase.com/,Zenobase,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://wahoofitness.com/,Wahoo,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514,Coffee It,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.welltory.com/,Welltory,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.23andme.com/,23andMe,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://runkeeper.com/,Runkeeper,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://2appstudio.com/moodcast/,MoodCast,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://toggl.com/,Toggl,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.reporter-app.com/,Reporter,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706,HiCoffee,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://actualbudget.com/,Actual,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://moodjam.com/,MoodJam,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.hexoskin.com/,Hexo Skin,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://lunchmoney.app/,Lunch Money,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://habitlist.com/,Habit List,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.goodreads.com/,Goodreads,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://blog.kto.to,QS Experiments,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://tryvital.io/,Vital,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.openhumans.org/,Open Humans,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://ntl.ai/reflect,Reflect,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/,The Personal Analytics of My Life by Stephen Wolfram,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/,Your life, uploaded: The digital way to better memory, health, and productivity,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://nutriely.com,Nutriely,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.stclairsoft.com/HistoryHound/,HistoryHound,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://streaksapp.com/,Streaks,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/,The Quantified Self,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.enlis.com/personal_edition.html,Enlis,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://validic.com/,Validic,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://whoop.com/,Whoop,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://productiveapp.io/,Productive,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://timesheet.rauscha.com/,Timesheet,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.dnafit.com/,DNA Fit,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.imoodjournal.com/,iMoodJournal,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.zephyranywhere.com/products/bioharness-3,Zephyr BioHarness,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.apple.com/watch/,Apple Watch,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.fitnesssyncer.com/,FitnessSyncer,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8,Everyday Data Science,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.familytreedna.com/,Family Tree DNA,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8,Perspective,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.insidetracker.com/,Inside Tracker,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.hourstimetracking.com/,Hours Time Tracker,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.rescuetime.com/,Rescue Time,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.qualitytimeapp.com/,Quality Time,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://www.manictime.com/,Manic Time,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+http://hindsightapp.io/,Hindsight,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://www.strava.com/,Strava,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://gymhero.me/,Gym Hero,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://opentracksapp.com/,OpenTracks,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://mokestrel.wordpress.com/,Shadow of the Stream,https://github.com/woop/awesome-quantified-self#readme,Quantified Self
+https://medium.com/@quantifiedself,QS on Medium,https://github.com/woop/awesome-quantified-self#readme,Quantified Self

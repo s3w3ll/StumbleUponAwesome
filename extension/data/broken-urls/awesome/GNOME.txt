@@ -1,3 +1,11 @@
-https://gitlab.com/arcmenu/Arc-Menu,Arc Menu,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-https://www.facebook.com/GNOMEDesktop,@GNOMEDesktop on Facebook,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://peertube.video/accounts/gnome,GNOMEDesktop on Peertube,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'peertube.video'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'peertube.video'. (_ssl.c:1123)
+https://apps.gnome.org/MetadataCleaner,Metadata Cleaner,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://gitlab.gnome.org/World/gfeeds,Feeds,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/gnome-tweaks,GNOME Tweaks,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://www.gnome.org/news,GNOME News Feed,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://gitlab.gnome.org/subpop/damask,Damask,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/showtime,Showtime,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/libadwaita,libadwaita,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/GNOME/libhandy,libhandy,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://gitlab.gnome.org/chergert/hello,Hello,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable
+https://apps.gnome.org/Devhelp,DevHelp,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://gitlab.gnome.org/philippun1/turtle,Turtle,https://github.com/Kazhnuz/awesome-gnome#readme,GNOME error: <HTTPError 406: 'Not Acceptable'> | reason: Not Acceptable

@@ -1,0 +1,594 @@
+https://postiz.com,Postiz,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.activepieces.com,Activepieces,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://bagisto.com/en/,Bagisto,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://tt-rss.org,Tiny Tiny RSS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://umbraco.com/,Umbraco,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://bitmagnet.io,bitmagnet,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://stackstorm.com,StackStorm,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://chibisafe.app,Chibisafe,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://atsumeru.xyz,Atsumeru,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://samvera.org/,Samvera Hyrax,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Post_Office_Protocol,POP3,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Internet_forum,Forum,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Web_conferencing,Video/Web Conferencing,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Digital_library,digital library,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/noosfero/noosfero,Noosfero,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://webtorrent.io/,bittorrent-tracker,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://hatsu.cli.rs/,Hatsu,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://grimoire.pro,Grimoire,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.cis.upenn.edu/~bcpierce/unison/,Unison,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://woocommerce.com/,WooCommerce,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/web-db/app,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git-annex.branchable.com/,Git Annex,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://karakeep.app/,Karakeep,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docs.mailman3.org/projects/postorius/en/latest/,Postorius,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sandbox.tinode.co/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.couchcms.com/,CouchCMS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://airflow.apache.org/,Apache Airflow,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/famedly/conduit,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://mybb.com/,MyBB,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://papermerge.com,Papermerge,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Backup,Backup,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://remark42.com/demo/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.bagisto.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.kamailio.org/w/,Kamailio,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.unrealircd.org/,UnrealIRCd,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://deluge-torrent.org/,Deluge,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://peergos.org,Peergos,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://microweber.com/,Microweber,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://samacloud.io,SAMA,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://azimutt.app,Azimutt,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Integrated_library_system,integrated library system,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Object_storage,Object storage,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.espocrm.com/,EspoCRM,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.cyrusimap.org/,Cyrus IMAP,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://wiki.mumble.info/wiki/Main_Page,Mumble,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://feed.lovergne.dev/,TinyFeed,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://1pxsolidblack.pl/jarr-en.html,JARR,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Domain_Name_System,DNS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Network_service,network services,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Federated_identity,Federated identity,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.docuseal.co,Docuseal,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://dbeaver.com/,CloudBeaver,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://automatisch.io,Automatisch,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://puter.com/,Puter,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://scoold.com,Scoold,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://oss.medama.io,Medama Analytics,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sandbox.motion.tools/createsite,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://p2p.mirotalk.com/newcall,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://codeberg.org/readeck/browser-extension,Clients,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/mailman/postorius/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.spip.net/fr,SPIP,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://lists.mailman3.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Blog,blog,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://ladigitale.dev/digirecord/,Digirecord,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.prismeanalytics.com,Prisme Analytics,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://akkoma.social/,Akkoma,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://omeka.org,Omeka,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://snappymail.eu/repository/v2/plugins/,Clients,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.joeyh.name/index.cgi/git-annex.git/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://swetrix.com/projects/STEzHcB1rALV,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://writefreely.org,WriteFreely,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://try.automad.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.davical.org/,DAViCal,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://adguard.com/en/adguard-home/overview.html,AdGuard Home,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.foodcoopshop.com/,FoodCoopShop,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://try.karakeep.app/signin,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Web_application,web applications,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Electronic_authentication,authentication,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.vvveb.com,Vvveb CMS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://element.io,Element,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.deluge-torrent.org/deluge/tree/?h=develop,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.shopware.com/en/test-demo/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://papra.app,Papra,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://feed.lovergne.dev/demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.drupalcode.org/project/drupal,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.b1gmail.eu/en/start/addon-b1gmailserver/,Clients,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://bigbluebutton.org/,BigBlueButton,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.linkace.org/,LinkAce,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://coralproject.net/,Coral,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.booklogr.app/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://0xerr0r.github.io/blocky/latest/,blocky,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.exim.org/,Exim,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://umami.is/,Umami,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/mailman/hyperkitty,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://evergreen-ils.org,Evergreen,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://wiki.mumble.info/wiki/3rd_Party_Applications,Clients,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/davical-project/davical,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.docuseal.tech/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://app.samacloud.io/demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.jarr.info/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/News_aggregator,news aggregator,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+http://www.dspace.org/,DSpace,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.medama.io,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://weechat.org/,Weechat,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://alf.io/,Alf.io,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://nodebb.org/,NodeBB,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://ckan.org,CKAN,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://squirrelmail.org,SquirrelMail,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://omeka.org/classic/showcase/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://lookerstudio.google.com/u/0/reporting/0e4102b6-c38b-4f55-aa25-c1fe91d1c1e9,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.opencart.com,OpenCart,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://garagehq.deuxfleurs.fr/,GarageHQ,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://opensips.org/,openSIPS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://maza-ad-blocking.andros.dev/,Maza ad blocking,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://solidus.io/,Solidus,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+http://redash.io,Redash,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.shaarli.org,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gotenberg.dev,Gotenberg,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://akkoma.dev/AkkomaGang/akkoma,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://screego.net,Screego,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://codeberg.org/ladigitale/digirecord,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://azimutt.app/gallery/gospeak,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docs.debops.org/,DebOps,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://novu.co/,Novu,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sfu.mirotalk.com,MiroTalk SFU,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.papra.app/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://awesome-selfhosted.net/,HTML version,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/RSS,RSS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.espocrm.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://try.nodebb.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Session_Initiation_Protocol,SIP,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://hg.prosody.im/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://calibre-ebook.com/,Calibre,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://backdropcms.org/,Backdrop CMS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.globaleaks.org/,GlobaLeaks,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://databunker.org/,Databunker,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://spreecommerce.org,Spree Commerce,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://pydio.com/,Pydio,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.privydrop.app,PrivyDrop,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://routr.io,Routr,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://miniflux.app/,Miniflux,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://krayincrm.com/,Krayin,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://metabase.com/,Metabase,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.vvveb.com,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://koha-community.org/,Koha,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://pi-hole.net/,Pi-hole,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docker-mailserver.github.io/docker-mailserver/edge/,docker-mailserver,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://emanuelef.github.io/daily-stars-explorer,Daily Stars Explorer,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.keila.io,Keila,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.upvote-rss.com/,Upvote RSS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://changedetection.io/,changedetection.io,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.weblogmatrix.org/,WeblogMatrix,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.glowing-bear.org,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://diasporafoundation.org/,diaspora*,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://mailu.io/,Mailu,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://hubzilla.org,Hubzilla,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.linkace.org/guest/links,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://cloud.umami.is/share/LGazGOecbDtaIwDr,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Analytics,Analytics,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.elabftw.net,eLabFTW,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+http://www.pimcore.com/,Pimcore,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://galene.org/,Galene,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.discourse.org/,Discourse,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.pdfding.com,PdfDing,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://tuwunel.chat,Tuwunel,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/timvisee/send,Send,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://i-librarian.net,I, Librarian,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://aptabase.com/,Aptabase,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://collectiveaccess.org/,Collective Access - Providence,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.alf.io/authentication,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://druid.apache.org,Druid,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://app.screego.net/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.deuxfleurs.fr/Deuxfleurs/garage,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/IP_PBX,IPBX,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/elixire/elixire,elixire,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.inspircd.org/,InspIRCd,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.prestashop.com/,PrestaShop,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://datasette.io/,Datasette,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://answer.apache.org,Answer,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://codeberg.org/Offerel/SyncMarks-Webapp,SyncMarks,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://bubo-rss-demo.netlify.app/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://kinto.readthedocs.org,Kinto,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.opensource-socialnetwork.org/,OSSN,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://calibre-ebook.com/demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.vinceanalytics.com/,Vince,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://hivepal.app,Hive-Pal,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://intri.in/manage-my-damn-life/,Manage My Damn Life,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://pydio.com/en/demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.krayincrm.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.spip.net/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://mretc.net/feedmixer/json?f=https://hnrss.org/newest&f=https://americancynic.net/atom.xml&n=1,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.coreshop.org,CoreShop,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/File_transfer,File transfer,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.dovecot.org/,Dovecot,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://rybbit.com/,Rybbit,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://evidence.dev,Evidence,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://koha-community.org/demo/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://middlewarehq.com/,Middleware,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.globaleaks.org,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://linkding.link/,linkding,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sfu.mirotalk.com/newroom,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://ntfy.sh/,ntfy,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://live.scoold.com,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.spreecommerce.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://technitium.com/dns/,Technitium DNS Server,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://baserow.io/,Baserow,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://cal.com/,Cal.com,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://kottster.app/,Kottster,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://chiefonboarding.com,ChiefOnboarding,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://snikket.org/,Snikket,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.newsblur.com/,NewsBlur,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/elixire/elixiremanager,Clients,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://artalk.js.org/,Artalk,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://memo.vaaat.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.bludit.com/,Bludit,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.eprints.org/,EPrints,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/Nystik/inkheart,Inkheart,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://openslides.com/,OpenSlides,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/File_sharing,sharing,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.plugnmeet.org/,plugNmeet,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://try.discourse.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://framagit.org/hubzilla/core,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://eu1.i-librarian.net/demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://antville.org,Antville,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://enclosed.cc/,Enclosed,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://cronicle.net/,Cronicle,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Archival_science,archiving,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://squidex.io,Squidex,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://modoboa.org/en/,Modoboa,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://dovel.email,Dovel,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://radicale.org/,Radicale,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Message_transfer_agent,Mail Transfer Agents,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.linkding.link/login/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/baserow/baserow,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://goharbor.io/,Harbor,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://nextcloud.com/,Nextcloud,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Document_management_system,document management system,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://try.tuwunel.chat/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+http://goaccess.io/,GoAccess,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.prestashop.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://wintercms.com/,WinterCMS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://spectrum.im/,Spectrum 2,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://codeberg.org/Offerel/SyncMarks-Extension,Clients,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://casvt.github.io/Kapowarr/,Kapowarr,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://rero21.ch/,RERO ILS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sip3.io/,SIP3,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://plone.org/,Plone,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.phpbb.com/,phpBB,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.rybbit.com/1,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://depado.github.io/goploader/,goploader,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/File_synchronization,synchronization software,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.bytebase.com/,Bytebase,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://ntfy.sh/app,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docs.dagu.cloud/,Dagu,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://linkwarden.app/,LinkWarden,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.simplemachines.org/,Simple Machines Forum,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://janus.conf.meetecho.com/,Janus,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sabre.io/,SabreDAV,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Digital_preservation,preservation,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.commafeed.com/,CommaFeed,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol,SMTP,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://taleshape.com/shaper/docs,Shaper,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.kavitareader.com/,Kavita,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://app.keila.io,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://publify.github.io/,Publify,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+http://www.awstats.org/,AWStats,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://pixelfed.social,PixelFed,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/CalDAV,CalDAV,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://dacid99.gitlab.io/eonvelope,Eonvelope,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sylius.com,Sylius,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://cloud.squidex.io,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docspell.org,Docspell,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.kottster.app/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docs.onetimesecret.com,One Time Secret,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.asterisk.org/,Asterisk,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.bytebase.com,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.sr.ht/~cedric/newspipe,Newspipe,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+http://tryme.demo.eprints-hosting.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://mixpost.app/,Mixpost,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://onetimesecret.com,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://fredy.orange-coding.net/,Fredy,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://send.vis.ee/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://stoat.chat/,Stoat,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.mayan-edms.com,Mayan EDMS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://documenso.com,Documenso,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://archivebox.io/,ArchiveBox,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://discount-bandit.cybrarist.com/,Discount Bandit,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://haraka.github.io/,Haraka,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://monicahq.com/,Monica,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://drupalcommerce.org,Drupal Commerce,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://typebot.io,Typebot,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://listmonk.app/,Listmonk,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://transmissionbt.com/,Transmission,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gnunet.org/,GNUnet,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://elgg.org/,Elgg,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.goatcounter.com,GoatCounter,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://komga.org,Komga,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Communication_software,Communication software,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://element-hq.github.io/synapse/latest/index.html,Synapse,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.listmonk.app/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.sip3.io,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://board.asm32.info,AsmBB,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.plugnmeet.com/login.html,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/CardDAV,CardDAV,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.drupalcode.org/project/commerce,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://dovel.email/server/tree.html,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://nuskooler.github.io/enigma-bbs/,Enigma 1/2 BBS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/mayan-edms/mayan-edms,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://janus.conf.meetecho.com/demos/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://juntagrico.org/,juntagrico,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://webtor.io,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.taleshape.com/view/pvggvdpiwb9wlyppuqbyx0nt,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://app.cal.com/bailey,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.openslides.org/login,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://zotregistry.dev,ZOT OCI Registry,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://netron.app/,Netron,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://feeds.fun/,Feeds Fun,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.dittofeed.com,Dittofeed,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://anycable.io/,AnyCable,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/dacid99/eonvelope,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://hitkeep.com/,HitKeep,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://snikket.org/app/,Clients,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://pleroma.social,Pleroma,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://wbo.ophir.dev/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://boltcms.io/,Bolt CMS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://castopod.org,Castopod,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://count.ly,Countly Community Edition,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.opensignlabs.com,OpenSign,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://strapi.io/,Strapi,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.xmox.nl/,Mox,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://blitiri.com.ar/p/chasquid/,chasquid,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://apps.nextcloud.com/,more,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://bewcloud.com,bewCloud,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.pdfding.com,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sylius.com/try/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home,Fedora Commons Repository,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.stumpapp.dev,Stump,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://osem.io/,osem,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Drag_and_drop,drag-and-drop,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://chartbrew.com,Chartbrew,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/XMPP,Extensible Messaging and Presence Protocol,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://tailchat.msgbyte.com/,Tailchat,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Calendaring_software,Electronic calendar,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.linphone.org/en/flexisip-sip-server/,Flexisip,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.wondercms.com,WonderCMS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://litlyx.com,Litlyx,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://schleuder.nadir.org/,Schleuder,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://socialhome.network,Socialhome,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://fredy-demo.orange-coding.net,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://flarum.org,Flarum,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://evershop.io/,EverShop,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://ils.test.rero.ch/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://readeck.org/en/,Readeck,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://kestra.io,Kestra,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gotify.net/,Gotify,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://ots.fyi/,OTS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://liwan.dev/,Liwan,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://archivesspace.org/,ArchivesSpace,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://d8a.tech,d8a.tech,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://opensmtpd.org/,OpenSMTPD,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.list.org/,Mailman,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docs.postalserver.io/,Postal,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.seafile.com/en/home/,Seafile,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.limbas.com/en/,Limbas,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://tigase.net/xmpp-server,Tigase,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.anycable.io,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Institutional_repository,Institutional repository,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.dittofeed.com/dashboard/journeys,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://omeka.org/s/,Omeka S,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://zothub.io,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.offen.dev/,Offen,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://statistics-for-strava.robiningelbrecht.be/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://flatpress.org/,FlatPress,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.pleroma.social/pleroma/pleroma,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://blitiri.com.ar/git/r/chasquid/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://kibitzr.github.io,Kibitzr,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://superdesk.org/,Superdesk,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://pretix.eu/,Pretix,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://jitsi.org/Projects/JitsiMeet,Jitsi Meet,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://inboxen.org,Inboxen,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://cloudreve.org/,Cloudreve,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/E-commerce,E-commerce,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://try.nextcloud.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Address_book,address book,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+http://superset.apache.org/,Superset,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.ejabberd.im/,ejabberd,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://suitecrm.com,SuiteCRM,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.elabftw.net,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://meet.jit.si,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/mailman/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://archivesspace.org/application/sandbox,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://asm32.info/fossil/asmbb/index,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://retroshare.cc,RetroShare,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://app.chartbrew.com/live-demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://send.fudaoyuan.icu,015,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/simple-nixos-mailserver/nixos-mailserver,Simple NixOS Mailserver,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://textpattern.com/,Textpattern,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://nightly.paw.msgbyte.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://socialhome.network/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing,Peer-to-peer file sharing,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://mathesar.org/,Mathesar,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.cmsmadesimple.org/,CMS Made Simple,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://twenty.com,Twenty,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://chitchatter.im/,Chitchatter,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.cloudreve.org,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.redaxo.org,REDAXO,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://chartdb.io/,ChartDB,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.seeddms.org,SeedDMS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://gitlab.com/LazyLibrarian/LazyLibrarian,LazyLibrarian,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.liwan.dev/p/liwan.dev,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Contact_manager,contact management,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://havenweb.org/,Haven,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.silverstripe.org,SilverStripe,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://codeberg.org/readeck/readeck,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.freepbx.org,Freepbx,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+http://www.postfix.org/,Postfix,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://jitsi.org/Projects/JitsiVideobridge,Jitsi Video Bridge,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.offen.dev/try-demo/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://hyphanet.org/,Hyphanet,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://getleon.ai,Leon,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://plausible.io/,Plausible Analytics,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://freshrss.org/,FreshRSS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sabre.io/baikal/,Baïkal,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Peer-to-peer,peer-to-peer,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://code.castopod.org/adaures/castopod,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://easyappointments.org/,Easy!Appointments,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Database,database,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://inveniordm.docs.cern.ch/,InvenioRDM,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.joomla.org/,Joomla!,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://rocket.chat/,Rocket.Chat,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://matomo.org/,Matomo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://codidact.com/,qpixel,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.evershop.io/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://0xacab.org/schleuder/schleuder/tree/master,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://thelia.net/,Thelia,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://havenweb.org/demo.html,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://conversejs.org/,Converse.js,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://buddypress.org/about/,BuddyPress,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://mylarcomics.com/,Mylar3,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://codeberg.org/Inboxen/Inboxen,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://friendi.ca/,Friendica,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://posthog.com,PostHog,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.talkyard.io/,Talkyard,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://zulip.org,Zulip,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.wondercms.com/demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://kiwiirc.com/,Kiwi IRC,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://swetrix.com/,Swetrix,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sync-in.com,Sync-in,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://s-cart.org/,s-cart,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.newspipe.org/signup,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.seeddms.org/about/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://conduit.rs/,Conduit,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://simplelogin.io,SimpleLogin,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://aimeos.org/,Aimeos,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://textpattern.co/demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.sympa.community/,Sympa,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.htmly.com/,HTMLy,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://openarchiver.com/,Open Archiver,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.proofpoint.com/us/products/email-protection/open-source-email-solution,Sendmail,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://app.chartdb.io,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Customer_relationship_management,Customer relationship management (CRM),https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Email,E-mail,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://stalw.art,Stalwart Mail Server,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://keystonejs.com/,KeystoneJS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docs.opencloud.eu/,OpenCloud,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.freepbx.org/projects/FREEPBX,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://c2c.mirotalk.com,MiroTalk C2C,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.olivetin.app/,OliveTin,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://remark42.com/,remark42,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.jami.net/savoirfairelinux?sort=latest_activity_desc&filter=jami,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.igniterealtime.org/projects/openfire/,Openfire,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://chirpy.dev,Chirpy,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Webmail,Webmail,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://chyrplite.net,Chyrp Lite,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+http://demo.htmly.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.s-cart.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Mailing_list,Mailing list,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.easyappointments.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.mailpiler.org/,Piler,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://pyload.net/,pyLoad,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docs.gotosocial.org/en/latest/,GoToSocial,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://wildduck.email/,wildduck,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://inveniordm.web.cern.ch/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://tiledesk.com,Tiledesk,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://hi.events,Hi.Events,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://getcockpit.com,Cockpit,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://readflow.app,Readflow,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.humhub.org/,HumHub,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://saleor.io,Saleor,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://ngircd.barton.de/,ngircd,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.iredmail.org/,iRedMail,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.aimeos.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.openfoodnetwork.org/,Open Food Network,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docs.cortezaproject.org,Corteza,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://repos.goffi.org/libervia-web,Libervia,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://localess.org/home,Localess,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.freshrss.org/i/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.talkyard.io/forum/latest,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Message_delivery_agent,Mail Delivery Agents,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://withknown.com/,Known,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://prosody.im/,Prosody IM,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://typemill.net/,Typemill,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://pdf.24eme.fr/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://inveniosoftware.org/products/rdm/,Clients,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://chirpy.dev/play,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://qloapps.com/,QloApps,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://yarn.social,yarn.social,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://p2p.mirotalk.com,MiroTalk P2P,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.openssh.com/,OpenSSH SFTP server,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://dbdb.io/,dbdb.io - Database of Databases,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://pretalx.org,pretalx,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sync-in.com/docs/demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.thelia.net/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://codeberg.org/superseriousbusiness/gotosocial,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.wallabag.org,Wallabag,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol,IMAP,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.mills.io/yarnsocial/yarn,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.concretecms.com,Concrete 5 CMS,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://cypht.org,Cypht,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docs.rsshub.app,RSSHub,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://syncthing.net/,Syncthing,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://livehelperchat.com/,Live Helper Chat,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://maddy.email/,Maddy Mail Server,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Ebook,Ebook,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Content_management_system,Content Management Systems,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://latest.cortezaproject.org,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.qloapps.com/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Automation,Automation,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://freeswitch.org/,FreeSWITCH,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.islandora.ca/,Islandora,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://typo3.org/,TYPO3,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.saleor.io/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://mataroa.blog/,Mataroa,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://rallly.co,Rallly,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://modx.com/,MODX,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://selfoss.aditu.de/,Selfoss,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://mailcow.email/,Mailcow,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://djangocrm.github.io/info/,Django-CRM,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://openolitor.org/,OpenOlitor,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://roundcube.net,Roundcube,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.vendure.io,Vendure,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://app.rallly.co,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.alfresco.com/products/community/download,Alfresco Community Edition,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://anonaddy.com,AnonAddy,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Abstract_management,abstracts,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sandbox.islandora.ca/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://pluxml.org,PluXml,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.adminer.org/,Adminer,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://snappymail.eu/,SnappyMail,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.neos.io,Neos,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://git.dotclear.org/dev/dotclear,Dotclear,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.fusionpbx.com/,FusionPBX,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://docs.s9y.org/,Serendipity,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh/,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://contao.org/,Contao,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.shopware.com/en/community/community-edition/,Shopware Community Edition,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://iceshrimp.net,Iceshrimp.NET,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://apostrophecms.com/,Apostrophe,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.salut-a-toi.org/,Salut à Toi,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://snappymail.eu/demo/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://getindico.io/,indico,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://iceshrimp.dev/iceshrimp/iceshrimp.net,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://repos.goffi.org/libervia-backend,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.hi.events/event/1/dog-conf-2030,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://isso-comments.de/,Isso,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://acp-admin.ch/,ACP Admin,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://librebooking.readthedocs.io/,LibreBooking,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://owncloud.org/,ownCloud,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://filipecarneiro.github.io/ELabel/,E-Label,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.b1gmail.eu,b1gMail,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.contao.org/contao,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://seatsurfing.app/,Seatsurfing,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.vendure.io,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://apostrophecms.com/demo,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://sandbox.getindico.io/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Bookmark_(digital),bookmarks,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://codeberg.org/b1gMail/b1gMail,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://misago-project.org/,Misago,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://briefkastenhq.com/auth/signin,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://motion.tools/,motion.tools (Antragsgrün),https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://misskey.io/,Misskey,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://automad.org/,Automad,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://wazo-platform.org/,Wazo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://codeberg.org/ladigitale/digibunch,Source Code,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html,Firefox Account Server,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://yeti-switch.org/,Yeti-Switch,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://movim.eu/,Movim,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://demo.yeti-switch.org/,Demo,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://en.wikipedia.org/wiki/Social_networking_service,Social Networking,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://medusajs.com/,MedusaJs,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://robustirc.net/,Robust IRC,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://thelounge.chat/,The Lounge,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted
+https://www.phplist.org,phpList,https://github.com/awesome-selfhosted/awesome-selfhosted#readme,Self Hosted

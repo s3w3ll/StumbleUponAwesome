@@ -1,7 +1,8 @@
 https://testanything.org,,https://github.com/sindresorhus/awesome-tap#readme,TAP
 https://mochajs.org,Mocha,https://github.com/sindresorhus/awesome-tap#readme,TAP
-https://testanything.org/producers.html,Moreâ€¦,https://github.com/sindresorhus/awesome-tap#readme,TAP
-https://testanything.org/consumers.html,Moreâ€¦,https://github.com/sindresorhus/awesome-tap#readme,TAP
+https://nodejs.org/api/test.html,node:test,https://github.com/sindresorhus/awesome-tap#readme,TAP
+https://testanything.org/producers.html,More…,https://github.com/sindresorhus/awesome-tap#readme,TAP
+https://testanything.org/consumers.html,More…,https://github.com/sindresorhus/awesome-tap#readme,TAP
 https://www.effectiveperlprogramming.com/2011/05/understand-the-test-anything-protocol/,Understand the Test Anything Protocol,https://github.com/sindresorhus/awesome-tap#readme,TAP
 https://testanything.org/tap-version-13-specification.html,Specification,https://github.com/sindresorhus/awesome-tap#readme,TAP
 https://en.wikipedia.org/wiki/Test_Anything_Protocol,Wikipedia,https://github.com/sindresorhus/awesome-tap#readme,TAP

@@ -1,0 +1,2 @@
+https://gitter.im/fish-shell/fish-shell,Gitter Channel,https://github.com/jorgebucaran/awsm.fish#readme,Fish error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview,Touch Bar,https://github.com/jorgebucaran/awsm.fish#readme,Fish error: <HTTPError 404: 'Not Found'> | reason: Not Found

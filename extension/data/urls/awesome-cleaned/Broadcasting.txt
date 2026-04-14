@@ -1,0 +1,60 @@
+https://libretime.org/,LibreTime,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://mediaarea.net/MediaConch,MediaConch,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://mediaarea.net/en/MediaInfo,MediaInfo,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.liquidsoap.info/doc.html,documentation,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://danielnoethen.de/,butt,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.musicpd.org/,MPD,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://iperf.fr/,iPerf3,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://tech.ebu.ch/publications/tech3370,EBU-TT Live,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+http://bbc.github.io/tal/,TAL,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.openbroadcaster.com/,OpenBroadcaster,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://developer.blender.org/,here,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://coolmic.net/,Cool Mic,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://bbc.github.io/bug/,BUG,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.sonicvisualiser.org/,Sonic Visualiser,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.mpg123.de/,mpg123,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://specs.amwa.tv/nmos/,Networked Media Open Specifications,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://bitfocus.io/connections,increasing amount of broadcast equipment,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.gnuradio.org/,GNU Radio,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://mixxx.org/,Mixxx,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.nikse.dk/SubtitleEdit,Subtitle Edit,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+http://www.casparcg.com/,CasparCG,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+http://www.darkice.org/,DarkIce,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://specs.amwa.tv/nmos-testing/,AMWA NMOS Testing Tool,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://ffmpeg.org,FFmpeg,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.jt-nm.org/jt-nm-tested,JT-NM Tested,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.electronjs.org/,Electron,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://icecast.org/,Icecast,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.videolan.org/projects/dvblast.html,DVBlast,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://qprompt.app,QPrompt Teleprompter App,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.nodecg.dev/,NodeCG,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://hub.docker.com/r/rhastie/nmos-cpp,NVIDIA NMOS Docker,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.gqrx.dk/,Gqrx SDR,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.kfrlib.com/,KFR,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://tsduck.github.io/,TSDuck,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://ossia.io/,ossia,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://antennapod.org/,antennapod.org,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://tallyarbiter.com/,TallyArbiter,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://anytimeplayer.app/,anytimeplayer.app,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.xiph.org/flac/,FLAC,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.opendigitalradio.org,ODR-mmbTools,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+http://www.kamailio.org/,Kamailio,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.bbc.co.uk/rd,BBC R&D,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://jamesharrison.github.io/openob/,OpenOB,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.opus-codec.org/,Opus,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+http://3dcinecast.blogspot.com/,3D CineCast,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://castopod.org/,castopod.org,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://developers.canal-plus.com/,Canal+,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://gpodder.github.io/,gPodder,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://osmocom.org/projects/rtl-sdr/wiki/rtl-sdr,rtl-sdr,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.pjsip.org/,PJSIP,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.welle.io/,welle.io,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://owncast.online/,https://owncast.online/,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.pogo.org.uk/~mark/trx/,trx,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/,WiFiBroadcast,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://ultraschall.fm/,ultraschall.fm,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://gpac.io/,GPAC,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://web.archive.org/web/20210830075332/https://lab.irt.de/,IRT Lab,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://www.vlc.org,VLC,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+https://tech.ebu.ch/docs/tech/tech3293.pdf,EBUCore schema,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting
+http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html,Jmeters,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting

@@ -1,0 +1,2 @@
+https://demo.do.prometheus.io,Official Prometheus demo,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://vimeo.com/341142428,Explain it Like I'm Five - What I Learned Teaching Observability to My Kids,https://github.com/roaldnefs/awesome-prometheus#readme,Prometheus error: <HTTPError 404: 'Not Found'> | reason: Not Found

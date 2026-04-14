@@ -1,1 +1,1 @@
-https://amzn.to/2LY8ibJ,Software Testing: An ISTQB-BCS Certified Tester Foundation guide,https://github.com/TheJambo/awesome-testing#readme,Testing error: <HTTPError 404: ''> | reason: 
+https://bbst.courses/bbst-testingeducation-materials/,BBST Testing Courses,https://github.com/TheJambo/awesome-testing#readme,Testing error: <HTTPError 523: ''> | reason: 

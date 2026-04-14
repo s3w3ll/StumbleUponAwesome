@@ -1,3 +1,6 @@
-http://euruko2013.org/speakers/presentations/natural_language_processing_with_ruby_and_opennlp-tennhard.pdf,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 410: 'Gone'> | reason: Gone
+http://euruko2013.org/speakers/presentations/natural_language_processing_with_ruby_and_opennlp-tennhard.pdf,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 525: '<none>'> | reason: <none>
+https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/,tutorial,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://aonemd.github.io/blog/extracting-text-from-images-using-ruby,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://skillsmatter.com/skillscasts/4883-how-to-parse-go,video,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby,slides,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://colindrake.me/post/k-means-clustering-in-ruby/,post,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://rubywordcount.com/,Words Counted,https://github.com/arbox/nlp-with-ruby#readme,NLP with Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found

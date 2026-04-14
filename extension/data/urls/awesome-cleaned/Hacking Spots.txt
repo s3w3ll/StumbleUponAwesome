@@ -1,0 +1,5 @@
+https://wiki.hackerspaces.org/List_of_Hacker_Spaces,https://wiki.hackerspaces.org/List_of_Hacker_Spaces,https://github.com/daviddias/awesome-hacking-locations#readme,Hacking Spots
+https://metalab.at,https://metalab.at,https://github.com/daviddias/awesome-hacking-locations#readme,Hacking Spots
+https://metalab.at/,Rathausstraﬂe 6, 1010 Wien,https://github.com/daviddias/awesome-hacking-locations#readme,Hacking Spots
+https://hsbxl.be/,https://hsbxl.be/,https://github.com/daviddias/awesome-hacking-locations#readme,Hacking Spots
+https://goo.gl/maps/7UqJcxPrsar,Rue des Goujons 152, 1070 Brussels,https://github.com/daviddias/awesome-hacking-locations#readme,Hacking Spots

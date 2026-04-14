@@ -1,3 +1,7 @@
-https://www.opensourcerails.org/,Open Source Rails,https://github.com/markets/awesome-ruby#readme,Ruby error: URLError(ConnectionRefusedError(61, 'Connection refused')) | reason: [Errno 61] Connection refused
-http://radiantcms.org,Radiant,https://github.com/markets/awesome-ruby#readme,Ruby error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://www.vagrantup.com,Vagrant,https://github.com/markets/awesome-ruby#readme,Ruby error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://faastruby.io,FaaStRuby,https://github.com/markets/awesome-ruby#readme,Ruby error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)
+http://radiantcms.org,Radiant,https://github.com/markets/awesome-ruby#readme,Ruby error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://foobarwidget.github.io/traveling-ruby/,Traveling Ruby,https://github.com/markets/awesome-ruby#readme,Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://ruby.libhunt.com,Awesome Ruby @LibHunt,https://github.com/markets/awesome-ruby#readme,Ruby error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://www.opensourcerails.org/,Open Source Rails,https://github.com/markets/awesome-ruby#readme,Ruby error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.refinerycms.com,Refinery CMS,https://github.com/markets/awesome-ruby#readme,Ruby error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+http://ruby-operators.herokuapp.com/,Ruby Operators,https://github.com/markets/awesome-ruby#readme,Ruby error: <HTTPError 404: 'Not Found'> | reason: Not Found

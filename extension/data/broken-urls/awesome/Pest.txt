@@ -1,0 +1,5 @@
+https://crates.io/crates/pest_consume,pest_consume,https://github.com/pest-parser/awesome-pest#readme,Pest error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://crates.io/crates/pest-test,pest-test,https://github.com/pest-parser/awesome-pest#readme,Pest error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://crates.io/crates/pest_ascii_tree,pest_ascii_tree,https://github.com/pest-parser/awesome-pest#readme,Pest error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://gitter.im/pest-parser/pest,Gitter,https://github.com/pest-parser/awesome-pest#readme,Pest error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://marketplace.visualstudio.com/items?itemName=pest.pest-ide-tools,VSCode Extension,https://github.com/pest-parser/awesome-pest#readme,Pest error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

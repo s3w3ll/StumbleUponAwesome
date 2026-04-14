@@ -1,0 +1,42 @@
+https://arxiv.org/abs/2504.19793,ToolHijacker: Prompt Injection Attack to Tool Selection in LLM Agents,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://www.reddit.com/r/llmsecurity/,r/llmsecurity,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://genai.owasp.org/llmrisk/llm01-prompt-injection/,LLM01:2025 Prompt Injection – OWASP Gen AI Security Project,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://atlas.mitre.org/,MITRE ATLAS,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://services.google.com/fh/files/blogs/google_ai_red_team_digital_final.pdf,AI Read Teaming from Google,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://blog.includesecurity.com/2024/01/improving-llm-security-against-prompt-injection-appsec-guidance-for-pentesters-and-developers/,Improving LLM Security Against Prompt Injection: AppSec Guidance For Pentesters and Developers,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://ai.meta.com/blog/practical-ai-agent-security/,Agents Rule of Two: A Practical Approach to AI Agent Security,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://aclanthology.org/2025.findings-naacl.123.pdf,Attention Tracker: Detecting Prompt Injection Attacks in LLMs,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://www.youtube.com/watch?v=43qfHaKh0Xk,Prompt Injection in LLM Agents (ReAct, Langchain),https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://arxiv.org/abs/2501.18280,Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://notchrisgroves.com/prompt-injection-2026-attack-surface/,Prompt Injection in 2026: Why the Attack Surface Keeps Growing,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://blog.includesecurity.com/2024/02/improving-llm-security-against-prompt-injection-appsec-guidance-for-pentesters-and-developers-part-2/,Improving LLM Security Against Prompt Injection: AppSec Guidance For Pentesters and Developers – Part 2,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/,Design Patterns for Securing LLM Agents against Prompt Injections,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://www.praetorian.com/blog/introducing-augustus-open-source-llm-prompt-injection/,Augustus,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://www.youtube.com/watch?v=fCpAr2OylDw,How AI Prompt Injection Works | Hands-on with LLMs,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://simonwillison.net/2023/Apr/14/worst-that-can-happen/,Prompt injection: What's the worst that can happen?,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://www.youtube.com/watch?v=bO-7DB-3dL8,MCP Prompt Injection: How AI Gets Hacked,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://arxiv.org/abs/2302.12173,Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://arxiv.org/abs/2307.15043,Universal and Transferable Adversarial Attacks on Aligned Language Models,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://arxiv.org/abs/2602.10453,The Landscape of Prompt Injection Threats in LLM Agents (SoK),https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/,ChatGPT Plugins: Data Exfiltration via Images & Cross Plugin Request Forgery,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://arxiv.org/abs/2510.09023,The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against LLM Jailbreaks and Prompt Injections,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://arxiv.org/abs/2507.13169,Prompt Injection 2.0: Hybrid AI Threats,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://arxiv.org/abs/2511.15759,Securing AI Agents Against Prompt Injection Attacks,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://blog.seclify.com/prompt-injection-cheat-sheet/,Prompt Injection Cheat Sheet: How To Manipulate AI Language Models,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://prompttrace.airedlab.com/,PromptTrace,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://gandalf.lakera.ai/,Gandalf,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://simonwillison.net/2023/May/2/prompt-injection-explained/,Prompt injection explained,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://www.promptingguide.ai/risks/adversarial/,Adversarial Prompting,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://labs.withsecure.com/publications/llm-agent-prompt-injection,Synthetic Recollections - A Case Study in Prompt Injection for ReAct LLM Agents,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://academy.8ksec.io/course/ai-exploitation-challenges,AI/LLM Exploitation Challenges,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm,Don't you (forget NLP): Prompt injection with control characters in ChatGPT,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://openai.com/index/hardening-atlas-against-prompt-injection/,Continuously Hardening ChatGPT Atlas Against Prompt Injection Attacks,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://www.microsoft.com/en-us/msrc/blog/2025/07/how-microsoft-defends-against-indirect-prompt-injection-attacks,How Microsoft Defends Against Indirect Prompt Injection Attacks,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/,CrowdStrike AI Unlocked,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://discord.com/invite/learn-prompting,Learn Prompting,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://snyk.io/blog/toxicskills-malicious-ai-agent-skills-clawhub/,ToxicSkills: Snyk Finds Malware and Prompt Injection in 36% of AI Agent Skills,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/,New Prompt Injection Papers: Agents Rule of Two and The Attacker Moves Second,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://www.stackone.com/blog/indirect-prompt-injection-mcp-tools-defense,Indirect Prompt Injection Through MCP Tools: A Defense Guide,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://simonwillison.net,Simon Willison's Blog,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://www.crowdstrike.com/en-us/blog/indirect-prompt-injection-attacks-hidden-ai-risks/,Indirect Prompt Injection Attacks: Hidden AI Risks,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection
+https://learnprompting.org/docs/prompt_hacking/injection,Prompt Injection,https://github.com/FonduAI/awesome-prompt-injection#readme,Prompt Injection

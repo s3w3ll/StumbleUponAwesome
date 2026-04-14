@@ -1,0 +1,5 @@
+https://app.metrika.co/dashboard/algorand/,Metrika,https://github.com/aorumbayev/awesome-algorand#readme,Algorand error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://app.compx.io/dashboard,CompX,https://github.com/aorumbayev/awesome-algorand#readme,Algorand error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72,Dissecting Algorand,https://github.com/aorumbayev/awesome-algorand#readme,Algorand error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://chatgpt.com/g/g-izA6hnC93-algorand-gpt,Algorand-GPT,https://github.com/aorumbayev/awesome-algorand#readme,Algorand error: TimeoutError('The read operation timed out') | reason: 
+https://chatgpt.com/g/g-rOCQculZQ-did-gpt,DID-GPT,https://github.com/aorumbayev/awesome-algorand#readme,Algorand error: TimeoutError('The read operation timed out') | reason: 

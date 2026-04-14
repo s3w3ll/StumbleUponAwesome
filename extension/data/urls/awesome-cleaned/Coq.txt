@@ -1,0 +1,47 @@
+https://proofassistants.stackexchange.com/questions/tagged/coq,Coq tag on Proof Assistants Stack Exchange,https://github.com/coq-community/awesome-coq#readme,Coq
+https://softwarefoundations.cis.upenn.edu/slf-current/index.html,Volume 6: Separation Logic Foundations,https://github.com/coq-community/awesome-coq#readme,Coq
+http://poleiro.info,Poleiro: a Coq blog by Arthur Azevedo de Amorim,https://github.com/coq-community/awesome-coq#readme,Coq
+http://adam.chlipala.net/cpdt/,Certified Programming with Dependent Types,https://github.com/coq-community/awesome-coq#readme,Coq
+https://www.site.uottawa.ca/~afelty/HybridCoq/,Hybrid,https://github.com/coq-community/awesome-coq#readme,Coq
+https://people.debian.org/~jpuydt/coq_platform.html,Debian Coq packages,https://github.com/coq-community/awesome-coq#readme,Coq
+https://www.ralfj.de/blog/categories/coq.html,Ralf Jung's blog posts on Coq,https://github.com/coq-community/awesome-coq#readme,Coq
+http://gallium.inria.fr/~fpottier/menhir/,Menhir,https://github.com/coq-community/awesome-coq#readme,Coq
+https://www.cs.princeton.edu/~appel/papers/plcc.pdf,Program Logics for Certified Compilers,https://github.com/coq-community/awesome-coq#readme,Coq
+https://iris-project.org,Iris,https://github.com/coq-community/awesome-coq#readme,Coq
+https://dune.build,Dune,https://github.com/coq-community/awesome-coq#readme,Coq
+http://adam.chlipala.net/frap/,Formal Reasoning About Programs,https://github.com/coq-community/awesome-coq#readme,Coq
+https://search.nixos.org/packages?channel=unstable&query=coqPackages,Nix Coq packages,https://github.com/coq-community/awesome-coq#readme,Coq
+https://soap.coffee/~lthms/tags/coq.html,Thomas Letan's blog posts on Coq,https://github.com/coq-community/awesome-coq#readme,Coq
+https://gitlab.science.ru.nl/program-verification/course-2023-2024,Program verification with types and logic,https://github.com/coq-community/awesome-coq#readme,Coq
+http://math-comp.github.io,Mathematical Components,https://github.com/coq-community/awesome-coq#readme,Coq
+https://vst.cs.princeton.edu,VST,https://github.com/coq-community/awesome-coq#readme,Coq
+http://gallium.inria.fr/blog,Gagallium,https://github.com/coq-community/awesome-coq#readme,Coq
+https://ilyasergey.net/pnp/,Programs and Proofs,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq.zulipchat.com,Official Coq Zulip chat,https://github.com/coq-community/awesome-coq#readme,Coq
+https://gmalecha.github.io,Gregory Malecha's blog,https://github.com/coq-community/awesome-coq#readme,Coq
+https://opam.ocaml.org,opam,https://github.com/coq-community/awesome-coq#readme,Coq
+https://math-comp.github.io/mcb/,The Mathematical Components book,https://github.com/coq-community/awesome-coq#readme,Coq
+https://proofgeneral.github.io,Proof General,https://github.com/coq-community/awesome-coq#readme,Coq
+https://softwarefoundations.cis.upenn.edu,Software Foundations,https://github.com/coq-community/awesome-coq#readme,Coq
+https://staff.aist.go.jp/reynald.affeldt/documents/karate-coq.pdf,An Introduction to MathComp-Analysis,https://github.com/coq-community/awesome-coq#readme,Coq
+https://x.com/CoqLang,Official Coq X/Twitter,https://github.com/coq-community/awesome-coq#readme,Coq
+http://compcert.inria.fr,CompCert,https://github.com/coq-community/awesome-coq#readme,Coq
+https://softwarefoundations.cis.upenn.edu/lf-current/index.html,Volume 1: Logical Foundations,https://github.com/coq-community/awesome-coq#readme,Coq
+http://www.joachim-breitner.de/blog/tag/Coq,Joachim Breitner's blog posts on Coq,https://github.com/coq-community/awesome-coq#readme,Coq
+https://softwarefoundations.cis.upenn.edu/plf-current/index.html,Volume 2: Programming Language Foundations,https://github.com/coq-community/awesome-coq#readme,Coq
+https://chargueraud.org/teach/verif/,Foundations of Separation Logic,https://github.com/coq-community/awesome-coq#readme,Coq
+https://coq-tactician.github.io,Tactician,https://github.com/coq-community/awesome-coq#readme,Coq
+https://blog.poisson.chat,Lysxia's blog,https://github.com/coq-community/awesome-coq#readme,Coq
+https://softwarefoundations.cis.upenn.edu/vfa-current/index.html,Volume 3: Verified Functional Algorithms,https://github.com/coq-community/awesome-coq#readme,Coq
+https://www.reddit.com/r/Coq/,Coq subreddit,https://github.com/coq-community/awesome-coq#readme,Coq
+https://charlesaverill.github.io/ctpe/,Coq Tactics in Plain English,https://github.com/coq-community/awesome-coq#readme,Coq
+https://stackoverflow.com/questions/tagged/coq,Coq tag on Stack Overflow,https://github.com/coq-community/awesome-coq#readme,Coq
+http://plv.csail.mit.edu/blog/category/coq.html,MIT PLV blog posts on Coq,https://github.com/coq-community/awesome-coq#readme,Coq
+https://gitlab.com/umb-svl/turing,Introduction to the Theory of Computation,https://github.com/coq-community/awesome-coq#readme,Coq
+https://softwarefoundations.cis.upenn.edu/qc-current/index.html,Volume 4: QuickChick,https://github.com/coq-community/awesome-coq#readme,Coq
+https://cstheory.stackexchange.com/questions/tagged/coq,Coq tag on Theoretical Computer Science Stack Exchange,https://github.com/coq-community/awesome-coq#readme,Coq
+http://velus.inria.fr,Vélus,https://github.com/coq-community/awesome-coq#readme,Coq
+https://www.seas.upenn.edu/~plclub/blog/,PLClub Blog,https://github.com/coq-community/awesome-coq#readme,Coq
+https://softwarefoundations.cis.upenn.edu/vc-current/index.html,Volume 5: Verifiable C,https://github.com/coq-community/awesome-coq#readme,Coq
+https://learnxinyminutes.com/docs/coq/,Learn X in Y minutes where X=Coq,https://github.com/coq-community/awesome-coq#readme,Coq
+https://mdnahas.github.io/doc/nahas_tutorial.html,Mike Nahas's Coq Tutorial,https://github.com/coq-community/awesome-coq#readme,Coq

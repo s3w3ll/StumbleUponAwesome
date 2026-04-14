@@ -1,0 +1,3 @@
+https://marketplace.visualstudio.com/items?itemName=fbclol.volt-phalcon-language,volt-phalcon-language,https://github.com/phalcon/awesome-phalcon#readme,Phalcon error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://t.me/phalcon_news,Telegram,https://github.com/phalcon/awesome-phalcon#readme,Phalcon error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://docs.phalcon.io/4.0/en/introduction,Phalcon Documentation,https://github.com/phalcon/awesome-phalcon#readme,Phalcon error: <HTTPError 404: 'Not Found'> | reason: Not Found

@@ -1,0 +1,45 @@
+https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast,ASD-B,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.sportys.com/blog/ads-b-101-what-you-need-know,,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://en.wikipedia.org/wiki/Aircraft,aircraft,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://en.wikipedia.org/wiki/Satellite_navigation,satellite navigation,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://sdr-enthusiasts.gitbook.io/ads-b/,ADS-B Docker guide,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://sdr-enthusiasts.gitbook.io/ads-b/intro/equipment-needed,ADS-B equipment guide,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://flightaware.com/adsb/piaware/build/,PiAware ADS-B tutorial,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.sportys.com/blog/ads-b-out-questions-1090-978/,ADSB-B transponders guide,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://mode-s.org/decode/index.html,The 1090 Megahertz Riddle - Junzi Sun,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://airplanes.live,airplanes.live,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://adsb.one,ADSB One,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://adsb.fi,adsb.fi,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://adsb.lol,ADSB.lol,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://opendatacommons.org/licenses/odbl/summary/,ODbL-licensed,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://api.adsb.lol/,free API,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.adsbhub.org,ADSBHub.org,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://theairtraffic.com,TheAirTraffic,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.planespotters.net,PlaneSpotters.net,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://plane.watch,Plane.watch,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.live-military-mode-s.eu,www.live-military-mode-s.eu,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://adsb.chaos-consulting.de,adsb.chaos-consulting.de,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://flightaware.com,FlightAware,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.flightradar24.com,FlightRadar24,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.radarbox.com,RadarBox,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.adsbexchange.com/,ADS-B Exchange,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.jetnet.com/,JETNET,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://planefinder.net,PlaneFinder.net,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.avdelphi.com,AvDelphi,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.radarvirtuel.com,RadarVirtuel,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://app.airframes.io/,Airframes.io,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://gcmb.io/adsb/adsb,gcmb.io,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://adsb.im/home,adsb.im,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://airping.app,AirPing,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://adsb.lol/,ADSBlol,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.raspberrypi.org/,Raspberry Pi,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5.html,Orange Pi,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://banana-pi.org/,Banana Pi,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://flightaware.store/collections/radio-dongles,FlightAware ADS-B USB receivers,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.radarbox.com/store,AirNav RadarBox ADS-B USB receivers,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/,RTL-SDR DONGLES,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://flightaware.store/collections/signal-filters,FlightAware Signal filters,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://vinnant.sk/,Vinnant antennas,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://dpdproductions.com/,DPD antennas,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.faa.gov/,FAA,https://github.com/rickstaa/awesome-adsb#readme,ADS-B
+https://www.faa.gov/pilots/ladd/request,Aircraft Tail Number Blocking/Unblocking list,https://github.com/rickstaa/awesome-adsb#readme,ADS-B

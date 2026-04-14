@@ -1,0 +1,18 @@
+https://www.kdab.com/development-resources/qt-tools/gammaray,GammaRay,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.qt.io/newsletters,Qt Newsletters,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://www.qt.io/ide,Qt Creator,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/qt-5/qtdesigner-manual.html,Qt Designer,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://bugreports.qt.io,Qt Bug Tracker,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://codereview.qt-project.org,Qt Code Review,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/qt-5/qtassistant-index.html,Qt Assistant,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://code.qt.io,Source Code,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/archives/vs-addin,Qt Visual Studio Add-in,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://wiki.qt.io/Online_Communities,here,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/qt-5/qtlinguist-index.html,Qt Linguist,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/qtinstallerframework,Qt Installer Framework,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/qbs,qbs,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://forum.qt.io,Qt Forum,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://wiki.qt.io,Qt Wiki,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://webchat.freenode.net/?channels=%23qt%2C%23qt-quick%2C%23qt-creator%2C%23qt-chat,IRC,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/emulator,Emulator,https://github.com/JesseTG/awesome-qt#readme,Qt
+https://doc.qt.io/qt-5/cmake-manual.html,CMake,https://github.com/JesseTG/awesome-qt#readme,Qt

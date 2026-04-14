@@ -1,0 +1,100 @@
+https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol,Simple Network Management Protocol (SNMP),https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/,net-snmp,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.agentpp.com/api/cpp/snmp_pp.html,SNMP++,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.agentpp.com/api/cpp/agent_pp.html,AGENT++,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.agentpp.com/api/cpp/agentx_pp.html,AgentX++,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://sourceforge.net/projects/opensnmp/,openSNMP,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://pro.sharpsnmp.com,SNMP Pro,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.erlang.org/doc/apps/snmp/users_guide.html,Erlang/OTP SNMP,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.agentpp.com/api/java/snmp4j.html,SNMP4J,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.agentpp.com/api/java/snmp4jagent.html,SNMP4J-Agent,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://sourceforge.net/projects/joesnmp/,joeSNMP,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://snmp.westhawk.co.uk/,Westhawk's SNMP,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.php.net/manual/en/book.snmp.php,php.net/SNMP,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/wiki/index.php/Python_Bindings,net-snmp Python bindings,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/encode_keychange.html,encode_keychange,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmptranslate.html,snmptranslate,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmpget.html,snmpget,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmpgetnext.html,snmpgetnext,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmpbulkget.html,snmpbulkget,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmpwalk.html,snmpwalk,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmpbulkwalk.html,snmpbulkwalk,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmpset.html,snmpset,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmptest.html,snmptest,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://net-snmp.sourceforge.io/docs/man/snmptable.html,snmptable,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://net-snmp.sourceforge.io/docs/man/snmpdelta.html,snmpdelta,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmpusm.html,snmpusm,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmpvacm.html,snmpvacm,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://net-snmp.sourceforge.io/docs/man/snmpstatus.html,snmpstatus,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://net-snmp.sourceforge.io/docs/man/snmpnetstat.html,snmpnetstat,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmpdf.html,snmpdf,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmptrap.html,snmptrap,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmptrapd.html,snmptrapd,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://net-snmp.sourceforge.io/docs/man/traptoemail.html,traptoemail,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://net-snmp.sourceforge.io/docs/man/net-snmp-config.html,net-snmp-config,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://net-snmp.sourceforge.io/docs/man/snmpconf.html,snmpconf,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://net-snmp.sourceforge.io/docs/man/fixproc.html,fixproc,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/docs/man/snmpd.html,snmpd,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://net-snmp.sourceforge.io/docs/man/mib2c.html,mib2c,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://net-snmp.sourceforge.io/docs/man/mib2c-update.html,mib2c-update,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.agentpp.com/tools/snmp4jclt.html,SNMP4JCLT,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.ibr.cs.tu-bs.de/projects/libsmi/,libsmi tools,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.ibr.cs.tu-bs.de/projects/libsmi/smilint.html,smilint,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.ibr.cs.tu-bs.de/projects/libsmi/smidump.html,smidump,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.ibr.cs.tu-bs.de/projects/libsmi/smidiff.html,smidiff,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.ibr.cs.tu-bs.de/projects/libsmi/smiquery.html,smiquery,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.ibr.cs.tu-bs.de/projects/libsmi/smistrip.html,smistrip,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://snmplabs.thola.io/snmpclitools/,here,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.snmptt.org/,SNMP Trap Translator,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org,www.net-snmp.org,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.snmptt.org/docs/snmptt.shtml,snmptt,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.snmptt.org/docs/snmpttconvert.shtml,snmpttconvert,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.snmptt.org/docs/temp/snmpttconvertmib.shtml,snmpttconvertmib,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.agentpp.com/tools/mibdesigner.html,agentpp/MIB Designer,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.agentpp.com/tools/mibexplorer.html,agentpp/MIB Explorer Pro,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.sharpsnmp.com/,sharpsnmp/SNMP Pro,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.paessler.com/tools/snmptester,paessler/snmptester,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://ireasoning.com/mibbrowser.shtml,ireasoning/MIB Browser,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://ireasoning.com/snmpsimulator.shtml,ireasoning/SNMP Agent Simulator,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.muonics.com/Tools/smicheck.php,muonics/Online MIB validator,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.unleashnetworks.com/products/unbrowse-snmp.html,Unbrowse SNMP,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.amazon.com/SNMP-MIB-Handbook-Larry-Walsh/dp/0981492207,SNMP MIB Handbook by Larry Walsh,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.amazon.com/Essential-SNMP-System-Network-Administrators-ebook/dp/B0043EWUZ2,Mauro, D. and Schmidt, K., 2005. Essential SNMP: Help for System and Network Administrators. " O'Reilly Media, Inc.".,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.amazon.com/Snmp-Snmpv2-Snmpv3-William-Stallings/dp/0201485346,Snmp, Snmpv2, Snmpv3, and Rmon 1 and 2 by William Stallings,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.amazon.com/Understanding-SNMP-MIBs-David-Perkins/dp/0134377087,Perkins, D. and McGinnis, E., 1997. Understanding SNMP MIBs (p. 528). Englewood Cliffs: Prentice Hall PTR.,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc1098.txt,rfc1098,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc1155.txt,rfc1155,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc2578.txt,rfc2578,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc2741.txt,rfc2741,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc2742.txt,rfc2742,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc3410.txt,rfc3410,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc3411.txt,rfc3411,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc3412.txt,rfc3412,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc3413.txt,rfc3413,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc3414.txt,rfc3414,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc3415.txt,rfc3415,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc3416.txt,rfc3416,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc3417.txt,rfc3417,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.ietf.org/rfc/rfc3418.txt,rfc3418,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc3584.txt,rfc3584,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc3826.txt,rfc3826,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://tools.ietf.org/rfc/rfc4088.txt,rfc4088,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.rfc-editor.org/rfc/rfc5343.txt,rfc5343,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.rfc-editor.org/rfc/rfc5590.txt,rfc5590,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.rfc-editor.org/rfc/rfc5591.txt,rfc5591,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.rfc-editor.org/rfc/rfc5592.txt,rfc5592,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.rfc-editor.org/rfc/rfc7630.txt,rfc7630,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.net-snmp.org/wiki/index.php/Tutorials,net-snmp tutorials,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://ireasoning.com/pubtest.php,snmp.ireasoning.com,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.mibdepot.com,mibdepot.com,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://oid-info.com,oid-info.com,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://blog.michaelfmcnamara.com/mibs/,michaelfmcnamara.com,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.snmplink.org,snmplink.org/OnLineMIB,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.snmplink.org/OnLineMIB/Standards/,OnLineMIB/Standards,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.snmplink.org/OnLineMIB/Cisco/,OnLineMIB/Cisco,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.snmplink.org/OnLineMIB/Juniper/,OnLineMIB/Juniper,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.snmplink.org/OnLineMIB/Extreme/,OnLineMIB/Extreme,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.snmplink.org/OnLineMIB/Brocade/,OnLineMIB/Brocade,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://www.oidview.com/mibs/detail.html,oidview.com/mibs,https://github.com/eozer/awesome-snmp#readme,SNMP
+http://snmplink.org/,SNMPLink.org,https://github.com/eozer/awesome-snmp#readme,SNMP
+https://www.snmptools.net/,SNMPTools.net,https://github.com/eozer/awesome-snmp#readme,SNMP

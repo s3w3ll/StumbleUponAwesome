@@ -1,3 +1,7 @@
-https://api.l3x.in/,https://api.l3x.in/,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html,Purely Functional Cloud Components with AWS CDK,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/cdk-tweet-sentiment,cdk-tweet-sentiment,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/cdk-tweet-queue,cdk-tweet-queue,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://api.l3x.in/,https://api.l3x.in/,https://github.com/kolomied/awesome-cdk#readme,CDK error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit?af=6p5abz,Build an App with AWS Cloud Development Kit course on egghead.io,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html,Create a CI/CD pipeline using CodePipeline and CodeBuild,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html,React SPA with server-side rendering on AWS Lambda,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://kevinslin.com/aws/cdk_all_the_things/,CDK All The Things: A Whirlwind Tour,https://github.com/kolomied/awesome-cdk#readme,CDK error: <HTTPError 404: 'Not Found'> | reason: Not Found

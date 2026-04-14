@@ -1,0 +1,24 @@
+https://code.google.com/archive/p/wow-vending-machine/source,here,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm,AutoHotkey.dll,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://www.dropbox.com/sh/01ucst7jeybn9ed/AABCItk8VKlfVp67T0P_DJFia,F1 Racer,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://pyahk.readthedocs.io/en/latest/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://hotkeyit.github.io/v2/,AutoHotkey_H,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://hotkeyit.github.io/v1/docs/AutoHotkey.htm,Full list of v1 changes,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://thomaslauer.com/comp/Calling_Perl_from_AHK_or_AU3,Embed Perl,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://hotkeyit.github.io/v2/docs/AutoHotkey.htm,Full list of v2 changes,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://ludumdare.com/compo/ludum-dare-24/?action=preview&uid=14126,Out of the Sea,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://fincs.ahk4.net/scite4ahk/,SciTE4AutoHotkey,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB,AutoHotkey build for CE,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://www.macrocreator.com/,Pulover’s Macro Creator,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://thumbscript.com/howitworks.html,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://ahkscript.github.io/ahkbook/projectinfo.html,ahkbook,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://www.hars.us/SW/List.ahk,List manipulation functions,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://code.google.com/archive/p/pahk,PAHK,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://www.quickaccesspopup.com/,link,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://junyx.breadfan.de/Min2Tray/,Min2Tray,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://www.eithermouse.com,EitherMouse,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+http://lintalist.github.io/,Lintalist,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey
+https://bitbucket.org/mfeemster/keysharp/src/master/,Keysharp,https://github.com/ahkscript/awesome-AutoHotkey#readme,AutoHotkey

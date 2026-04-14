@@ -1,0 +1,10 @@
+https://www.ted.com/talks/daniel_levitin_how_to_stay_calm_when_you_know_you_ll_be_stressed,How to Stay Calm When You Know You'll Be Stressed,https://github.com/matteofigus/awesome-speaking#readme,Speaking error: <HTTPError 307: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect
+http://eleganthack.com/block-your-talk/,Block Your Talk,https://github.com/matteofigus/awesome-speaking#readme,Speaking error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.toastmasters.org/Find-a-Club,Toastmasters,https://github.com/matteofigus/awesome-speaking#readme,Speaking error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://eleganthack.com/presenting-is-performance/,Presenting is Performance,https://github.com/matteofigus/awesome-speaking#readme,Speaking error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/,How To Prepare And Write A Tech Conference Talk,https://github.com/matteofigus/awesome-speaking#readme,Speaking error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://helpmeabstract.com/,HelpMeAbstract,https://github.com/matteofigus/awesome-speaking#readme,Speaking error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently

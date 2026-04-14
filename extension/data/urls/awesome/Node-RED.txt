@@ -1,0 +1,44 @@
+https://nodered.org/docs/getting-started/local,Running locally,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.ct.de/smarthome,german computer magazine c't,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023,Home Assistant Community Add-on,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://nodered.org/docs/getting-started/,Getting Started,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://nodered.org/docs/faq/,FAQ,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://nodered.org/docs/tutorials/,Tutorials,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://nodered.org/docs/user-guide/,User Guide,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://beagleboard.org/black,Beaglebone Black,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://blink1.thingm.com/,Blink1,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.blinkstick.com/,BlinkStick,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.piborg.org/ledborg,LEDborg,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+http://www.makeymakey.com/,MakeyMakey,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://pibrella.com/,Pibrella,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.piface.org.uk/,PiFace,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.belkin.com/us/Products/home-automation/c/wemo-home-automation/,WeMo,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://emoncms.org/,Emoncms,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://flows.nodered.org/node/node-red-contrib-image-tools,image-tools,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://flows.nodered.org/node/node-red-contrib-buffer-parser,buffer-parser,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://power-saver.smoky.no/,power-saver,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://dweet.io/,dweetio,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://growl.info/,Growl,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.prowlapp.com/,Prowl,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.pushbullet.com/,PushBullet,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://pushover.net/,Pushover,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.pushstaq.com,PushStaq,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.sms77.io/,sms77,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://flows.nodered.org/node/node-red-contrib-cron-plus,cron-plus,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://flows.nodered.org/node/node-red-contrib-bool-gate,bool-gate,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://flows.nodered.org/collection/590bc13ff3a5f005c7d2189bbb563976,https://flows.nodered.org/collection,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://flows.nodered.org/node/node-red-contrib-ui-svg,ui-svg,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://flows.nodered.org/node/node-red-contrib-ui-contextmenu,ui-contextmenu,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://flows.nodered.org/node/node-red-contrib-flow-manager,flow-manager,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.npmjs.com/package/iglass-nodes,iglass,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://iglass.international,iGlass Automation,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://community.home-assistant.io/c/third-party/node-red/31,HomeAssistant Forum,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://discourse.nodered.org/,Node-RED Forum,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://nodered.org/blog/,Node-RED Blog,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://nodered.jp/,Node-RED User Group Japan,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.reddit.com/r/nodered/,Reddit,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://homematic-forum.de/forum/viewforum.php?f=77,Redmatic Forum,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://nodered.org/about/community/slack,Slack,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://stackoverflow.com/questions/tagged/node-red,Stack Overflow,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://stevesnoderedguide.com/,Steves Node-RED Guide,https://github.com/naimo84/awesome-nodered#readme,Node-RED
+https://www.youtube.com/channel/UCQaB8NXBEPod7Ab8PPCLLAA,YouTube,https://github.com/naimo84/awesome-nodered#readme,Node-RED

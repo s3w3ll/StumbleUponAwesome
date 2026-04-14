@@ -1,1 +1,3 @@
+https://gitter.im/dthree/vorpal,Chat,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor,Raptor,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.npmjs.com/package/cbcluster,cbcluster,https://github.com/vorpaljs/awesome-vorpal#readme,Vorpal error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

@@ -1,13 +1,22 @@
-http://mcmcpack.berkeley.edu/,MCMCpack,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r,vscode-R,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp,vscode-r-lsp,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://rpy.sourceforge.net/,rpy2,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://r-podcast.org/stories/contact.html,@Eric Nantz,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://faculty.marshall.usc.edu/gareth-james/ISL/,Introduction to Statistical Learning with Application in R by Gareth James et al. (2017),https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://jasp-stats.org/,JASP,https://github.com/qinwf/awesome-R#readme,R error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://bitbucket.org/allr/fastr/wiki/Home,fastR,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://imagemagick.org/,ImageMagick,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 http://gexf.net/format/,GEXF,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.walware.de/goto/statet,StatET,https://github.com/qinwf/awesome-R#readme,R error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.rforscience.com/rpackages/visualisation/plot3d/,plot3D,https://github.com/qinwf/awesome-R#readme,R error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming,Learning R Programming,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.rstudio.com/resources/cheatsheets/,RStudio Cheat Sheets,https://github.com/qinwf/awesome-R#readme,R error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://soundcloud.com/nssd-podcast,Not So Standard Deviations,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.rworld.news/blog/,R World News,https://github.com/qinwf/awesome-R#readme,R error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.rstudio.org/,RStudio,https://github.com/qinwf/awesome-R#readme,R error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+http://www.omegahat.org/RSPerl/,RSPerl,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr,TERR,https://github.com/qinwf/awesome-R#readme,R error: TimeoutError('The read operation timed out') | reason: 
+http://www.walware.de/goto/statet,StatET,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/,HarvardX Biomedical Data Science,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/,R Commander,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0,Explore Statistics with R,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.r-project.org/conferences.html,R Project Conferences,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.omegahat.org/RSPerl/,RSPerl,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.rforscience.com/rpackages/visualisation/plot3d/,plot3D,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://bitbucket.org/allr/fastr/wiki/Home,fastR,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.statistik.lmu.de/~leisch/Sweave/,Sweave,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.rworld.news/blog/,R World News,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-http://faculty.marshall.usc.edu/gareth-james/ISL/,Introduction to Statistical Learning with Application in R by Gareth James et al. (2017),https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://rtalk.org,R Talk,https://github.com/qinwf/awesome-R#readme,R error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

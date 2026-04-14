@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/QR_code,https://en.wikipedia.org/wiki/QR_code,https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme,QR Code
+https://fukuchi.org/works/qrencode,qrencode,https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme,QR Code
+https://qrcode.show,qrcode.show,https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme,QR Code

@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=vkIlW797JN8,Idris: General Purpose Programming with Dependent Types,https://github.com/joaomilho/awesome-idris#readme,Idris
+http://groups.google.com/group/idris-lang,Mailing list,https://github.com/joaomilho/awesome-idris#readme,Idris
+https://crufter.com/idris-a-language-that-will-change-the-way-you-think-about-programming,Meet Idris, a language that will change the way you think about programming,https://github.com/joaomilho/awesome-idris#readme,Idris
+http://kevinmahoney.co.uk/articles/tests-vs-types/,Tests vs. Types,https://github.com/joaomilho/awesome-idris#readme,Idris
+https://www.manning.com/books/type-driven-development-with-idris,Type Driven Development With Idris,https://github.com/joaomilho/awesome-idris#readme,Idris
+https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf,Software Foundations,https://github.com/joaomilho/awesome-idris#readme,Idris
+https://leanpub.com/gidti,Gentle Introduction to Dependent Types with Idris,https://github.com/joaomilho/awesome-idris#readme,Idris
+https://pdfs.semanticscholar.org/1407/220ca09070233dca256433430d29e5321dc2.pdf,Idris, a General Purpose Dependently Typed Programming Language: Design and Implementation,https://github.com/joaomilho/awesome-idris#readme,Idris

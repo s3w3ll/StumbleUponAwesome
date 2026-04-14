@@ -1,0 +1,17 @@
+https://seekingalpha.com/groups,Investing Groups by Seeking Alpha,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.barrons.com,Barron's,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 401: 'HTTP Forbidden'> | reason: HTTP Forbidden
+https://www.bloomberg.com,Bloomberg,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.tipranks.com/screener,Tip Ranks Stock Screener,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.msci.com/research-and-insights/market-insights,MSCI - Market Insights,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.marketwatch.com,MarketWatch,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 401: 'HTTP Forbidden'> | reason: HTTP Forbidden
+https://www.wsj.com,The Wall Street Journal,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 401: 'HTTP Forbidden'> | reason: HTTP Forbidden
+https://www.nseindia.com,National Stock Exchange of India (NSE),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.thestreet.com,The Street,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.marketbeat.com,Market Beat,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.szse.cn,Shenzhen Stock Exchange (SZSE),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: URLError(ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) | reason: [WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.zacks.com/stock-screener,Zacks Stock Screener,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://seekingalpha.com/alpha-picks/,Alpha Picks,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.six-group.com,SIX Swiss Exchange,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1018)
+https://www.boerse-frankfurt.de,Frankfurter Wertpapierbörse (Börse Frankfurt),https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.investopedia.com/best-stocks-to-buy-now/,Best Stocks to Buy Now,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://seekingalpha.com,Seeking Alpha,https://github.com/shi-rudo/awesome-stock-trading#readme,Stock Trading error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

@@ -1,0 +1,20 @@
+https://www.reddit.com/r/vlang,r/vlang,https://github.com/vlang/awesome-v#readme,V
+https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A,The V Programming Language,https://github.com/vlang/awesome-v#readme,V
+https://stackoverflow.com/questions/tagged/vlang,Stack Overflow,https://github.com/vlang/awesome-v#readme,V
+https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/,guideline,https://github.com/vlang/awesome-v#readme,V
+https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_,V Programming Tutorials,https://github.com/vlang/awesome-v#readme,V
+https://play.vlang.io,V Playground,https://github.com/vlang/awesome-v#readme,V
+https://interpreterbook.com/,Thorsten Ball's Monkey Language,https://github.com/vlang/awesome-v#readme,V
+https://fast.vlang.io/,Is V still fast?,https://github.com/vlang/awesome-v#readme,V
+https://v-wasm.now.sh/,V Playground (old),https://github.com/vlang/awesome-v#readme,V
+https://www.raylib.com,raylib,https://github.com/vlang/awesome-v#readme,V
+https://zeromq.org/,ZMQ,https://github.com/vlang/awesome-v#readme,V
+https://rosettacode.org/wiki/Category:V_(Vlang),Rosetta Code in V,https://github.com/vlang/awesome-v#readme,V
+https://kate-editor.org/,Kate,https://github.com/vlang/awesome-v#readme,V
+https://sigrok.org/wiki/Libserialport,libserialport,https://github.com/vlang/awesome-v#readme,V
+https://api.exchangeratesapi.io,https://api.exchangeratesapi.io,https://github.com/vlang/awesome-v#readme,V
+https://www.scintilla.org/SciTE.html,SciTE,https://github.com/vlang/awesome-v#readme,V
+https://v-community.gitbook.io/v-by-example/,GitBook,https://github.com/vlang/awesome-v#readme,V
+https://vite.dev,Vite.js,https://github.com/vlang/awesome-v#readme,V
+https://simonknott.de/articles/VLang.html,An introduction to V,https://github.com/vlang/awesome-v#readme,V
+https://www.amazon.com/Getting-Started-Programming-end-end-ebook/dp/B09FKK3JL7/ref=sr_1_1?keywords=Getting+started+with+V+programming&qid=1639480830&sr=8-1,Getting Started with V Programming - Navule Pavan Kumar Rao - Packt 2021 Dec,https://github.com/vlang/awesome-v#readme,V

@@ -1,0 +1,11 @@
+http://its.acfr.usyd.edu.au/datasets/usyd-campus-dataset/,USyd Dataset- The Univerisity of Sydney Campus- Dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.lslidar.com/,LSLIDAR,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.ibeo-as.com/,Ibeo,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.youtube.com/c/IbeoAutomotive/,YouTube channel,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf,Paper,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://autonomousdriving.pioneer/en/3d-lidar/,Pioneer,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://quanergy.com/,Quanenergy,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: <HTTPError 307: 'Temporary Redirect'> | reason: Temporary Redirect
+https://level5.lyft.com/dataset/,Lyft,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://scale.com/open-datasets/pandaset,PandaSet Open Dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://developer.volvocars.com/open-datasets/cirrus/,Cirrus dataset,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.robosense.ai/,Robosense,https://github.com/szenergy/awesome-lidar#readme,LIDAR error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed

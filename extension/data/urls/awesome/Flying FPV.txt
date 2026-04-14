@@ -1,0 +1,142 @@
+https://en.wikipedia.org/wiki/Airmanship,good airmanship,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.stopkillerrobots.org,stopkillerrobots.org,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=ZCOlT_sz6Gs,My Raspberry Pi drone: the story so far by Matchstic,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.printables.com/model/1081158-18650-micro-foldable-fpv-drone/,18650 Micro Foldable,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.printables.com/de/model/396395-goblin-fpv-drone,Goblin v3,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:4769576,NanoLongRange,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:5428365,Discovery Edition,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:4818009,NanoLongRange 2,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:5428923,NLR35,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://hackaday.com/2023/09/01/hefty-3d-printed-quadcopter-meets-nasty-end/,hefty,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:4502805,Ultimate 3D printable Cinewhoop,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://blog.prusaprinters.org/how-to-build-a-3d-printed-micro-drone_29310/,TinyTina,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:4089842,Heavy Lift Quadcopter Frame,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://thecognifly.github.io,The CogniFly,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.team-blacksheep.com/products/prod:source_two_5in,TBS Source Two,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.team-blacksheep.com/products/prod:source_v,TBS Source V,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:4868250,AESIR II,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:2004357,Foldable Drone Frame,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:793425,OpenRC Quadcopter,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:511668,Hovership MHQ2,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:234867,Crossfire 2,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:160607,Spyda 500,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://craycle.com/,Craycle Hobby,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.eclipson-airplanes.com/,Eclipson airplanes,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://3dlabprint.com/product-category/printable-airplanes/,3D lab print,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.planeprint.com/,Plane Print,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://owlplane.com/,OWLplane,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://rc-jetprint.de/en/,rc-jetprint.de,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://titandynamics.aero/free/p/tornado-v2,Titandynamics Tornado v2,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=HT0NLQdX7Ak,Merlin V2,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.printables.com/de/model/422806-hawk-modular-rc-wing-airplane,HAWk Modular RC Wing Airplane v1,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=sTjXVeo_lpQ,V-Tail Aircraft for Long Range FPV & Autonomous Missions - by AeroStuff FPV,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://forum.flitetest.com/index.php?threads/large-modular-uav-design.69987/,Highly Modular Design -1 (HMD1),https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://craycle.com/product/ranger-v2-800-mm-3ch-trainer-stl-file/,Ranger V2,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=ZA8fGOzJB10,Berkik 3 wing,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.printables.com/de/model/76098-lukisegler-electric-rc-glider,LukiSegler,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:4547317,SakhWing,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=PcScS4Cj_Iw&list=PLEH_vTrFddgP8bRQFMK_z8rwmRth60Fen,GemINIce,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?app=desktop&v=X6hJCQNxVzs,Joywing,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:4011218,Eclipson Model V,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:2752892,Eclipson Model Y,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:3040294,Northern Pike,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:3023606,Moose,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:2187747,Supernove,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:2044074,RC Flying Wing,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:3605665,GASB Three,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:1831295,GASB Two,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:1659724,GASB One,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:453090,Red swan,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://rotorbuilds.com/build/35240,Vorian tilt-rotor quad,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://jgkang1210.github.io/fsdrone,Squirrel design,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=gPEeCjVrTBw,VTOL in 5 revisions,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.printables.com/de/model/261434-vase-mode-wing,wing profile,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://hackaday.com/2018/08/27/the-best-new-quad-is-a-bicopter/,bicopter kit,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://oscarliang.com/li-ion-battery-long-range/,Using Li-Ion Battery Pack for Long Range FPV Flying,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://blog.seidel-philipp.de/diy-build-a-longrange-lithium-ion-battery/,build a „LongRange“ Lithium Ion Battery,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://nuxnik.com/diy-fpv-goggle-battery-pack/,DIY FPV Goggle Battery Pack,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.printables.com/de/model/1181-18650-improved-spacerholder,18650 spaceholder,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://hackaday.com/2022/08/06/solar-plane-might-be-able-to-last-through-the-night/,Solar Dragon - Solar Plane Might Be Able To Last Through The Night,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=1OGrDvInUAY,rctestflight series,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://hackaday.com/2022/09/27/24-hours-of-le-airplanes/,might last 24hrs,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org,Ardupilot,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=TJCeLOiP7lU,Risc V Powering a 3D Printed Drone,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://inavfixedwinggroup.com/guides/transmitter-models/transmitter-sound-pack/,transmitter-sound-pack,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+http://www.er9x.com,ER9X,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://fishpepper.de/projects/opensky/,OpenSky,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://deviationtx.com/,DeviationTX,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://openhd.gitbook.io/open-hd/general/openhd-vs-alternatives,Compare different open digital links,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://rubyfpv.com,RubyFPV,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://dronebridge.gitbook.io/docs/comparison,Comparison,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://openhd.gitbook.io/open-hd/hardware/cameras,OpenHD on thermal cameras,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:110731,Open Brushless Gimbal,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://gnss-sdr.org,GNSS SDR,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.rtklib.com,rtklib,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=HNR1mqUDpoE,3D Printed Drone Build - How to Wire OpenHD and Ultrasonic Abstacle Avoidance,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org/copter/docs/common-optional-hardware.html,Ardupilot - Optional hardware,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://hackaday.io/project/160893-diy-homemade-fpv-monitor,DIY Homemade FPV Monitor,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:2568906,open360tracker v2,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.thingiverse.com/thing:547358,Ghettostation Antenna Tracker,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=aH0cW9XJ4D4,DIY Helical Antenna For Long Range FPV,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=JGm9ESx4yzE,Cloverleaf Antenna - Build Instructions,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://opencyphal.org,Cyphal,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+http://www.dashware.net/dashware-download/,Dashware,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org/copter/docs/common-choosing-a-ground-station.html,Ardupilot.org - Choosing GCS,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org/planner2/,APM Planner 2.0,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org/planner/index.html,MissionPlanner,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org/mavproxy/,MAVProxy,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org/dev/docs/companion-computers.html,Arudpilot.org - Companion Computers,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org/dev/docs/apsync-intro.html,APsync,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.docs.rpanion.com/software/rpanion-server,RPanion,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://uav-guidelines.openaerialmap.org/,UAV Mapping Guidelines,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.opendronemap.org/,OpenDroneMap,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.openmms.org/,OpenMMS,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://hackaday.com/2021/11/03/autonomous-drone-dodges-obstacles-without-gps/,Autonomous Drone Dodges Obstacles Without GPS,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.peanutbuttertunaspoon.org,Sonora Medical Delivery Planes,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=L_O45iEar4M,Guiness World record fastest drone build,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=oG2GaSMlfdo,AOSHS5 build,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=1lfVKcKQ5BI,Guiness World record endurance drone build,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.instructables.com/Make-a-Tiny-Arduino-Drone-With-FPV-Camera/,Arduino FPV Mini Drone,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.hs-augsburg.de/searchwing/de/willkommen/,SearchWing,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://dronecoria.org,Dronecoria,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://agilicious.dev,Agilicious,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.bitcraze.io/documentation/system/platform/,Crazyflie,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://hackaday.io/project/188578-esp32-drone,ESP32 Drone,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://open-diy-projects.com/wifree-copter/,Wifree-copter,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://fpv-freerider.itch.io/fpv-freerider-recharged,Freerider Recarged,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/,Liftoff,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://thedroneracingleague.com/drlsim/,DRL Sim,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.velocidrone.com/,Velocidrone,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://sourceforge.net/projects/crrcsim/,crrcsim,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://wiki.paparazziuav.org/wiki/FlightGear,from PaparazziUAV,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org/dev/docs/simulation-2.html,by Arduplane,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://docs.px4.io/master/en/ros/ros2_comm.html,by PX4,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.mrd-rc.com/tutorials-tools-and-testing/flight-controller-therapy/inav-pre-maiden-checklist-a-helpful-reminder-and-saver-of-foam/,iNav Pre-maiden Checklist,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org/copter/docs/checklist.html,Ardupilot Copter Checklist,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://ardupilot.org/copter/docs/common-ads-b-receiver.html,Ardupilot ADS-B receiver,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://globe.adsbexchange.com/,adsb-exchange.com,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://formationflight.org/getting-started/,FormationFlight,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.glidernet.org,Glidernet,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://opensky-network.org,Opensky Network,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.mdpi.com/1424-8220/23/17/7650,Drone Detection and Tracking Using RF Identification Signals,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.dji.com/de/opensource,open source components,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://media.ccc.de/v/camp2023-57321-debugging_microcontrollers,Debugging Microcontrollers,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?app=desktop&v=rl8ACNnjPFA,5.8GHz video demodulation,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.researchgate.net/publication/339824302_Effective_GPS_Jamming_Techniques_for_UAVs_Using_Low-Cost_SDR_Platforms,GPS jamming,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://rnl.ae.utexas.edu/images/stories/files/papers/unmannedCapture.pdf,GPS spoofing,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.youtube.com/watch?v=cSuV9xzcgXY&feature=youtu.be,Accoustic drone tracking,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.speedybee.com/speedy-bee-app/,SpeedyBee,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://play.google.com/store/apps/details?id=com.runcam.android.runcambf,Android,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://apps.apple.com/us/app/speedybee-app/id1150315028,iOS,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://play.google.com/store/apps/details?id=org.blheli.BLHeli_32,BLHeli_32,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://play.google.com/store/apps/details?id=florian.felix.flesch.fpvvideochannelsorter,FPV Video Channelsorter 5.8GHz,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.uavforecast.com,UAV Forecast,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://play.google.com/store/apps/details?id=com.uavforecast,Android,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://apps.apple.com/us/app/uav-forecast/id1050023752,iOS,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://play.google.com/store/apps/details?id=com.vertile.fpv3d,Go FPV,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://oscarliang.com/smoke-stopper/,smoke stopper,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.lba.de/DE/Drohnen/Drohnen_node.html,Luftfahrt Bundesamt,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.dfs.de/homepage/de/drohnenflug/,Deutsche Flugsicherung GmbH,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.dipul.de/homepage/de/,Digitale Plattform Unbemannte Luftfahrt,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://play.google.com/store/apps/details?id=de.droniq.droniqapp&hl=de&gl=US,Droniq App,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV
+https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Grundlagen/Frequenzplan/frequenzplan-node.html,Bundesnetzagentur,https://github.com/Matthias84/awesome-flying-fpv#readme,Flying FPV

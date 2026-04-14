@@ -1,5 +1,13 @@
-https://fsharp.github.io/FSharp.Data/,F# Data,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.n-fluent.net,NFluent,https://github.com/quozd/awesome-dotnet#readme,.NET error: timeout('timed out') | reason: 
-https://xbehave.github.io,https://xbehave.github.io,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.bettercms.com,BetterCMS,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Site Disabled'> | reason: Site Disabled
-http://www.emgu.com/wiki/index.php/Main_Page,Emgu CV,https://github.com/quozd/awesome-dotnet#readme,.NET error: URLError('no host given') | reason: no host given
+http://mwinapi.sourceforge.net/,Managed Windows API,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerTools,Productivity Power Tools,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://swharden.com/scottplot/,ScottPlot,https://github.com/quozd/awesome-dotnet#readme,.NET error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge,,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput,VSColorOutput,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://dotnet.microsoft.com/apps/aspnet,ASP.NET [Core],https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://dotnet.microsoft.com/apps/aspnet/apis,ASP.NET Web API,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://objectlistview.sourceforge.net/cs/index.html,ObjectListView,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/dockpanelsuite/,DockPanelSuite,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.topaz.sh/docs/software-development-kits/dotnet/install,Topaz,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://dev.mysql.com/downloads/connector/net/,MySQL Connector,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/firebird/,Firebird.NET,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://cloudsmith.com/nuget-feed/,Cloudsmith,https://github.com/quozd/awesome-dotnet#readme,.NET error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests

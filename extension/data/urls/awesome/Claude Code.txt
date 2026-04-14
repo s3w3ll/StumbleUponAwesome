@@ -1,0 +1,14 @@
+https://docs.anthropic.com/en/docs/claude-code,Claude Code,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://youtu.be/0ANECpNdt-4,AI Agent, AI Spy,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://signalfoundation.org/,Whittaker & Tiwari,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://nikiforovall.blog/claude-code-rules/,Claude Code Handbook,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://www.linkedin.com/in/florian-bruniaux-43408b83/,Florian BRUNIAUX,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://www.maxritter.net,Max Ritter,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://tony.sh,Tony Narlock,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://diwank.space/field-notes-from-shipping-real-code-with-claude,Shipping Real Code w/ Claude,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat,Claude Code Chat,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://peoplesgrocers.com/en/projects,GrocerPublishAgent,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://www.linkedin.com/in/seongil-park/,Ethan Park,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://docs.claude.com/en/home,Anthropic Documentation,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://starchart.cc/hesreallyhim/awesome-claude-code,,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code
+https://creativecommons.org/licenses/by-nc-nd/4.0/,Creative Commons CC BY-NC-ND 4.0,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code

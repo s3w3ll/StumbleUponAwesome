@@ -1,0 +1,29 @@
+https://cloud.google.com/free-trial/,free trial,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/,"Google Cloud - Jumpstart, Tutorials & Community!" by David das Neves,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/products/compute/,Google Compute Engine,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/nodejs/resources/frameworks/parse-server,Running Parse server on Google App Engine,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://grpc.io,gRPC,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/marketplace,Google Cloud Marketplace,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/kubernetes-engine,Google Kubernetes Engine,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/anthos/service-mesh,Anthos Service Mesh (ASM),https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/anthos/config-management,Anthos Config Management (ACM),https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/products/operations,Cloud Operations,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/sql/docs,Cloud SQL,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/build,Cloud Build,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/deploy,Cloud Deploy,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://forsetisecurity.org/,Forseti,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/products/ai/,Google Cloud AI,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/products/storage/,Google Cloud Storage,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+http://www.js-data.io,JSData,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/products/big-data/,Google Cloud Big Data,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/solutions/opentsdb-cloud-platform,deploy it on GKE,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/solutions/running-janusgraph-with-bigtable,deploy it on GKE,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/tpu/docs/tutorials/bigtable-resnet,Train ResNet-50 model with TensorFlow + Cloud Bigtable,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+http://zeppelin.apache.org/,Apache Zeppelin,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+http://python-rq.org/,rq,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/compute/docs/tutorials,Google Cloud Training Docs,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://cloud.google.com/community/tutorials/,Google Cloud Community Documentation,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://google.qwiklabs.com,Qwiklabs,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://codelabs.developers.google.com/cloud,Google Cloud Codelabs,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://labs.play-with-k8s.com,Play with Kubernetes,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud
+https://www.coursera.org/googlecloud,Google Cloud Coursera Courses,https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme,Google Cloud

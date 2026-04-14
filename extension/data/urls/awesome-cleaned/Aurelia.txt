@@ -1,0 +1,50 @@
+http://www.reddit.com/r/aureliajs/,/r/Aureliajs Subreddit,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://leanpub.com/aurelia-for-real-world-applications,Aurelia for Real World Applications,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://plus.google.com/communities/103785338632993439883,Aurelia on Google+,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://blog.opinionatedapps.com/,Personal blog on Aurelia dev / Developer Paul van Bladel,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://www.pluralsight.com/courses/aurelia-fundamentals,Brian Noyes | Aurelia Fundamentals on Pluralsight.com,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://www.typescriptlang.org/,TypeScript,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://leanpub.com/mastering-aurelia-store,Mastering Aurelia Store,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://aureliaonfire.azurewebsites.net,A Firebase plugin for Aurelia,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://www.youtube.com/watch?v=fi33aDFKvxE,Discover Aurelia with CEO Rob Eisenberg,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://www.manning.com/books/aurelia-in-action,Aurelia in Action,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://www.typescriptlang.org/Playground,REPL,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://formio.github.io/aurelia-formio/,See Example,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://vimeo.com/153090562,Rob Eisenberg | Aurelia: Next Generation Web Apps | NDC {London},https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://medium.com/@eriklieben,Medium posts by Aurelia Core team member Erik Lieben,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://aurelia.io,Official Site,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://michaelbull.github.io/aurelia-swipeout/,Demo,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://davismj.me/,Personal blog of Aurelia developer Matthew James Davis,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://michaelbull.github.io/aurelia-split-pane/,Demo,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://www.youtube.com/watch?v=KOCiYJAWXeQ,Ashley Grant on Custom Components in Aurelia | Dev Chat,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://manuelguilbault.com/,Personal blog of Canadian developer Manuel Guilbault,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://www.cheatography.com/erikch/cheat-sheets/aurelia-getting-started/,Aurelia Getting Started Cheat Sheet by ErikCH,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://ghiscoding.github.io/Aurelia-Bootstrap-Plugins/,Demo,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://jdanyow.github.io/aurelia-converters-sample/,Aurelia Value Converters,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://ghiscoding.github.io/aurelia-slickgrid/,Demo,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://blog.aurelia.io/,Official Blog,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://www.youtube.com/watch?v=NyxGZYgOCuo,Jeremy Danyow on Binding | Readthesource 12,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://definitelytyped.org/tsd,TSD,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://vimeo.com/152733803,Jakub Jedryszek | Aurelia * The next generation JavaScript framework you will love | SeattleCodeCamp,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://highlightjs.org/,highlight.js,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://fontawesome.com/,Font Awesome,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://www.jeremyg.net/,Personal blog of Canadian developer Jeremy Gonzalez,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://benib.github.io/aurelia-leaflet/,A Leaflet CustomElement for Aurelia,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://patrickwalters.net/,Personal blog on Aurelia dev / Developer Patrick Walters aka 'PWKAD',https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://discourse.aurelia.io/,Aurelia Forum,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://www.apress.com/gp/book/9781484234013,Practical App Development with Aurelia,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://kabaehr.de/,Personal blog of German developer Katharina Bähr,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://leanpub.com/beginning-of-aurelia,Beginning Aurelia,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://www.gitbook.com/book/kristianmandrup/aurelia-app-amazement/details,Aurelia App Amazement,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://blog.ashleygrant.com/,Personal blog on Aurelia dev / Developer Ashley Grant,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://www.jujens.eu/posts/en/2016/Mar/15/ionic2-aurelia-f7/,Aurelia & Framework7 vs. Angular2 & Ionic2,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://chrome.google.com/webstore/detail/aurelia-inspector/ofemgdknaajmpeoblfdjkenbpcfbdefg,Chrome Extension,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://www.tutorialspoint.com/aurelia/index.htm,Aurelia Tutorial | TutorialsPoint,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://medium.com/@sergiy.stotskiy/casl-based-authorization-in-aurelia-app-3e44c0fe1703,Authorization in Aurelia using CASL,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+https://atom.io/packages/atom-aurelia-snippets,atom-aurelia-snippets,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://www.programwitherik.com/the-history-behind-aurelia-with-rob-eisenberg/,Program With Erik Podcast: The History Behind Aurelia with Rob Eisenberg,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://stackoverflow.com/questions/tagged/aurelia,Aurelia StackOverflow,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://drdwilcox.blogspot.com/,Personal blog on Aurelia dev / Developer Don Wilcox aka 'drdwilcox',https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://sean-hunter.io/,Personal blog on Aurelia dev / Developer Sean Hunter,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://herdingcode.com/herding-code-203-rob-eisenberg-on-aurelia/,Herding Code 203: Rob Eisenberg on Aurelia,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia
+http://thewebplatform.libsyn.com/38-aureliaio,The Web Platform Podcast : 38: Aurelia.io,https://github.com/aurelia-contrib/awesome-aurelia#readme,Aurelia

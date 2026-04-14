@@ -1,0 +1,9 @@
+https://sindresorhus.com/supercharge,Supercharge,https://github.com/sindresorhus/awesome#readme,Awesome
+https://ref.wisprflow.ai/VjA6dYR,Wispr Flow,https://github.com/sindresorhus/awesome#readme,Awesome
+https://depot.dev?utm_source=github&utm_medium=sindresorhus,Fast remote container builds and GitHub Actions runners.,https://github.com/sindresorhus/awesome#readme,Awesome
+https://circleback.ai?utm_source=sindresorhus&utm_medium=sponsorship&utm_campaign=awesome-list&utm_id=awesome,Get the most out of every conversation.
+			
+				AI-powered meeting notes, automations, and search. Give AI agents the context they need to get things done.,https://github.com/sindresorhus/awesome#readme,Awesome
+https://sindresorhus.com/apps,apps,https://github.com/sindresorhus/awesome#readme,Awesome
+https://awesomelists.top,Awesome Search,https://github.com/sindresorhus/awesome#readme,Awesome
+https://www.trackawesomelist.com,Track Awesome List,https://github.com/sindresorhus/awesome#readme,Awesome

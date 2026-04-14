@@ -1,9 +1,28 @@
-http://thebloomapp.com,Ormr,https://github.com/ellisonleao/magictools#readme,Game Development error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
-http://mxa.codeplex.com/,XNA,https://github.com/ellisonleao/magictools#readme,Game Development error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://duality.adamslair.net/,Duality,https://github.com/ellisonleao/magictools#readme,Game Development error: RemoteDisconnected('Remote end closed connection without response') | reason: 
-http://www.humanbalance.net/gale/us/,GraphicsGale,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.kiwijs.org/,KiwiJS,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Bad Behavior'> | reason: Bad Behavior
-https://poly.pizza,Poly Pizza,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 503: 'Service Temporarily Unavailable'> | reason: Service Temporarily Unavailable
-http://loomsdk.com/,Loom SDK,https://github.com/ellisonleao/magictools#readme,Game Development error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://sourceforge.net/projects/fracplanet/,Fracplanet,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.autodesk.com/products/maya/overview,Maya,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://musopen.org/,Musopen,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.autodesk.com/products/3ds-max/overview,3ds Max,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.bezel.it/hq,Besel,https://github.com/ellisonleao/magictools#readme,Game Development error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.resemble.ai/unity,Resemble,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://phaser.io/,Phaser,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.chartboost.com/,ChartBoost,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://vungle.com/,Vungle,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://rpgboss.com,Rpgboss,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://inkscape.org/en/,Inkscape,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 http://p1.untergrund.net,project one,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://www.textureking.com/,TextureKing,https://github.com/ellisonleao/magictools#readme,Game Development error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.textureking.com'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.textureking.com'. (_ssl.c:1123)
+https://korge.soywiz.com,KogGE,https://github.com/ellisonleao/magictools#readme,Game Development error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://voxeljs.com/,voxel.js,https://github.com/ellisonleao/magictools#readme,Game Development error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)
+http://legacy.3drealms.com/duke3d/,Duke Nukem 3D: Atomic Edition,https://github.com/ellisonleao/magictools#readme,Game Development error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.realtimerendering.com/,Real-Time Rendering,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://widderune.wixsite.com/widderune/wolf-rpg-editor-english,Wolf RPG Editor English,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://azul3d.org/,Azul3D,https://github.com/ellisonleao/magictools#readme,Game Development error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://superlevel.de/,Superlevel,https://github.com/ellisonleao/magictools#readme,Game Development error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'superlevel.de'. (_ssl.c:1018)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'superlevel.de'. (_ssl.c:1018)
+http://www.tigsource.com/,TIGSource,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.whatgamesare.com/featured-posts.html,WhatGamesAre,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.ogre3d.org/,Ogre3D,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.scirra.com/,Construct,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.html5gamedevelopment.com/,Html5 Game Development,https://github.com/ellisonleao/magictools#readme,Game Development error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://www.maxon.net/en/zbrushcoremini,ZBRUSHCOREMINI,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://irrlicht.sourceforge.net/,Irrlicht,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://codeberg.org/drummyfish/tinyphysicsengine/,Tiny Physics Engine,https://github.com/ellisonleao/magictools#readme,Game Development error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://kvazars.com/littera,Littera,https://github.com/ellisonleao/magictools#readme,Game Development error: TimeoutError('timed out') | reason: 

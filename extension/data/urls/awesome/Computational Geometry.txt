@@ -1,0 +1,55 @@
+https://en.wikipedia.org/wiki/Computational_geometry,Computational geometry,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://visualgo.net/en/convexhull?slide=1,Convex Hull,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://erencan-02.github.io/ConvexHullVisualizer/index.html,Convex Hull Algorithms,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://rkaneriya.github.io/point-location/,Kirkpatrick's Point location,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://alexbeutel.com/webgl/voronoi.html,Voronoi Diagrams,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.desmos.com/calculator/ejatebvup4,Fortune's Algorithm,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://web.archive.org/web/20250209182314/https://opendsa-server.cs.vt.edu/ODSA/AV/Development/kd-treeAV.html?selfLoggingEnabled=false&localMode=false&module=KDtree&JXOP-debug=true&JOP-lang=en&JXOP-code=java&scoringServerEnabled=false&threshold=1.0&points=0&required=False,k-d tree,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.youtube.com/watch?v=SBFwgR4K1Gk,Configuration Space,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://jes24.github.io/CGViz/,CGViz: Computational Geometry Interactive Visualizations,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736,Computational Geometry: Algorithms and Applications,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.amazon.com/Computational-Geometry-Cambridge-Theoretical-Paperback/dp/0521649765,Computational Geometry in C,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.amazon.com/Computational-Geometry-Introduction-Monographs-Computer/dp/0387961313,Computational Geometry: An Introduction,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.amazon.com/Algorithmic-Geometry-Jean-Daniel-Boissonnat/dp/0521565294,Algorithmic Geometry,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.amazon.com/Discrete-Computational-Geometry-Satyan-Devadoss/dp/0691145539,Discrete and Computational Geometry,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www.clearviewtraining.com/interactive-computational.html,Interactive Computational Geometry - A taxonomic approach,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www.cs.umd.edu/~mount/754/Lects/754lects.pdf,Lecture Notes,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.csun.edu/~ctoth/Handbook/HDCG3.html,Handbook of Discrete and Computational Geometry,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.amazon.com/Handbook-Computational-Geometry-J-Sack-ebook/dp/B00QM3S1SC,Handbook of Computational Geometry,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.amazon.com/Computing-Euclidean-Geometry-Lecture-Notes/dp/9810218761,Computing in Euclidean Geometry,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.cgal.org/,CGAL,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www.wykobi.com/index.html,Wykobi,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://jeffe.cs.illinois.edu/compgeom/software.html,Computational Geometry Software Libraries,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www3.cs.stonybrook.edu/~algorith/major_section/1.6.shtml,The Stony Brook Algorithm Repository,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693,The Algorithm Design Manual,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.geometrictools.com/index.html,Geometric Tools,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www.geolib.co.uk/,GeoLib,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www.computational-geometry.org/,Symposium on Computational Geometry,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www.cccg.ca/,The Canadian Conference on Computational Geometry,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www.alg.cei.uec.ac.jp/itohiro/JCDCGG/,Japan Conference on Discrete and Computational Geometry, Graphs, and Games,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.siam.org/conferences/cm/conference/soda22,Symposium on Discrete Algorithms,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://acm-stoc.org/,Annual ACM Symposium on Theory of Computing,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://ieee-focs.org/,IEEE Symposium on Foundations of Computer Science,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://allerton.csl.illinois.edu/,Annual Allerton Conference on Communications, Control and Computing,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://arxiv.org/list/cs.CG/recent,arXiv,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.journals.elsevier.com/computational-geometry,Elsevier,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://jocg.org/index.php/jocg,Journal of Computational Geometry,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.hackerearth.com/practice/notes/computational-geometry-i-1/,HackerEarth,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/,TopCoder,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.hackerrank.com/domains/mathematics/geometry,HackerRank,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.geeksforgeeks.org/geometric-algorithms/,GeeksforGeeks,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://ocw.mit.edu/courses/mechanical-engineering/2-158j-computational-geometry-spring-2003/,MIT OCW,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.udemy.com/course/mastering-computational-geometry-cpp/,Udemy,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.edx.org/course/computational-geometry,edX,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://brilliant.org/practice/computational-geometry-intro/,Brilliant,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://cs.brown.edu/courses/cs252/,Brown University,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www.cs.wustl.edu/~taoju/cse546/,Washington University in St. Louis,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www.cs.umd.edu/~mount/754/,The University of Maryland,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://sites.cs.ucsb.edu/~suri/cs235/235.html,UC Santa Barbara,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://jeffe.cs.illinois.edu/teaching/compgeom/,UIUC,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://people.eecs.berkeley.edu/~jrs/274/,UC Berkeley,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+http://www.cs.tufts.edu/comp/163/,Tufts,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://i11www.iti.kit.edu/teaching/sommer2018/compgeom/index,KIT,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://topp.openproblem.net/,The Open Problems Project,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://reference.wolfram.com/language/guide/GeometricComputation.html,Wolfram,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry
+https://www.mathworks.com/help/matlab/computational-geometry.html,Matlab,https://github.com/atkirtland/awesome-computational-geometry#readme,Computational Geometry

@@ -1,0 +1,11 @@
+https://vapor.codes,,https://github.com/vapor-community/awesome-vapor#readme,Vapor
+https://store.raywenderlich.com/products/server-side-swift-with-vapor,Server Side Swift with Vapor,https://github.com/vapor-community/awesome-vapor#readme,Vapor
+https://www.hackingwithswift.com/store/server-side-swift,Server-Side Swift (Vapor Edition),https://github.com/vapor-community/awesome-vapor#readme,Vapor
+https://www.raywenderlich.com/4493-server-side-swift-with-vapor/lessons/1,Server Side Swift with Vapor,https://github.com/vapor-community/awesome-vapor#readme,Vapor
+https://www.youtube.com/channel/UCoLEXFUHIKXunm9QJjsAftw/videos,Vapor - Beginner to Advanced,https://github.com/vapor-community/awesome-vapor#readme,Vapor
+https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/,Deep Dive into Setup and Deployment for Heroku and Ubuntu,https://github.com/vapor-community/awesome-vapor#readme,Vapor
+https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/,How to test controllers by mocking dependencies in Vapor 3 and Swift,https://github.com/vapor-community/awesome-vapor#readme,Vapor
+https://www.skelpo.com/blog/vapor2-to-vapor3/,Transforming from Vapor 2 to Vapor 3,https://github.com/vapor-community/awesome-vapor#readme,Vapor
+https://medium.com/@martinlasek,Tutorials for Beginner to Advanced,https://github.com/vapor-community/awesome-vapor#readme,Vapor
+https://mikemikina.com/blog/using-the-dependency-injection-framework-for-testing-in-vapor-3-and-swift/,Using the dependency injection framework for testing in Vapor 3 and Swift,https://github.com/vapor-community/awesome-vapor#readme,Vapor
+https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/,Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux,https://github.com/vapor-community/awesome-vapor#readme,Vapor

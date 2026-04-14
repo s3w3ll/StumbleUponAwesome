@@ -1,0 +1,3 @@
+https://www.mylogocloud.com/splunk,Splunk Store,https://github.com/sduff/awesome-splunk#readme,Splunk error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://splunkbase.splunk.com/app/3514/,Halo,https://github.com/sduff/awesome-splunk#readme,Splunk error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://splunk-sizing.appspot.com/,Storage,https://github.com/sduff/awesome-splunk#readme,Splunk error: <HTTPError 404: 'Not Found'> | reason: Not Found

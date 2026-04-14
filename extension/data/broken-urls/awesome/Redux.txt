@@ -1,1 +1,5 @@
-https://facebook.github.io/react/docs/advanced-performance.html,guide on performance,https://github.com/brillout/awesome-redux#readme,Redux error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://slack.redux.io/,Slack,https://github.com/brillout/awesome-redux#readme,Redux error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://gitter.im/reactjs/redux,Gitter,https://github.com/brillout/awesome-redux#readme,Redux error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://devarchy.com/redux,devarchy.com/redux,https://github.com/brillout/awesome-redux#readme,Redux error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://facebook.github.io/react/docs/advanced-performance.html,guide on performance,https://github.com/brillout/awesome-redux#readme,Redux error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html,this article,https://github.com/brillout/awesome-redux#readme,Redux error: <HTTPError 404: 'Not Found'> | reason: Not Found

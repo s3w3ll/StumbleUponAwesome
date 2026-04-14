@@ -1,0 +1,3 @@
+https://marketplace.visualstudio.com/items?itemName=quantum.DevKit,Visual Studio,https://github.com/ebraminio/awesome-qsharp#readme,Q# error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode,Visual Studio Code,https://github.com/ebraminio/awesome-qsharp#readme,Q# error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/,The Hitchhiker's Guide to the Quantum Computing and Q#,https://github.com/ebraminio/awesome-qsharp#readme,Q# error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

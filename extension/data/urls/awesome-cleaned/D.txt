@@ -1,0 +1,77 @@
+https://www.reddit.com/r/d_language/,/r/d_language on Reddit,https://github.com/dlang-community/awesome-d#readme,D
+https://gecko0307.github.io/dagon/,https://gecko0307.github.io/dagon/,https://github.com/dlang-community/awesome-d#readme,D
+https://kapendev.itch.io/worms-within,Worms Within,https://github.com/dlang-community/awesome-d#readme,D
+https://packages.pulsar-edit.dev/packages/ide-d,ide-d,https://github.com/dlang-community/awesome-d#readme,D
+https://dpldocs.info/this-week-in-d/Blog.html,This week in D,https://github.com/dlang-community/awesome-d#readme,D
+https://kapendev.itch.io/clean-haunted,Clean & Haunted,https://github.com/dlang-community/awesome-d#readme,D
+https://rosettacode.org/wiki/Category:D,D on Rosetta Code,https://github.com/dlang-community/awesome-d#readme,D
+http://www.infognition.com/VideoEnhancer/,Video Enchanser,https://github.com/dlang-community/awesome-d#readme,D
+https://code.dlang.org/packages/apache-thrift,Apache Thrift,https://github.com/dlang-community/awesome-d#readme,D
+https://kapendev.itch.io/runani,Runani,https://github.com/dlang-community/awesome-d#readme,D
+https://forum.dlang.org,D forum,https://github.com/dlang-community/awesome-d#readme,D
+https://tour.dlang.org/,The Dlang Tour,https://github.com/dlang-community/awesome-d#readme,D
+https://garden.dlang.io/,D Functional Garden,https://github.com/dlang-community/awesome-d#readme,D
+https://thrift.apache.org/,Apache Thrift Page,https://github.com/dlang-community/awesome-d#readme,D
+https://discord.com/invite/bMZk9Q4,D on Discord,https://github.com/dlang-community/awesome-d#readme,D
+https://bitbucket.org/Abscissa/goldie/wiki/Home,Goldie,https://github.com/dlang-community/awesome-d#readme,D
+https://kapendev.itch.io/a-short-metamorphosis,A Short Metamorphosis,https://github.com/dlang-community/awesome-d#readme,D
+http://planet.dsource.org,Planet D,https://github.com/dlang-community/awesome-d#readme,D
+https://code.dlang.org/,code.dlang.org,https://github.com/dlang-community/awesome-d#readme,D
+https://www.youtube.com/watch?v=HS7X9ERdjM4&list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV&ab_channel=MikeShah,Programming in Dlang,https://github.com/dlang-community/awesome-d#readme,D
+https://gitlab.com/AntonMeep/silly,silly,https://github.com/dlang-community/awesome-d#readme,D
+https://p0nce.github.io/d-idioms/,D Idioms,https://github.com/dlang-community/awesome-d#readme,D
+https://symmetryinvestments.com/,Symmetry Investments,https://github.com/dlang-community/awesome-d#readme,D
+https://qznc.github.io/d-tut/index.html,Pragmatic D tutorial,https://github.com/dlang-community/awesome-d#readme,D
+https://gitlab.com/serpent-os,SerpentOS,https://github.com/dlang-community/awesome-d#readme,D
+https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/,GPGPU with Native D for OpenCL and CUDA,https://github.com/dlang-community/awesome-d#readme,D
+https://wiki.dlang.org,D wiki,https://github.com/dlang-community/awesome-d#readme,D
+https://www.walterbright.com/,Walter Bright,https://github.com/dlang-community/awesome-d#readme,D
+https://opendlang.org/index.html,OpenD,https://github.com/dlang-community/awesome-d#readme,D
+https://vibed.org/api/vibe.data.json/,vibe.data.json,https://github.com/dlang-community/awesome-d#readme,D
+https://code.dlang.org,D package repository,https://github.com/dlang-community/awesome-d#readme,D
+https://wiki.dlang.org/Component_programming_with_ranges,Component programming with ranges,https://github.com/dlang-community/awesome-d#readme,D
+https://dlang.org/blog/symmetry-autumn-of-code/,Symmetry Autumn of Code,https://github.com/dlang-community/awesome-d#readme,D
+https://dlang.org/phobos/std_experimental_logger.html,std.experimenatal.logger,https://github.com/dlang-community/awesome-d#readme,D
+http://erdani.org/,Andrei Alexandrescu, PhD,https://github.com/dlang-community/awesome-d#readme,D
+https://scons.org/,scons-d,https://github.com/dlang-community/awesome-d#readme,D
+https://dlang.org/phobos/std_json.html,std.json,https://github.com/dlang-community/awesome-d#readme,D
+https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones,XOmB bare bones,https://github.com/dlang-community/awesome-d#readme,D
+https://dlang.org,dlang.org,https://github.com/dlang-community/awesome-d#readme,D
+https://atilaoncode.blog/,Átila Neves,https://github.com/dlang-community/awesome-d#readme,D
+https://jasonwhite.io/button/,button,https://github.com/dlang-community/awesome-d#readme,D
+https://dlang.org/blog/2017/05/31/project-highlight-excel-d/,excel-d,https://github.com/dlang-community/awesome-d#readme,D
+https://hibernate.org/,Hibernate,https://github.com/dlang-community/awesome-d#readme,D
+https://dlang.org/blog/,blog.dlang.org,https://github.com/dlang-community/awesome-d#readme,D
+https://blog.cy.md/2014/03/21/functional-image-processing-in-d/,Functional image processing in D,https://github.com/dlang-community/awesome-d#readme,D
+http://adilbaig.github.io/Tiny-Redis/,Tiny Redis,https://github.com/dlang-community/awesome-d#readme,D
+https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/,Deputy Leader of D,https://github.com/dlang-community/awesome-d#readme,D
+https://wiki.dlang.org/Books,Books,https://github.com/dlang-community/awesome-d#readme,D
+https://code.dlang.org/packages/argparse,argparse,https://github.com/dlang-community/awesome-d#readme,D
+https://xmake.io,XMake,https://github.com/dlang-community/awesome-d#readme,D
+https://bradley.chatha.dev/BlogPost/JsonSerialiser/0,Creating a simple JSON serialiser in D,https://github.com/dlang-community/awesome-d#readme,D
+https://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/,TDPL,https://github.com/dlang-community/awesome-d#readme,D
+https://code.dlang.org/packages/colorize,d-colorize,https://github.com/dlang-community/awesome-d#readme,D
+https://dconf.org/,DConf,https://github.com/dlang-community/awesome-d#readme,D
+https://intellij-dlanguage.github.io/,IntelliJ D Language,https://github.com/dlang-community/awesome-d#readme,D
+https://forum.dlang.org/,forum.dlang.org,https://github.com/dlang-community/awesome-d#readme,D
+https://www.youtube.com/watch?v=j-Zm1zgSxMQ&list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-&ab_channel=KiRill,Let's learn D programming Game Dev!,https://github.com/dlang-community/awesome-d#readme,D
+https://gitlab.com/basile.b/dexed,Dexed,https://github.com/dlang-community/awesome-d#readme,D
+https://ddili.org/ders/d.en/index.html,Programming in D,https://github.com/dlang-community/awesome-d#readme,D
+https://www.youtube.com/@rillki-dev/,His channel,https://github.com/dlang-community/awesome-d#readme,D
+https://wiki.dlang.org/Beerconf,Beerconf,https://github.com/dlang-community/awesome-d#readme,D
+https://www.cppstories.com/2014/08/review-of-d-cookbook/,review of the book,https://github.com/dlang-community/awesome-d#readme,D
+https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV,DLang YouTube Tutorials from Mike Shah,https://github.com/dlang-community/awesome-d#readme,D
+https://issues.dlang.org/,archived tracker,https://github.com/dlang-community/awesome-d#readme,D
+http://www.infognition.com/company.html,infognition,https://github.com/dlang-community/awesome-d#readme,D
+https://open-vsx.org/extension/webfreak/code-d,open-vsx,https://github.com/dlang-community/awesome-d#readme,D
+https://dlang.org/spec/spec.html,Language specification,https://github.com/dlang-community/awesome-d#readme,D
+https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page,Main page,https://github.com/dlang-community/awesome-d#readme,D
+https://forum.dlang.org/group/learn,Official D Forum Learn Group,https://github.com/dlang-community/awesome-d#readme,D
+https://stackoverflow.com/questions/tagged/d,D on Stack Overflow,https://github.com/dlang-community/awesome-d#readme,D
+https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler,Bare Metal ARM Cortex-M GDC Cross Compiler,https://github.com/dlang-community/awesome-d#readme,D
+https://vibed.org/,vibe.d,https://github.com/dlang-community/awesome-d#readme,D
+https://tastyminerals.github.io/tasty-blog/,Tasty D,https://github.com/dlang-community/awesome-d#readme,D
+https://klickverbot.at/blog/2012/05/purity-in-d/,Purity in D,https://github.com/dlang-community/awesome-d#readme,D
+https://arsd-official.dpldocs.info/arsd.minigui.html,minigui,https://github.com/dlang-community/awesome-d#readme,D
+https://web.archive.org/web/20171119072212/http://nomad.so/2014/08/hidden-treasure-in-the-d-standard-library/,Hidden treasures in the D standard library,https://github.com/dlang-community/awesome-d#readme,D
+https://tech.nextroll.com/blog/data/2014/11/17/d-is-for-data-science.html,D is for Data Science,https://github.com/dlang-community/awesome-d#readme,D

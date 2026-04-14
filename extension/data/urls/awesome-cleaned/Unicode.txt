@@ -1,0 +1,171 @@
+http://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt,Unicode Blocks List,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode7.0.0/,Version 7.0.0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.joelonsoftware.com/articles/Unicode.html,The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://emojipedia.org/,Emojipedia,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB03?lang=en,U+FB03,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FE7?lang=en,U+1FE7,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F92?lang=en,U+1F92,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA6?lang=en,U+1FA6,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FC7?lang=en,U+1FC7,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+03B0?lang=en,U+03B0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F54?lang=en,U+1F54,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F9C?lang=en,U+1F9C,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FB2?lang=en,U+1FB2,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/charts/index.html,Unicode Character Code Charts,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode6.3.0/,Version 6.3.0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F88?lang=en,U+1F88,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FF2?lang=en,U+1FF2,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F93?lang=en,U+1F93,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB04?lang=en,U+FB04,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA7?lang=en,U+1FA7,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FCC?lang=en,U+1FCC,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+0587?lang=en,U+0587,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://emojitracker.com/,emojitracker,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F9D?lang=en,U+1F9D,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F56?lang=en,U+1F56,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FB3?lang=en,U+1FB3,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F89?lang=en,U+1F89,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode6.2.0/,Version 6.2.0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/charts/case/,Unicode Case Charts,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB05?lang=en,U+FB05,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F94?lang=en,U+1F94,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FF3?lang=en,U+1FF3,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA8?lang=en,U+1FA8,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FD2?lang=en,U+1FD2,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1E96?lang=en,U+1E96,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Miscellaneous_Mathematical_Symbols-A,Miscellaneous Mathematical Symbols-A,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Cham,Cham,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Phaistos_Disc,Phaistos Disc,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Sharada,Sharada,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Shavian,Shavian,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Katakana,Katakana,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://kunststube.net/encoding/,What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tamil,Tamil,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wisdom.engineering/awesome-unicode/,Wisdom's Dev Blog,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Yijing_Hexagram_Symbols,Yijing Hexagram Symbols,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Georgian_Supplement,Georgian Supplement,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Hangul_Jamo,Hangul Jamo,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Phoenician,Phoenician,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Counting_Rod_Numerals,Counting Rod Numerals,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_D,CJK Unified Ideographs Extension D,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Mathematical_Operators,Mathematical Operators,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Tagbanwa,Tagbanwa,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FB4?lang=en,U+1FB4,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Pictographs,Miscellaneous Symbols and Pictographs,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F9E?lang=en,U+1F9E,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F80?lang=en,U+1F80,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Spacing_Modifier_Letters,Spacing Modifier Letters,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8A?lang=en,U+1F8A,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/High_Surrogates,High Surrogates,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Combining_Diacritical_Marks_Extended,Combining Diacritical Marks Extended,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Combining_Diacritical_Marks_Supplement,Combining Diacritical Marks Supplement,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Inscriptional_Pahlavi,Inscriptional Pahlavi,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/CJK_Compatibility_Forms,CJK Compatibility Forms,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Thaana,Thaana,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Ahom,Ahom,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F95?lang=en,U+1F95,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FF4?lang=en,U+1FF4,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB06?lang=en,U+FB06,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA9?lang=en,U+1FA9,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FD3?lang=en,U+1FD3,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1E97?lang=en,U+1E97,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Syloti_Nagri,Syloti Nagri,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Bassa_Vah,Bassa Vah,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode6.1.0/,Version 6.1.0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/charts/normalization/,Unicode Normalization Chart,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.emojifoundation.com/,World Translation Foundation,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/faq/,Unicode FAQ,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FB6?lang=en,U+1FB6,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F9F?lang=en,U+1F9F,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8B?lang=en,U+1F8B,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F81?lang=en,U+1F81,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F96?lang=en,U+1F96,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FF6?lang=en,U+1FF6,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB13?lang=en,U+FB13,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAA?lang=en,U+1FAA,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1E98?lang=en,U+1E98,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FD6?lang=en,U+1FD6,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FB7?lang=en,U+1FB7,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode6.0.0/,Version 6.0.0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA0?lang=en,U+1FA0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F82?lang=en,U+1F82,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8C?lang=en,U+1F8C,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://www.smashingmagazine.com/2015/10/space-yourself/,Space Yourself,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F97?lang=en,U+1F97,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB14?lang=en,U+FB14,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FF7?lang=en,U+1FF7,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAB?lang=en,U+1FAB,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FD7?lang=en,U+1FD7,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1E99?lang=en,U+1E99,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FBC?lang=en,U+1FBC,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA1?lang=en,U+1FA1,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8D?lang=en,U+1F8D,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F83?lang=en,U+1F83,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F98?lang=en,U+1F98,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB15?lang=en,U+FB15,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode5.2.0/,Version 5.2.0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FFC?lang=en,U+1FFC,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAC?lang=en,U+1FAC,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FE2?lang=en,U+1FE2,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1E9A?lang=en,U+1E9A,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Lycian,Lycian,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FC2?lang=en,U+1FC2,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA2?lang=en,U+1FA2,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8E?lang=en,U+1F8E,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F84?lang=en,U+1F84,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F99?lang=en,U+1F99,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB16?lang=en,U+FB16,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB00?lang=en,U+FB00,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAD?lang=en,U+1FAD,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FE3?lang=en,U+1FE3,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1E9E?lang=en,U+1E9E,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode5.1.0/,Version 5.1.0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FC3?lang=en,U+1FC3,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA3?lang=en,U+1FA3,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F8F?lang=en,U+1F8F,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F85?lang=en,U+1F85,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F9A?lang=en,U+1F9A,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB17?lang=en,U+FB17,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB01?lang=en,U+FB01,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FE4?lang=en,U+1FE4,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAE?lang=en,U+1FAE,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F50?lang=en,U+1F50,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://mathiasbynens.be/notes/javascript-unicode,JavaScript has a Unicode Problem,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FC4?lang=en,U+1FC4,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA4?lang=en,U+1FA4,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F90?lang=en,U+1F90,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F86?lang=en,U+1F86,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F9B?lang=en,U+1F9B,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode4.0.1/,Version 4.0.1,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+FB02?lang=en,U+FB02,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FAF?lang=en,U+1FAF,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FE6?lang=en,U+1FE6,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F52?lang=en,U+1F52,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/emoji/charts/full-emoji-list.html,Unicode Consortium's Emoji Chart,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FC6?lang=en,U+1FC6,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1FA5?lang=en,U+1FA5,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F91?lang=en,U+1F91,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+1F87?lang=en,U+1F87,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/corrigendum5.html,Version 4.0.0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/standard/principles.html,Principles of the Unicode Standard,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://labs.spotify.com/2013/06/18/creative-usernames/,Creative usernames and Spotify account hijacking,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode9.0.0/,Version 9.0.0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.name.com/blog/how-tos/2015/12/want-an-emoji-url-this-is-how-you-register-one/,How to register an emoji URL,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/versions/Unicode8.0.0/,Version 8.0.0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/emoji/charts/emoji-zwj-sequences.html,Emoji combined sequences,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://shapecatcher.com/,Shapecatcher,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://wikipedia.org/wiki/Hangul_Jamo_Extended-B,Hangul Jamo Extended-B,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/ucd/,Unicode Character Database,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://dumps.codepoints.net/,Database Dumps of Codepoints.net,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/search?IDS=1,ID_START,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/search?IDC=1,ID_CONTINUE,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://davidwalsh.name/unicode-css-classes,Unicode CSS Classes,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/roadmaps/,http://www.unicode.org/roadmaps/,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unifont.org/fontguide/,http://www.unifont.org/fontguide/,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://www.unicode.org/charts/PDF/U2000.pdf,general punctuation chart,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+http://unicode.org/faq/unsup_char.html,supported in rendering,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+00DF?lang=en,U+00DF,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+0130?lang=en,U+0130,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+0149?lang=en,U+0149,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+01F0?lang=en,U+01F0,https://github.com/jagracey/Awesome-Unicode#readme,Unicode
+https://codepoints.net/U+0390?lang=en,U+0390,https://github.com/jagracey/Awesome-Unicode#readme,Unicode

@@ -1,4 +1,29 @@
-http://web.stanford.edu/class/cs20si/syllabus.html,CS20 SI: TensorFlow for DeepLearning Research,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html,TensorLayer,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.youtube.com/watch?v=ReaxoSIM5XQ,TensorFlow Udacity Deep Learning,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture,TensorFlow Optimizations on Modern Intel® Architecture,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://archive.fo/o9asj,Why TensorFlow will change the Game for AI,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
-https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html,How Does The TensorFlow Work,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/,TensorFlow for Machine Intelligence,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow,Getting Started with TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://indico.io/blog/indico-tensorflow,The indico Machine Learning Team's take on TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: URLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')) | reason: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)
+https://indico.io/blog/the-good-bad-ugly-of-tensorflow/,The Good, Bad, & Ugly of TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: URLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')) | reason: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)
+https://www.youtube.com/watch?v=L8Y2_Cq2X5s&index=7&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam,Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow,Building Machine Learning Projects with Tensorflow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W,Diving into Machine Learning through TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+http://tensorflow.org,here,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://youtu.be/XYwIDn00PAo,Large Scale Deep Learning with TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.youtube.com/watch?v=vq2nnJ4g6N0,Tensorflow and deep learning - without at PhD,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.tensorflow.org/probability,Tensorflow-Probability,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs,Unofficial Videos,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.youtube.com/watch?v=fTUwdXUFfI8,Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17),https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html,TensorLayer,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://youtu.be/P8MZ1Z2LHrw,Image recognition in Go using TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker,API reference,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.jorditorres.org/first-contact-with-tensorflow/,First Contact with TensorFlow,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://www.tensorflow.org/guide/estimators,TensorFlow Estimators,https://github.com/jtoy/awesome-tensorflow#readme,TensorFlow error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found

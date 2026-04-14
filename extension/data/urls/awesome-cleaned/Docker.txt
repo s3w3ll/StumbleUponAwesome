@@ -1,0 +1,37 @@
+https://www.paloaltonetworks.com/prisma/cloud,Prisma Cloud,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://gitlab.com/n0r1sk/bosnd,BosnD,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://docker-handbook.farhan.dev/,The Docker Handbook,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.trackawesomelist.com/veggiemonk/awesome-docker/,,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.sysdig.com/solutions/cloud-detection-and-response-cdr,Sysdig Secure,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://brooklyn.apache.org/,Brooklyn,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://gitlab.com/n0r1sk/dockproc,DockProc,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html,Trend Micro DeepSecurity,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github,contribute on Github,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://toedter.com/2015/05/11/docker-on-windows-behind-a-firewall/,Docker on Windows behind a firewall,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://docs.dynatrace.com/docs/observe/infrastructure-observability/container-platform-monitoring,Dynatrace,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://portworx.com,portworx,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://grafana.com/grafana/dashboards/179-docker-prometheus-monitoring/,Grafana Docker Dashboard Template,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://okd.io/,OpenShift,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://docs.mirantis.com/containers/v3.0/dockeree-ref-arch/app-dev/modernize-dotnet-apps.html,Docker Reference Architecture: Modernizing Traditional .NET Framework Applications,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.redhat.com/en,Red Hat,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://blog.alexellis.io/docker-does-sql2016-aspnet/,Docker with Microsoft SQL 2016 + ASP.NET,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.hanselman.com/blog/exploring-aspnet-core-with-docker-in-both-linux-and-windows-containers,Exploring ASP.NET Core with Docker in both Linux and Windows Containers,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php,Docker Tooling plugin,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://docs.docker.com/desktop/setup/install/windows-install/,Docker for Windows,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.bunkerity.com,Bunkerity,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://blog.sixeyed.com/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/,Running a Legacy ASP.NET App in a Windows Container,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=N7SG2wEyQtM,Windows Containers and Docker: The 101,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://anchore.com/,Anchor Enterprise,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/,Windows Containers Quick Start,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://gitlab.com/blackfish/blackfish,blackfish,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.docker.com/products/docker-desktop/,Docker Desktop,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://semaphore.io/blog/docker-benefits,Benefits of using Docker,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://rust-lang.org/,Rust,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar,sidecar,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=xsjSadjKXns,Docker for novices,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://www.youtube.com/watch?v=vP_4DlOH1G4,Docker simplified in 55 seconds,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://developer.hashicorp.com/packer/integrations/hashicorp/docker/latest/components/builder/docker,packer,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://training.mirantis.com,Docker Training,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/,Introduction à Docker,https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://pagertree.com/learn/docker/overview,Learn Docker (Visually),https://github.com/veggiemonk/awesome-docker#readme,Docker
+https://training.play-with-docker.com/,Play With Docker,https://github.com/veggiemonk/awesome-docker#readme,Docker

@@ -1,7 +1,21 @@
-https://azure.microsoft.com/services/app-service/static/,Azure Static Web Apps,https://github.com/automata/awesome-jamstack#readme,JAMstack error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://jexia.com,Jexia UMS,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'jexia.com'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'jexia.com'. (_ssl.c:1123)
-https://interplanetarygatsby.com/ipfs-deploy/,The Complete Beginner's Guide to Deploying Your First Static Website to IPFS,https://github.com/automata/awesome-jamstack#readme,JAMstack error: <HTTPError 410: 'Gone'> | reason: Gone
+https://www.factorjs.org,FactorJS,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://handledroid.com/,HandleDroid,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://jexia.com,Jexia DataSet,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.thenewdynamic.org/,the New Dynamic,https://github.com/automata/awesome-jamstack#readme,JAMstack error: <HTTPError 301: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+https://phenomic.io/,Phenomic,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'phenomic.io'. (_ssl.c:1018)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'phenomic.io'. (_ssl.c:1018)
+https://v1.netlifycms.org/,Netlify CMS,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://cloud.google.com/ml-engine/,Cloud ML Engine,https://github.com/automata/awesome-jamstack#readme,JAMstack error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://gitter.im/jamstack/community,Jamstack Gitter Chat,https://github.com/automata/awesome-jamstack#readme,JAMstack error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.gotrueapi.org,GoTrue API,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.arengu.com,Arengu,https://github.com/automata/awesome-jamstack#readme,JAMstack error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://gitter.im/netlify/community,Netlify Gitter Chat,https://github.com/automata/awesome-jamstack#readme,JAMstack error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://gitter.im/netlify/NetlifyCMS,NetlifyCMS Gitter Chat,https://github.com/automata/awesome-jamstack#readme,JAMstack error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://www.elastictable.com,Elastictable,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://CloudyCam.dev/,CloudyCam,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123)
-https://appernetic.io,Appernetic,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.gocommerceapi.org,GoCommerce,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://layer0.co,Layer0,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://azure.microsoft.com/services/app-service/static/,Azure Static Web Apps,https://github.com/automata/awesome-jamstack#readme,JAMstack error: TimeoutError('The read operation timed out') | reason: 
+https://jamstack.new,Jamstack.new,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://storipress.com,Storipress,https://github.com/automata/awesome-jamstack#readme,JAMstack error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://travel.hopper.com/,Hopper,https://github.com/automata/awesome-jamstack#readme,JAMstack error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://jarodpeachey.netlify.com,Jarod Peachey,https://github.com/automata/awesome-jamstack#readme,JAMstack error: <HTTPError 404: 'Not Found'> | reason: Not Found

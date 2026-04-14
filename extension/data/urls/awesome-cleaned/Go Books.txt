@@ -1,0 +1,70 @@
+https://p5v.gumroad.com/l/generative-art-in-golang,Generative Art in Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.practical-go-lessons.com/,Practical Go Lessons,https://github.com/dariubs/GoBooks#readme,Go Books
+https://bitfieldconsulting.com/books/tests,The Power of Go: Tests,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.practical-go-lessons.com,Read Online,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4ts8ylm,Get Programming with Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4cliBlM,Learn Go with Pocket-Sized Projects,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/3MbHW7i,The Go Programming Language,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4bCcFok,Writing A Compiler In Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://gum.co/Qkmou,Go Brain Teasers,https://github.com/dariubs/GoBooks#readme,Go Books
+https://golangbot.com/,Golangbot.com Articles,https://github.com/dariubs/GoBooks#readme,Go Books
+https://bitfieldconsulting.com/books/deeper,The Deeper Love of Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4rDm43L,Pro Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://codegangsta.gitbooks.io/building-web-apps-with-go/content/,Building Web Apps with Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://rezmoss.com/go-at-scale/,Go at Scale: Patterns for Professional Development,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4ceJWWQ,Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition,https://github.com/dariubs/GoBooks#readme,Go Books
+https://nostarch.com/networkprogrammingwithgo,Network Programming with Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://leanpub.com/GoNotebook/,A Go Developer's Notebook,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4agrPgG,Go Programming - From Beginner to Professional, 2nd Edition,https://github.com/dariubs/GoBooks#readme,Go Books
+https://bitfieldconsulting.com/books/tools,The Power of Go: Tools,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/3LZBwrT,Go for DevOps,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them,100 Go Mistakes and How to Avoid Them,https://github.com/dariubs/GoBooks#readme,Go Books
+https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/,Powerful Command-Line Applications in Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4knFw1R,Hands-On Dependency Injection in Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://go101.org/article/101.html,Go 101,https://github.com/dariubs/GoBooks#readme,Go Books
+https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html,Build Web Application with Golang,https://github.com/dariubs/GoBooks#readme,Go Books
+https://quii.gitbook.io/learn-go-with-tests/,Learn Go With Tests,https://github.com/dariubs/GoBooks#readme,Go Books
+https://pragprog.com/titles/tjgo/distributed-services-with-go/,Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.digitalocean.com/community/books/how-to-code-in-go-ebook,How to Code in Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.amazon.com/dp/B091FX4CZX,Build Systems with Go: Everything a Gopher Must Know,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.manning.com/books/build-an-orchestrator-in-go,Build an Orchestrator in Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.manning.com/books/go-by-example,Go by Example,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/3MbSHqc,Security with Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/46oiZfC,gRPC Go for Professionals,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/45PIyGq,Writing An Interpreter In Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333,Cloud Native Go - Building Reliable Services in Unreliable Environments,https://github.com/dariubs/GoBooks#readme,Go Books
+https://tour.golang.org/,A tour of Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://leanpub.com/12fa-docker-golang,12 Factor Applications with Docker and Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://bitfieldconsulting.com/books/crypto,Explore Go: Cryptography,https://github.com/dariubs/GoBooks#readme,Go Books
+https://lets-go.alexedwards.net/,Let's Go!,https://github.com/dariubs/GoBooks#readme,Go Books
+https://leanpub.com/gofaster,Go Faster,https://github.com/dariubs/GoBooks#readme,Go Books
+https://threedots.tech/go-with-the-domain/,Go with the Domain: Building Modern Business Software in Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.youtube.com/watch?v=CF9S4QZuV30,Video: Learn Go Syntax in one video,https://github.com/dariubs/GoBooks#readme,Go Books
+https://blasrodri.github.io/spaceship-go-gh-pages/,Spaceship Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://openfaas.gumroad.com/l/everyday-golang,Everyday Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://12factor.net/,The Twelve-Factor App,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4r1FJdA,Head First Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://assets.digitalocean.com/books/how-to-code-in-go.epub,epub,https://github.com/dariubs/GoBooks#readme,Go Books
+https://practicalgobook.net,Practical Go: Building Scalable Network and Non-Network Applications,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4ra6o8q,Shipping Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://checkmarx.gitbooks.io/go-scp/,Go programming language secure coding practices guide,https://github.com/dariubs/GoBooks#readme,Go Books
+https://gobyexample.com/,Tutorials: Go by Example,https://github.com/dariubs/GoBooks#readme,Go Books
+https://courses.ardanlabs.com/courses/ultimate-go-notebook,Ultimate Go Notebook,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4tlEqaX,Black Hat Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4rzgHSW,gRPC Microservices in Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://bitfieldconsulting.com/books/generics,Know Go: Generics,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.amazon.com/Efficient-Go-Data-Driven-Performance-Optimization/dp/1098105710,Efficient Go: Data-Driven Performance Optimization,https://github.com/dariubs/GoBooks#readme,Go Books
+https://buildsaasappingo.com,Build SaaS apps in Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.pazams.com/Go-for-Javascript-Developers/,Go for Javascript Developers,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.usegolang.com/,Web Development with Go: Learn to Create Real World Web Applications using Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://lets-go-further.alexedwards.net/,Let's Go Further,https://github.com/dariubs/GoBooks#readme,Go Books
+https://leanpub.com/go-from-the-beginning,Go, from the beginning,https://github.com/dariubs/GoBooks#readme,Go Books
+https://assets.digitalocean.com/books/how-to-code-in-go.pdf,pdf,https://github.com/dariubs/GoBooks#readme,Go Books
+https://k33g.gumroad.com/l/wasmcooking,Wasm Cooking with Golang,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/4tkfSPE,API Foundations in Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://amzn.to/3MrFZUk,The Go Workshop,https://github.com/dariubs/GoBooks#readme,Go Books
+https://shop.oreilly.com/category/learning-path/go-fundamentals.do,Go Fundamentals Video Training,https://github.com/dariubs/GoBooks#readme,Go Books
+https://tutorialedge.net/course/golang/,TutorialEdge.net Course,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.coursera.org/specializations/google-golang/,Coursera Specialization: Programming with Go,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?referralCode=5CE6EB34E2B1EF4A7D37,Course: Understand Go's In-Depth Mechanics,https://github.com/dariubs/GoBooks#readme,Go Books
+https://www.miek.nl/go,Learning Go,https://github.com/dariubs/GoBooks#readme,Go Books

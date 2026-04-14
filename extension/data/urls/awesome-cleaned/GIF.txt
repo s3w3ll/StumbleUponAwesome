@@ -1,0 +1,13 @@
+https://www.reddit.com/r/educationalgifs/,/r/educationalgifs,https://github.com/davisonio/awesome-gif#readme,GIF
+https://en.wikipedia.org/wiki/GIF,GIF,https://github.com/davisonio/awesome-gif#readme,GIF
+http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html,article,https://github.com/davisonio/awesome-gif#readme,GIF
+https://www.ffmpeg.org,FFmpeg,https://github.com/davisonio/awesome-gif#readme,GIF
+https://kornel.ski/lossygif,Lossy Gif,https://github.com/davisonio/awesome-gif#readme,GIF
+http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/,article,https://github.com/davisonio/awesome-gif#readme,GIF
+https://zulko.github.io/moviepy/,MoviePy,https://github.com/davisonio/awesome-gif#readme,GIF
+https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967,Why is the GIF I created so slow?,https://github.com/davisonio/awesome-gif#readme,GIF
+https://getkap.co/,Kap,https://github.com/davisonio/awesome-gif#readme,GIF
+https://imgur.com,Imgur,https://github.com/davisonio/awesome-gif#readme,GIF
+https://ismailbaaj.fr,Ismail Baaj,https://github.com/davisonio/awesome-gif#readme,GIF
+https://giftoframes.org/,GIF Frame Extractor,https://github.com/davisonio/awesome-gif#readme,GIF
+https://giphy.com,Giphy.com,https://github.com/davisonio/awesome-gif#readme,GIF

@@ -1,0 +1,1 @@
+https://www.drupal.org/getting-involved-guide,Drupal,https://github.com/MunGell/awesome-for-beginners#readme,Beginner-Friendly Projects error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

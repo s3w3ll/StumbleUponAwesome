@@ -1,0 +1,1 @@
+https://chessongolem.app/,Chess On Golem,https://github.com/golemfactory/awesome-golem#readme,Golem error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

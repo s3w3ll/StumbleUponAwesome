@@ -1,0 +1,33 @@
+https://www.microsoft.com,Microsoft,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://schema.org/,Schema.org,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+http://ycm-core.github.io/YouCompleteMe/,YouCompleteMe,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscode.pro/,VSCode.pro,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode,Monokai Pro by monokai (commercial),https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/dracula-theme.theme-dracula,Dracula Official by Dracula Theme,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/dustinsanders.an-old-hope-theme-vscode,An Old Hope Theme by Dustin Sanders,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/,Microsoft's tutorial on using VSCode for remote C/C++ development,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html,Camel Humps,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/sdras.night-owl,Night Owl by Sarah Drasner,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/wart.ariake-dark,Ariake Dark by wart,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/bogdanlazar.edge,Edge by Bogdan Lazar,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://www.npmjs.com/typed-vscode,typed-vscode,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/akamud.vscode-theme-onedark,Atom One Dark Theme by Mahmoud Ali,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/fisheva.eva-theme,Eva Theme by fisheva,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/will-stone.plastic,Plastic by Will Stone,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://themer.dev,Themer,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/emroussel.atomize-atom-one-dark-theme,Atomize by emroussel,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/nopjmp.fairyfloss,Fairy Floss by nopjmp and sailorhg,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/arcticicestudio.nord-visual-studio-code,Nord by arcticicestudio,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/teabyii.ayu,Ayu by teabyii,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/daylerees.rainglow,Rainglow by Dayle Rees,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/thomaspink.theme-github,GitHub Theme by Thomas Pink,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/eckertalex.borealis,Borealis Theme by Alexander Eckert,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/mischah.relaxed-theme,Relaxed Theme by Michael Kühnel,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/DimitarNonov.jellybeans-theme,Jellybeans Theme by Dimitar Nonov,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/ultradracula.captain-sweetheart,Captain Sweetheart by ultradracula,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/ahmadawais.shades-of-purple,Shades of Purple by Ahmad Awais,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/whizkydee.material-palenight-theme,Material Palenight Theme by whizkydee,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/Yummygum.city-lights-theme,City Lights by Yummygum,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/smlombardi.slime,Slime Theme by smlombardi,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/Equinusocio.vsc-material-theme,Material Theme by Mattia Astorino,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code
+https://vscodethemes.com/e/wesbos.theme-cobalt2,Cobalt2 Theme Official by Wes Bos,https://github.com/viatsko/awesome-vscode#readme,Visual Studio Code

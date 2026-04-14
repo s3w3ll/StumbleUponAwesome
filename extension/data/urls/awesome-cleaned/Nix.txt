@@ -1,0 +1,43 @@
+https://www.cachix.org,Cachix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://fasterthanli.me/series/building-a-rust-service-with-nix,Building a Rust service with Nix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixcon.org/,NixCon,https://github.com/nix-community/awesome-nix#readme,Nix
+https://ratson.github.io/conflake/,Conflake,https://github.com/nix-community/awesome-nix#readme,Nix
+https://leanpub.com/nixos-in-production,NixOS in Production,https://github.com/nix-community/awesome-nix#readme,Nix
+https://gitlab.com/TECHNOFAB/nixtest,Nixtest,https://github.com/nix-community/awesome-nix#readme,Nix
+https://gitlab.com/TECHNOFAB/nix-gitlab-ci,Nix GitLab CI,https://github.com/nix-community/awesome-nix#readme,Nix
+https://zaynetro.com/explainix,Explainix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://searchix.ovh/,Searchix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixos.org/manual/nix/stable,Official Nix manual,https://github.com/nix-community/awesome-nix#readme,Nix
+https://status.nixos.org,Nix Infra Status,https://github.com/nix-community/awesome-nix#readme,Nix
+https://malob.github.io/nix-review-tools-reports/,Nix Review Tools Reports,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixos.org/manual/nixos/stable,Official NixOS manual,https://github.com/nix-community/awesome-nix#readme,Nix
+https://ianthehenry.com/posts/how-to-learn-nix/,How to Learn Nix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://codeberg.org/aniva/Manifest2Nix.jl,Manifest2Nix.jl,https://github.com/nix-community/awesome-nix#readme,Nix
+https://docs.astral.sh/uv/concepts/projects/workspaces/,uv workspaces,https://github.com/nix-community/awesome-nix#readme,Nix
+https://mynixos.com/,MyNixOS,https://github.com/nix-community/awesome-nix#readme,Nix
+https://wiki.nixos.org,Wiki (Official),https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixpk.gs/pr-tracker.html,nixpkgs PR tracker,https://github.com/nix-community/awesome-nix#readme,Nix
+https://snowflakeos.org/,SnowflakeOS,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixos.org/manual/nixpkgs/stable,Official Nixpkgs manual,https://github.com/nix-community/awesome-nix#readme,Nix
+https://code.tvl.fyi/about/nix/nix-1p,Nix - A One Pager,https://github.com/nix-community/awesome-nix#readme,Nix
+https://discord.gg/BMUCQx6,Discord - Nix/Nixos (Unofficial),https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixos.wiki,Wiki (Unofficial),https://github.com/nix-community/awesome-nix#readme,Nix
+https://saylesss88.github.io,nix-book,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixcloud.io/tour/,Tour of Nix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://clan.lol,Clan,https://github.com/nix-community/awesome-nix#readme,Nix
+https://discourse.nixos.org/,Discourse,https://github.com/nix-community/awesome-nix#readme,Nix
+https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/,Nix from First Principles: Flake Edition,https://github.com/nix-community/awesome-nix#readme,Nix
+https://mhwombat.codeberg.page/nix-book/,Wombat's Book of Nix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://cgit.krebsco.de/krops/about/,krops,https://github.com/nix-community/awesome-nix#readme,Nix
+https://www.youtube.com/watch?v=FJVFXsNzYZQ,Nix in 100 Seconds,https://github.com/nix-community/awesome-nix#readme,Nix
+https://zero-to-nix.com/,Zero to Nix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://home-manager-options.extranix.com/,Home Manager Option Search,https://github.com/nix-community/awesome-nix#readme,Nix
+https://gitlab.com/TECHNOFAB/nixlets,Nixlets,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixos.org/guides/nix-pills/,Nix Pills,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nix.dev/,nix.dev,https://github.com/nix-community/awesome-nix#readme,Nix
+https://terranix.org,terranix,https://github.com/nix-community/awesome-nix#readme,Nix
+https://lazamar.co.uk/nix-versions/,Nix Package Versions,https://github.com/nix-community/awesome-nix#readme,Nix
+https://noogle.dev/,Noogle,https://github.com/nix-community/awesome-nix#readme,Nix
+https://nixos.asia/en/tutorial,NixOS Asia Tutorial Series,https://github.com/nix-community/awesome-nix#readme,Nix
+https://git.sr.ht/~khumba/nvd,nvd,https://github.com/nix-community/awesome-nix#readme,Nix
+https://git.sr.ht/~watersucks/optnix,optnix,https://github.com/nix-community/awesome-nix#readme,Nix

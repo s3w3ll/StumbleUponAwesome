@@ -1,0 +1,67 @@
+https://www.gnu.org/savannah-checkouts/gnu/emacs/download.html,GNU Emacs Download & Installation,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.emacswiki.org/emacs/ZoneMode,Zone Mode,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/AngeFtp,AngeFTP,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/AbbrevMode,abbrev,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/ParEdit,Paredit,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/TabBarMode,tab-bar-mode,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/ElectricPair,electric-pair-mode,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.gnu.org/software/emacs/tour/,A Guided Tour of Emacs,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Matching.html,GNU Manual,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Saving-Emacs-Sessions.html,desktop,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.emacswiki.org/emacs/ELPA,package.el,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/ImenuMode,imenu,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/MakefileMode,Makefile Mode,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/CategoryEshell,EShell,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/MiniMap,Minimap,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/DiredMode,Dired,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Indent-Convenience.html,electric-indent-mode,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/hyperbole/,GNU Hyperbole,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.emacswiki.org/emacs/AnsiTerm,Term,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/UndoTree,undo-tree,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/DiredPlus,Dired+,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.gnu.org/software/emacs/manual/html_node/eieio/,EIEIO,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Spelling.html,flyspell,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.emacswiki.org/emacs/InferiorEmacsLispMode,ielm,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/WanderLust,Wanderlust,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/AutoIndentation,Emacs Wiki,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/LaTeXPreviewPane,latex-preview-pane,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/,EmacsWiki,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/MultiTerm,multi-term,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+http://www.gnu.org/software/emacs-muse/,Emacs Muse,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.emacswiki.org/emacs/SrSpeedbar,Sr Speedbar,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.gnu.org/software/auctex/reftex.html,RefTeX,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://gitlab.com/Vonfry/zoxide.el,zoxide,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.emacswiki.org/emacs/ERC,ERC,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+http://ranger.nongnu.org/,ranger,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://cc-mode.sourceforge.net/,CC Mode,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.gnu.org/software/global/,GNU Global,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/emacs/manual/html_mono/eww.html,EWW,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.emacswiki.org/emacs/Mpc,mpc,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/InteractivelyDoThings,IDO,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/rcirc,Rcirc,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Version-Control.html,VC,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/emacs/manual/html_node/ebrowse/index.html,Ebrowse,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/emms/,EMMS,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Icomplete.html,Icomplete,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.emacswiki.org/emacs/CategoryGnus,Gnus,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/FlyMake,FlyMake,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/MessageMode,Messages,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.nongnu.org/ada-mode/,ada-mode,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://www.emacswiki.org/emacs/Icicles,Icicles,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.gnu.org/software/emacs/manual/html_node/newsticker/index.html,Newsticker,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.emacswiki.org/emacs/yari.el,yari,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://www.emacswiki.org/emacs/WinnerMode,winner,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 402: 'Payment Required'> | reason: Payment Required
+https://cedet.sourceforge.net/,CEDET,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://js-comint-el.sourceforge.net/,js-comint.el,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/emacs/manual/html_node/elisp/Language-Grammar.html,treesit.el,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://doxymacs.sourceforge.net/,Doxymacs,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://git.savannah.gnu.org/cgit/emacs.git/,source,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://distrowatch.com,distribution,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.gnu.org/software/emacs/download.html,GNU Emacs Download & Installation page,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.emacswiki.org/emacs/ElDoc,eldoc,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://www.emacswiki.org/emacs/WhiteSpace,whitespace,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://www.emacswiki.org/emacs/WindMove,windmove,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://www.emacswiki.org/emacs/HideShow,hideshow,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://www.emacswiki.org/emacs/DeleteSelectionMode,delete-selection-mode,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://www.emacswiki.org/emacs/download/hideshowvis.el,hideshowvis,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network
+https://www.emacswiki.org/emacs/AlignCommands,align,https://github.com/emacs-tw/awesome-emacs#readme,Emacs error: URLError(OSError(10051, 'A socket operation was attempted to an unreachable network', None, 10051, None)) | reason: [WinError 10051] A socket operation was attempted to an unreachable network

@@ -1,5 +1,19 @@
-https://metacpan.org/IO::Socket::SSL::Intercept,IO::Socket::SSL::Intercept,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://metacpan.org/pod/XML::Compile::WSDL,XML::Compile::WSDL,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://metacpan.org/pod/LWP::UserAgent,LWP::UserAgent,https://github.com/hachiojipm/awesome-perl#readme,Perl error: timeout('The read operation timed out') | reason: 
-https://metacpan.org/pod/Net::DHCP,Net::DHCP,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://metacpan.org/pod/Gearman,Gearman,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://metacpan.org/pod/MIDI::ALSA,MIDI::ALSA,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Minilla,Minilla,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Dancer2,Dancer2,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Catalyst::Action::REST,Catalyst::Action::REST,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/TheSchwartz,TheSchwartz,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Gantry,Gantry,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/BioPerl,BioPerl,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Video::Generator,Video::Generator,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Kelp,Kelp,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Net::DHCP,Net::DHCP,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/WebService::DigitalOcean,WebService::DigitalOcean,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Amon2,Amon2,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Kossy,Kossy,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Mojolicious,Mojolicious,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Poet,Poet,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Gazelle,Gazelle,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Net::OpenSSH::Parallel,Net::OpenSSH::Parallel,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Net::SSH::Any,Net::SSH::Any,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests
+https://metacpan.org/pod/Net::SFTP::Foreign,Net::SFTP::Foreign,https://github.com/hachiojipm/awesome-perl#readme,Perl error: <HTTPError 429: 'Too Many Requests'> | reason: Too Many Requests

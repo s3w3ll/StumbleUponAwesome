@@ -1,0 +1,94 @@
+https://www.rc-astro.com/mtf-analyzer/,Modulation Transfer Function and Image Sampling Analyzer,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://en.wikipedia.org/wiki/Astrophotography,Astrophotography,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.nightphotons.com/guides/star-addition,Independent Starless Processing,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.digicamdb.com,Digital Camera Database,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://skyandtelescope.org/astronomy-blogs/imaging-foundations-richard-wright/astrophotography-gentle-introduction-noise/,An Astrophotographer's Gentle Introduction To Noise,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/c/AstroBackyard,AstroBackyard,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+http://www.sharplesscatalog.com/sharpless.aspx,Sharpless,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.scottaspinall.com/beginner-guide-to-night-photography/,A Beginner Guide to Night Photography,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://astrobackyard.com/autoguiding/,Autoguiding,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/channel/UC65vvpQDX5rymeqrYt-Bb1g,Cuiv, The Lazy Geek,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://stellarium-web.org/,web-only alternative,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/@Aero19612,James Lamb,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://web.archive.org/web/20250501171421/https://agenaastro.com/articles/guides/selecting-a-guide-scope-and-autoguiding-camera-for-astrophotography.html,Selecting a Guide Scope and Autoguiding Camera for Astrophotography,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/@lukomatico,Lukomatico,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://web.archive.org/web/20240928205001/https://optcorp.com/blogs/deep-sky-imaging/guide-scope-vs-off-axis-guider,Guide Scope vs. Off-Axis Guider: Which is Better for Astrophotography?,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.nebulaphotos.com/doc/brightLargeDsos.pdf,12 Deep Sky Objects to Photograph,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.pixelskiesastro.com,Pixel Skies,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/channel/UCO_gBdHekc74feh0bWqKJ1Q,Nebula Photos,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://jonrista.com/the-astrophotographers-guide/astrophotography-basics/signal-noise-and-histograms/,Signal, Noise and Histograms,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://web.archive.org/web/20230509214425/https://www.lightvortexastronomy.com/tutorials.html,Light Vortex Astronomy's PixInsight tutorials,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/@PatriotAstro,Patriot Astro,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.rc-astro.com/resources/BlurXTerminator/,BlurXTerminator,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.astrophotography.app,APT,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://astronomy.tools/,Astronomy Tools,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://web.archive.org/web/20250828163126/https://agenaastro.com/articles/zwo-astronomy-cameras-buyers-guide.html,Buyer's Guide to ZWO Astronomy Cameras,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/watch?v=Qb1ceFM-DkQ,Orion Nebula (M42) with a DSLR, Start to Finish,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://web.archive.org/web/20250501171410/https://agenaastro.com/articles/focal-reducers-guide.html,Guide to Focal Reducers for Astronomy,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+http://deepskystacker.free.fr/english/index.html,DeepSkyStacker,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+http://lowlevellighting.org/,Low Level Landscape Lighting,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.adamblockstudios.com/categories/PixInsight,Adam Block's PixInsight video series,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://eise.app,Eise,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.astrodmx-capture.org.uk,AstroDMx Capture,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://drive.google.com/file/d/1I1deTi8sCFIn_bwQbYiqqxliVLInsGx6/view,Calibration Frames Cheat-Sheet,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://pixinsight.com/forum/index.php?threads/guide-to-preprocessing-of-raw-data-with-pixinsight.11547/,Guide to Preprocessing of Raw Data With PixInsight,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://pixinsight.com,PixInsight,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.roboscopes.com,RoboScopes,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/watch?v=pXcRKoxTPVg,Andromeda Galaxy with only a Camera, Lens, & Tripod,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://indilib.org,Ekos,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.messier-objects.com/,Messier,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.astrophotography.app/EOS.php,Canon EOS DSLR models matrix,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://web.archive.org/web/20221205012955/https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/,Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://pegasusastro.com/cable-management-recommendations/,Cable Management Recommendations,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/watch?v=9rAoJ-VG860,Astrophotography RGB histogram in nine minutes,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://smallstarspot.com/shiny/StackSNR/,Noise Analysis in Stacked Exposures,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://web.archive.org/web/20240928205054/https://optcorp.com/blogs/deep-sky-imaging/how-to-set-the-correct-back-focus,How to Set the Correct Back Focus,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.astrophotography.app/nikon.php,Nikon DSLR models matrix,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.astronomie.be/registax/,Registax,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://ciechanow.ski/cameras-and-lenses/,Cameras and Lenses,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://ciechanow.ski/lights-and-shadows/,Lights and Shadows,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://nighttime-imaging.eu,NINA,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://ciechanow.ski/color-spaces/,Color Spaces,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.photopills.com,PhotoPills,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.astroworldcreations.com/blog/understanding-flats-part-1-gain-matching,Mastering Flat Frames: Gain matching,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.simg.de/nebulae3/index.html,Northern Sky Narrowband Survey,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/,The Differences between CCD and CMOS Sensors,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://siril.org,Siril,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.astrobin.com,Astrobin,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://skycompendium-online.web.app/,SkyCompendium,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.paulschmitphotography.com/How-To-Guides/Capturing-Galaxyset,Capturing Galaxyset,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.astroworldcreations.com/blog/understanding-flats-part-2-flat-panels-compared,Part 2: Flat Panels compared,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.solarham.com,SolarHam,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://web.archive.org/web/20240928205042/https://www.bintel.com.au/narrowband-preview-tool/index.php,Online Narrowband RGB Combination Preview Tool,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.astroworldcreations.com/blog/understanding-flats-part3-conclusions,Part 3: Bias, Flat-Darks and Conclusions,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.zwoastro.com/2024/09/26/the-best-solution-of-55mm-back-focal-length/,The best solution of 55mm back focal length,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://overcastobservatory.com/products/guide-to-tilt-and-spacing-analysis-download-link-in-listing,Chris White's Guide to Fixing Tilt and Spacing,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://telescopius.com,Telescopius,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.ap-i.net/skychart/doku.php?id=en/start,Cartes du Ciel,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/playlist?list=PLrzbdmripj1fIXrivZF1BT4BtJMZ6xvWo,Filters for Deep Sky Astrophotography,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.stellarvue.com/optical-glass-types/,Optical Glass Types,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.photonstophotos.net,Photons to Photos,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://kstars.kde.org,KStars,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://web.archive.org/web/20230408140244/https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html,DeepSkyStacker vs PixInsight,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.lightpollutionmap.info,lightpollutionmap.info,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://stellarium.org,Stellarium,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://web.archive.org/web/20220115193835/http://www.harrysastroshed.com/Pixinsighthome.html,Harry's PixInsight tutorials,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.goodreads.com/book/show/56053741-astrophotography-is-easy,Astrophotography is Easy!: Basics for Beginners,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://software.starkeeper.it,Voyager,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://astro-photographie.fr/traitement_pixinsight.html,Processing Methods Under PixInsight,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://diffractionlimited.com/flat-fields-stray-light-amateur-telescopes/,Flat Fields and Stray Light in Amateur Telescopes,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://smallstarspot.com/metaguide/,MetaGuide,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.goodreads.com/book/show/42603255-inside-pixinsight,Inside PixInsight,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://openphdguiding.org,PHD2,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.goodreads.com/book/show/37301142-the-astrophotography-manual,The Astrophotography Manual: A Practical and Scientific Approach to Deep Sky Imaging,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.goodreads.com/book/show/61296649-the-deep-sky-imaging-primer-third-edition,The Deep-Sky Imaging Primer,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://aiastro.wordpress.com/2020/06/02/rgb-stars-from-narroband-data/,RGB Stars From Narrowband Data,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.astroworldcreations.com/blog/removing-colour-artefacts-from-osc-images,Removing Color Artefacts From OSC Images,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/watch?v=cmDy80d2krk,Stacking Multiple Sessions in DSS - The Correct Way,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/watch?v=T_k9B01AeFM,Basic Statistics for Astro Imaging,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/watch?v=SPFsoO0ZWeg,Beauty and the Beholder,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/watch?v=3RH93UvP358,Deep Sky Astrophotography With CMOS Cameras by Dr Robin Glover,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.autostakkert.com,AutoStakkert!,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/watch?v=1PUTWfWgD0g,Noise and Astrophotography,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://digitalstars.wordpress.com/2019/10/27/tutorial-how-to-eliminate-star-halos-in-pixinsight/,How to Eliminate Star Halos in PixInsight,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography
+https://www.youtube.com/watch?v=90F_cBiZpH8,How to Make a Padded Travel Box for Your Telescope,https://github.com/lunohodov/awesome-astrophotography#readme,Astrophotography

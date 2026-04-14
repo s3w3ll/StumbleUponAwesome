@@ -1,0 +1,10 @@
+http://framer.com,Framer,https://github.com/podo/awesome-framer#readme,Framer
+http://framer.com/examples,Official Examples,https://github.com/podo/awesome-framer#readme,Framer
+http://framer.com/docs,Documentation,https://github.com/podo/awesome-framer#readme,Framer
+https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/,Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio,https://github.com/podo/awesome-framer#readme,Framer
+https://www.facebook.com/groups/framerjs/,Facebook Group,https://github.com/podo/awesome-framer#readme,Framer
+https://www.youtube.com/watch?v=mqk9Fw8FKLY,Stripe Speaker Series: Designing with Framer,https://github.com/podo/awesome-framer#readme,Framer
+https://www.youtube.com/watch?v=qFUXxqzZytU,Periscope Heart Animation Demo at the Seattle FramerJS Meetup,https://github.com/podo/awesome-framer#readme,Framer
+https://www.youtube.com/watch?v=gX0n4JUl18g,FORM SF 2014: Panel - Design Tooling,https://github.com/podo/awesome-framer#readme,Framer
+http://framerjs.com/learn/basics,Framer.js Official Basics,https://github.com/podo/awesome-framer#readme,Framer
+https://www.youtube.com/playlist?list=PL9p5auxyrweMB6JVO24jFvW4NZufHacjz,Framer Video Tutorials,https://github.com/podo/awesome-framer#readme,Framer

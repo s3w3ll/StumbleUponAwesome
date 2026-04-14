@@ -1,0 +1,2 @@
+https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/,ACID vs. BASE,https://github.com/gruhn/awesome-naming#readme,Naming error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://digitalguardian.com/blog/what-cyber-hygiene-definition-cyber-hygiene-benefits-best-practices-and-more,Cyber hygiene,https://github.com/gruhn/awesome-naming#readme,Naming error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

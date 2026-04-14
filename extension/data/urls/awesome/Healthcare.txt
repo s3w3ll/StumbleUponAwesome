@@ -1,61 +1,65 @@
-https://openrem.org/,OpenREM,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK),MITK,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://akello.io,Akello,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
 https://www.bahmni.org,Bahmni,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.openehr.org,OpenEHR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.slicer.org,3D Slicer,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.orthanc-server.com,Orthanc,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.dcm4che.org/,dcm4che,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://dhiskp.gov.pk/,DHIS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://ivmartel.github.io/dwv/,DICOM Web Viewer,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://vtk.org,VTK,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://imagej.net/software/fiji/,Fiji,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.openmhealth.org,Open mHealth,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.opendental.com,Open Dental,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
 https://cottagemed.org/p/26/Download-Cottage-Med,Cottage Med,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://hosxp.net/joomla25/,HOSxP,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://openmolar.com/,OpenMolar,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://docs.smarthealthit.org/,SMART on FHIR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-http://www.gimias.org/,GIMIAS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.labkey.org,LabKey Server,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
 https://www.gnuhealth.org,GNU Health,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-http://standardhealthrecord.org/,StandardHealthRecord,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://sites.google.com/site/openelisglobal/,OpenELIS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://librehealth.io/projects/lh-ehr/,LibreHealth EHR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-http://openhim.org/,OpenHIM,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.senaite.com,SENAITE,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://horosproject.org,Horos,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.echopen.org,echOpen,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://fhirbase.github.io,FHIRBase,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://erpnext.com/open-source-healthcare,ERPNext,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://invesalius.github.io,InVesalius,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.opensafely.org,OpenSAFELY,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7,Continuity of Care Document,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://opal.openhealthcare.org.uk/,Opal,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://dicom.offis.de/dcmtk.php.en,DCMTK,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185,HL7 Version 2,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://medintux.org/,MedinTux,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://itk.org/,ITK,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging,Murgen,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://healthcare.ai,Healthcare.ai,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-http://ethercis.org,EtherCIS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-http://www.itksnap.org/pmwiki/pmwiki.php,ITK-SNAP,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.ohdsi.org/data-standardization/the-common-data-model/,OHDSI OMOP Common Data Model,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://www.open-emr.org,OpenEMR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.gnumed.de/documentation/,GNUmed,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://ehrbase.org,EHRBase,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
 https://freemedforms.com/fr/start,FreeMedForms EMR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-http://standardhealthrecord.org/shr/,Standard Health Record Collaborative,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://openlmis.org,OpenLMIS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://openaps.org/,OpenAPS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://librehealth.io/projects/lh-radiology/,LibreHealth Radiology,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://openeyes.apperta.org,OpenEyes,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
 https://hospitalrun.io,HospitalRun,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://dicom.innolitics.com/ciods,DICOM Standards Browser,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://openeobs.github.io/,open-eObs,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://galaxyproject.org/,Galaxy,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://ehubio.ehu.eus/wregex/,Wregex,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-http://www.hospital-os.com,Hospital OS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://hosxp.net/wordpress/,HOSxP,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://librehealth.io/projects/lh-ehr/,LibreHealth EHR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://medintux.org/,MedinTux,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.open-emr.org,OpenEMR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://openeyes.apperta.org,OpenEyes,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
 https://sourceforge.net/projects/openhospital/,Open Hospital,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-http://www.caisis.org/,Caisis,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
 https://openmrs.org,OpenMRS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
 https://bitbucket.org/oscaremr/oscar,OSCAR EMR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
-https://ripple.foundation/,Ripple,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.ozone-his.com,Ozone HIS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.ripple.foundation,Ripple,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7,Continuity of Care Document,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://dicom.innolitics.com/ciods,DICOM Standards Browser,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
 https://www.hl7.org/fhir/,FHIR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185,HL7 Version 2,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.ohdsi.org/data-standardization/,OHDSI OMOP Common Data Model,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.openehr.org,OpenEHR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.openmhealth.org,Open mHealth,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://docs.smarthealthit.org/,SMART on FHIR,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://openeobs.github.io/,open-eObs,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.slicer.org,3D Slicer,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.dcm4che.org/,dcm4che,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://ivmartel.github.io/dwv/,DICOM Web Viewer,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://imagej.net/software/fiji/,Fiji,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://horosproject.org,Horos,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://invesalius.github.io,InVesalius,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://itk.org/,ITK,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+http://www.itksnap.org/pmwiki/pmwiki.php,ITK-SNAP,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://librehealth.io/projects/lh-radiology/,LibreHealth Radiology,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://kheops.online,Kheops,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://openrem.org/,OpenREM,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.orthanc-server.com,Orthanc,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://vtk.org,VTK,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.opendental.com,Open Dental,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://openmolar.com/,OpenMolar,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://openelis-global.org,OpenELIS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.senaite.com,SENAITE,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://fhirbase.github.io,FHIRBase,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://inferno-framework.github.io,Inferno,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://opal.openhealthcare.org.uk/,Opal,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://dicom.offis.de/dcmtk.php.en,DCMTK,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK),MITK,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://scanpy.readthedocs.io/,Scanpy,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://hcw-at-home.com,Healthcare worker at home,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.i2b2.org,i2b2,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.labkey.com/products-services/labkey-server/,LabKey Server,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+http://openhim.org/,OpenHIM,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://zato.io/en/industry/healthcare/index.html,Zato,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging,Murgen,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://openaps.org/,OpenAPS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://galaxyproject.org/,Galaxy,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://ehubio.ehu.eus/wregex/,Wregex,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+http://www.caisis.org/,Caisis,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://ctakes.apache.org/,cTAKES,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.ihris.org/toolkit-new/,IHRIS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://www.opensafely.org,OpenSAFELY,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://healthcare.ai,Healthcare.ai,https://github.com/kakoni/awesome-healthcare#readme,Healthcare
+https://openlmis.org,OpenLMIS,https://github.com/kakoni/awesome-healthcare#readme,Healthcare

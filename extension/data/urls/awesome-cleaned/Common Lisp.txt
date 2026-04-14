@@ -1,0 +1,337 @@
+https://www.reddit.com/r/Common_Lisp/,/r/Common_Lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.reddit.com/r/learnlisp/,/r/learnlisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://nikodemus.github.io/pileup/,pileup,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://atgreen.github.io/repl-yell/posts/pure-tls/,Building a TLS 1.3 implementation in Common Lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://binghe.github.io/pcl-cn/,Chinese simplified,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://sharplispers.github.io/lparallel/,good documentation,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisp-maintainers.github.io/periods/,some documentation,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://cl-community-spec.github.io/pages/index.html,CL CommunitySpec,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://zealdocs.org/,Zeal,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.sbcl.org/index.html,SBCL,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://awesome-cl.com,,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://zaries.wordpress.com/2022/05/31/cl-naive-store/,the introductory blog post,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.lmdb.tech/doc/,LMDB,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.reddit.com/r/Common_Lisp/comments/1hz5879/new_binary_serializationdeserialization_library/,reddit announce,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://atgreen.github.io/repl-yell/posts/pure-tls-acme/,Automatic TLS Certificates for Common Lisp with pure-tls/acme,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/cl-projects/abcl-memory-compiler,abcl-memory-compiler,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp,videos,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/Gnuxie/method-hooks,method-hooks,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://coalton.app/,Coalton.app playground,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://40ants.com/clack-cors/,clack-cors,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://ds26gte.github.io/pregexp/index.html,pregexp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html,Common LISP: A Gentle Introduction to Symbolic Computation,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://medium.com/@MartinCracauer/static-type-checking-in-the-programmable-programming-language-lisp-79bb79eb068a,Static type checking in the programmable programming language,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://40ants.com/scrapycl/,scrapycl,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisp-journey.gitlab.io/blog/overview-of-documentation-generators/,https://lisp-journey.gitlab.io/blog/overview-of-documentation-generators/,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/johnlorentzson/asdf-dependency-traverser/,asdf-dependency-traverser,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://en.wikipedia.org/wiki/Communicating_sequential_processes,CSP,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/mmap,mmap,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://40ants.com/clack-prometheus/,clack-promotheus,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/tooter,tooter,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/sasanidas/maxima,maxima-mode,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net,common-lisp.net,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://en.wikipedia.org/wiki/Central_Authentication_Service,CAS authenticaton,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://ultralisp.org/,Ultralisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://cl-doc-systems.github.io/,https://cl-doc-systems.github.io/,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://velocity.silverlakesoftware.com/,Velocity,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shirakumo/trial,Trial,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://assertible.com/docs/guide/deployments,,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/ratify,ratify,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://digikar99.github.io/numericals/,https://digikar99.github.io/numericals/,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.rondb.com/,RonDB,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://geany.org/,Geany,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f,good introductory blog post,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://discord.gg/hhk46CE,Lisp Discord Server,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.clpm.dev,CLPM,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://leanpub.com/lovinglisp,Loving Common Lisp, or the Savvy Programmer's Secret Weapon,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://ide.judge0.com/?lUpj,Judge0 IDE,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html,Blog post,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.youtube.com/watch?v=4bl8PS8OW94&list=PLxbqYr4DvjX68AEdLky4IiHG69VJu6f5s,demo video,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://novaspec.org/,novaspec,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/ediethelm/trivial-monitored-thread,trivial-monitored-thread,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://successful-lisp.blogspot.com/,Successful Lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/file-notify,file-notify,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://landoflisp.com/,Land of Lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://semver.org,Semantic Versioning,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.common-lisp.net/ecl/ecrepl,ecrepl,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/LASS,LASS,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/cl-docker-images/,cl-docker-images,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://kandria.com/,Kandria,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.peter-herth.de/ltk/,ltk,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/,blog post announce,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lispcookbook.github.io/cl-cookbook/dynamic-libraries.html,Tutorial,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/anaphora/,anaphora,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lispcookbook.github.io/cl-cookbook/debugging.html,Cookbook / debugging,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shirakumo/radiance,radiance,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://orthecreedence.github.io/blackbird/,Blackbird,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://dydra.com/home,Dydra,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.common-lisp.net/project/antik/,antik,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.lispworks.com/,LispWorks,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://community.chocolatey.org/packages/sbcl,SBCL on Chocolatey for Windows,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/iterate/,iterate,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.xach.com/lisp/salza2/,Salza2,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://weitz.de/cl-gd/,cl-gd,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisp.com.br/quicksys/,Quicksys,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html,this blog post,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.common-lisp.net/project/cl-irc/,cl-irc,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.lisp-screenshots.org/,lisp-screenshots.org,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://riju.codes/commonlisp,Riju,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://screenshotbot.io/blog/building-a-highly-available-web-service-without-a-database,blog post,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/for/,for,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/lockie/docker-lisp-gamedev,docker-lisp-gamedev,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://irclog.tymoon.eu/libera/%23commonlisp,#commonlisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.martin-loetzsch.de/gtfl/,GTFL,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://cl-git.russellsim.org/,cl-git,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://franz.com/products/allegro-common-lisp/,Allegro CL,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://weitz.de/cl-who/,cl-who,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://letoverlambda.com/,Let Over Lambda,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/Shinmera/dns-client,dns-client,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/gsll/,GSLL,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gi.readthedocs.io/en/latest/,Gobject Introspection,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisperator.net/slip/,SLip,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://smelter.app/,smelter,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/legit/,legit,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://diode.zone/videos/watch/9e379a86-c530-4e9d-b8be-7437b1f7200b,demo video,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/dns-client/,documentation,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/Shinmera/promise,promise,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://cs.gmu.edu/~sean/lisp/LispTutorial.html,Lisp Quickstart,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://lisp-lang.org/success/,lisp-lang.org's success stories,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://neil-lindquist.github.io/linear-programming/,linear-programming,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/ralt/linux-packaging,linux-packaging,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://fossil.cyberia9.org/cl-remizmq/index,cl-remizmq,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://mozilla.org/MPL/2.0/,MPL-2.0,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/zippy,zippy,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/clip,clip,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/humbler,humbler,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://clqr.boundp.org/index.html,Common Lisp Quick Reference,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://etcd.io/,etcd,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/ubiquitous,ubiquitous,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/asdf/uiop.html,uiop,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/,announce,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html,some caveats,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/trivial-benchmark,trivial-benchmark,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://fiveam.common-lisp.dev/docs/index.html,FiveAM documentation,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html,Static Executables with SBCL,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://bitbucket.org/eeeickythump/defstar/src/master/,defstar,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://irclog.tymoon.eu/libera/%23lisp,#lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://cicadas.surf/cgit/colin/gtwiwtg.git/about/,gtwiwtg,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://portability.cl/,portability.cl/,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisperator.net/ymacs/,Ymacs,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/dto/xelf/,Xelf,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/3d-matrices,3d-matrices,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.lisperati.com/casting.html,Casting SPELs in LISP,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.common-lisp.net/cl-smtp/cl-smtp,cl-smtp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/fourier/git-api,git-api,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/mmontone/mold-desktop,mold-desktop,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.lispworks.com/success-stories/index.html,LispWorks' success stories,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://peterlane.codeberg.page/ltk-examples/,LTk Examples,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358,Common Lisp Programming: from novice to effective developer,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://planet.lisp.org/,Planet Lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://ccl.clozure.com/,CCL,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/ralph-schleicher/flatpak-common-lisp,flatpack-common-lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/digikar/peltadot/,PELTADOT,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://franz.com/success/,Allegro's success stories,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/ambrevar/lisp-repl-core-dumper/,Lisp REPL core dumper,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/multiposter,multiposter,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shirakumo.github.io/cl-gamepad,cl-gamepad,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lispcookbook.github.io/cl-cookbook/,The Common Lisp Cookbook,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/simple-tasks,simple-tasks,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisp-stat.dev/,https://lisp-stat.dev/,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.postgresql.org/about/licence/,PostgreSQL Licence,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.common-lisp.net/bpm/f-underscore,f-underscore,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisperator.net/s/slip/,Live demo,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/parachute,Parachute,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/trivial-arguments,trivial-arguments,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/cl-plus-j/,cl+j,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://40ants.com/cl-telegram-bot/,cl-telegram-bot,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.cons.org/cmucl/,CMUCL,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.youtube.com/watch?v=lGS4sr6AzKw,this Youtube video,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/,Why is pgloader so much faster?,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/kilianmh/openapi-generator,openapi-generator,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/cage/cl-i18n,cl-i18n,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/khinsen/clog-moldable-inspector,clog-moldable-inspector,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shirakumo.github.io/cl-mpg123,cl-mpg123,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://40ants.com/lisp-project-of-the-day/,Lisp project of the day,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP,Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://link.springer.com/book/10.1007/978-1-4842-6428-7,Programming Algorithms in Lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/cl-tar/,cl-tar,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/,Blog post,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/kilianmh/openai-openapi-client,openai-openapi-client,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/parenscript/,Parenscript,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://data-star.dev/,Datastar,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://wxmaxima-developers.github.io/wxmaxima/,wxMaxima,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/cl-prevalence/,cl-prevalence,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/staple,Staple,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/deeds,deeds,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://nlnet.nl/project/ECL/,NLNET grant in 2025,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://peterlane.codeberg.page/ltk-plotchart/,LTk Plotchart,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shirakumo.github.io/cl-out123,cl-out123,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://chat.hexstreamsoft.com/,Common Lisp chat,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.odata.org,OData services,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/definitions,definitions,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/cocoas,cocoas,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://en.wikipedia.org/wiki/AI_Challenge,AI Challenge,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://medium.com/@MartinCracauer/a-gentle-introduction-to-compile-time-computing-part-1-d4d96099cea0,Part 1,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/cage/clunit2/,CLUnit2,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://maxima-on-wasm.pages.dev/,Maxima in the browser on WASM,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://weitz.de/cl-fad/,cl-fad,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://ap5.com/,AP5,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://norvig.com/paip.html,Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.lispworks.com/documentation/lw50/CLHS/Front/index.htm,CLHS,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/oxenfurt,oxenfurt,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://dev.to/vindarel/read-csv-files-in-common-lisp-cl-csv-data-table-3c9n,example blog post,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisp-lang.org/,lisp-lang.org,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/lquery,lquery,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://leanpub.com/progalgs,Programming Algorithms,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.timmons.dev/posts/new-project-cl-tar.html,Announce,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://homepage.stat.uiowa.edu/~luke/xls/xlsinfo/,XLisp-Stat,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf,Common Lisp Standard Draft (pdf),https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.cs.utexas.edu/users/moore/acl2/,ACL2,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lem-project.github.io/modes/coalton-lang/,Lem editor mode for Coalton,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/dissect,dissect,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/north,north,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://dataspice.interlaye.red/,https://dataspice.interlaye.red/,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://sphinxcontrib-cldomain.russellsim.org/,sphinxcontrib-cldomain,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://cicadas.surf/cgit/colin/testiere.git/about/,testiere,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/spaghettisalat/maxima/-/tree/emscripten-port-deployed,sources,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.youtube.com/watch?v=7sgERtZkycU,related talk,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/sasanidas/cedar,CEDAR,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://mmontone.github.io/dpans2texi/,https://mmontone.github.io/dpans2texi/,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://allegrograph.com/,AllegroGraph,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://medium.com/@MartinCracauer/a-gentle-introduction-to-compile-time-computing-part-2-cb0a46f6cfe8,Part 2,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/language-codes,language-codes,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://repl.chee.party/,a proof-of-concept REPL inside a browser,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://cgi.cse.unsw.edu.au/~eptcs/Published/ACL2in2025/Proceedings.pdf,Proceedings of the 19th International Workshop on the ACL2 theorem prover and its applications, 2025 (PDF),https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf,Norvig's Lisp style,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/cage/nodgui,nodgui,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisp-stat.dev/docs/manuals/data-frame/,lisp-stat's data-frames read-csv,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://simonsafar.com/2020/sbcl/,SBCL internals,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html,tutorial,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://guicho271828.github.io/eazy-gnuplot/,cookbook,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://wiki.tcl-lang.org/page/List+of+ttk+Themes,tk custom themes,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://hamcrest.org/,Hamcrest,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/pathname-utils,pathname-utils,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html,Common Lisp the Language,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisp-lang.org/style-guide/,lisp-lang.org's style guide,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/CLSS,clss,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/deploy,deploy,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://sabracrolleton.github.io/json-review,extensive comparison,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://allegrograph.cloud/,hosted version,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/system-locale,system-locale,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://ttkthemes.readthedocs.io/en/latest/themes.html,ttkthemes,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://sabracrolleton.github.io/testing-framework,Sabra Crolleton's extensive test frameworks comparison,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.xach.com/lisp/vecto/,Vecto,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lamberta.github.io/minispec/,Minispec,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://apps.kde.org/cantor/,KDE Cantor,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://nickfa.ro/wiki/Building_with_Parenscript_and_Preact,Building a Freecell game with ParenScript and Preact,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://docs.codewars.com/languages/commonlisp/,Codewars,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://old.reddit.com/r/Common_Lisp/comments/1q30bqh/atgreenclsanitizehtml_a_common_lisp_library_for/,reddit announce,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://jscl-project.github.io/,live playground,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://pvs.csl.sri.com/,PVS,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/multilang-documentation,multilang-documentation,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/filesystem-utils,filesystem-utils,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lispcookbook.github.io/cl-cookbook/web.html,Section on Web Development in The Common Lisp Cookbook,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://weitz.de/cl-ppcre/,cl-ppcre,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/naive-x/cl-naive-store,cl-naive-store,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.qrg.northwestern.edu/BPS/readme.html,Building Problem Solvers,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://hyperdoc.khinsen.net/,HyperDoc,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/py-configparser/,py-configparser,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://wiki3-ai.github.io/jscl-kernel/,live JupyterLite playground,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/Equill/neo4cl,neo4cl,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://web-apps-in-lisp.github.io/,Web Apps in Lisp: Know-how,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.qrg.northwestern.edu/BPS/BPS-Searchable.pdf,PDF,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/armedbear/,ABCL,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/cage/trivial-sanitize,trivial-sanitize,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.xach.com/lisp/zpng/,zpng,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://learnxinyminutes.com/docs/common-lisp/,Learn X in Y minutes - Where X = Common Lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/file-attributes,file-attributes,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/adw-charting/,ADW-Charting,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.tecgraf.puc-rio.br/iup/,IUP,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://jtra.cz/stuff/lisp/sclr/index.html,Simplified Common Lisp reference,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/local-time/,local-time,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/clouchdb/,clouchdb,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.heliohost.org/,Heliohost,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://marijnhaverbeke.nl/cl-javascript/,CL-JavaScript,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/contrapunctus/anathema,Anathema,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/osicat/,osicat,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/eql,eql, eql5, eql5-android,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/fuzzy-dates,fuzzy-dates,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/akashadutchie/sly-mrepl-db,sly-mrepl-db,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://tomscii.sig7.se/barium/,Barium,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://michael-edwards.org/sc/,https://michael-edwards.org/sc/,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.nearlyfreespeech.net/,Nearly Free Speech,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://play.google.com/store/apps/details?id=org.eql5.android.repl&pcampaignid=web_share,EQL5 on the Android store,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/DataLinkDroid/iso-8601-date,iso-8601-date,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://git.sr.ht/~michal_atlas/clingon-scripter,clingon-scripter,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/bordeaux-threads/,BordeauxThreads,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://marijnhaverbeke.nl/parse-js/,parse-js,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shirakumo.github.io/harmony,Harmony,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/lockie/lisp-sentry,lisp-sentry,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/fourier/ppath,ppath,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/cxml/,CXML,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/HiPhish/quicklisp.nvim,quicklisp.nvim,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/file-select,file-select,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lem-project.github.io/,https://lem-project.github.io/,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://tailrecursion.com/JACL/,JACL,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/crypto-shortcuts,crypto-shortcuts,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://ceramic.github.io/,ceramic,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.incompleteideas.net/book/the-book.html,Reinforcement Learning: An Introduction,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://git.sr.ht/~hajovonta/cl-jsonpath,cl-jsonpath,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/plump,Plump,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/mcclim/,McCLIM,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.youtube.com/watch?v=IMN7feOQOak,Rooms: Lem on the cloud,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/linedit,Linedit,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/,Three web views for Common Lisp,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://awards.acm.org/about/2024-turing,2024 ACM A.M. Turing Award,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/fourier/lw-rich-text/,lw-rich-text,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://webui.me/,webui,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.common-lisp.net/project/okra/manual.html,okra,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lispcookbook.github.io/cl-cookbook/gui.html,the Cookbook/GUI,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.sublimetext.com/3,Sublime Text,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/kilianmh/bitcoin-core-rpc/,bitcoin-core-rpc,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/plexippus-xpath/atdoc/index.html,homepage,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://lispcookbook.github.io/cl-cookbook/vscode-alive.html,using VSCode with Alive,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/linedit/license.html,MIT-style,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.lispworks.com/products/lw4mr.html,LispWork's mobile runtime,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.lispworks.com/products/capi.html,LispWork's CAPI,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/text-draw,text-draw,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://franz.com/products/allegro-common-lisp/acl_gui_tools.lhtml,Allegro's Common Graphics,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/eql/lqml,LQML,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://franz.com/ftp/pri/acl/cgjs/doc.html,runs in the browser,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.stms-lab.fr/team/representations-musicales/,IRCAM,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://weitz.de/hunchentoot/,Hunchentoot,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://spwhitton.name/tech/code/consfigurator/,Consfigurator,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.youtube.com/watch?v=XVEllB0TtVs,demo video,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://git.sr.ht/~dieggsy/f-string,f-string,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://opensource.org/licenses/bsd-license.php,2-clause BSD,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://dev.to/goober99/learn-common-lisp-by-example-gtk-gui-with-sbcl-5e5c,Learn Common Lisp by Example: GTK GUI with SBCL,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://hub.docker.com/r/eshamster/cl-devel2/,cl-devel2,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://jasom.github.io/clack-tutorial/posts/getting-started-with-clack/,getting started guide,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://ccrma.stanford.edu/software/clm/,CLM,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://git.sr.ht/~shunter/mstrings,mstrings,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/qtools/,Qtools,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/IDEmacs/IDEmacs,IDEmacs,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/digikar/moonli,Moonli,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://gitlab.com/gnu-clisp/clisp,on Gitlab,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/qtools-ui,Qtools-ui,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://portability.cl,portability.cl,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/cl-all,cl-all,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://ccrma.stanford.edu/software/cmn/,Common Music Notation,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.youtube.com/watch?v=xzTH_ZqaFKI,live coding demos,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/alexandria/,alexandria,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/asdf/,ASDF,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://marijnhaverbeke.nl/postmodern/,postmodern,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://nanako.mooo.com/fossil/cl-remiyaml/index,cl-RemiYaml,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+http://www.slideshare.net/fukamachi/sblint,slides,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/trivial-extensible-sequences,trivial-extensible-sequences,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://shinmera.github.io/verbose,verbose,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://sabracrolleton.github.io/logging-comparison,extensive comparison of logging libraries,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/fset,FSet,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/cage/cl-pslib,cl-pslib,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/cage/cl-pslib-barcode,cl-pslib-barcode,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://scottlburson2.blogspot.com/2024/10/comparison-fset-vs-sycamore.html,FSet vs. Sycamore,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/machine-state/,machine-state,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/glv/bst,bst,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://common-lisp.net/project/trivial-utf-8/,trivial-utf8,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://codeberg.org/shinmera/modularize,modularize,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp
+https://www.common-lisp.net/project/bknr/html/documentation.html,Manual,https://github.com/CodyReichert/awesome-cl#readme,Common Lisp

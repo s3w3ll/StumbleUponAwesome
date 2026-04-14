@@ -1,1 +1,3 @@
 https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d,A Roadmap To Become A Better Android Developer,https://github.com/liuchong/awesome-roadmaps#readme,Roadmaps
+https://www.scaler.com/blog/java-full-stack-developer-roadmap/,Java Full Stack Developer Roadmap,https://github.com/liuchong/awesome-roadmaps#readme,Roadmaps
+https://www.appliedaicourse.com/blog/data-analytics-roadmap/,Data Analytics Roadmap,https://github.com/liuchong/awesome-roadmaps#readme,Roadmaps

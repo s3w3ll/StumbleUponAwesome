@@ -1,0 +1,3 @@
+https://sindresorhus.com/supercharge,Supercharge,https://github.com/sindresorhus/awesome#readme,Awesome
+https://ref.wisprflow.ai/VjA6dYR,Wispr Flow,https://github.com/sindresorhus/awesome#readme,Awesome
+https://depot.dev?utm_source=github&utm_medium=sindresorhus,Fast remote container builds and GitHub Actions runners.,https://github.com/sindresorhus/awesome#readme,Awesome

@@ -1,0 +1,2 @@
+https://scalegrid.io,Scalegrid,https://github.com/ramnes/awesome-mongodb#readme,MongoDB error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode,MongoDB for VS Code,https://github.com/ramnes/awesome-mongodb#readme,MongoDB error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

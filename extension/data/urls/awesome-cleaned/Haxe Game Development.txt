@@ -1,0 +1,20 @@
+https://store.steampowered.com/app/939100/Darksburg/,Darksburg,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://feathersui.com/,Feathers UI,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+http://www.doublezeroonezero.com/westport.html,The Westport Independent,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://dead-cells.com/,Dead Cells,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php,Flash is dead, long live OpenFL!,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://www.openfl.org/showcase,OpenFL showcase,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+http://www.defendersquest.com/,Defender's Quest,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://haxeflixel.com/showcase/,HaxeFlixel showcase,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://www.linkedin.com/pulse/flash-gone-what-now-matan-uberstein/,Flash is gone, what now?,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/,Defender's Quest 2,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://itch.io/games/made-with-haxe,itch.io showcase,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://lib.haxe.org/p/newgrounds,newgrounds,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+http://diceydungeons.com/,Dicey Dungeons,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://gitlab.com/haath/goap,goap,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://gitlab.com/haath/astar,astar,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+http://haxeui.org/,HaxeUI,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+http://evoland.shirogames.com/,Evoland,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+http://papersplea.se/,Papers, Please,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://store.steampowered.com/app/462620/Pocket_Kingdom/,Pocket Kingdom,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development
+https://rymdkapsel.com/,rymdkapsel,https://github.com/Dvergar/awesome-haxe-gamedev#readme,Haxe Game Development

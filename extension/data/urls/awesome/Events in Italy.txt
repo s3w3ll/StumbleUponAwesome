@@ -1,14 +1,14 @@
-https://2021.vueday.it/,VueDay 2021,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
 https://globalgamejam.org/,Global Game Jam,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
 https://shipping-40.sharevent.it/,Shipping 4.0,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
 https://rome.serverlessdays.io/,ServerlessDays 2021,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
 https://aws.amazon.com/events/aws-innovate/machine-learning/,AWS Innovate ML & AI,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
-https://www.hackinbo.it/,HackInBo,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
 https://myignite.microsoft.com/home,Microsoft Ignite,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
-https://www.romhack.io/,RomHack,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
 https://2021.cssday.it/,CSSDay 2021,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
 https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/,Codemotion Online tech conference 2021,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
 https://itasec.it/,ITASEC 21,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
 https://2021.rubyday.it/,RubyDay 2021,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
-https://italy.cyberseries.io/,ItaliaSec,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
 https://www.secsolutionforum.it/,Secsolutionforum,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
+https://2021.vueday.it/,VueDay 2021,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
+https://www.hackinbo.it/,HackInBo,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
+https://www.romhack.io/,RomHack,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy
+https://italy.cyberseries.io/,ItaliaSec,https://github.com/ildoc/awesome-italy-events#readme,Events in Italy

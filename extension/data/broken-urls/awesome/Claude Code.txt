@@ -1,0 +1,2 @@
+https://www.linkedin.com/in/seongil-park/,Ethan Park,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code error: <HTTPError 999: '<none>'> | reason: <none>
+https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat,Claude Code Chat,https://github.com/hesreallyhim/awesome-claude-code#readme,Claude Code error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

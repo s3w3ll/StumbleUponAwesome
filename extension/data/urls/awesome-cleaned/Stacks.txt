@@ -1,0 +1,68 @@
+https://www.stacks.co,,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.youtube.com/watch?v=NY_eUrIcWOY&t=3s,Proof of Transfer Whitepaper Reading with Muneeb Ali,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://signal21.io/,Signal21,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.stacks.co/what-is-stacks,Stacks,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://stxer.xyz/,STXER,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://app.lisalab.io,Lisa,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.x402stacks.xyz,x402 Stacks,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://clarity-lang.org/,Clarity language,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.velar.co/,Velar,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.crowdcast.io/e/web3-for-bitcoin/,Web3 for Bitcoin,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://sendstx.com,Send Many,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://app.lydian.xyz,Lydian,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.zestprotocol.com/,Zest Protocol,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.youtube.com/watch?v=WaTMCremGwE,Why Build on Stacks,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://stacking-tracker.com,Stacking Tracker,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.hiro.so/stacks-api,Stacks API,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.quicknode.com/chains/stx,Quicknode,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://minecitycoins.com,CityCoins,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://fak.fun,FakFun,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://docs.stacks.co/tutorials/bitcoin-primer/introduction,Bitcoin Primer,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://asigna.io,Asigna,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://app.alexlab.co,Alex Lab,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://leather.io/,Leather Wallet,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://marketplace.digitalocean.com/apps/stacks-blockchain,Self-Hosted Digital Ocean,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://web3.okx.com/download,OKX Web3 Wallet,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.projectindigonft.com,Project Indigo,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://book.clarity-lang.org/,Clarity of Mind,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://arkadiko.finance,Arkadiko Protocol,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://docs.stacks.co/,Official Stacks documentation,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://clarity-lang.org/universe,Clarity Universe,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.xverse.app,Xverse Wallet,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://dev.to/stacks/understanding-stacks-post-conditions-e65,Understanding Stacks Post Conditions,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://speed-spend.org,Speed Spend,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://blocksurvey.io,Blocksurvey,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://docs.reown.com/advanced/multichain/rpc-reference/stacks-rpc,WalletConnect,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://granite.world/,Granite,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://discord.gg/zrvWsQC,Discord,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://app.leather.io/stacking,Stacking on Leather,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://docs.hiro.so/,Hiro documentation,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.youtube.com/c/Blockstack,YouTube,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://dev.to/stacks/test-driven-stacks-development-with-clarinet-2e4i,Test-Driven Stacks Development with Clarinet,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.bsd.money/,BSD,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://explorer.hiro.so/?chain=mainnet,Hiro Explorer,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://stacks101.com,Stacks 101,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://fastpool.org/,Fast pool,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://forum.stacks.org/,Official Stacks Forum,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.reddit.com/r/stacks,r/stacks,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://youtu.be/lXJutQqDq3w,Clarity 101,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://micro-stacks.dev/guides/with-remix,Build a Stacks app with Remix,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://app.hermetica.fi,USDh,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://micro-stacks.dev/guides/with-nextjs,Build a Stacks app with Next.js,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://planbetter.com/,PlanBetter pool,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.crowdcast.io/e/clarity-program,Developer Registry 101,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://aibtc.com/,AIBTC,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://pool.xverse.app/,Xverse pool,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://stxtools.io/,STXTools,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://fatstx.github.io/,FatStx,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.youtube.com/watch?v=VYXhrwPsBws,How Clarity Prevents Common Smart Contract Vulnerabilities,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.stackspulse.com/,Stacks Pulse,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.bnsv2.com/,BNS V2,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.stackingdao.com/,Stacking DAO,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://btc.us,btc.us,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.thisisnumberone.com,This is #1,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://owl.link,Owl.link,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://www.bitflow.finance/,Bitflow,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://explorer.hiro.so/txid/SP3QSAJQ4EA8WXEDSRRKMZZ29NH91VZ6C5X88FGZQ.thisisnumberone-v2?chain=mainnet,contract,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://nothingtoken.xyz/,Nothing,https://github.com/friedger/awesome-stacks-chain#readme,Stacks
+https://explorer.hiro.so/txid/SP32AEEF6WW5Y0NMJ1S8SBSZDAY8R5J32NBZFPKKZ.nope?chain=mainnet,contract,https://github.com/friedger/awesome-stacks-chain#readme,Stacks

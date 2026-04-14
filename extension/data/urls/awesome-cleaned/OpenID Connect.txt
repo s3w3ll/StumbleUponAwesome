@@ -1,0 +1,109 @@
+https://gluu.org/,Gluu,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://docs.spring.io/spring-security/reference/servlet/oauth2/login/index.html,Spring Security,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://oauth.net/,OAuth,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.amazon.com/Keycloak-Management-Applications-protocols-applications-ebook/dp/B092KP135B/,2021 - Keycloak - Identity and Access Management for Modern Applications: Harness the power of Keycloak, OpenID Connect, and OAuth 2.0 protocols to secure applications by Stian Thorgersen and Pedro Igor Silva,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7519,JSON Web Token (JWT),https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://auth0.com/docs/authenticate/protocols/openid-connect-protocol,Auth0,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc9701,JWT Response for OAuth Token Introspection,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/draft-ietf-spice-oidc-cwt-01.html,OpenID Connect Standard Claims Registration for CBOR Web Tokens,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc8705,OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://wso2.com/identity-server/,WSO2 Identity Server,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc9068,JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.amazon.com/Solving-Identity-Management-Modern-Applications-ebook/dp/B0BMQHF83G/,2022 - Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2 by Yvonne Wilson,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.gravitee.io/platform/access-management,Gravitee.io,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc9728,OAuth 2.0 Protected Resource Metadata,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.authelia.com/,Authelia,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7517,JSON Web Key (JWK),https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://kinde.com,Kinde,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://blog.bytebytego.com/i/135955829/oauth-explained-with-simple-terms,ByteByteGo,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc9101,OAuth 2.0 JWT-Secured Authorization Request (JAR),https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-connect-registration-1_0.html,OpenID Connect Dynamic Client Registration,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol,OAuth for Model Context Protocol,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://wordpress.org/plugins/miniorange-login-with-eve-online-google-facebook/,MiniOrange OAuth SSO,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7516,JSON Web Encryption (JWE),https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc9700,OAuth 2.0 Security Best Current Practice,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.authlete.com/,Authlete,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc8628,urn:ietf:params:oauth:grant-type:device_code,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7515,JSON Web Signature (JWS),https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7662,OAuth 2.0 Token Introspection,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.okta.com/,Okta,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc6819,OAuth 2.0 Threat Model and Security Considerations,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7523,urn:ietf:params:oauth:grant-type:jwt-bearer,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://aaronparecki.com/articles,Aaron Parecki,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc9396,OAuth 2.0 Rich Authorization Requests (RAR),https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7522,urn:ietf:params:oauth:grant-type:saml2-bearer,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://portswigger.net/web-security/oauth,OAuth common vulnerabilities,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.cerberauth.com/,CerberAuth,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-connect-discovery-1_0.html,OpenID Connect Discovery 1.0,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-connect-eap-acr-values-1_0.html,OpenID Connect Extended Authentication Profile (EAP) ACR Values 1.0,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc8176,OAuth 2.0 Authentication Method Reference Values,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc8693,urn:ietf:params:oauth:grant-type:token-exchange,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.alibabacloud.com/en/product/identity-as-a-service-idaas,Alibaba Cloud IDaaS,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc8707,Resource Indicators for OAuth 2.0,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc6750,OAuth 2.0 Authorization Framework: Bearer Token Usage,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.microsoft.com/en-us/security/business/solutions/identity-access,Microsoft Entra ID,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.iamdevbox.com/posts/mcp-oauth-21-authentication-how-ai-agents-securely-connect-to-tools/,MCP OAuth 2.1 Authentication: How AI Agents Securely Connect to Tools,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-federation-1_0.html,OpenID Connect Federation 1.0,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7636,Proof Key for Code Exchange (PKCE) Extension,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.onelogin.com/,OneLogin,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc8252,OAuth 2.0 for Native Apps,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-financial-api-part-1-1_0.html,Financial-grade API Security Profile 1.0 - Part 1: Baseline,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc9207,OAuth 2.0 Authorization Server Issuer Identification,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://nacho.cerberauth.com/,Nacho,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-connect-frontchannel-1_0.html,OpenID Connect Front-Channel Logout,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.oauth.com/playground/,OAuth.com Playground,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc8392,CBOR Web Token (CWT),https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-connect-core-1_0.html,OpenID Connect Core 1.0,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/authorization-api-1_0-01.html,OpenID AuthZEN,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-financial-api-part-2-1_0.html,Financial-grade API Security Profile 1.0 - Part 2: Advanced,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc9126,OAuth 2.0 Pushed Authorization Requests,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.secureauth.com/,SecureAuth,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc6749,The OAuth 2.0 Authorization Framework,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://curity.io/resources/openid-connect/,Curity Resources,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.ibm.com/products/verify,IBM Verify,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/fapi-security-profile-2_0.html,FAPI 2.0 Security Profile,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-connect-backchannel-1_0.html,OpenID Connect Back-Channel Logout,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://mojoauth.com,MojoAuth,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-financial-api-ciba.html,Financial-grade API: Client Initiated Backchannel Authentication Profile,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/oauth-v2-jarm.html,JWT Secured Authorization Response Mode for OAuth 2.0 (JARM),https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://oauth.tools/,Curity Playground,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://mojoauth.com/oidc-playground/,MojoAuth: Passkey Playground,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://connect2id.com/products/server,Connect2id,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-connect-prompt-create-1_0.html,Initiating User Registration via OpenID Connect,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps,OAuth 2.0 for Browser-Based Apps,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.sailpoint.com/,SailPoint,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://developer.okta.com/blog/tags/oidc/,Okta Blog,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-connect-session-1_0.html,OpenID Connect Session Management,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-connect-rpinitiated-1_0.html,OpenID Connect RP-Initiated Logout,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/fapi-attacker-model-2_0.html,FAPI 2.0 Attacker Model,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt,Selective Disclosure for JWTs (SD-JWT),https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://help.sap.com/docs/SAP_CUSTOMER_DATA_CLOUD/8b8d6fffe113457094a17701f63e3d6a/4167c2d870b21014bbc5a10ce4041860.html,SAP Customer Identity,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc8414,OAuth 2.0 Authorization Server Metadata,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://oauth.kogiqa.com/,OAuth Mock Server,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://curity.io/product/,Curity Identity Server,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/fapi-message-signing-2_0.html,FAPI 2.0 Message Signing,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-client-initiated-backchannel-authentication-core-1_0.html,OpenID Connect Client-Initiated Backchannel Authentication Flow - Core 1.0,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7009,OAuth 2.0 Token Revocation,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://medium.com/oauth-2,Medium OAuth 2.0,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-13,OAuth 2.1,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7592,OAuth 2.0 Dynamic Client Registration Management Protocol,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://gitlab.com/openid/conformance-suite,OpenID Foundation conformance suite,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth-07,OAuth 2.0 Attestation-Based Client Authentication,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-provider-authentication-policy-extension-1_0.html,OpenID Provider Authentication Policy Extension 1.0,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc7591,OAuth 2.0 Dynamic Client Registration Protocol,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://mvnrepository.com/artifact/com.nimbusds/oauth2-oidc-sdk,com.nimbusds/oauth2-oidc-sdk,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.oreilly.com/library/view/getting-started-with/9781449317843/,2012 - Getting Started with OAuth 2.0 by Ryan Boyd,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.pingidentity.com/en/platform/capabilities/authentication-authority/pingfederate.html,PingFederate,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://datatracker.ietf.org/doc/html/rfc9449,OAuth 2.0 Demonstrating Proof of Possession (DPoP),https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.amazon.com/OAuth-2-0-Simplified-Aaron-Parecki/dp/1387751514/,2018 - OAuth 2.0 Simplified by Aaron Parecki,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.amazon.com/Little-Book-OAuth-2-0-RFCs/dp/B084DFYJS1/,2020 - The Little Book of OAuth 2.0 RFCs by Aaron Parecki,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/specs/openid-sharedsignals-framework-1_0-ID3.html,OpenID Shared Signals Framework Specification 1.0,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://docs.descope.com/identity-federation/applications/oidc-apps,Descope,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://self-issued.info/,Mike Jones: Self-Issued,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.broadcom.com/products/identity/siteminder,SiteMinder,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.iamdevbox.com/,IAMDevBox,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://ssojet.com,SSOJet,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://duendesoftware.com/products/identityserver,Duende IdentityServer,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://openid.net/,OpenID,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://www.keycloak.org/,Keycloak,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect
+https://developer.transmitsecurity.com/guides/user/auth_oidc/,Transmit Security,https://github.com/cerberauth/awesome-openid-connect#readme,OpenID Connect

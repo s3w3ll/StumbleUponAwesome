@@ -1,1 +1,4 @@
-http://www.alohaeditor.org/Content.Node/index.html,Aloha Editor,https://github.com/dok/awesome-text-editing#readme,Text Editing error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+http://facebook.github.io/draft-js/,Draft.js,https://github.com/dok/awesome-text-editing#readme,Text Editing error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.alohaeditor.org/Content.Node/index.html,Aloha Editor,https://github.com/dok/awesome-text-editing#readme,Text Editing error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.openwebware.com/,openwysiwyg,https://github.com/dok/awesome-text-editing#readme,Text Editing error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+https://code.google.com/p/pagedown/wiki/PageDown,pagedown,https://github.com/dok/awesome-text-editing#readme,Text Editing error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error

@@ -1,0 +1,3 @@
+https://code.visualstudio.com/docs/copilot/customization/overview,VS Code documentation,https://github.com/Code-and-Sorts/awesome-copilot-agents#readme,Copilot Agents error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://code.visualstudio.com/docs/copilot/customization/custom-agents,Custom agents,https://github.com/Code-and-Sorts/awesome-copilot-agents#readme,Copilot Agents error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://code.visualstudio.com/docs/copilot/setup,VS Code Copilot,https://github.com/Code-and-Sorts/awesome-copilot-agents#readme,Copilot Agents error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

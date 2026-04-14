@@ -1,0 +1,23 @@
+https://www.coderabbit.ai,CodeRabbit,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://docs.coderabbit.ai,Documentation,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/blog/getting-started-with-coderabbit-using-azure-devops,Azure DevOps Integration,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://techcrunch.com/2024/08/15/coderabbit-raises-16m-to-bring-ai-to-code-reviews/,TechCrunch Coverage,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/blog,Blog,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/blog/how-to-run-static-analysis-on-your-ci-cd-pipelines-using-ai,CI/CD Pipeline Integration,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/faq,FAQ,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://siliconangle.com/2024/08/14/ai-code-review-startup-coderabbit-raises-16m-help-developers-debug-code-faster/,Silicon Angle Feature,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.linkedin.com/company/coderabbitai/,LinkedIn,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://tomaszs2.medium.com/ai-code-review-tool-coderabbit-replaces-me-and-i-like-it-b1350a9cda58,Developer Testimonials,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/blog/how-to-use-coderabbit-to-validate-issues-against-linear-board,Linear Board Integration,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://x.com/coderabbitai,Twitter,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.youtube.com/@CodeRabbitAI,YouTube Channel,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/blog/how-to-integrate-ai-code-review-into-your-devops-pipeline,DevOps Pipeline Integration,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/blog/coderabbit-startup-program,CodeRabbit Startup Program,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.youtube.com/watch?v=3SyUOSebG7E,Getting Started Tutorial,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/blog/how-to-use-an-ai-code-reviewer-on-github-in-4-examples,AI Code Reviewer Examples,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://tomaszs2.medium.com/ai-can-make-a-code-review-for-free-a559cf74efa5,AI Can Make a Code Review for Free,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://docs.coderabbit.ai/api-reference/,OpenAPI Documentation,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/blog/coderabbit-deep-dive,CodeRabbit Deep Dive,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.devtoolsacademy.com/blog/coderabbit-vs-others-ai-code-review-tools,CodeRabbit vs Others: AI Code Review Tools,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/blog/why-developers-hate-linters,Why Developers Hate Linters,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit
+https://www.coderabbit.ai/blog/how-to-automate-typescript-code-reviews-with-coderabbit,How to Automate TypeScript Code Reviews with CodeRabbit,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit

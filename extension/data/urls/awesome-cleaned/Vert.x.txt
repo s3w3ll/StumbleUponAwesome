@@ -1,0 +1,41 @@
+https://swift.org,Apple's Swift,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://docs.dgraph.io,dgraph,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://vertx.io/docs/vertx-config/java/,config store,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features,Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://vertx.io,,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://vertx.io/docs/,Vert.x stack,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://pharo.org/,Pharo Smalltalk,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://aws.amazon.com/ec2/systems-manager/parameter-store/,AWS EC2 SSM Parameter Store,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://www.consul.io/,Consul,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://www.oreilly.com/library/view/building-reactive-microservices/9781491986295/,Building Reactive Microservices in Java,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://kubernetes.io/,Kubernetes,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://redis.io/,Redis,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://www.manning.com/books/vertx-in-action,Vert.x in Action,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://www.infoq.com/articles/vertx-3-tim-fox,Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://graphql.org/,GraphQL,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://www.jetdrone.xyz/vertx-starter/,Vert.x Starter,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://failsafe.dev/,Failsafe,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://plugins.gradle.org/plugin/io.vertx.vertx-plugin,Vert.x Gradle plugin,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://noriginmedia.github.io/nannoq-tools/,Nannoq-Tools,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://vertx.io/get-started/,Introduction to Vert.x,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/integration/event-loop.html,Vert.x,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://eclipse-ee4j.github.io/jersey/,Jersey,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://www.youtube.com/channel/UCGN6L3tRhs92Uer3c6VxOSA,Vert.x Youtube channel,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://discord.gg/KzEMwP2,Discord Server,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://tfkfan.github.io/orbital,Docs,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://httpd.apache.org/docs/2.4/programs/htdigest.html,Apache htdigest,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://vertx.io/blog/,Blog,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://oauth.net/2/,OAuth 2,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://www.infoq.com/articles/reactive-java-vertx-deep-dive/,Embracing Reactive Applications on JVM: a Deep Dive into Modern I/O Models and Vert.x,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://httpd.apache.org/docs/2.4/programs/htpasswd.html,htpasswd,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://www.eclipse.org/sisu/,Eclipse SISU,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://www.pac4j.org/,pac4j,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://azure.microsoft.com/en-us/products/service-bus/,ServiceBus,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+http://www.hawkular.org/,Hawkular,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://bosun.org/,Bosun,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://www.dartlang.org/,Dart,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://camel.apache.org/components/vertx-component.html,Apache Camel,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://gravitee.io,Gravitee.io,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://nsforth.github.io/vxrifa,VxRifa,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://smallrye.io/smallrye-mutiny/,SmallRye Mutiny,https://github.com/vert-x3/vertx-awesome#readme,Vert.x
+https://smallrye.io/smallrye-mutiny-vertx-bindings/,bindings for Vert.x,https://github.com/vert-x3/vertx-awesome#readme,Vert.x

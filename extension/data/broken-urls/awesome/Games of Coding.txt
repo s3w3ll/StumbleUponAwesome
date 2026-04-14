@@ -1,2 +1,10 @@
-http://robocode.sourceforge.io/robocode.dotnet,Robocode,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://robodojo.club,Robo Dojo,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://programming-game.com,Programming Game,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://programming-game.com/demo,demo,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://gvr.sourceforge.net,Guido van Robot,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://robodojo.club,Robo Dojo,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://s3game-level1.s3-website.us-east-2.amazonaws.com/,S3 Game,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://realtimebattle.sourceforge.net,RealTimeBattle,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://jsfight.club,JavaScript Fight Club,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://robotrumble.org/,Robot Rumble,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: <HTTPError 530: '<none>'> | reason: <none>
+https://robocode.sourceforge.io,Robocode,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://robocode.sourceforge.io/robocode.dotnet,Robocode,https://github.com/michelpereira/awesome-games-of-coding#readme,Games of Coding error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

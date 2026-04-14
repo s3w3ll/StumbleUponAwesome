@@ -1,0 +1,1 @@
+https://blog.yongweilun.me/create-a-travel-list-app-with-go-fiber-angular-mongodb-and-google-cloud-secret-manager-ck9fgxy0p061pcss1xt1ubu8t,Create a travel list app with Go, Fiber, Angular, MongoDB and Google Cloud Secret Manager,https://github.com/gofiber/awesome-fiber#readme,Fiber error: <HTTPError 404: 'Not Found'> | reason: Not Found

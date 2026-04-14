@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/R/IAmA,AMA,https://github.com/sindresorhus/amas#readme,AMA
+https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c,Addy Osmani,https://github.com/sindresorhus/amas#readme,AMA
+https://bradgarropy.com/ama,Brad Garropy,https://github.com/sindresorhus/amas#readme,AMA
+https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006,Arpit Mohan,https://github.com/sindresorhus/amas#readme,AMA
+https://en.wikipedia.org/wiki/Recursive_acronym,recursive acronym,https://github.com/sindresorhus/amas#readme,AMA
+http://sindresorhus.com,Sindre Sorhus,https://github.com/sindresorhus/amas#readme,AMA

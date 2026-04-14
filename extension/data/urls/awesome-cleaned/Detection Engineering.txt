@@ -1,0 +1,34 @@
+https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack,DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://www.elastic.co/security-labs/elastic-releases-debmm,Elastic's Detection Engineering Behavior Maturity Model,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://www.malwarearchaeology.com/cheat-sheets,Windows Logging Cheatsheets,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://lolol.farm,Living Off the Living Off the Land,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051,Prioritizing Detection Engineering | Ryan McGeehan,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f,MITRE ATT&CK Data Sources Blog Post,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://attack.mitre.org/,MITRE ATT&CK,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://attack.mitre.org/datasources/,MITRE ATT&CK Data Sources List,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://www.detectionengineering.net/s/field-manual,Detection Engineering Field Manual | Zack Allen,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://detectionengineering.io,Detection Engineering Maturity Matrix | Kyle Bailey,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://rulehound.com,Rulehound,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270,Detection at Scale Podcast | Jack Naglieri,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://car.mitre.org,MITRE Cyber Analytics Repository (CAR),https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://threats.wiz.io/all-techniques,Cloud Threat Landscape | Wiz,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://car.mitre.org/coverage/,CAR Coverage Comparision,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://docs.splunk.com/Documentation/CIM/5.0.0/User/Overview,Splunk Common Information Model (CIM),https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html,Detection Maturity Level (DML) Model | Ryan Stillions,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://sigconverter.io/,Sigma rule converter,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://cloud.google.com/transform/how-google-does-it-modernizing-threat-detection,How Google Does It: Making threat detection high-quality, scalable, and modern | Anton Chuvakin, Tim Nguyen,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html,The Pyramid of Pain | David J Bianco,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://attackrulemap.com,AttackRuleMap,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://www.soc-labs.top/,SOCLabs,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html,AWS GuardDuty Findings,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://www.elastic.co/guide/en/ecs/current/ecs-getting-started.html,Elastic Common Schema,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference,Azure Defender for Cloud Security Alerts,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://www.lockheedmartin.com/us/what-we-do/aerospace-defense/cyber/cyber-kill-chain.html,Cyber Kill Chain | Lockheed Martin,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://schema.ocsf.io/categories?extensions,Open Cybersecurity Schema Framework (OCSF),https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables,Microsoft XDR Advanced Hunting Schema,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://mitre-attack.github.io/attack-navigator/enterprise/,ATT&CK Navigator | MITRE,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://detectionengineering.net,Detection Engineering Weekly | Zack Allen,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf,MaGMa (Management, Growth and Metrics & Assessment) Use Case Defintion Model,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://br0k3nlab.com/resources/zen-of-security-rules/,The Zen of Security Rules | Justin Ibarra,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://sansorg.egnyte.com/dl/KTc16ldiqv,Blue-team-as-Code - the Spiral of Joy | Den Iuzvyk, Oleg Kolesnikov,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering
+https://medium.com/snowflake/detection-development-lifecycle-af166fffb3bc,Detection Development Lifecycle | Haider Dost et al.,https://github.com/infosecB/awesome-detection-engineering#readme,Detection Engineering

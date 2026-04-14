@@ -1,0 +1,83 @@
+https://bitbucket.org/soundvibe/marshmallow/wiki/Home,Marshmallow,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/shadow_cs/delphi-leakcheck,Delphi LeakCheck,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/sglienke/spring4d,Spring4D,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://www.un4seen.com,BASS,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/egrange/dwscript/src/b9f99d4b8187defac3f3713e2ae0f7b83b63d516/Source/dwsJSON.pas?at=master,dwsJSON,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.jrsoftware.org/isinfo.php,Inno Setup,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://code.google.com/p/simdesign,NativeJpg,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://code.google.com/p/pubsubchimera,PubSub Chimera,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.capstone-engine.org/,Capstone Disassembler Library,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.angusj.com/delphi/image32/Docs/_Body.htm,Website,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://code.google.com/p/delphi-spring-framework/,Spring,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.micrel.cz/RxLib/dfiles.htm,unRxLib,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://www.mmx-delphi.de,MMX Code Explorer,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://delphi.fsprolabs.com/,Windows 7 Taskbar Components,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://code.google.com/p/dspack,DSPack,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://winsparkle.org,WinSparkle,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.micrel.cz/Dx/,DelphiX,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://code.google.com/p/mustangpeakeasylistview,EasyListView,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.scalabium.com/smdbgrid.htm,SMDBGrid component,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.magsys.co.uk/delphi/magwmi.asp,Magenta Systems WMI and SMART Component,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.overbyte.be/frame_index.html,Internet Component Suite,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/egrange/dwscript,DWScript,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.songbeamer.com/delphi,this,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.destructor.de/xmlparser,XML Parser,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.silverpointdevelopment.com/multiinstaller/index.htm,Silverpoint MultiInstaller,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://code.google.com/p/delphimemcache,delphimemcache,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://code.google.com/p/newac,NewAC - New Audio Components,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.delphiffmpeg.com/headers,FFmpeg Delphi/Pascal Headers,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.riversoftavg.com/charting.htm,RiverSoftAVG Charting Component Suite,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://www.idefixpack.de/blog/bugfix-units/vclfixpack-10/,VCL Fix Pack,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://help.madshi.net/madKernel.htm,madKernel,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://gitlab.com/freepascal.org/fpc/pas2js,pas2js,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://help.madshi.net/License.htm,conditions,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://code.google.com/p/delphi-javascript,Delphi-JavaScript,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://code.google.com/p/duckduckdelphi,DuckDuckDelphi,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.beepcore.org,BEEP (Blocks Extensible Exchange Protocol),https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://omnipascal.com,OmniPascal,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://www.idefixpack.de/blog/ide-tools/ide-fix-pack/,IDE Fix Pack,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.tilengine.org,TileEngine,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://help.madshi.net/madSecurity.htm,madSecurity,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://tools.ietf.org/html/rfc3080,RFC3080,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.philo.de/xml/downloads.shtml,Open XML,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://help.madshi.net/madShell.htm,madShell,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://tools.ietf.org/html/rfc3081,RFC3081,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://help.madshi.net/madDisAsm.htm,madDisAsm,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/idursun/delphipi,Delphi Package Installer (DelphiPI),https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://svn.code.sf.net/p/lazarus-ccr/svn/applications/lazedit,LazEdit,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://wiki.freepascal.org/pas2js,docs,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/sivv/chimera,Chimera,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://fanoframework.github.io,Fano Framework,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://riversoftavg.com/blogs/index.php/2014/02/03/creating-icons-and-launchers-for-delphi-mobile-applications/,Thomas Grubb of RiverSoftAVG,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/sglienke/dsharp,DSharp,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://dvdchief.com/delphi,DVD Chief,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/freeonterminate/websocket/src/master/,WebSocket Component for Delphi,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.crossgl.com/icu4pas/index.html,ICU4PAS,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://risoflora.github.io/libsagui/,libsagui,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://shopify.github.io/liquid,Ruby Liquid templating language,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bellard.org/quickjs,QuickJS,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://www.codeproject.com/Tips/783493/Delphi-CSV-File-and-String-Reader-Classes,CSV File and String Reader,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://hunspell.github.io,Hunspell,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://slack.com,Slack,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://prog.olsztyn.pl/paslibvlc,PasLibVlc,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://code.google.com/p/gmlibrary,GMLib,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://blog.qdac.cc/?page_id=139,QDAC3,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/sivv/cocinasync,CocinAsync,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://web.archive.org/web/20090418162025/https://sourceforge.net/projects/openctf/,homepage,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.alglib.net/download.php,ALGLIB,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://code.google.com/p/ccr-exif,CCR-EXIF,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.freepascal-meets-sdl.net/,SDL2,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://www.delphitools.info/samplingprofiler,SamplingProfiler,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.kluug.net/delphitwain.php,Delphi Twain,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://melander.dk/articles/versioninfo,VersionInfo for Delphi,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://parnassus.co/delphi-tools/bookmarks,Parnassus Bookmarks,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring,his article,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/sglienke/testinsight/wiki/Home,TestInsight,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.peganza.com/products_pal.html,Pascal Analyzer,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://madshi.net/madExceptShop.htm,madExcept,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://www.delphitools.info/other-tools/mapfilestats,MapFileStats,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://bitbucket.org/tdelphi/lazy-delphi-builder-downloads,Lazy Delphi Builder,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+https://www.uweraabe.de/Blog/2018/05/17/keep-your-project-files-clean-with-project-magician,Project Magician,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.uweraabe.de/Blog/2015/05/08/selective-debugging/,Selective Debugging,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.base2ti.com/?id=delphi.zlib,Delphi zlib,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal
+http://www.yunqa.de/delphi/products/ucl/index,DIUcl,https://github.com/Fr0sT-Brutal/awesome-pascal#readme,Pascal

@@ -1,6 +1,3 @@
-https://www.stack.nl/~dimitri/doxygen,Doxygen,https://github.com/JesseTG/awesome-qt#readme,Qt error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://quickgit.kde.org,📦,https://github.com/JesseTG/awesome-qt#readme,Qt error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://cgit.kde.org/marble.git,📦,https://github.com/JesseTG/awesome-qt#readme,Qt error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://www.riverbankcomputing.com/software/sip,SIP,https://github.com/JesseTG/awesome-qt#readme,Qt error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
 https://doc.qt.io/qt-5/osx-deployment.html,macdeployqt,https://github.com/JesseTG/awesome-qt#readme,Qt error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://www.qtforum.org,QtForum.org,https://github.com/JesseTG/awesome-qt#readme,Qt error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree,📦,https://github.com/JesseTG/awesome-qt#readme,Qt error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known

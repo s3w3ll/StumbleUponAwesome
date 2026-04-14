@@ -1,0 +1,13 @@
+https://pocketbase-api-rule-builder.vercel.app,PocketBase API Rule Builder,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://pocketbase.io,PocketBase,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://justjot.app,JustJot,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://pockethost.io,pockethost.io,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://nodejs.org/docs/latest/api/,Node.js,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://pocketpages.dev,pocketpages.dev,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+http://ejs.co,http://ejs.co,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://studioterabyte.nl/en/blog/pocketbase-vue-3,Tutorial,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://localxpose.io/docs/tutorials/expose-pocketbase-backend,LocalXpose,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://www.youtube.com/watch?v=Zapupe_FREc,with PocketBase tutorial,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://litestream.io/,Litestream,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://pocketbase-uml.github.io/,PocketBaseUML,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase
+https://chat.openai.com/g/g-Owo2FBp4K-pocketbase-gpt,PocketBase GPT,https://github.com/benallfree/awesome-pocketbase#readme,PocketBase

@@ -1,0 +1,1 @@
+https://egghead.io/courses/functional-programming-concepts-in-purescript,Course (egghead.io) - Functional Programming Concepts in Purescript,https://github.com/passy/awesome-purescript#readme,PureScript error: <HTTPError 404: 'Not Found'> | reason: Not Found

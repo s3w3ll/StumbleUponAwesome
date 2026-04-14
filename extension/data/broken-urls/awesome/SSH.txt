@@ -1,0 +1,8 @@
+http://linux.die.net/man/1/scp,scp,https://github.com/moul/awesome-ssh#readme,SSH error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.ryanbrink.com/slack-ssh-session-notifications/,Slack notifications,https://github.com/moul/awesome-ssh#readme,SSH error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://rsync.samba.org,rsync,https://github.com/moul/awesome-ssh#readme,SSH error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.netfort.gr.jp/~dancer/software/dsh.html.en,DSH - Dancer's shell / distributed shell,https://github.com/moul/awesome-ssh#readme,SSH error: URLError(SSLCertVerificationError(5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://sshhub.de,sshhub,https://github.com/moul/awesome-ssh#readme,SSH error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://sourceforge.net/projects/clusterssh/,ClusterSSH,https://github.com/moul/awesome-ssh#readme,SSH error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://linux.die.net/man/8/sshmitm,sshmitm,https://github.com/moul/awesome-ssh#readme,SSH error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://linux.die.net/man/1/ssh,man page,https://github.com/moul/awesome-ssh#readme,SSH error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

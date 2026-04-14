@@ -1,0 +1,48 @@
+https://empres-i.apps.fao.org/,EMPRES-i+ Global Animal Disease Information System,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://arw36.github.io/,Anna Willoughby,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://wwwn.cdc.gov/arbocat/,Arbovirus Catalog (ARBOCAT),https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://msb.unm.edu/divisions/parasites/index.html,Museum of Southwestern Biology, Division of Parasites,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.healthmap.org/en/,Healthmap,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.web-of-life.es/,Web of Life,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://talk.ictvonline.org/ictv-reports/,open reports,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.amsocparasit.org/,American Society of Parasitologists,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://wwwn.cdc.gov/norsdashboard/,NORS,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.iucnredlist.org/,IUCN Redlist,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.promedmail.org/,Program for Monitoring Emerging Diseases (ProMed),https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.jf3tj,Dryad,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.mammaldiversity.org/,Mammal Diversity Database,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.gbif.org/dataset/56aa0680-0c60-11dd-84cd-b8a03c50a862,GBIF,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.ncbi.nlm.nih.gov/taxonomy,NCBI Taxonomy,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.nature.com/articles/nature22975?sf90794030,analysis,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.ajtmh.org/,American Journal of Tropical Medicine and Hygiene,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.kiseichu.org/e-top,Meguro Parasite Museum,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://eid2.liverpool.ac.uk/,ENHanCEd Infectious Diseases Database (EID2),https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.phi-base.org/index.jsp,PHI-base,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.mgc.ac.cn/cgi-bin/ZOVER/main.cgi,Zover,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.worldcat.org/title/systema-helminthum/oclc/427905372/editions?editionsView=true&referer=br,Systema Helminthum,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.nature.com/articles/sdata201549,Wardeh et al. 2015,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.contagionlive.com/outbreak-monitor,The Contagion Outbreak Monitor,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.mgc.ac.cn/DRodVir/,DRodVir,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.mnhn.fr/en/collections/collection-groups/marine-invertebrates/parasitic-worms-helminths,Muséum National d'Histoire Naturelle (MNHN - Paris),https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://wwwnc.cdc.gov/eid/,Emerging Infectious Diseases,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.globalbioticinteractions.org/data.html,Global Biotic Interactions (GloBI),https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://whispers.usgs.gov/,WHISPers,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.jwildlifedis.org/loi/jwdi,Journal of Wildlife Diseases,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://data.predict.global/,PREDICT,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://figshare.com/articles/The_phylogenetic_range_of_bacterial_and_viral_pathogens_of_vertebrates_dataset_and_supplementary_material/8262779,Shaw et al. 2020,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.zobodat.at/publikation_series.php?id=1351,Mitteilungen der Österreichischen Gesellschaft für Tropenmedizin und Parasitologie,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive,World Animal Health Information System (WAHIS),https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.gbif.org/en/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c,GBIF Backbone Taxonomy,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://talk.ictvonline.org/taxonomy/,ICTV,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.parasite-journal.org/,Parasite,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.outbreakmuseum.com,The International Outbreak Museum,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://publication.nhmus.hu/parasitologia/bannales.php?volume=1,Parasitologia Hungarica,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://creativecommons.org/licenses/by-nc/4.0/,,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.outbreakmuseum.com/exhibits/,exhibit,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://www.genome.jp/virushostdb/view/,Virus-Host DB,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://portal.fiocruz.br/en/biological-collections,Biological Collections of Oswaldo Cruz Institute in Rio de Janeiro, Brazil,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/parasitic-diseases-with-econom/u-s--national-animal-parasite-,U.S. National Parasite Collection,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+https://www.monarchparasites.org/,Project Monarch Health,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://chioc.fiocruz.br/catalogue,helminth collection,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://colprot.fiocruz.br/index?catalogue,protozoa,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite
+http://cavaisc.fiocruz.br/catalogue,medically important vector species,https://github.com/ecohealthalliance/awesome-parasite#readme,Parasite

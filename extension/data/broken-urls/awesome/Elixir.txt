@@ -1,7 +1,19 @@
-http://confreaks.tv/tags/40,Confreaks (Elixir),https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-https://clap.rs/,clap.rs,https://github.com/h4cc/awesome-elixir#readme,Elixir error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'clap.rs'. (_ssl.c:1123)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'clap.rs'. (_ssl.c:1123)
+https://elixirlibs.com,ElixirLibs,https://github.com/h4cc/awesome-elixir#readme,Elixir error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://elixir.libhunt.com,Awesome Elixir by LibHunt,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+http://www.w3.org/TR/json-ld/,JSON-LD,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.w3.org/TR/rdf11-primer/,RDF,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.w3.org/TR/sparql11-overview/,SPARQL,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://validator.w3.org/nu/,Nu HTML Checker,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.w3.org/TR/sparql11-protocol/,SPARQL protocol,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.packtpub.com/application-development/elixir-cookbook,Elixir Cookbook,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.phoenixforrailsdevelopers.com,Phoenix for Rails Developers,https://github.com/h4cc/awesome-elixir#readme,Elixir error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://barrel-db.org/,Barrel-db,https://github.com/h4cc/awesome-elixir#readme,Elixir error: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'barrel-db.org'. (_ssl.c:1018)")) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'barrel-db.org'. (_ssl.c:1018)
+https://hexdocs.pm/genai/GenAI.html,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 404: ''> | reason: 
+https://geteventstore.com,Eventstore,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://elixirkoans.io/,Elixir koans,https://github.com/h4cc/awesome-elixir#readme,Elixir error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://elixir.career/,Elixir Career,https://github.com/h4cc/awesome-elixir#readme,Elixir error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.ockam.io/learn/concepts/,Docs,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 404: 'Not Found'> | reason: Not Found
 https://www.govtrack.us/developers,govtrack.us,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 404: 'Not Found'> | reason: Not Found
-http://www.inf.ufrgs.br/~alvares/CMP259DCBD/clope.pdf,CLOPE,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
-https://foxbox.com/blog/elixir-vs-ruby/,Elixir vs Ruby | How Switching To Elixir Made Our Team Better,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://www.youtube.com/c/Frathon,Frathon's YouTube Channel,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://elixir.career/,Elixir Career,https://github.com/h4cc/awesome-elixir#readme,Elixir error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)
+https://cloud.google.com/pubsub/overview,Google Cloud Pub/Sub,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://classpert.com/elixir-programming,Elixir Online Courses list - Classpert,https://github.com/h4cc/awesome-elixir#readme,Elixir error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://inquisitivedeveloper.com/tag/lwm-elixir/,Learn With Me: Elixir,https://github.com/h4cc/awesome-elixir#readme,Elixir error: TimeoutError('The read operation timed out') | reason: 

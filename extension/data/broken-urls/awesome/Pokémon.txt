@@ -1,8 +1,6 @@
-https://app.pokemon-api.xyz,https://app.pokemon-api.xyz,https://github.com/tobiasbueschel/awesome-pokemon#readme,PokÃ©mon error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://go.razerzone.com/,RazerGo,https://github.com/tobiasbueschel/awesome-pokemon#readme,PokÃ©mon error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://www.projectfixup.com/pokedates/,PokeDates,https://github.com/tobiasbueschel/awesome-pokemon#readme,PokÃ©mon error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://docs.google.com/spreadsheets/d/1iJcE12v14GA8V8EO4M1-dPxBFT2kFhR6bUXvj03a4kM/,InfoSpreadsheet,https://github.com/tobiasbueschel/awesome-pokemon#readme,PokÃ©mon error: <HTTPError 410: 'Gone'> | reason: Gone
-https://pkmngowiki.com/,PokÃ©mon GO Wiki,https://github.com/tobiasbueschel/awesome-pokemon#readme,PokÃ©mon error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://pokemongo.gamepress.gg/,GamePress,https://github.com/tobiasbueschel/awesome-pokemon#readme,PokÃ©mon error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
-The last 30x error message was:
-Found
+https://pkmngowiki.com/,Pokémon GO Wiki,https://github.com/tobiasbueschel/awesome-pokemon#readme,Pokémon error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://techcrunch.com/gallery/pokemon-go-tips/,TechCrunch,https://github.com/tobiasbueschel/awesome-pokemon#readme,Pokémon error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://thesilphroad.com/research,Silphroad,https://github.com/tobiasbueschel/awesome-pokemon#readme,Pokémon error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)
+https://pokeassistant.com/,Poke Assistant,https://github.com/tobiasbueschel/awesome-pokemon#readme,Pokémon error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+https://docs.google.com/spreadsheets/d/1iJcE12v14GA8V8EO4M1-dPxBFT2kFhR6bUXvj03a4kM/,InfoSpreadsheet,https://github.com/tobiasbueschel/awesome-pokemon#readme,Pokémon error: <HTTPError 410: 'Gone'> | reason: Gone
+https://go.razerzone.com/,RazerGo,https://github.com/tobiasbueschel/awesome-pokemon#readme,Pokémon error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed

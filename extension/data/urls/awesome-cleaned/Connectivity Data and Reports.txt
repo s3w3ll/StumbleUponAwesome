@@ -1,0 +1,6 @@
+https://manypossibilities.net,website,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://mastodon.cloud/@stevesong,Mastodon,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/,2022,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx,ITU Measuring digital development,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.itu.int/itu-d/reports/statistics/facts-figures-2025/,2025,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports
+https://www.itu.int/dms_pub/itu-d/opb/ind/d-ind-ict_mdd-2023-1-pdf-e.pdf,2023,https://github.com/stevesong/awesome-connectivity-info#readme,Connectivity Data and Reports

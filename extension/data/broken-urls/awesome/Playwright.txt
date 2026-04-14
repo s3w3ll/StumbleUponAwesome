@@ -1,0 +1,3 @@
+https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright,Playwright Test for VSCode,https://github.com/mxschmitt/awesome-playwright#readme,Playwright error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://blog.promaton.com/testing-3d-applications-with-playwright-on-gpu-1e9cfc8b54a9,Testing 3D applications with Playwright on GPU,https://github.com/mxschmitt/awesome-playwright#readme,Playwright error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.npmjs.com/package/playwright-smart-reporter,playwright-smart-reporter,https://github.com/mxschmitt/awesome-playwright#readme,Playwright error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

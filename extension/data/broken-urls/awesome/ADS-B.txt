@@ -1,0 +1,1 @@
+https://planefinder.net,PlaneFinder.net,https://github.com/rickstaa/awesome-adsb#readme,ADS-B error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

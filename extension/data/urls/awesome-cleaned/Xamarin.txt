@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/xamarin/cross-platform/data-cloud/,Azure,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
+https://bitbucket.org/robertvazan/autodependencyproperty.fody/src,AutoDependencyProperty.Fody,https://github.com/XamSome/awesome-xamarin#readme,Xamarin
+https://gitlab.com/hodgskin-callan/Invention,Invention,https://github.com/XamSome/awesome-xamarin#readme,Xamarin

@@ -1,13 +1,30 @@
-http://www.paralleluniverse.co/quasar/,Quasar,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://javacc.java.net/,javacc,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-http://nighthacking.com/g1-gc-with-kirk-pepperdine/,G1 Garbage Collector in Java 8/9,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://deeplearning4j.org/,Deeplearning4j,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+http://www.cliffc.org/blog/2017/09/21/debugging-data-races/,Cliff Click podcast 2017/09/21,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.cliffc.org/blog/2017/09/24/fast-bytecodes-for-funny-languages/,Cliff Click podcast 2017/09/24,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.cliffc.org/blog/2017/09/28/struct-of-arrays-vs-array-of-structs/,Cliff Click podcast 2017/09/28,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.cliffc.org/blog/2017/10/04/the-3-hardest-problems-in-programming/,Cliff Click podcast 2017/10/04,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://cliffc.org/blog/2017/11/05/modern-hardware-performance-cache-lines/,Cliff Click podcast 2017/11/05,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://cliffc.org/blog/2017/11/09/queuing-in-practice/,Cliff Click podcast 2017/11/09,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.quora.com/Which-technique-do-programming-language-parsers-and-interpreters-use/answer/Cliff-Click-1?srid=dZAx,Which technique do programming language parsers and interpreters use?,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
 https://www.azul.com/files/wp_pgc_zing_v52.pdf,Azul Pauseless Garbage Collection,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://www.cliffc.org/blog/,Cliff Click,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.ibm.com/developerworks/websphere/techjournal/1108_sciampacone/1108_sciampacone.html,Balanced GC,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://blogs.oracle.com/dave/,Dave Dice,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://sebastien.godard.pagesperso-orange.fr,sysstat,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.erjang.org,Erjang,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11002, 'getaddrinfo failed')) | reason: [Errno 11002] getaddrinfo failed
+http://tiptop.gforge.inria.fr/,tiptop,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://altair.cs.oswego.edu/mailman/listinfo/concurrency-interest,concurrency-interest,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://linux.die.net/man/7/hwloc,hwloc,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://linux.die.net/man/8/numactl,numactl,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://g.oswego.edu/,Doug Lea,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://blogs.oracle.com/jrose/,John Rose,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://oprofile.sourceforge.net/news/,oprofile,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.gnu.org/software/kawa/,Kawa,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://richardstartin.uk/,Richard Startin,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.cliffc.org/blog/2017/09/16/programming-and-performance-intro/,Cliff Click podcast 2017/09/16,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.cliffc.org/blog/2017/09/16/of-bugs-and-coding-styles/,Cliff Click podcast 2017/09/16,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.cliffc.org/blog/2017/09/18/java-vs-cc-the-podcast/,Cliff Click podcast 2017/09/18,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://www.jsweet.org/,JSweet,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)')) | reason: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)
 https://source.android.com/devices/tech/dalvik/,Dalvik,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound'> | reason: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Found
-https://www.azul.com/products/zulu/,Zulu,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://blogs.oracle.com/dave/,Dave Dice,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('The read operation timed out') | reason: 
-http://g.oswego.edu/,Doug Lea,https://github.com/deephacks/awesome-jvm#readme,JVM error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-http://chrononsystems.com,Chronon,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('timed out') | reason: 
-https://blogs.oracle.com/jrose/,John Rose,https://github.com/deephacks/awesome-jvm#readme,JVM error: timeout('The read operation timed out') | reason: 
+http://www.ibm.com/developerworks/java/jdk/,IBM J9,https://github.com/deephacks/awesome-jvm#readme,JVM error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable

@@ -1,0 +1,13 @@
+https://in-your-saas.github.io/material-ui-theme-editor/,Material-UI Theme Editor,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://material-ui.com/,,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://m2.material.io/inline-tools/color/,Material palette generator,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://marmelab.com/react-admin/,React Admin,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://material.io/design/introduction/,Material Design,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://devexpress.github.io/devextreme-reactive/react/scheduler/,Dx-react-scheduler-Material-UI,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://medium.com/design-bootcamp/serverless-material-ui-contact-form-55296e107609,Serverless Material UI contact form,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://medium.com/datadriveninvestor/embed-medium-as-a-blog-on-your-react-website-part-2-187db2b60a59,Embed Medium as a blog on your React Website — Part 2,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://bethesda.net/,Bethesda.net,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://cimdalli.github.io/mui-theme-generator/,Material-UI Theme Generator,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://www.tagspaces.org/,TagSpaces,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://builderbook.org/,Builder Book,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI
+https://topheman.github.io/npm-registry-browser/,NPM registry browser,https://github.com/nadunindunil/awesome-material-ui#readme,Material-UI

@@ -1,0 +1,131 @@
+https://docs.ruby-lang.org/en/master/Regexp.html,Regexp,https://github.com/slevithan/awesome-regex#readme,Regex
+https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference,Language,https://github.com/slevithan/awesome-regex#readme,Regex
+https://learnbyexample.github.io/learn_js_regexp/,JavaScript,https://github.com/slevithan/awesome-regex#readme,Regex
+https://fancy-regex.github.io/fancy-regex/,fancy-regex playground,https://github.com/slevithan/awesome-regex#readme,Regex
+https://rundevelopment.github.io/regexp-ast-analysis/docs/latest/,docs,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.boost.org/doc/libs/release/libs/regex/doc/html/boost_regex/background/performance.html,Boost.Regex: Performance,https://github.com/slevithan/awesome-regex#readme,Regex
+https://learnbyexample.github.io/py_regular_expressions/,Python,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.regexplanet.com/,RegexPlanet,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.chromium.org/developers/how-tos/run-chromium-with-flags/,how to run,https://github.com/slevithan/awesome-regex#readme,Regex
+https://developer.apple.com/documentation/swift/regex/,Regex,https://github.com/slevithan/awesome-regex#readme,Regex
+https://en.wikipedia.org/wiki/Deep_packet_inspection,DPI,https://github.com/slevithan/awesome-regex#readme,Regex
+https://ota-meshi.github.io/eslint-plugin-regexp/,home,https://github.com/slevithan/awesome-regex#readme,Regex
+https://learnbyexample.github.io/Ruby_Regexp/,Ruby,https://github.com/slevithan/awesome-regex#readme,Regex
+https://chat.openai.com/,ChatGPT,https://github.com/slevithan/awesome-regex#readme,Regex
+https://en.cppreference.com/w/cpp/regex,Regular expressions library,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.regular-expressions.info/catastrophic.html,Runaway Regular Expressions: Catastrophic Backtracking,https://github.com/slevithan/awesome-regex#readme,Regex
+http://regviz.org/,RegViz,https://github.com/slevithan/awesome-regex#readme,Regex
+https://slevithan.github.io/regex-colorizer/demo/,home,https://github.com/slevithan/awesome-regex#readme,Regex
+https://learn.microsoft.com/en-us/dotnet/api/system.text.regularexpressions,API,https://github.com/slevithan/awesome-regex#readme,Regex
+https://perldoc.perl.org/perlreguts,perlreguts,https://github.com/slevithan/awesome-regex#readme,Regex
+https://caniuse.com/,Can I use,https://github.com/slevithan/awesome-regex#readme,Regex
+https://developer.apple.com/documentation/regexbuilder,RegexBuilder,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regex101.com/quiz,regex101 Regex Quiz,https://github.com/slevithan/awesome-regex#readme,Regex
+https://refrf.dev/,Regular Expressions for Regular Folk,https://github.com/slevithan/awesome-regex#readme,Regex
+https://rbuckton.github.io/regexp-features/,Regular Expression Feature Comparisons,https://github.com/slevithan/awesome-regex#readme,Regex
+https://pcre2project.github.io/pcre2/doc/pcre2pattern/,Pattern,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regexlearn.com/,RegexLearn,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regexper.com/,Regexper,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regex.cool/,regex.cool,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.amazon.com/dp/059680279X/?tag=slev-20,Book: High Performance JavaScript,https://github.com/slevithan/awesome-regex#readme,Regex
+https://tc39.es/ecma262/multipage/,standard,https://github.com/slevithan/awesome-regex#readme,Regex
+https://pcre2project.github.io/pcre2/doc/,API,https://github.com/slevithan/awesome-regex#readme,Regex
+https://developer.apple.com/documentation/foundation/nsregularexpression,NSRegularExpression,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.amazon.com/dp/1449319432/?tag=slev-20,Regular Expressions Cookbook, 2nd Edition,https://github.com/slevithan/awesome-regex#readme,Regex
+http://regexstorm.net/tester,Regex Storm,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.regular-expressions.info/tools.html,Tools & Languages,https://github.com/slevithan/awesome-regex#readme,Regex
+https://gitlab.com/javallone/regexper-static,GitLab,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.regexmagic.com/,RegexMagic,https://github.com/slevithan/awesome-regex#readme,Regex
+https://perldoc.perl.org/perlre,Syntax,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regexone.com/,RegexOne,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124/?tag=slev-20,Book: Mastering Regular Expressions, 3rd Edition,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.amazon.com/dp/0596528124/?tag=slev-20,Mastering Regular Expressions, 3rd Edition,https://github.com/slevithan/awesome-regex#readme,Regex
+https://makenowjust-labs.github.io/recheck/,home,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regexcrossword.com/,Regex Crossword,https://github.com/slevithan/awesome-regex#readme,Regex
+https://unicode-org.github.io/icu/userguide/strings/regexp.html,Regular Expressions,https://github.com/slevithan/awesome-regex#readme,Regex
+https://whereswalden.com/2010/01/15/more-es5-incompatible-changes-regular-expressions-now-evaluate-to-a-new-object-not-the-same-object-each-time-theyre-encountered/,explainer,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regex-generator.olafneumann.org/,Regex Generator,https://github.com/slevithan/awesome-regex#readme,Regex
+https://perldoc.perl.org/perlretut,Tutorial,https://github.com/slevithan/awesome-regex#readme,Regex
+https://docs.raku.org/language/grammars,Grammars,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regex101.com/,regex101,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regexle.com/,regexle,https://github.com/slevithan/awesome-regex#readme,Regex
+https://xregexp.com/syntax/named_capture_comparison/,Named capture,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regex.ai/,Regex.ai,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.youtube.com/watch?v=M7vDtxaD7ZU,Demystifying Regular Expressions,https://github.com/slevithan/awesome-regex#readme,Regex
+https://perldoc.perl.org/perlrequick,Quick Start,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.phpliveregex.com/,PHP Live Regex,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.amazon.com/dp/1449392687/?tag=slev-20,Introducing Regular Expressions,https://github.com/slevithan/awesome-regex#readme,Regex
+https://docs.oracle.com/en/java/javase/22/docs/api/java.base/java/util/regex/Pattern.html,Pattern,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432/?tag=slev-20,Book: Regular Expressions Cookbook, 2nd Edition,https://github.com/slevithan/awesome-regex#readme,Regex
+https://blog.stevenlevithan.com/archives/greedy-lazy-performance,Performance of Greedy vs. Lazy Regex Quantifiers,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regex-vis.com/,Regex Vis,https://github.com/slevithan/awesome-regex#readme,Regex
+https://docs.python.org/library/re.html,re,https://github.com/slevithan/awesome-regex#readme,Regex
+https://beyondgrep.com/feature-comparison/,Feature comparison of grep-like tools,https://github.com/slevithan/awesome-regex#readme,Regex
+https://docs.raku.org/language/grammar_tutorial,tutorial,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.youtube.com/watch?v=rhzKDrUiJVk,Learn Regular Expressions In 20 Minutes,https://github.com/slevithan/awesome-regex#readme,Regex
+https://stevenlevithan.com/regex/tests/lookbehind.html,Lookbehind,https://github.com/slevithan/awesome-regex#readme,Regex
+https://docs.rs/regex,regex,https://github.com/slevithan/awesome-regex#readme,Regex
+https://docs.oracle.com/en/java/javase/22/docs/api/java.base/java/util/regex/package-summary.html,API,https://github.com/slevithan/awesome-regex#readme,Regex
+https://jex.im/regulex/,Regulex,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.regexbuddy.com/,RegexBuddy,https://github.com/slevithan/awesome-regex#readme,Regex
+https://2ality.com/2015/07/regexp-es6.html,explainer,https://github.com/slevithan/awesome-regex#readme,Regex
+https://rgxdb.com/,Regex DB,https://github.com/slevithan/awesome-regex#readme,Regex
+https://medium.com/textmaster-engineering/performance-of-regular-expressions-81371f569698,Performance of Regular Expressions,https://github.com/slevithan/awesome-regex#readme,Regex
+https://thetypingoftheregex.com/,The Typing of the RegEX,https://github.com/slevithan/awesome-regex#readme,Regex
+https://jasonhpriestley.com/regex,The World's Shortest Regex Compiler?,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.nodexr.net/,Nodexr,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regexr.com/,RegExr,https://github.com/slevithan/awesome-regex#readme,Regex
+https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines,Comparison of regular expression engines,https://github.com/slevithan/awesome-regex#readme,Regex
+https://yoav-lavi.github.io/melody/book/,docs,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.abareplace.com/,Aba Search and Replace,https://github.com/slevithan/awesome-regex#readme,Regex
+https://docs.raku.org/language/regexes,Regexes,https://github.com/slevithan/awesome-regex#readme,Regex
+https://docs.rs/regex-lite,regex-lite,https://github.com/slevithan/awesome-regex#readme,Regex
+https://pythex.org/,Pythex,https://github.com/slevithan/awesome-regex#readme,Regex
+https://codepip.com/games/regex-machina/,Regex Machina,https://github.com/slevithan/awesome-regex#readme,Regex
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp,RegExp,https://github.com/slevithan/awesome-regex#readme,Regex
+https://en.wikipedia.org/wiki/ReDoS,ReDoS,https://github.com/slevithan/awesome-regex#readme,Regex
+https://verbalexpressions.github.io/,many languages,https://github.com/slevithan/awesome-regex#readme,Regex
+https://johannesvollmer.com/regex-nodes/,Regex Nodes,https://github.com/slevithan/awesome-regex#readme,Regex
+https://jasonhpriestley.com/regex-dfa,follow up,https://github.com/slevithan/awesome-regex#readme,Regex
+https://xkcd.com/208/,xkcd,https://github.com/slevithan/awesome-regex#readme,Regex
+https://swtch.com/~rsc/regexp/regexp1.html,Regular Expression Matching Can Be Simple And Fast,https://github.com/slevithan/awesome-regex#readme,Regex
+https://mathiasbynens.be/notes/es6-unicode-regex,explainer,https://github.com/slevithan/awesome-regex#readme,Regex
+https://docs.raku.org/language/regexes-best-practices,best practices,https://github.com/slevithan/awesome-regex#readme,Regex
+https://rubular.com/,Rubular,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regexp.dev/,home,https://github.com/slevithan/awesome-regex#readme,Regex
+https://blog.stevenlevithan.com/archives/regex-legends,Regex Legends: The People Behind the Magic,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.powergrep.com/,PowerGREP,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regexlearn.com/playground,RegexLearn,https://github.com/slevithan/awesome-regex#readme,Regex
+https://pkg.go.dev/regexp,regexp,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.reddit.com/r/regex/,Reddit: r/regex,https://github.com/slevithan/awesome-regex#readme,Regex
+https://v8.dev/features/regexp-v-flag,explainer,https://github.com/slevithan/awesome-regex#readme,Regex
+https://sed.js.org/,GNU sed REPL,https://github.com/slevithan/awesome-regex#readme,Regex
+https://swtch.com/~rsc/regexp/regexp3.html,follow up,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.debuggex.com/,Debuggex,https://github.com/slevithan/awesome-regex#readme,Regex
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions,Reference,https://github.com/slevithan/awesome-regex#readme,Regex
+https://nartc.github.io/ng-super-expressive/,playground,https://github.com/slevithan/awesome-regex#readme,Regex
+https://stackoverflow.com/questions/tagged/regex?tab=Votes,Stack Overflow: [regex],https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.udemy.com/topic/regular-expressions/,Udemy,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/,Regexes Got Good: The History And Future Of Regular Expressions In JavaScript,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.regular-expressions.info/,Regular-Expressions.info,https://github.com/slevithan/awesome-regex#readme,Regex
+https://leaysgur.github.io/js-regexp-ast-viewer/,JS RegExp AST Viewer,https://github.com/slevithan/awesome-regex#readme,Regex
+https://swiftregex.com/,Swift Regex,https://github.com/slevithan/awesome-regex#readme,Regex
+https://v8.dev/blog/non-backtracking-regexp,explainer,https://github.com/slevithan/awesome-regex#readme,Regex
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions,Guide,https://github.com/slevithan/awesome-regex#readme,Regex
+https://javascript.info/regular-expressions,The Modern JavaScript Tutorial: Regular expressions,https://github.com/slevithan/awesome-regex#readme,Regex
+https://regexplained.com/,regexplained,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.php.net/manual/en/book.pcre.php,Regular Expressions,https://github.com/slevithan/awesome-regex#readme,Regex
+https://boost.org/libs/regex,Manual,https://github.com/slevithan/awesome-regex#readme,Regex
+https://javascript.info/translate,others,https://github.com/slevithan/awesome-regex#readme,Regex
+https://extendsclass.com/regex-tester.html,CyrilEx,https://github.com/slevithan/awesome-regex#readme,Regex
+https://pcre2project.github.io/pcre2/doc/pcre2test/,pcre2test,https://github.com/slevithan/awesome-regex#readme,Regex
+https://devblogs.microsoft.com/dotnet/regular-expression-improvements-in-dotnet-7/,Regular Expression Improvements in .NET 7,https://github.com/slevithan/awesome-regex#readme,Regex
+https://metacpan.org/dist/Regexp-Debugger/view/bin/rxrx,rxrx,https://github.com/slevithan/awesome-regex#readme,Regex
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet,Cheatsheet,https://github.com/slevithan/awesome-regex#readme,Regex
+https://rexegg.com/,RexEgg,https://github.com/slevithan/awesome-regex#readme,Regex
+https://www.youtube.com/watch?v=zcSFIUiMgAs,video intro,https://github.com/slevithan/awesome-regex#readme,Regex
+https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions,Overview,https://github.com/slevithan/awesome-regex#readme,Regex
+https://devblogs.microsoft.com/dotnet/regex-performance-improvements-in-net-5/,.NET 5,https://github.com/slevithan/awesome-regex#readme,Regex
+https://learnbyexample.github.io/books/,learnbyexample,https://github.com/slevithan/awesome-regex#readme,Regex
+https://krillapps.com/patterns/,Patterns,https://github.com/slevithan/awesome-regex#readme,Regex
+https://blog.burntsushi.net/ripgrep/,ripgrep is faster than {grep, …},https://github.com/slevithan/awesome-regex#readme,Regex

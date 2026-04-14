@@ -1,8 +1,14 @@
+https://ember-community-slackin.herokuapp.com/,Ember,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://rubytr.herokuapp.com/,Ruby Turkey Community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://slack.cordova.io/,Cordova,https://github.com/filipelinhares/awesome-slack#readme,Communities error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.electric.ai/it-pro-slack,IT Pro Community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://pythoncommunity.herokuapp.com/,Python Community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://cfml-slack.herokuapp.com/,CFML/ColdFusion,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://devanz.co,Australia & New Zealand,https://github.com/filipelinhares/awesome-slack#readme,Communities error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+http://slack-pythonbrasil.herokuapp.com/,Python Brazilian Community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://bit.ly/gcp-slack,Google Cloud Platform,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://rubytr.herokuapp.com/,Ruby Turkey Community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: timeout('The read operation timed out') | reason: 
-http://slack.cordova.io/,Cordova,https://github.com/filipelinhares/awesome-slack#readme,Communities error: timeout('timed out') | reason: 
-http://www.chitchats.co/,Chit Chats,https://github.com/filipelinhares/awesome-slack#readme,Communities error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://pythoncommunity.herokuapp.com/,Python Community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
-http://safelight.herokuapp.com/,Safelight,https://github.com/filipelinhares/awesome-slack#readme,Communities error: timeout('timed out') | reason: 
-https://rusdevs.herokuapp.com/,Russian-speaking developers community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: timeout('The read operation timed out') | reason: 
-http://slackin.devstyle.pl/,Polish developers,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://rusdevs.herokuapp.com/,Russian-speaking developers community,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://slackin.devstyle.pl/,Polish developers,https://github.com/filipelinhares/awesome-slack#readme,Communities error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://elixir-slackin.herokuapp.com/,Elixir,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://startup.chat,#Startup,https://github.com/filipelinhares/awesome-slack#readme,Communities error: URLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')) | reason: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)
+http://safelight.herokuapp.com/,Safelight,https://github.com/filipelinhares/awesome-slack#readme,Communities error: <HTTPError 404: 'Not Found'> | reason: Not Found

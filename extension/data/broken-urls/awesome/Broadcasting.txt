@@ -1,2 +1,19 @@
-https://lab.irt.de/,IRT Lab,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
-https://bitbucket.org/fk/rgain,rgain,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://projects.blender.org/blender/blender,Blender,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.twolame.org/,TwoLame,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://tech.ebu.ch/code,related repos,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://tech.ebu.ch/publications/tech3388,EBU Tech 3388,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/dvbinspector/,DVB Inspector,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/project-x/,Project X,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/mxflib/,MXFLib,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/snowmix/,Snowmix,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/sox/,SoX,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/msmeter/,BBC Media Storage Meter,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://lame.sourceforge.io/,Lame,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://sourceforge.net/projects/opencore-amr/,opencore-amr,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://ccextractor.sourceforge.net/about-ccextractor.html,CCExtractor,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://idjc.sourceforge.io/,IDJC,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://netflixtechblog.com/,The Netflix Tech Blog,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')) | reason: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)
+https://codeberg.org/chrisn/peaks.js,Peaks.js,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: TimeoutError('The read operation timed out') | reason: 
+https://tech.ebu.ch/publications/tech3293,EBU Tech 3293,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://tech.ebu.ch/publications/tech3364,Audio Definition Model,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://tech.ebu.ch/publications/r128,EBU R 128,https://github.com/ebu/awesome-broadcasting#readme,Broadcasting error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

@@ -1,0 +1,22 @@
+https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh,Angular DevTools,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://awesome.re,,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html,WebStorm/JetBrains Chrome Extension,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://umaar.com/dev-tips/,Dev Tips,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromedevtools.github.io/devtools-protocol/,DevTools Protocol API Docs,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromewebstore.google.com/detail/backbone-debugger/bhljhndlimiafopmmhjlgfpnnchjjbhd,Backbone Debugger,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://devtoolstips.org/,DevTools Tips,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd,Redux Devtools,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://www.npmjs.com/package/noice-json-rpc,noice-json-rpc,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromewebstore.google.com/detail/web-component-devtools/gdniinfdlmmmjpnhgnkmfpffipenjljo,Web Component DevTools,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://inspect.dev/,Inspect,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromewebstore.google.com/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo,Material UI Theme,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromewebstore.google.com/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en,Clockwork,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromewebstore.google.com/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US,RailsPanel,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi,React Developer Tools,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromewebstore.google.com/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi,Ember.js Inspector,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://canidevtools.substack.com/,newsletter,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://codepo8.github.io/web-cheatcodes/,Web cheatcodes,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://codepo8.github.io/dearconsole,Dear Console,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://wishbone.readthedocs.io/en/latest/misc/profiling.html,Wishbone Python framework,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+https://chromedevtools.github.io/timeline-viewer/,DevTools Timeline Viewer,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools
+http://sokolovstas.github.io/SublimeWebInspector/,Sublime Web Inspector,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,Chrome DevTools

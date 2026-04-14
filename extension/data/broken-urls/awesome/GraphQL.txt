@@ -1,4 +1,1 @@
-https://graphql-code-generator.com/,graphql-codegen,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://edgedb.com/,EdgeDB,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://nhost.io/,Nhost,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
-https://graphql-code-generator.com/docs/plugins/typescript-graphql-request,typescript-graphql-request,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: <HTTPError 308: 'Permanent Redirect'> | reason: Permanent Redirect
+https://relaymeetup.com/,Relay Meetup,https://github.com/chentsulin/awesome-graphql#readme,GraphQL error: TimeoutError('The read operation timed out') | reason: 

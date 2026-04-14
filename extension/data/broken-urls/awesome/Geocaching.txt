@@ -1,0 +1,1 @@
+https://play.google.com/store/apps/details?id=menion.android.whereyougo&pcampaignid=web_share,WhereYouGo,https://github.com/FoxFil/awesome-geocaching#readme,Geocaching error: <HTTPError 404: 'Not Found'> | reason: Not Found

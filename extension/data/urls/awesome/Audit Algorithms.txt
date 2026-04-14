@@ -1,0 +1,23 @@
+https://arxiv.org/pdf/2507.20708,Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/pdf/2510.05181,Auditing Pay-Per-Token in Large Language Models,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/abs/2504.00874,P2NIA: Privacy-Preserving Non-Iterative Auditing,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9E8408C67F7CE30505122DD1586D9FA2/S3033373325000080a.pdf/the-fair-game-auditing-and-debiasing-ai-algorithms-over-time.pdf,The Fair Game: Auditing & debiasing AI algorithms overtime,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/pdf/2505.04796,Robust ML Auditing using Prior Knowledge,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/abs/2501.02997,CALM: Curiosity-Driven Auditing for Large Language Models,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/abs/2412.13021,Queries, Representation & Detection: The Next 100 Model Fingerprinting Schemes,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/pdf/2411.05197,Hardware and software platform inference,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/abs/2407.13281,Auditing Local Explanations is Hard,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/abs/2409.00159,LLMs hallucinate graphs too: a structural perspective,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/pdf/2402.08522,Fairness Auditing with Multi-Agent Collaboration,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/pdf/2401.11194,Mapping the Field of Algorithm Auditing: A Systematic Literature Review
+Identifying Research Trends, Linguistic and Geographical Disparities,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/pdf/2402.12572v1.pdf,FairProof: Confidential and Certifiable Fairness for Neural Networks,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://grodino.github.io/projects/manipulated-audits/preprint.pdf,Under manipulations, are some AI models harder to audit?,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/pdf/2310.07219.pdf,Improved Membership Inference Attacks Against Language Classification Models,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/pdf/2305.17570.pdf,Auditing Fairness by Betting,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://neurips.cc/virtual/2023/poster/70925,Privacy Auditing with One (1) Training Run,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://www.sciencedirect.com/science/article/pii/S0306457322003259,Auditing fairness under unawareness through counterfactual reasoning,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/pdf/2206.04740.pdf,XAudit : A Theoretical Look at Auditing with Explanations,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://arxiv.org/pdf/2305.12620.pdf,Keeping Up with the Language Models: Robustness-Bias Interplay in NLI Data and Models,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://dl.acm.org/doi/pdf/10.1145/3580305.3599454,Online Fairness Auditing through Iterative Refinement,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms
+https://people.cs.umass.edu/~amir/papers/CCS23-LM-stealing.pdf,Stealing the Decoding Algorithms of Language Models,https://github.com/erwanlemerrer/awesome-audit-algorithms#readme,Audit Algorithms

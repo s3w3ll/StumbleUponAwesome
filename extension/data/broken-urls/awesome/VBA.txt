@@ -1,0 +1,11 @@
+https://www.excelforum.com/,Excel Forum,https://github.com/sancarn/awesome-vba#readme,VBA error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.forums.slipstick.com,Slipstick,https://github.com/sancarn/awesome-vba#readme,VBA error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://msdn.microsoft.com/en-us/vba/office-vba-reference,MSDN VBA Documentation,https://github.com/sancarn/awesome-vba#readme,VBA error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://oiipdf.com/download/professional-excel-development-the-definitive-guide-to-developing-applications-using-microsoft-excel-vba-and-net,Professional Excel Development,https://github.com/sancarn/awesome-vba#readme,VBA error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://bbs.vbstreets.ru/viewtopic.php?f=101&t=56551,VBStreets article,https://github.com/sancarn/awesome-vba#readme,VBA error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://web.archive.org/web/20100703220609/http://digilander.libero.it/foxes/mathparser/MathExpressionsParser.htm,Volpi's Math Expression Parser,https://github.com/sancarn/awesome-vba#readme,VBA error: <HTTPError 403: 'FORBIDDEN'> | reason: FORBIDDEN
+http://bbs.vbstreets.ru/viewtopic.php?f=101&t=56633,How many lines of code in EB,https://github.com/sancarn/awesome-vba#readme,VBA error: <HTTPError 503: 'Service Unavailable'> | reason: Service Unavailable
+https://rubberduckvba.com/,Rubberduck,https://github.com/sancarn/awesome-vba#readme,VBA error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://analystcave.com/,AnalystCave,https://github.com/sancarn/awesome-vba#readme,VBA error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://www.academia.edu/29801473/VBA_Developers_Handbook_Second_Edition,The VBA Developer's Handbook,https://github.com/sancarn/awesome-vba#readme,VBA error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp,VBA Pro,https://github.com/sancarn/awesome-vba#readme,VBA error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

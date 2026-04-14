@@ -1,0 +1,11 @@
+https://omarchy.org/,Omarchy,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy
+https://learn.omacom.io/2/the-omarchy-manual,Omarchy Documentation,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy
+https://seanabrahams.com/linux/archlinux/macbook/omarchy/2025/08/07/omarchy-macbook-air.html,Omarchy on 11 inch MacBook Air,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy
+https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450,All-in on Omarchy at 37signals,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy
+https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/,My Journey from macOS to Arch Linux with Omarchy,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy
+https://medium.com/@prathamgundikere/why-i-switched-to-omarchy-and-why-you-might-too-617d84ac63ce,Why I Switched to Omarchy (and Why You Might Too),https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy
+https://news.itsfoss.com/omarchy/,This One Command Turned My Arch Install Into a Beautiful Hyprland Setup,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy
+https://www.ifixit.com/Guide/Installing+Omarchy+on+Arch/190367,Installing Omarchy on Arch - iFixit Repair Guide,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy
+https://deepakness.com/raw/installing-arch-omarchy-on-mac/,Installing Omarchy via Arch Linux on macOS,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy
+https://www.dennisokeeffe.com/blog/2025-07-17-configuring-arch-linux-omarchy-via-mac,Configuring Omarchy on Beelink,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy
+https://sudomarchy.com,Sudomarchy,https://github.com/aorumbayev/awesome-omarchy#readme,Omarchy

@@ -1,3 +1,10 @@
-https://j11y.io/javascript/extending-jquerys-selector-capabilities/,Extending jQuery,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 404: 'Not Found'> | reason: Not Found
-https://j11y.io/jquery/,jQuery Source Viewer,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://www.quora.com/jQuery,Quora,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge,,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 404: 'Not Found'> | reason: Not Found
+https://classpert.com/search?filter%5Bfree_course%5D%5B%5D=true&filter%5Bprice%5D%5B%5D=0&filter%5Bprice%5D%5B%5D=0&p=1&tag=jquery,Free jQuery Courses at Classpert,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 404: 'Not Found'> | reason: Not Found
+http://nicholasjohnson.com/javascript-book/,JavaScript plus a dash of JQuery,https://github.com/petk/awesome-jquery#readme,jQuery error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://getawesomeness.herokuapp.com/,GetAwesomeness,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 404: 'Not Found'> | reason: Not Found
 http://lab.abhinayrathore.com/jquery-cheatsheet/,jQuery CheatSheet,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 500: 'Internal Server Error'> | reason: Internal Server Error
+https://www.npmjs.com/search?q=keywords:jquery-plugin,Plugins,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+https://www.packtpub.com/web-development/learning-jquery-fourth-edition,Learning jQuery - Fourth Edition,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 403: 'Forbidden'> | reason: Forbidden
+http://www.unheap.com/,jQuery Unheap,https://github.com/petk/awesome-jquery#readme,jQuery error: RemoteDisconnected('Remote end closed connection without response') | reason: 
+http://michael-designs.com/yahoo-emoticons-jquery-plugin/,Yahoo! Emoticons,https://github.com/petk/awesome-jquery#readme,jQuery error: <HTTPError 404: 'Not Found'> | reason: Not Found

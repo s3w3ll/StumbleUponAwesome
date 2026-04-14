@@ -1,0 +1,9 @@
+https://www.polymer-project.org,,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.polymer-project.org/2.0/start/toolbox/deploy,Deploy with Firebase,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://plus.google.com/+PolymerProject/,Google+ Profile,https://github.com/Granze/awesome-polymer#readme,Polymer
+http://stackoverflow.com/questions/tagged/polymer,StackOverflow,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://plus.google.com/u/1/communities/115626364525706131031,Google+ Community,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.polymer-project.org/1.0/docs/migration.html,Migration guide,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://www.polymer-project.org/2.0/docs/tools/tests,Test your elements,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64,Testing Tips,https://github.com/Granze/awesome-polymer#readme,Polymer
+https://medium.com/@granze/polymer-unit-testing-d6a69910dc31,Unit Testing,https://github.com/Granze/awesome-polymer#readme,Polymer

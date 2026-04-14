@@ -1,0 +1,10 @@
+https://discourse.org,Discourse,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+https://owncloud.org,ownCloud,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+https://gerrit.googlesource.com/,gerrit,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+https://docs.gitlab.com/ee/ci/,Gitlab CI,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+https://www.openproject.org,Open Project,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+https://zeabur.com,Zeabur,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+https://www.okteto.com/,Okteto,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+https://dokku.com/,Dokku,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+https://www.keploy.io/,Keploy,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers
+https://matrix.org,Matrix,https://github.com/tvvocold/FOSS-for-Dev#readme,FOSS for Developers

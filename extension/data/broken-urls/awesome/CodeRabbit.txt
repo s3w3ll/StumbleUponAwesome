@@ -1,0 +1,1 @@
+https://www.g2.com/products/coderabbit/reviews,G2 Reviews,https://github.com/coderabbitai/awesome-coderabbit#readme,CodeRabbit error: <HTTPError 403: 'Forbidden'> | reason: Forbidden

@@ -1,0 +1,14 @@
+https://directus.io,,https://github.com/directus-community/awesome-directus#readme,Directus
+https://woodpecker-ci.org/,Woodpecker,https://github.com/directus-community/awesome-directus#readme,Directus
+https://docs.directus.io/getting-started/introduction/,Documentation,https://github.com/directus-community/awesome-directus#readme,Directus
+https://imagga.com/,Imagga API,https://github.com/directus-community/awesome-directus#readme,Directus
+https://directus.io/guides/,Directus Guides (Official),https://github.com/directus-community/awesome-directus#readme,Directus
+https://directus.chat,Live Discussions on Discord,https://github.com/directus-community/awesome-directus#readme,Directus
+https://www.youtube.com/c/DirectusVideos/featured,Video Tutorials on YouTube,https://github.com/directus-community/awesome-directus#readme,Directus
+https://learndirectus.com/,Learn Directus,https://github.com/directus-community/awesome-directus#readme,Directus
+https://www.youtube.com/c/DirectusBR,Portuguese YouTube Channel,https://github.com/directus-community/awesome-directus#readme,Directus
+https://medium.com/@bianperotti/how-i-made-a-many-to-many-relationship-on-directus-b158ff55de7e,How to Work With Many to Many Relationships (M2M) On Directus,https://github.com/directus-community/awesome-directus#readme,Directus
+https://pub.dev/packages/directus,Flutter SDK,https://github.com/directus-community/awesome-directus#readme,Directus
+https://blog.eperedo.com/2023/02/14/custom-panel-directus-chart-js,Creating a Custom Panel in Directus With Chart.js,https://github.com/directus-community/awesome-directus#readme,Directus
+https://nuxtus.com,Nuxtus,https://github.com/directus-community/awesome-directus#readme,Directus
+https://www.agencyos.dev/,Demo,https://github.com/directus-community/awesome-directus#readme,Directus

@@ -47,34 +47,25 @@ chrome.runtime.getPlatformInfo(function (info) {
  * @param {string} filepath Path to the file
  * @returns {Array} a random line, token separated
  */
-function getRandomLineFromFile(filepath) {
-  return new Promise((resolve, reject) => {
-    try {
-      var rawFile = new XMLHttpRequest();
-      rawFile.open("GET", filepath, true);
-      rawFile.onreadystatechange = function () {
-        if (rawFile.readyState === 4) {
-          if (rawFile.status === 200) {
-            var allText = rawFile.responseText;
-            var lines = allText.split('\n').filter(ln=>ln.trim().length > 0);
-            totalUrls = lines.length;
-            var randomNum = Math.floor(Math.random() * totalUrls);
-            const randomLine = lines[randomNum].split(',');
-            resolve(randomLine);
-          }
-        }
-      }
-      // Initiate the request for the file
-      rawFile.send(null);
-
-    } catch (error) {
-      reject(error);
+async function getRandomLineFromFile(filepath) {
+  try {
+    const response = await fetch(filepath);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
     }
-  });
+    const allText = await response.text();
+    const lines = allText.split('\n').filter(ln => ln.trim().length > 0);
+    totalUrls = lines.length;
+    const randomNum = Math.floor(Math.random() * totalUrls);
+    const randomLine = lines[randomNum].split(',');
+    return randomLine;
+  } catch (error) {
+    throw error;
+  }
 }
 
 async function findUrl(source, category) {
-  const defaultSource = 'awesome';
+  const defaultSource = 'awesome-cleaned';
 
   // Rabbithole mode ON
   if (category) {
@@ -82,8 +73,8 @@ async function findUrl(source, category) {
     const randomUrl = await getRandomLineFromFile(`./data/urls/${defaultSource}/${category}.txt`);
     return randomUrl;
   }
-  // Rabbithole mode OFF - Random 
-  const randomCategory = await getRandomLineFromFile(`./data/sources/${defaultSource}.txt`);
+  // Rabbithole mode OFF - Random
+  const randomCategory = await getRandomLineFromFile(`./data/sources/awesome.txt`);
   const randomUrl = await getRandomLineFromFile(`./data/urls/${defaultSource}/${randomCategory[0]}.txt`);
   return randomUrl;
 
@@ -145,13 +136,7 @@ function sleep(ms) {
 
 async function animateIcon() {
   const size = 48;
-  var canvas = document.createElement('canvas')
-  canvas.setAttribute('id', 'canvas')
-  canvas.width = size
-  canvas.height = size
-  canvas.style.position = 'absolute'
-  canvas.style.top = '0'
-  canvas.style.left = '0'
+  var canvas = new OffscreenCanvas(size, size);
 
   var context = canvas.getContext('2d');
   var lines = 8;
@@ -248,7 +233,7 @@ async function animateIcon() {
 
     var imageData = context.getImageData((boxWidth - iconWidth) / 2, (boxHeight - iconHeight) / 2, iconWidth, iconHeight);
 
-    chrome.browserAction.setIcon({
+    chrome.action.setIcon({
       imageData: imageData
     });
   }
@@ -263,7 +248,7 @@ async function animateIcon() {
   });
 
   await sleep(400);
-  chrome.browserAction.setIcon({
+  chrome.action.setIcon({
     imageData: null,
     path: "./images/icon_16.png"
   });
@@ -342,13 +327,15 @@ function update() {
   chrome.storage.local.get(['visited', 'totalUrls', 'welcome_seen', 'show_update'], function (result) {
 
     if (result.welcome_seen === undefined || result.welcome_seen === false || result.welcome_seen === null) {
-      chrome.tabs.executeScript({
-        file: 'styles.css'
-      }, function () {
-        chrome.tabs.executeScript({
-          file: 'content.js'
-        }, function () {
-            notifyTabWelcome();
+      chrome.scripting.insertCSS({
+        target: { tabId: stumbleTabId },
+        files: ['styles.css']
+      }).then(() => {
+        chrome.scripting.executeScript({
+          target: { tabId: stumbleTabId },
+          files: ['content.js']
+        }).then(() => {
+          notifyTabWelcome();
         });
       });
     } else if (result.show_update) {
@@ -395,7 +382,7 @@ function notifyTabUpdate() {
 }
 
 // Load a page on click
-chrome.browserAction.onClicked.addListener(
+chrome.action.onClicked.addListener(
   async function (tab) {
 
     const currentWindowId = await getFocusedWindowId();
@@ -443,17 +430,17 @@ chrome.runtime.onInstalled.addListener(function (details) {
     chrome.contextMenus.create({
       id: "sax-show",
       title: 'Show info bubbles',
-      contexts: ["browser_action"]
+      contexts: ["action"]
     });
     chrome.contextMenus.create({
       id: "sax-rabbit-hole",
       title: 'Down the rabbit hole!',
-      contexts: ["browser_action"]
+      contexts: ["action"]
     });
     chrome.contextMenus.create({
       id: "sax-feedback",
       title: 'Give feedback to improve the extension',
-      contexts: ["browser_action"]
+      contexts: ["action"]
     });
   })
 });

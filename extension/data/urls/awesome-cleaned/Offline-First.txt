@@ -1,0 +1,11 @@
+https://rxdb.info/offline-first.html,About Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
+https://web.dev/offline-fallback-page/,Create an offline fallback page,https://github.com/pazguille/offline-first#readme,Offline-First
+https://hasura.io/blog/design-guide-to-offline-first-apps,A Design Guide for Building Offline First Apps,https://github.com/pazguille/offline-first#readme,Offline-First
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers,Making PWAs work offline with Service workers,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/idea-growr/rebuilding-idea-growr-offline-first-using-react-native-graphql-docker-during-our-hackaton-576b6f7a8b90,The challenges of making a true Offline First app,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/ibm-watson-data-lab/accessibility-testing-for-offline-first-applications-d8d2bfd24a6e,Accessibility Testing for Offline First Applications,https://github.com/pazguille/offline-first#readme,Offline-First
+https://web.dev/offline-ux-design-guidelines/,Offline UX design guidelines,https://github.com/pazguille/offline-first#readme,Offline-First
+https://medium.com/@argo49/how-to-add-an-offline-notification-to-your-pwa-c11ee640822b,How to add an “Offline” notification to your PWA,https://github.com/pazguille/offline-first#readme,Offline-First
+https://uxplanet.org/youre-not-connected-to-internet-50a46ee016a7,How to design for slow networks and offline,https://github.com/pazguille/offline-first#readme,Offline-First
+https://rxdb.info/downsides-of-offline-first.html,Downsites of Offline First,https://github.com/pazguille/offline-first#readme,Offline-First
+https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f,Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue,https://github.com/pazguille/offline-first#readme,Offline-First

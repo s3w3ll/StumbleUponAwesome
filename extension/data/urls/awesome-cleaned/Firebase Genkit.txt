@@ -1,0 +1,65 @@
+https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/,,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://www.youtube.com/watch?v=eVud8llb_W0,Supercharge your app with Genkit,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pub.dev/packages/genkit_openai,genkit_openai,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://youtu.be/VFPsp7aURWA?t=152s,Firebase After Hours #3 - Genkit: More than Meets the AI! (outdated),https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pub.dev/packages/genkit_chrome,genkit_chrome,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/python/docs/reference/plugins/google-genai/,google-genai,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://speakerdeck.com/coborinai/accelerating-generative-ai-app-development-with-flutter-and-firebase-genkit,Accelerating Generative AI App Development with Flutter & Genkit,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/vertex-ai/,@genkit-ai/vertexai,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pub.dev/packages/genkit_firebase_ai,genkit_firebase_ai,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/google-genai/,@genkit-ai/googleai,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/astra-db/,genkitx-astra-db,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://speakerdeck.com/coborinai/dart,Dart client for Genkit: Call Genkit Flows from Flutter/Dart - Slides,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://docs.google.com/presentation/d/10F2hjzJhdInSuhDQ8G_B2raGz79mzTRIcWU_59Zh5Y8/edit?usp=sharing,Orchestrating Firebase and AI: Genkit architecture example,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://firebase.google.com/docs/genkit-go/rag,localvec,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://youtu.be/01XOIhh2ibA,Firebase After Hours #4 - Genkit: Tooltime (outdated),https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pub.dev/packages/genkit_mcp,genkit_mcp,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/python/docs/reference/plugins/ollama/,ollama,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pub.dev/packages/genkit_middleware,genkit_middleware,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/pgvector/,genkitx-pgvector,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://medium.com/@nozomi-koborinai/extending-your-ai-application-with-genkit-mcp-475d7533ca9e,Extending Your AI Application with Genkit MCP,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://firebase.blog/posts/2025/02/gemini-genkit-pdf-structured-data,Extracting structured data from PDFs using Gemini 2.0 and Genkit,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://youtu.be/AakdczWQLzY?si=S5aT29miICHWQepM,Dart client for Genkit: Call Genkit Flows from Flutter/Dart - Video,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/go/docs/plugins/pgvector/,pgvector,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/ollama/,genkitx-ollama,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://koborin.ai/tech/mcp-deep-dive,Understanding Model Context Protocol Through Building the Genkit for Dart MCP Plugin,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pub.dev/packages/genkit_shelf,genkit_shelf,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://www.youtube.com/watch?v=3p1P5grjXIQ,Getting started with Genkit/JS 1.0,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://js.api.genkit.dev/,JavaScript,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/go/docs/plugins/cloud-sql-pg/,postgresql,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/compat-oai/,@genkit-ai/compat-oai,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/lancedb/,genkitx-lancedb,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://www.youtube.com/watch?v=M8rfDySBBvM,Getting started with Genkit (outdated),https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/python/docs/flask/,server flask,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://python.api.genkit.dev/,Python,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/go/docs/plugins/google-cloud/,googlecloud,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/xai/,@genkit-ai/compat-oai/xai,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/pinecone/,genkitx-pinecone,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pkg.go.dev/github.com/firebase/genkit/go,Golang,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://youtu.be/ONR38NZK5FE,What are Genkit flows? (outdated),https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179,Unleash the Power of Function Calling with Genkit,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://mastering-genkit.github.io/mastering-genkit-go/,Mastering Genkit: Go Edition,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/go/docs/plugins/google-genai/,googlegenai,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/chroma/,genkitx-chromadb,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/openai/,@genkit-ai/compat-oai/openai,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go,bedrock,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321,Unlocking the power of code execution in Genkit,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://youtu.be/TGHua_RtUjs,Build an Angular app with Genkit and deploy to Firebase (outdated),https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pkg.go.dev/github.com/xavidop/genkit-azure-foundry-go,azureaifoundry,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/go/docs/plugins/ollama/,ollama,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/neo4j/,genkitx-neo4j,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pub.dev/packages/genkit,genkit,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://dev.to/denisvalasek/understanding-genkit-flows-with-czech-language-tricks-26i3,Understanding Genkit flows with Czech language tricks,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/rag/,@genkit-ai/dev-local-vectorstore,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://youtu.be/CGVBR8quZac,DeepDive #1 - Genkit's reflection API and how it powers Genkit's developer UI (outdated),https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pub.dev/packages/genkit_google_genai,genkit_google_genai,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/cloud-sql-pg/,genkitx-cloud-sql-pg,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/go/docs/plugins/openai/,compat_oai,compat_oai/openai,compat_oai/anthropic,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://pub.dev/packages/genkit_anthropic,genkit_anthropic,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://youtu.be/p8ZlYAmbWHE,Retrieval Augmented Generation (RAG) with Genkit (outdated),https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/firebase/,@genkit-ai/firebase,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://docs.agentic.so/marketplace/ts-sdks/genkit,@agentic/genkit,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/go/docs/plugins/pinecone/,pinecone,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/express/,@genkit-ai/express,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/docs/plugins/auth0/,@auth0/ai-genkit,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit
+https://genkit.dev/go/docs/plugins/alloydb/,alloydb,https://github.com/xavidop/awesome-firebase-genkit#readme,Firebase Genkit

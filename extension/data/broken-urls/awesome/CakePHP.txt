@@ -1,1 +1,1 @@
-http://cakephp-fr.org,CakePHP-FR.org,https://github.com/friendsofcake/awesome-cakephp#readme,CakePHP error: URLError(gaierror(8, 'nodename nor servname provided, or not known')) | reason: [Errno 8] nodename nor servname provided, or not known
+https://cakefest.org/,cakefest.org,https://github.com/friendsofcake/awesome-cakephp#readme,CakePHP error: <HTTPError 526: '<none>'> | reason: <none>

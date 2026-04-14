@@ -1,18 +1,47 @@
 https://discord.gg/cqaUf47,,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
-https://arxiv.org/abs/2011.09607,FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance, 2011,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996,Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, 2020,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://invictrade.com,InvicTrade,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://thenof1.com/,Nof1,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311,Financial Statement Analysis with Large Language Models,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://arxiv.org/abs/2511.07322,FinRpt,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.tradingview.com/script/GxkUyJKW-MACD-RSI-ADX-Strategy-ChatGPT-powered-by-TradeSmart/,MACD + RSI + ADX Strategy (ChatGPT-powered) by TradeSmart,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.reddit.com/r/ChatGPT/comments/13duech/a_chatgpt_trading_algorithm_delivered_500_returns/,A ChatGPT trading algorithm delivered 500% returns in stock market. My breakdown on what this means for hedge funds and retail investors,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://blog.octobot.online/trading-using-chat-gpt,ChatGPT Strategy by OctoBot,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://arxiv.org/abs/2504.13125,LLMs Meet Finance,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
 http://www.radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf,The Theory of Speculation L. Bachelier, 1900,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
-https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome,NYU: Overview of Advanced Methods of Reinforcement Learning in Finance,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
 http://m.e-m-h.org/Osbo59.pdf,Brownian Motion in the Stock Market Osborne, 1959,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
 http://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/j.cumming.pdf,An Investigation into the Use of Reinforcement Learning Techniques within the Algorithmic Trading Domain, 2015,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
-https://www.udacity.com/course/ai-for-trading--nd880,Udacity: Artificial Intelligence for Trading,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
 https://arxiv.org/pdf/1706.10059.pdf,A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
-https://cfte.education/,AI in Finance,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
-https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/ref=sr_1_1?s=books&ie=UTF8&qid=1541717436&sr=1-1,Advances in Financial Machine Learning,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
-https://www.quandl.com/tools/api,Quandl,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
 http://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf,Reinforcement Learning for Trading, 1994,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
-http://tradingview.com/,TradingView,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
 https://arxiv.org/pdf/0907.4290.pdf,Dragon-Kings, Black Swans and the Prediction of Crises Didier Sornette,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
 https://arxiv.org/pdf/1807.02787.pdf,Financial Trading as a Game: A Deep Reinforcement Learning Approach,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
 https://cims.nyu.edu/~ritter/ritter2017machine.pdf,Machine Learning for Trading,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726,Ten Financial Applications of Machine Learning, 2018,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://arxiv.org/abs/2011.09607,FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance, 2020,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996,Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, 2020,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://letianzj.github.io/,https://letianzj.github.io/,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome,NYU: Overview of Advanced Methods of Reinforcement Learning in Finance,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.udacity.com/course/ai-for-trading--nd880,Udacity: Artificial Intelligence for Trading,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://cfte.education/,AI in Finance,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/ref=sr_1_1?s=books&ie=UTF8&qid=1541717436&sr=1-1,Advances in Financial Machine Learning,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.manning.com/books/build-financial-software-with-generative-ai?ar=false&lpse=B&,Build Financial Software with Generative AI,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.manning.com/books/financial-ai-in-practice,Financial AI in Practice,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.manning.com/books/investing-for-programmers,Investing for Programmers,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://keeprule.com,KeepRule,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://marginsafe.ai,MarginSafe.ai,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.quandl.com/tools/api,Quandl,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://congressionalstockbrain.com,Congressional Stock Brain,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://stockainsights.com,StockAInsights,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.valueray.com/api,ValueRay,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://agent-gateway-kappa.vercel.app,Frostbyte Crypto API,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://docs.philidor.io/docs,Philidor,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.prereason.com,PreReason,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.pizzint.watch/,Pizzint,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://docs.parsecapi.com,Parsec API,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://polyminds.netlify.app/,PolyMind,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.ml-quant.com/,ML-Quant,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+http://tradingview.com/,TradingView,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://docs.tradeit.app/mcp,Trade It,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum&utm_medium=twitter&utm_campaign=sentiment-analysis,Using LSTMs to Turn Feelings Into Trades,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://www.lendtrain.com,LendTrain,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://hindsight.vectorize.io,Hindsight,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance
+https://agentmarket.cloud,AgentMarket,https://github.com/georgezouq/awesome-ai-in-finance#readme,AI in Finance

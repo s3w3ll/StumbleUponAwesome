@@ -1,0 +1,4 @@
+https://huggingface.co/spaces/Qwen/Qwen-VL-Plus,,https://github.com/gokayfem/awesome-vlm-architectures#readme,VLM Architectures error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://llava.hliu.cc/,,https://github.com/gokayfem/awesome-vlm-architectures#readme,VLM Architectures error: URLError(gaierror(11001, 'getaddrinfo failed')) | reason: [Errno 11001] getaddrinfo failed
+https://huggingface.co/spaces/deepseek-ai/DeepSeek-VL-7B,,https://github.com/gokayfem/awesome-vlm-architectures#readme,VLM Architectures error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized
+https://huggingface.co/spaces/Otter-AI/OtterHD-Demo,,https://github.com/gokayfem/awesome-vlm-architectures#readme,VLM Architectures error: <HTTPError 401: 'Unauthorized'> | reason: Unauthorized

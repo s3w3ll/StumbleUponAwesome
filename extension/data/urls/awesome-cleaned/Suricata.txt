@@ -1,0 +1,8 @@
+https://opnsense.org,OPNsense,https://github.com/satta/awesome-suricata#readme,Suricata
+https://artica.systems,Artica,https://github.com/satta/awesome-suricata#readme,Suricata
+https://suricata-check.teuwen.net/readme.html,Suricata-Check,https://github.com/satta/awesome-suricata#readme,Suricata
+https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata,Stamus Lateral Movement Detection Rules,https://github.com/satta/awesome-suricata#readme,Suricata
+https://pawpatrules.fr,PAW Patrules,https://github.com/satta/awesome-suricata#readme,Suricata
+https://sidallocation.org/,sidallocation.org,https://github.com/satta/awesome-suricata#readme,Suricata
+https://www.3coresec.com/solutions/lawmaker,Lawmaker,https://github.com/satta/awesome-suricata#readme,Suricata
+https://www.pfsense.org,pfSense,https://github.com/satta/awesome-suricata#readme,Suricata
